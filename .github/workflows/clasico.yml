@@ -1,11 +1,14 @@
 name: ClasicoPulse (5-min relay)
 
-# Fired every ~5 minutes by cron-job.org. No GitHub schedule required.
-# Each run: (1) process any pending Telegram button presses (Approved posts go
-# live on the page), then (2) collect new channel posts and send them as
-# Approve/Decline drafts (or video alerts). state.json is committed back.
+# Fired every ~5 minutes by cron-job.org (reliable) and GitHub's own schedule
+# (fire-and-forget base layer). Each run: (1) collect new channel posts and send
+# them as Approve/Decline drafts (or video alerts), then (2) listen for button
+# presses so the run that delivers drafts can catch immediate approvals.
+# state.json is committed back so dedupe + update offset survive between runs.
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
 
 # Only one run at a time - prevents two runs racing for the same Telegram
 # update. Newer/new overlapping runs cancel any in-progress one.
@@ -29,14 +32,6 @@ jobs:
 
       - name: Install dependencies
         run: pip install requests
-      - name: Process pending approvals (--pump)
-        env:
-          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
-          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
-          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
-          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
-          DRY_RUN: "0"
-        run: python -u main.py --pump
 
       - name: Collect new posts and send drafts (--collect)
         env:
@@ -45,6 +40,15 @@ jobs:
           TELEGRAM_CHANNELS: "Barca_Studio_News"
           DRY_RUN: "0"
         run: python -u main.py --collect
+
+      - name: Process pending approvals (--pump)
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          DRY_RUN: "0"
+        run: python -u main.py --pump
 
       - name: Commit and push state.json if changed
         env:
@@ -55,6 +59,7 @@ jobs:
           git add state.json
           git commit -m "chore: update state [skip ci]" || echo "No changes to state"
           if [ -n "$GH_PAT" ]; then
+            git config --unset-all http.https://github.com/.extraheader || true
             git remote set-url origin "https://x-access-token:${GH_PAT}@github.com/thechemiluminary/ClasicoPulse.git"
           fi
           git push origin HEAD:main || echo "Nothing to push / push failed"
