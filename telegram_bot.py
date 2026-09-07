@@ -13,16 +13,23 @@ import config
 MAX_PREVIEW = 1500  # draft preview length in Telegram (full caption is kept for FB)
 
 
-def _api(method, params):
-    """Call Telegram Bot API. Returns (ok, json_result)."""
+def _api(method, params, quiet=False):
+    """Call Telegram Bot API. Returns (ok, json_result). Logs failures loudly
+    for the Cloud - otherwise pump problems become silent 'processed: 0'."""
     if not config.TG_BOT_TOKEN:
-        return False, "TG_BOT_TOKEN not set"
+        if not quiet:
+            print("[tg] TG_BOT_TOKEN not set")
+        return False, {"error": "TG_BOT_TOKEN not set"}
     try:
-        r = requests.post(f"{config.TG_API}/{method}", json=params, timeout=60)
+        r = requests.post(f"{config.TG_API}/{method}", json=params, timeout=65)
         j = r.json()
+        if not j.get("ok") and not quiet:
+            print(f"[tg] {method} -> HTTP {r.status_code} {j}")
         return bool(j.get("ok")), j
     except Exception as e:
-        return False, str(e)
+        if not quiet:
+            print(f"[tg] {method} ERROR: {e}")
+        return False, {"error": str(e)}
 
 
 def _trunc(text, n=MAX_PREVIEW):
@@ -105,11 +112,28 @@ def poll_callbacks(offset=0):
     callbacks = []
     if not config.TG_BOT_TOKEN:
         return callbacks, int(offset)
+
+    ok, wh = _api("getWebhookInfo", {}, quiet=True)
+    if ok and wh.get("result"):
+        r = wh["result"]
+        print(f"[tg] webhook url={r.get('url')!r} pending={r.get('pending_update_count')} "
+              f"last_error={r.get('last_error_message')!r}")
+
     params = {"timeout": config.POLL_TIMEOUT, "offset": int(offset)}
     ok, j = _api("getUpdates", params)
     if not ok:
+        print(f"[tg] getUpdates FAILED: {j.get('description') or j}")
         return callbacks, int(offset)
-    for u in j.get("result", []):
+
+    result = j.get("result", [])
+    if not result:
+        print(f"[tg] getUpdates: no updates (offset={offset}, waited {config.POLL_TIMEOUT}s)")
+    else:
+        print(f"[tg] getUpdates returned {len(result)} updates (offset={offset})")
+        for u in result[:15]:
+            kinds = [k for k in u.keys() if k != "update_id"]
+            print(f"[tg]   update_id={u['update_id']} types={kinds}")
+    for u in result:
         offset = int(u["update_id"]) + 1
         cq = u.get("callback_query")
         if cq:

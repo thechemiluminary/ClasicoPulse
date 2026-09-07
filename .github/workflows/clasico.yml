@@ -47,9 +47,14 @@ jobs:
         run: python -u main.py --collect
 
       - name: Commit and push state.json if changed
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config user.name "ClasicoPulse Bot"
           git config user.email "bot@clasico-pulse.local"
           git add state.json
           git commit -m "chore: update state [skip ci]" || echo "No changes to state"
+          if [ -n "$GH_PAT" ]; then
+            git remote set-url origin "https://x-access-token:${GH_PAT}@github.com/thechemiluminary/ClasicoPulse.git"
+          fi
           git push origin HEAD:main || echo "Nothing to push / push failed"
