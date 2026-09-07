@@ -92,25 +92,26 @@ def clear_buttons(chat_id, message_id):
     })
 
 
-def poll_callbacks():
-    """Long-poll for pending callback_query updates. Returns list of callbacks."""
-    offset = None
+def poll_callbacks(offset=0):
+    """
+    Poll for pending updates. Returns (callbacks, new_offset).
+
+    Polls ALL update types (no allowed_updates filter) and always advances the
+    offset past every update. Telegram delivers updates strictly in order, so
+    filtering with allowed_updates ["callback_query"] can jam callbacks behind
+    the user's own unconsumed message updates (e.g. the very first /start).
+    Skipping-but-confirming every update type keeps the queue from blocking.
+    """
     callbacks = []
-    while True:
-        params = {
-            "timeout": config.POLL_TIMEOUT,  # long-poll; idle runs just wait once
-            "allowed_updates": ["callback_query"],
-        }
-        if offset is not None:
-            params["offset"] = offset
-        ok, j = _api("getUpdates", params)
-        if not ok:
-            return callbacks
-        for u in j.get("result", []):
-            offset = u["update_id"] + 1
-            cq = u.get("callback_query")
-            if cq:
-                callbacks.append(cq)
-        if not j.get("result"):
-            break
-    return callbacks
+    if not config.TG_BOT_TOKEN:
+        return callbacks, int(offset)
+    params = {"timeout": config.POLL_TIMEOUT, "offset": int(offset)}
+    ok, j = _api("getUpdates", params)
+    if not ok:
+        return callbacks, int(offset)
+    for u in j.get("result", []):
+        offset = int(u["update_id"]) + 1
+        cq = u.get("callback_query")
+        if cq:
+            callbacks.append(cq)
+    return callbacks, int(offset)

@@ -73,13 +73,17 @@ def post_photo(message, photo_url):
 def publish_entry(entry):
     """
     Publish a stored pending entry (caption + optional photo) to the Page.
-    Falls back to text-only if the photo fails. Returns (ok, detail).
+    Falls back to text-only if the photo fails. NEVER raises - returns
+    (ok, detail) so the Telegram callback can be answered either way.
     """
-    caption = sanitize_text(config.build_caption(entry.get("caption"), entry.get("channel")))
-    photos = entry.get("photos") or []
-    if entry.get("kind") == "photo" and photos:
-        ok, res = post_photo(caption, photos[0])
-        if ok:
-            return True, f"photo:{res}"
-        print(f"[publish] photo failed ({res}); falling back to text")
-    return post_text(caption)
+    try:
+        caption = sanitize_text(config.build_caption(entry.get("caption"), entry.get("channel")))
+        photos = entry.get("photos") or []
+        if entry.get("kind") == "photo" and photos:
+            ok, res = post_photo(caption, photos[0])
+            if ok:
+                return True, f"photo:{res}"
+            print(f"[publish] photo failed ({res}); falling back to text")
+        return post_text(caption)
+    except Exception as e:
+        return False, str(e)

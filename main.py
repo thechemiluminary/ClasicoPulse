@@ -18,7 +18,8 @@ import telegram_bot as tg
 
 
 def _pump_one(cq, state):
-    """Handle a single callback_query (appr/decl/done)."""
+    """Handle a single callback_query (appr/decl/done). Never crashes the run -
+    any failure answers the button with the real error instead of going silent."""
     data = cq.get("data", "")
     action, _, pid = data.partition(":")
     if not pid:
@@ -37,7 +38,10 @@ def _pump_one(cq, state):
             if chat_id and msg_id:
                 tg.clear_buttons(chat_id, msg_id)
             return
-        ok, detail = publisher.publish_entry(entry)
+        try:
+            ok, detail = publisher.publish_entry(entry)
+        except Exception as e:
+            ok, detail = False, f"exception: {e}"
         store.remove_pending(state, pid)
         if ok:
             store.mark_posted(state, pid, detail)
@@ -67,9 +71,11 @@ def _pump_one(cq, state):
 
 def run_pump():
     state = store.load()
-    callbacks = tg.poll_callbacks()
+    offset = store.get_offset(state)
+    callbacks, offset = tg.poll_callbacks(offset)
     for cq in callbacks:
         _pump_one(cq, state)
+    store.set_offset(state, offset)
     dropped = store.prune_expired(state)
     store.save(state)
     return {"status": "done", "processed": len(callbacks), "expired_pending": dropped}
