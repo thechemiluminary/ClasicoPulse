@@ -1,0 +1,55 @@
+name: ClasicoPulse (5-min relay)
+
+# Fired every ~5 minutes by cron-job.org. No GitHub schedule required.
+# Each run: (1) process any pending Telegram button presses (Approved posts go
+# live on the page), then (2) collect new channel posts and send them as
+# Approve/Decline drafts (or video alerts). state.json is committed back.
+on:
+  workflow_dispatch:
+
+# Only one run at a time - prevents two runs racing for the same Telegram
+# update. Newer/new overlapping runs cancel any in-progress one.
+concurrency:
+  group: clasico-pipeline
+  cancel-in-progress: true
+
+jobs:
+  relay:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo (so state.json can be committed)
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+      - name: Process pending approvals (--pump)
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          DRY_RUN: "0"
+        run: python -u main.py --pump
+
+      - name: Collect new posts and send drafts (--collect)
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          TELEGRAM_CHANNELS: "Barca_Studio_News"
+          DRY_RUN: "0"
+        run: python -u main.py --collect
+
+      - name: Commit and push state.json if changed
+        run: |
+          git config user.name "ClasicoPulse Bot"
+          git config user.email "bot@clasico-pulse.local"
+          git add state.json
+          git commit -m "chore: update state [skip ci]" || echo "No changes to state"
+          git push origin HEAD:main || echo "Nothing to push / push failed"
