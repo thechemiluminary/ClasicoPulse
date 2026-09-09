@@ -187,6 +187,26 @@
     "Barca_Studio_News/359426": {
       "at_utc": "2026-09-09T15:21:11.280202+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/360055": {
+      "at_utc": "2026-09-09T18:44:01.472369+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/360054": {
+      "at_utc": "2026-09-09T18:44:01.906089+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/360053": {
+      "at_utc": "2026-09-09T18:44:02.340135+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/360052": {
+      "at_utc": "2026-09-09T18:44:02.755756+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/360050": {
+      "at_utc": "2026-09-09T18:44:03.149992+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -368,6 +388,62 @@
       "kind": "photo",
       "timestamp": "2026-09-09T14:31:46+00:00",
       "created_utc": "2026-09-09T15:21:11.280186+00:00"
+    },
+    "Barca_Studio_News/360055": {
+      "post_id": "Barca_Studio_News/360055",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨🚨 - رافينيا رجل المباراة .",
+      "photos": [
+        "https://cdn4.telesco.pe/file/cCC3wu3kuk1FRqSLVRMtWh20uu7vgrvs2BJ8pWFh1rhFtD6tRJQWcr4oTLwFbLuZ7xKd_NjqhmDBJJN1p3USwYSZa6BYIiJ5tFwXcsVYRZYlNv9W80vNRb4Q3RhHtp8clsNRYbC5B7hrLYYvU8Lpj-5NG43Y4m9GOozQOMLW_6XzKOSmAtq0ds9v-sUuww2Ess926Xi3hn-DyrJMW5Hf6DS5J4UEGAr3xQUDOB4wxESD-oEQX-xCkAIQ6HVH96JPOXIYAOWCwU8tm4hxr0UD8KLN95OIg2i0yS829JgkA78QT4PnIlSPf8bwro2vGqsbsJD_EmzKBM5QTVjO5FFLVw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/360055",
+      "kind": "photo",
+      "timestamp": "2026-09-09T18:43:55+00:00",
+      "created_utc": "2026-09-09T18:44:01.472347+00:00"
+    },
+    "Barca_Studio_News/360054": {
+      "post_id": "Barca_Studio_News/360054",
+      "channel": "Barca_Studio_News",
+      "caption": "📞🇧🇷",
+      "photos": [
+        "https://cdn4.telesco.pe/file/Me3Xs4bHssPLcEZcOoGyrZQknUzWE7Is_w4qFbSU_qIkGb9S97i_i74l-KrIY2Y3ULZc6aKl6G8WHJLf0H7DZePKvEBa9uqzcMxkKRqUTsucejzdBxoxUxoqMe2a-saRp286b5-CRZHvLriFlG2WMlNl_n4oIYYvhNPp8h4qh7Udk-_4ImSYUd524cAZTMyiW-_2dwjJvQCfCkciucOmVetfKsnUKoMrq7na2dN8ple2SgtJfCvTQ4KjlHpQlSntP08AqX39uacSnXy4Ie76_ql-n0F_3zD9MkIzIapdaLBgubDmX1Se_oiK_SHE15natl0Askm2HzHGdOwB1o5VrQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/360054",
+      "kind": "photo",
+      "timestamp": "2026-09-09T18:43:29+00:00",
+      "created_utc": "2026-09-09T18:44:01.906072+00:00"
+    },
+    "Barca_Studio_News/360053": {
+      "post_id": "Barca_Studio_News/360053",
+      "channel": "Barca_Studio_News",
+      "caption": "- الهدف الرابع و الخامس في قناة الميديا ⬇️ .\nhttps://t.me/BarcaMedia10",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/360053",
+      "kind": "text",
+      "timestamp": "2026-09-09T18:42:51+00:00",
+      "created_utc": "2026-09-09T18:44:02.340113+00:00"
+    },
+    "Barca_Studio_News/360052": {
+      "post_id": "Barca_Studio_News/360052",
+      "channel": "Barca_Studio_News",
+      "caption": "استوديو برشلونة pinned a photo",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/360052",
+      "kind": "text",
+      "timestamp": "2026-09-09T18:41:56+00:00",
+      "created_utc": "2026-09-09T18:44:02.755740+00:00"
+    },
+    "Barca_Studio_News/360050": {
+      "post_id": "Barca_Studio_News/360050",
+      "channel": "Barca_Studio_News",
+      "caption": "• 🎷⏰ #نــهــايــة_الــمــبــاراة : ⬇️\n• ⚽️ بـرشـلـونـة5⃣🆚1⃣فـيـنـورد 🇳🇱\n¹ ⚽️🇧🇷#رافـيـنـهـا_ديـاز : د3' ⏰ . \n• 🇪🇦 \" اسيست لامين \" ⚽️ .\n² ⚽️🇩🇪#كـريـم_اديـمـي : د21' ⏰ . \n• 🇵🇹 \" اسيست كانسيلو \" ⚽️ . \n³ ⚽️🇧🇷#رافـيـنـهـا_ديـاز : د57' ⏰ . \n• 🇪🇦 \" اسيست بيدري\" ⚽️ . \n⁴ ⚽️🇪🇦#لامـيـن_يـامـال : د77' ⏰ . \n⁵ ⚽️🇧🇷 #غـابـريـيـل_خـيـسـوس : د85' ⏰ . \n• 🇪🇦 \" اسيست لامين \" ⚽️ . \n• 📅 الـجـولـة ( 1 ) #UCL ⚽️🏆 . \n📮 #BarçaFeyenoord | #𝖵𝗂𝗌𝖼𝖺𝖡𝖺𝗋𝖼‌𝖺 🫂\n• 📺 #قــنــاة_الـمـيـديـا : ⬇️\n📓 [ @BarcaMedia10 ]\n📓 [ @BarcaMedia10 ]\n💠 💣💣💣💣💣💣 💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/Ii1sr7YtwNBcfpidpZytgEzPMRUKUrFyK-8sOJFcD_JjjGr8ShRIa6lOvVWFfTe83qy9AUTCtKcsy_gy8X8qrN2TJ1LlD4WzIf7msvN3xcBEYpWc6bJIWkmuGWgQPkfWcq-hgq4ZQAN_UzZQZzCOqVTMcTnRj91AYS9SPzr5T7mdv1jtf19dWG2aYlMG4bQbN7z39QHXCNpFO2Hyj2kHp_NSX_7UIQouTAmldrZvaLqC_t9DSkoBFYJ31Seet17PVgn8Wnml2XddC0HY11aOS2UryzaS-OK5Sx3TB21EkWyFq0pSgBY-WfGR3yyFCGPqul53pNQUp84aL881LiG8XQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/360050",
+      "kind": "photo",
+      "timestamp": "2026-09-09T18:39:00+00:00",
+      "created_utc": "2026-09-09T18:44:03.149975+00:00"
     }
   },
   "posted": {
