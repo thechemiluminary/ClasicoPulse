@@ -247,6 +247,10 @@
     "Barca_Studio_News/360155": {
       "at_utc": "2026-09-10T01:11:14.197268+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/360259": {
+      "at_utc": "2026-09-10T14:57:30.882805+00:00",
+      "kind": "video"
     }
   },
   "pending": {
@@ -485,7 +489,11 @@
     }
   },
   "declined": {},
-  "alerts": {},
+  "alerts": {
+    "Barca_Studio_News/360259": {
+      "at_utc": "2026-09-10T14:57:30.882827+00:00"
+    }
+  },
   "ads": {},
   "tg_update_offset": 835476346
 }
