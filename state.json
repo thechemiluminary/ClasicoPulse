@@ -295,65 +295,29 @@
     "Barca_Studio_News/360292": {
       "at_utc": "2026-09-10T22:53:52.900608+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/360299": {
+      "at_utc": "2026-09-11T05:20:59.844432+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/360298": {
+      "at_utc": "2026-09-11T05:21:00.342747+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/360297": {
+      "at_utc": "2026-09-11T05:21:00.866293+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/360291": {
+      "at_utc": "2026-09-11T05:21:02.128140+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/360290": {
+      "at_utc": "2026-09-11T05:21:02.661883+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
-    "Barca_Studio_News/360166": {
-      "post_id": "Barca_Studio_News/360166",
-      "channel": "Barca_Studio_News",
-      "caption": "ميسيxليفا",
-      "photos": [
-        "https://cdn4.telesco.pe/file/VI2Ujdo4_urR4v8WO-DvY5t-VEuSwC96f-JFz7XEBlbc_zDzUGZgYtyyWhAHxtCnNVjvLUdNhox6ZnqZJF5THKQeqyAC_3-2GZKVgx-OYyn4229kVulY4q2pWZ2mGevbcdBHNfGdsQQ1E_oxPjzwOPsNkNFiuRXnCedHgLfcgBDbFco95pziszSqRLrL0FhWrEB3LhRbsJjEltaXOFlmtwdHGW6wsFjoQ-DS5oRTjv2VanhI0wcne_XiT--qxGcKSNxWpWaDZm_o7SYv78cvIQSxUoBn6JH5JIIRW2wRKl8U0lH8U3YiQYaMPAU6Wtno5_K936e0rRSuTvTrScFydA.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/360166",
-      "kind": "photo",
-      "timestamp": "2026-09-10T00:47:01+00:00",
-      "created_utc": "2026-09-10T01:11:12.351578+00:00"
-    },
-    "Barca_Studio_News/360165": {
-      "post_id": "Barca_Studio_News/360165",
-      "channel": "Barca_Studio_News",
-      "caption": "💠 - إلى هنا وتنتهي تغطيتنا لهذا اليوم ، الف مُبارك الفوز كوليز 🔝🙌 . \n- دمتم في حفظ الله ورعايتهُ ، تصبحون على ألف خير ❤️💙 . \n• 📺 #قــنــاة_الـمـيـديـا : ⬇️\n📓 [ https://t.me/BarcaMedia10 ]",
-      "photos": [
-        "https://cdn4.telesco.pe/file/DyIQmE13E0fz-kijBYzBoxdXxhKRP95ES5h6UYpil2dV_MXXh1fLgpfLviqvWCgo30GY5yqIxZbhKoq8P64Tl-bALaWe9BwpWJAP2VNeOVnB9NPqJSVI4fBg9egEMSyxiFjaiZssHmxfijyYZOPE3nAoExuLmeRgOOrEkaq0TSihXyTluq637tJmeLgvATzzSovLiPpBcnzhpMzw52qWyNEbWPQQO_-x2J5bnXZBcystA2_nCzbsUYnhPGgrgyBXxY9DWJ5UrE3IiQ1DVoi2WsmwvKqZqBJLhEFWSy8VID1DfSW9eWKeaWngcDCsuu1whmcfxsgCMv3fIHLkEoaKRQ.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/360165",
-      "kind": "photo",
-      "timestamp": "2026-09-10T00:00:02+00:00",
-      "created_utc": "2026-09-10T01:11:12.812996+00:00"
-    },
-    "Barca_Studio_News/360164": {
-      "post_id": "Barca_Studio_News/360164",
-      "channel": "Barca_Studio_News",
-      "caption": "⏰️ - ما تاخذ دقيقة من وقتك :\n❤️ - سبحان الله 🖤\n🩵 - الحمدلله 🖤\n🧡 - لا إله إلا الله 🖤\n💜 - اللهُ أكبر 🖤\n💛 - سبحان الله و بحمدهِ 🖤\n💚 - سبحان الله العظيم 🖤\n🤍 - استغفر الله العظيم و أتوبُ إليه 🖤\n🩷 - لا حول و لا قوة إلا بالله 🖤\n❤️ - اللهُم صلِ وسلم على نبينا محمد 🖤\n💜 - لا إله الا الله محمد رسول الله 🖤",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/360164",
-      "kind": "text",
-      "timestamp": "2026-09-09T23:49:27+00:00",
-      "created_utc": "2026-09-10T01:11:13.292167+00:00"
-    },
-    "Barca_Studio_News/360163": {
-      "post_id": "Barca_Studio_News/360163",
-      "channel": "Barca_Studio_News",
-      "caption": "🇩🇪 - منح هانسي فليك الفريق إجازة غداً بعد فوز اليوم ، وسيعود الفريق إلى التدريبات يوم الجمعة ، وهو اليوم الوطني لكتالونيا ❤️.",
-      "photos": [
-        "https://cdn4.telesco.pe/file/ZI7-uHBGa5w91YjeT1WKAH8VrwzkeR_kYAERDE-lg57dS3puckm-YCbldIZCf1ukQAAsEoVb3h43ojZn3aw3Z62k7tdQXzqQCgxAKcbJWBzwKc3owwu3JuDntB7NdVPvnMi6gj61bBUfDpX2-rnWckUASxjEajIOI1Xtkz2pENlJzeKFGkHrpSSWeeUCRC_EEXEJnrI8Y36LUNm4A_9hT5fQTdrjJmrjHKTVpQTHp1yx2Ia-yXNA1K5w17klDIYP0e8tDCRXZ1O9tfPPw1dnqU4tv-6I89CtC1Cy-2I0t5yPrDQpkoZ0IlhYjV20R3ETcV2ltOzOKcMQQIwV-ZYUHg.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/360163",
-      "kind": "photo",
-      "timestamp": "2026-09-09T23:34:06+00:00",
-      "created_utc": "2026-09-10T01:11:13.742418+00:00"
-    },
-    "Barca_Studio_News/360155": {
-      "post_id": "Barca_Studio_News/360155",
-      "channel": "Barca_Studio_News",
-      "caption": "5-1 برشلونة",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/360155",
-      "kind": "text",
-      "timestamp": "2026-09-09T23:14:25+00:00",
-      "created_utc": "2026-09-10T01:11:14.197252+00:00"
-    },
     "Barca_Studio_News/360287": {
       "post_id": "Barca_Studio_News/360287",
       "channel": "Barca_Studio_News",
@@ -467,6 +431,66 @@
       "kind": "text",
       "timestamp": "2026-09-10T22:32:18+00:00",
       "created_utc": "2026-09-10T22:53:52.900596+00:00"
+    },
+    "Barca_Studio_News/360299": {
+      "post_id": "Barca_Studio_News/360299",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨📰#غـــلاف » MD 🔴🔵 \n🤔 - سامبا رافينيا 🇧🇷 . \n🇧🇷 - البرازيلي انفجر في مركز المهاجم رقم 9، ووصل إلى 8 أهداف وتمريرة حاسمة واحدة في أول 5 مباريات . \n🔍 - العاصفة الهجومية لبرشلونة في هذه البداية تثير الحماس، وجعلت الجماهير تنسى صفقة جوليان ألفاريز .\n💠 💣💣💣💣💣💣 💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/qVGDlNsV3uPQE0rfS2UPV15B4LdMjg1XmdVJ2uh-Y0rTF6ywvfLZEAj2jn-ceXi2lBsMSM8k-j4AGX_DLeykt0Fa2xcms3Er_9ZvTd19tc58LsgbH0_i0JSeVPhPZGnVb3m6OYMfIurUMP6xmuCplbqGZUnU02yhELVHExeJdhReS2djMo3JEGDLlxvRLnS27ncu4sET-tyR-IUVQtRNYkqD6bXFvf6cG-p4koVALxDWjxsouvU0DpNqhAWk3uVolzhLefK4ZeIXAtwTcIFvTOjzWuC7rNQhIcptb5t3sofC0rJlTgoR0FoTi43Pm6afLdiFL8SZS9vDJbCKoLjQ3g.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/360299",
+      "kind": "photo",
+      "timestamp": "2026-09-10T23:10:57+00:00",
+      "created_utc": "2026-09-11T05:20:59.844411+00:00"
+    },
+    "Barca_Studio_News/360298": {
+      "post_id": "Barca_Studio_News/360298",
+      "channel": "Barca_Studio_News",
+      "caption": "▫️ - النادي يتخذ تدابير أمنية مُشددة إستعداداً للقاء غلطة سراي بإسطنبول في دوري الأبطال ⚽️🇹🇷. \n🤔 - بعد انتهاء المباراة ، سيتعين على الأعضاء والمشجعين البقاء داخل الملعب لمدة تقارب ساعتين لأسباب أمنية ، وبعد ذلك ستأتي الحافلات لاصطحابهم وإعادتهم إلى نقطة التجمع ✅ .\n💠 💣💣💣💣💣💣 💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/vY80wzUgq-AlE9CYfmNgqL0GuOEu9g4bruVUSwvtkEc2Wokdo7cUFLa9HWM4Z8GYVp1bRpLr3R_LqVzKeqJsF1QaulNwUusHxWOV3YX7sB31PaXl5CmD6fn0ZvHL0SSNn7PI_g9Aii8Bu_xzknvlvm9-xVUXyXIhykGBLU3n-yibRk46-zSXKO7rcHXGmZgNprtHaUgB316BXJ7KNO_ylmdOZQRp9isW6WG6TqyC9LYZDuxNJWqrzwvFm7x6i6nusivMnOAtpJ7O4HX986TT6GAGquZiuTDpGLhwYBjeechgg6cD8-ozf5LbxtajDZAv3GO01XQbYmXUR9V8XmEbWA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/360298",
+      "kind": "photo",
+      "timestamp": "2026-09-10T23:01:52+00:00",
+      "created_utc": "2026-09-11T05:21:00.342728+00:00"
+    },
+    "Barca_Studio_News/360297": {
+      "post_id": "Barca_Studio_News/360297",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨🚨 - #رســمــيــا | #UCL 🏆🏆\n🇧🇷 - رافينيا دياز مُرشح لجائزة لاعب الأسبوع في الجولة الأولى من دوري الأبطال .\n💠 💣💣💣💣💣💣 💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/AVgCsVi5yVtggs3KhOTOBeRvf9ziMjgxQVbHiMHlc_ESXaMyfTPewSJAxRjA7GFBFWAQ8KlXlCH69BF3QWkEY5s1WE4PeUPpmWqDA670O4mjooVs0EwgW-Jzsc0Ptb-RMeQFMeibYuZdiLo3Q3nkgw41wSJV-ONsdom-XAAE-XpZeFTzTToTzVbillkJIvuJthS7fP_JFLWiTtK81pB7TCabVO0BBKH-w1RIhU3_j-KFIgrM1y4lW3fn-OPZxEu0bMFxVVC6O7fiTRATyzedYZ4ZzOFCxN3CAxR2W-XZA0pqPml6_S4KTq9OUDTgZhslD0V0Gr71y5Ne_eHU-wrRQw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/360297",
+      "kind": "photo",
+      "timestamp": "2026-09-10T22:54:42+00:00",
+      "created_utc": "2026-09-11T05:21:00.866276+00:00"
+    },
+    "Barca_Studio_News/360291": {
+      "post_id": "Barca_Studio_News/360291",
+      "channel": "Barca_Studio_News",
+      "caption": "🧑🏻‍💼🎙#خـوان_خـيـمـيـنـيـز » 𝖠𝖲 🔴⚪ \n💬 - برشلونة اتخذ قراره: لامين يامال هو مرشحه الأول للكرة الذهبية، والنادي انتقل من الصمت إلى حملة دعم واضحة يقودها فليك ويعززها رودري وإنجازات صاحب الـ19 عامًا .\n💠 💣💣💣💣💣💣 💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/eG5CW_A9UGLZaL1WNVrzaA5l1UOSG6LfB0FVSLqX32RWfS1VRHs8-E0WHCd4rVbRFOznCv1hiN1FZRe71W8L2g5P6KT1PUqLvkhdgieWpVJ7qeE0kLOdzvn-guk9Rj4KdGIKGX19OozrU-cXwoyX9BRzSLM1tqxIHYy5uWDbg48o_dSXMmISyrtPEj6VMqP-Ff_TF2HeV_MBOJtZ6HvlLVckhe57a6B2rnSv88WJCrEtMm9OmuJM41aD3bGPj3fJhHGDy0_DH48SkxDBdYMDuo2bTuZOIQB75dsHuC5HGTSzGqCcAxUXdQ8Z7UJBHcdy3Yr9a_HZXcG6FBIKdLv-Sg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/360291",
+      "kind": "photo",
+      "timestamp": "2026-09-10T22:30:39+00:00",
+      "created_utc": "2026-09-11T05:21:02.128123+00:00"
+    },
+    "Barca_Studio_News/360290": {
+      "post_id": "Barca_Studio_News/360290",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙#جـاومـي_مـارسـيـه » 𝖲𝖯𝖮𝖱𝖳 🔴🔵 \n💬 - أمام فينورد, لامين يامال أصبح أصغر قائد لبرشلونة بعمر 19 عامًا و58 يومًا، متجاوزًا بويان كركيتش الذي حملها بعمر 20 عامًا و61 يومًا .\n💠 💣💣💣💣💣💣 💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/IZfzL5j4_hsnp-lAJojt6ewsKAxIsyX6g92hEr8-O9T44N6um1jEln9MkeSi4Wj4FcVtdiyA61S-ADIFr6-fG42DwTenYNI1gA_oR_CpCoK3cIiFDXbeGL-T4yOkQhYZyzrsZtc3QHTueKdcOIzqYLUavRZAnhj-1StLW3zfF-2FASTN1l-HapI7UQm5_68NnKK_wMbBFMcfR2c9GxmZp9FSlWdJYu1onPqFv-lgjW2e0iUGHd9go67n3BFBvf5r0MpKlcz91ZQyfSi1DPmfM5S0Tm8y2_3WpYsDWCm9Mv_2DZHRNNI6RXdh-GhZ2-8bMcy_LO2UPBH_-LBwX4ZbUA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/360290",
+      "kind": "photo",
+      "timestamp": "2026-09-10T22:29:10+00:00",
+      "created_utc": "2026-09-11T05:21:02.661865+00:00"
     }
   },
   "posted": {
