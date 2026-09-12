@@ -399,6 +399,26 @@
     "Barca_Studio_News/360381": {
       "at_utc": "2026-09-12T12:39:52.241550+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/360445": {
+      "at_utc": "2026-09-12T15:49:57.333409+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/360444": {
+      "at_utc": "2026-09-12T15:49:57.703787+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/360443": {
+      "at_utc": "2026-09-12T15:49:58.092052+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/360442": {
+      "at_utc": "2026-09-12T15:49:58.464348+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/360441": {
+      "at_utc": "2026-09-12T15:49:58.835948+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -573,6 +593,64 @@
       "kind": "text",
       "timestamp": "2026-09-12T10:24:19+00:00",
       "created_utc": "2026-09-12T12:39:52.241532+00:00"
+    },
+    "Barca_Studio_News/360445": {
+      "post_id": "Barca_Studio_News/360445",
+      "channel": "Barca_Studio_News",
+      "caption": "• ⚽️📲#الــحــســاب_الــرســمــي ← [ 🐦 ]\n💬 واصل العمل بهذه الطريقة يا حمزة 💪. \n💠💣💣💣💣💣💣💠",
+      "photos": [
+        "https://cdn5.telesco.pe/file/Rj1QACpO1dQ2A2YSLNrq74syhh-NaFg3vBDfKlH1zAHxjbSb3gNkAsclb5JMt1LcWWZFo5MXWKRA4N7Cym75HdRqe4NKIe7HJIaDuHAyr-__7cuLVQSxsHNMB6pgqVZsn4VLCkKEPgXFlRKpY8lU5a9t7D5UELUB-Ppajg6hvtGjrJwOxpvF_orURLYQHKbGkHtmjDvK6aqmnzWstV6_vFOGHsR_tu2nnyyAYQgv3fwQNalcM6LzPwQ6gJasuV_jMhKDsmswFfdtqZU7oMsDs8kNJTaedK9YQyXeDWuTwf0bDTnxBkF5m2xc_G9CTDr9Qf17ny10ycYy7wvzpnUrcQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/360445",
+      "kind": "photo",
+      "timestamp": "2026-09-12T15:41:01+00:00",
+      "created_utc": "2026-09-12T15:49:57.333385+00:00"
+    },
+    "Barca_Studio_News/360444": {
+      "post_id": "Barca_Studio_News/360444",
+      "channel": "Barca_Studio_News",
+      "caption": "👨🏻‍🦱🎙#خـوسـيـه_ألـبـرتـو ( مدرب راسينغ ) : \n💬 سنذهب إلى برشلونة من أجل المنافسة ومحاولة الفوز لا يساورنا أدنى شك في ذلك. \n💬 من الواضح أننا نمر بحالة فنية جيدة جدًا وحتى اليوم، نحن أفضل فريق في الدوري، لكننا سنذهب إلى هناك بأسلحتنا، وسنحاول تعقيد الأمور عليهم. \n💬 سنستمتع بهذا الانتصار، ثم سنتركه وراءنا ونفكر فيما هو قادم 👀. \n💠💣💣💣💣💣💣💠",
+      "photos": [
+        "https://cdn5.telesco.pe/file/X-KJO4nPeN57wsaa-mHK644fBjjx0VxdZtYQpxOacsmtV99njT_lMfQeoZ6Argx0On3NOt3BIfqkexJtLdB44C8HDPK9c5KvkOIicNqV-7-K-Oe-CcVQWO7xJWpS0C_U8PvQ0gwkbmCdBGOheEy04mZ75r1P8-Vq0jGrrZ_4SWMLENF2mt3CGjFW87CXO72MCGRTzblC_0hBMm6nTUoR-WYK2Ooci4_feuDF-deWt-uFwgYK03Tw65HvfbOFdqlVIo6L5q5FSabzx0GAYr8h1EwrP2fWNycEawvGvF9zFzwCGPkCHAxZ10-h9OEea9JIDqdA-rTP6FLHiBmJxufDeQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/360444",
+      "kind": "photo",
+      "timestamp": "2026-09-12T15:39:03+00:00",
+      "created_utc": "2026-09-12T15:49:57.703767+00:00"
+    },
+    "Barca_Studio_News/360443": {
+      "post_id": "Barca_Studio_News/360443",
+      "channel": "Barca_Studio_News",
+      "caption": "👨🏻‍🦱🎙#خـوسـيـه_ألـبـرتـو ( مدرب راسينغ ) : \n💬 أتمنى أن يكون ما حدث في الجزء الأخير من المباراة بعد اصطدام ساليناس ومانياس مجرد صدمة، وأن يتعافى في أسرع وقت ممكن. \n💠💣💣💣💣💣💣💠",
+      "photos": [
+        "https://cdn5.telesco.pe/file/ErOs8x7mlnaive-stUjA_R3yyl80a9in3Gj7iODBuJj0q9KA_PmmOhUpSW9z--0M2BHfjOWzWwX-e8uPhpNvGcxxTMfx-BYpHJ-lpbrhT4_E_r8Luuk0hr9vyw03o8sv3XfZrNzzdPKpPAb1k66-tcaxwWjlPlWKzzVjux8w3LNiEDcB-g55uha8t4JO-2JVqN2ouWRbxKzPVqH7ebL4PjdNzRsQzN7tYX99RtahL9D7wNK1NgleHRbW--74tBYIz1Ny0FXFW_BANCoWMos8HjA6f7wGD7carj0-gbpgld8CHdJKSuI70kdQ7tuIB5bv2fsJ8b_T1wNLySZA-QXV4w.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/360443",
+      "kind": "photo",
+      "timestamp": "2026-09-12T15:36:01+00:00",
+      "created_utc": "2026-09-12T15:49:58.092033+00:00"
+    },
+    "Barca_Studio_News/360442": {
+      "post_id": "Barca_Studio_News/360442",
+      "channel": "Barca_Studio_News",
+      "caption": "استوديو برشلونة pinned a photo",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/360442",
+      "kind": "text",
+      "timestamp": "2026-09-12T15:27:31+00:00",
+      "created_utc": "2026-09-12T15:49:58.464329+00:00"
+    },
+    "Barca_Studio_News/360441": {
+      "post_id": "Barca_Studio_News/360441",
+      "channel": "Barca_Studio_News",
+      "caption": "📆 - #الــمــبــاراة_الـــقـــادمـــة  : ⬇️\n\" ⚽️ بـرشـلـونـة ✘ لـيـفـانـتـي ⚽️ \"\n🏆 - الجولة الـ5 من الدوري الإسباني #LaLiga ⚽️ . \n📆 - #تــاريــخ_الــمــبــاراة :\n📆 - الاحـد 13 سـبـتـمـبـر 2026⏳ . \n⏰ - #تــوقــيــت_الــمــبــاراة : \n⌚ - الـ05:15 بـتـوقـيـت مـكـة الـمـكـرمـة 🇸🇦 .\n🖥 - #الــقــنــاة_الــنــاقــلــة : \n📹 - قــنــاة : BeIN SPORT 2 🇶🇦 .\n🔊 - #مــعــلــق_الـمــبــاراة :\n🎤 - الـمـعـلـق : عـصـام الـشـوالـي 🇹🇳 . \n😗 - #حــكــم_الــمــبــاراة :\n🎷 - الـحـكـم : غـونـزالـيـس إسـتـيـبـان 🇪🇸 . \n🏟 - #مــلــعــب_الـــمــبــاراة : \n🏤 - مـلـعـب : سـيـوداد دي فـالـنـسـيـا & فـالـنـسـيـا📍. \n📱 - #هــاشــتــاك_الــمــبــاراة [ تـويـتـر ] : \n💻 ـ #LevanteBarca ⚽️⚽️ . \n💠 💣💣💣💣💣💣 💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/Pdm055cw5h7_RpCC4TFlq4ton3sBYsVfbWWmDpSHw7rHtrpyFzOPwx_dB2rU9-5nMh2ggXD9lGXrj4OmwsZOYoMiIdWJMdZ8aVz7Jmv4e-aWx_IBtMSVJVV3xO17jbB-9LPqCPD9ydqRmaUhR45E5D95QrJY11MReNfAKP4MqlaXNrWTzLz3c6q_8loF1cHi4bWPNx_HCMYDePdZK-ITR5PlJLUQdCPDjJC711vWyoOeT8zGcKOrTvK--8vaNh-JA7ov0Xo5L117HBCZPphMLOK6oCJM71bSBGKg--EZg0NSKi4n_4X-UhQn2f7aQAk-8PQtohG2XiNj48Lf0CWQaw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/360441",
+      "kind": "photo",
+      "timestamp": "2026-09-12T15:27:26+00:00",
+      "created_utc": "2026-09-12T15:49:58.835923+00:00"
     }
   },
   "posted": {
