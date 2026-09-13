@@ -487,6 +487,26 @@
     "Barca_Studio_News/360838": {
       "at_utc": "2026-09-13T17:11:41.015718+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/360880": {
+      "at_utc": "2026-09-13T19:27:45.025426+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/360879": {
+      "at_utc": "2026-09-13T19:27:45.616370+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/360878": {
+      "at_utc": "2026-09-13T19:27:46.175520+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/360877": {
+      "at_utc": "2026-09-13T19:27:46.715048+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/360874": {
+      "at_utc": "2026-09-13T19:27:47.321685+00:00",
+      "kind": "text"
     }
   },
   "pending": {
@@ -666,6 +686,60 @@
       "kind": "photo",
       "timestamp": "2026-09-13T17:04:04+00:00",
       "created_utc": "2026-09-13T17:11:41.015698+00:00"
+    },
+    "Barca_Studio_News/360880": {
+      "post_id": "Barca_Studio_News/360880",
+      "channel": "Barca_Studio_News",
+      "caption": "🇪🇦📲#لامـيـن_يـامـال عـبـر↫ ( 📱 ) :\n• 💬 متتالي ⚽⚽ . \n💠 💣💣💣💣💣💣 💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/oVdYTJgHIuCwyxo9_HoywvHFwaYGQ5hPfEIMrHaANK88m55oM509cVaK7oQo2iR0hZbHYZyZhqlG_GMyp_ZMqU1w64UKM9nkNlP7GsunK2HaV2LN67awmErYQuNRRqBKD0lUCPV_gOSkdZDkDsr2aOdAZk86wO8JDubfnQHnZX07F8wI_opwnUg9ZTuwUYSKDFtkcFLN7v6dszYE3Fn1HSjBVktkifT7MXdgsI-At65dgOLkxcaCgY6URsMlLga5gjF9ktMLTbuAiTzfM6nWkuepmnPrYi00HrdlU9AWAIlHdZERwWvUow93t8gWVfmuAX5sOn0Gkx7Yi1NkDTxZfA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/360880",
+      "kind": "photo",
+      "timestamp": "2026-09-13T19:00:19+00:00",
+      "created_utc": "2026-09-13T19:27:45.025404+00:00"
+    },
+    "Barca_Studio_News/360879": {
+      "post_id": "Barca_Studio_News/360879",
+      "channel": "Barca_Studio_News",
+      "caption": "📊 - #احـصـائـيـات | #FCB 🔴🔵\n🇪🇸 - نادي برشلونة هو أول فريق يسجل 21 هدفًا بعد أول 5 مباريات له في موسم الدوري الإسباني منذ نادي برشلونة في 2011/12 (22) 🔝 .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/ETLYT-eAJCNQRixPK3BY5eQyDqFVKGMlqoKpiWye2oqlLXzARK7NPAu-VAGWMeNksauucltHqtpLaoVL5c9HzBWlZq5Z0tCcowzTXpvbnTvJ0Z6ik02eagYYOEscphWjIbrrIho5k9KQj678hz-uQlKgUT0NUZ8IRwZRAqr2nihJ1SV7Zo4GvejzX-bTrEsaabZ0B7KIS4zk34kOwZ90AyHM6vWBOD9mnTeZNHvVOpizXAm6hmcQGIWxqQAVV-6R84nT_HAu7peuT9Ffe4USzTqGKWRgATXhx3Pv7aZAGpJF2A1aLGDz0s14pNwV1Kbd2N5kWAxgJTOe5pR-N2Dlfw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/360879",
+      "kind": "photo",
+      "timestamp": "2026-09-13T18:54:24+00:00",
+      "created_utc": "2026-09-13T19:27:45.616354+00:00"
+    },
+    "Barca_Studio_News/360878": {
+      "post_id": "Barca_Studio_News/360878",
+      "channel": "Barca_Studio_News",
+      "caption": "- اصـحـاب الـتـوقـعـات الـ10 الاولـى الـصـحـيـحـة 👏✅ .",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/360878",
+      "kind": "text",
+      "timestamp": "2026-09-13T18:39:50+00:00",
+      "created_utc": "2026-09-13T19:27:46.175506+00:00"
+    },
+    "Barca_Studio_News/360877": {
+      "post_id": "Barca_Studio_News/360877",
+      "channel": "Barca_Studio_News",
+      "caption": "4..2 برشلونة",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/360877",
+      "kind": "text",
+      "timestamp": "2026-09-13T18:39:41+00:00",
+      "created_utc": "2026-09-13T19:27:46.715033+00:00"
+    },
+    "Barca_Studio_News/360874": {
+      "post_id": "Barca_Studio_News/360874",
+      "channel": "Barca_Studio_News",
+      "caption": "4-2 برشا",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/360874",
+      "kind": "text",
+      "timestamp": "2026-09-13T18:39:40+00:00",
+      "created_utc": "2026-09-13T19:27:47.321668+00:00"
     }
   },
   "posted": {
