@@ -527,63 +527,29 @@
     "Barca_Studio_News/361004": {
       "at_utc": "2026-09-14T18:52:13.200335+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/361044": {
+      "at_utc": "2026-09-14T22:11:43.558509+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/361043": {
+      "at_utc": "2026-09-14T22:11:44.122798+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/361042": {
+      "at_utc": "2026-09-14T22:11:44.695507+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/361041": {
+      "at_utc": "2026-09-14T22:11:45.248691+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/361040": {
+      "at_utc": "2026-09-14T22:11:45.819614+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
-    "Barca_Studio_News/360880": {
-      "post_id": "Barca_Studio_News/360880",
-      "channel": "Barca_Studio_News",
-      "caption": "🇪🇦📲#لامـيـن_يـامـال عـبـر↫ ( 📱 ) :\n• 💬 متتالي ⚽⚽ . \n💠 💣💣💣💣💣💣 💠",
-      "photos": [
-        "https://cdn4.telesco.pe/file/oVdYTJgHIuCwyxo9_HoywvHFwaYGQ5hPfEIMrHaANK88m55oM509cVaK7oQo2iR0hZbHYZyZhqlG_GMyp_ZMqU1w64UKM9nkNlP7GsunK2HaV2LN67awmErYQuNRRqBKD0lUCPV_gOSkdZDkDsr2aOdAZk86wO8JDubfnQHnZX07F8wI_opwnUg9ZTuwUYSKDFtkcFLN7v6dszYE3Fn1HSjBVktkifT7MXdgsI-At65dgOLkxcaCgY6URsMlLga5gjF9ktMLTbuAiTzfM6nWkuepmnPrYi00HrdlU9AWAIlHdZERwWvUow93t8gWVfmuAX5sOn0Gkx7Yi1NkDTxZfA.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/360880",
-      "kind": "photo",
-      "timestamp": "2026-09-13T19:00:19+00:00",
-      "created_utc": "2026-09-13T19:27:45.025404+00:00"
-    },
-    "Barca_Studio_News/360879": {
-      "post_id": "Barca_Studio_News/360879",
-      "channel": "Barca_Studio_News",
-      "caption": "📊 - #احـصـائـيـات | #FCB 🔴🔵\n🇪🇸 - نادي برشلونة هو أول فريق يسجل 21 هدفًا بعد أول 5 مباريات له في موسم الدوري الإسباني منذ نادي برشلونة في 2011/12 (22) 🔝 .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/ETLYT-eAJCNQRixPK3BY5eQyDqFVKGMlqoKpiWye2oqlLXzARK7NPAu-VAGWMeNksauucltHqtpLaoVL5c9HzBWlZq5Z0tCcowzTXpvbnTvJ0Z6ik02eagYYOEscphWjIbrrIho5k9KQj678hz-uQlKgUT0NUZ8IRwZRAqr2nihJ1SV7Zo4GvejzX-bTrEsaabZ0B7KIS4zk34kOwZ90AyHM6vWBOD9mnTeZNHvVOpizXAm6hmcQGIWxqQAVV-6R84nT_HAu7peuT9Ffe4USzTqGKWRgATXhx3Pv7aZAGpJF2A1aLGDz0s14pNwV1Kbd2N5kWAxgJTOe5pR-N2Dlfw.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/360879",
-      "kind": "photo",
-      "timestamp": "2026-09-13T18:54:24+00:00",
-      "created_utc": "2026-09-13T19:27:45.616354+00:00"
-    },
-    "Barca_Studio_News/360878": {
-      "post_id": "Barca_Studio_News/360878",
-      "channel": "Barca_Studio_News",
-      "caption": "- اصـحـاب الـتـوقـعـات الـ10 الاولـى الـصـحـيـحـة 👏✅ .",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/360878",
-      "kind": "text",
-      "timestamp": "2026-09-13T18:39:50+00:00",
-      "created_utc": "2026-09-13T19:27:46.175506+00:00"
-    },
-    "Barca_Studio_News/360877": {
-      "post_id": "Barca_Studio_News/360877",
-      "channel": "Barca_Studio_News",
-      "caption": "4..2 برشلونة",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/360877",
-      "kind": "text",
-      "timestamp": "2026-09-13T18:39:41+00:00",
-      "created_utc": "2026-09-13T19:27:46.715033+00:00"
-    },
-    "Barca_Studio_News/360874": {
-      "post_id": "Barca_Studio_News/360874",
-      "channel": "Barca_Studio_News",
-      "caption": "4-2 برشا",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/360874",
-      "kind": "text",
-      "timestamp": "2026-09-13T18:39:40+00:00",
-      "created_utc": "2026-09-13T19:27:47.321668+00:00"
-    },
     "Barca_Studio_News/361008": {
       "post_id": "Barca_Studio_News/361008",
       "channel": "Barca_Studio_News",
@@ -639,6 +605,60 @@
       "kind": "text",
       "timestamp": "2026-09-14T18:33:49+00:00",
       "created_utc": "2026-09-14T18:52:13.200318+00:00"
+    },
+    "Barca_Studio_News/361044": {
+      "post_id": "Barca_Studio_News/361044",
+      "channel": "Barca_Studio_News",
+      "caption": "- كوندي يقوم بعمل ريبوست لتصريح ماكليمور الداعم لفلسطين 🇵🇸 :\n- حرروا فلسطين ، وإذا كانت هذه الكلمات ستكلّفني الوقوف على المسرح ، لكنها تعيد الحديث مجددًا إلى فلسطين ، فهذه أنجح جولة فنية خضتها على الإطلاق .",
+      "photos": [
+        "https://cdn4.telesco.pe/file/doFpjByglAz4LlqDAJ_Ql4b6grzud9TgiPRpY3hctU0U2nfwGp0D_m2Knt0t9yPOPYeNXrmFG9OHNX2NsUw4Zi5iRMX4fQm3aiSf58O_QdsRYHOh2D1xBH410759jCLIyk-WCe9InMFBOPRl60-rENkJkuPKV4rkk-mIQHwQeUB_jTt9bkTR-0qvXMMrAM_7V3wwhIsZYXISYJUrZ6wBP2L9l04wfuIO6ET3X9xW8QaNGIPQW1c9rx3zz-TEHlGHqgqYV_rTb5Ca6dyoKH8O0OY3sy5Gk5pL0ME_dtM3GkRrrmZrF2xM9g3uOBzUmm9xtdqt7vPu3OI50GUUeg2yfA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/361044",
+      "kind": "photo",
+      "timestamp": "2026-09-14T22:10:27+00:00",
+      "created_utc": "2026-09-14T22:11:43.558487+00:00"
+    },
+    "Barca_Studio_News/361043": {
+      "post_id": "Barca_Studio_News/361043",
+      "channel": "Barca_Studio_News",
+      "caption": "🇪🇸🎙#خـوان_لابـورتـا | #FCB 🔴🔵 \n• 💬 أتمنى من كل قلبي أن نحصل أخيراً على التأكيد بأننا نستطيع تنظيم نهائي دوري أبطال أوروبا . \n• 💬 أنا على يقين من أن الكامب نو سيكون أفضل ملعب في العالم، وسيكون يليق بفريق مثل برشلونة .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/361043",
+      "kind": "text",
+      "timestamp": "2026-09-14T22:01:45+00:00",
+      "created_utc": "2026-09-14T22:11:44.122781+00:00"
+    },
+    "Barca_Studio_News/361042": {
+      "post_id": "Barca_Studio_News/361042",
+      "channel": "Barca_Studio_News",
+      "caption": "🇪🇸🎙#خـوان_لابـورتـا | #FCB 🔴🔵 \n• 💬 أرى أنه من الجيد أن يقوم لامين بحملة لنفسه، لأن الآخرين يفعلون الشيء نفسه أيضًا . \n• 💬 لم أرَ كل هذا القدر من الانتقادات عندما قام لاعبون آخرون بحملات لأنفسهم للفوز بالجائزة .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/361042",
+      "kind": "text",
+      "timestamp": "2026-09-14T22:00:26+00:00",
+      "created_utc": "2026-09-14T22:11:44.695489+00:00"
+    },
+    "Barca_Studio_News/361041": {
+      "post_id": "Barca_Studio_News/361041",
+      "channel": "Barca_Studio_News",
+      "caption": "🇪🇸🎙#خـوان_لابـورتـا | #FCB 🔴🔵 \n• 💬 رودري رجل عاقل ورزين جداً، وناضج للغاية، إنه قائد . \n• 💬 وأن تراه يتبنى هذا الموقف تجاه جائزة هو نفسه مرشح لها، فهذا يقول الكثير عن شخصيته، عن رودري كإنسان . \n🇪🇸🎙#خـوان_لابـورتـا | #FCB 🔴🔵 \n• 💬 نحن سعداء جداً به. وقد رأيت كيف يبدع ويقدم مستويات استثنائية في كل مباراة . \n• 💬 يقولون إنه ليس في جاهزيته 100%، ولا أعلم ماذا سيحدث عندما يصل إلى 100%، لكن الحقيقة هي أنه يلعب بمستوى كبير جداً . \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/361041",
+      "kind": "text",
+      "timestamp": "2026-09-14T21:58:40+00:00",
+      "created_utc": "2026-09-14T22:11:45.248674+00:00"
+    },
+    "Barca_Studio_News/361040": {
+      "post_id": "Barca_Studio_News/361040",
+      "channel": "Barca_Studio_News",
+      "caption": "🇪🇸🎙#خـوان_لابـورتـا | #FCB 🔴🔵 \n• 💬 رودري كانوا يريدونه الطرف الآخر لكنه اختار البارسا . \n• 💬 هو معنا الآن واختياره للبارسا اسعدنا كثيراً كـ كوليز .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/spycINsBVwXxu2KI4Hr5e9lmIHgPNsN9xa-i3I33wANov2z7xE3RBHi6j2EGq3YSd1dld41THb2xkfni8dZD7FeJpkfWHEPbWoRhzYjeDVGbvG1ce1wB52CBvImiHsYaFLGiGNbDZcJZB39PYBiIDOdYsaNJHXdkvE1RjkxrAu4GMYgspjZPzYyad4Wmyb9XUxTHlKXRe460Tq1bYUN2DY975_cERsU4Rjl4b3wzPajwGBFbULK0nUCDeO3LLbcoKu9W6CrynWkkPBsN7LBNuW9D12IyDUyiuDEXQhFZTBqQzvWwdyiW05RhEK3Zhdz50EbWX1qvYqBI879OKssdJw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/361040",
+      "kind": "photo",
+      "timestamp": "2026-09-14T21:56:37+00:00",
+      "created_utc": "2026-09-14T22:11:45.819597+00:00"
     }
   },
   "posted": {
