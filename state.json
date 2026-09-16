@@ -651,6 +651,30 @@
     "Barca_Studio_News/361186": {
       "at_utc": "2026-09-16T07:55:48.410152+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/361203": {
+      "at_utc": "2026-09-16T13:10:36.054116+00:00",
+      "kind": "video"
+    },
+    "Barca_Studio_News/361202": {
+      "at_utc": "2026-09-16T13:10:36.437496+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/361201": {
+      "at_utc": "2026-09-16T13:10:36.857201+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/361200": {
+      "at_utc": "2026-09-16T13:10:37.253855+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/361199": {
+      "at_utc": "2026-09-16T13:10:37.713260+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/361198": {
+      "at_utc": "2026-09-16T13:10:38.098568+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -837,6 +861,66 @@
       "kind": "photo",
       "timestamp": "2026-09-16T07:24:25+00:00",
       "created_utc": "2026-09-16T07:55:48.410135+00:00"
+    },
+    "Barca_Studio_News/361202": {
+      "post_id": "Barca_Studio_News/361202",
+      "channel": "Barca_Studio_News",
+      "caption": "القائمة المُستدعاة 🚨🚨",
+      "photos": [
+        "https://cdn4.telesco.pe/file/VsXlki59Axt8qe6ndEVcfJcvwCK3lvzEfeelwmT7EMSDbFgsiPF91wc5GRAuq5CR3-vzKxs-xbRuPWFqYOPA9TYiSINW8uqKwYyoL_vylonDacK290QqXeN961HMcY1PiztRW2w22eYO6a4f5cMVh_zLy4eEpdLuz73oLRaZvGMtCGWxPLVY38yu1R7m8EtfBMBZe7qiAE_TbzoNeLmKzMVN6if-hGu06bdq04nIQYxfv6_XDbHVUnthxb6HzFToKmipWVN_edIavREmujg7oeCj7l10Js4s5gIMB1riTwyPZeyQBc9pMcMWV6ao2MT0Ls_dAnlHOYu4azHeiOK3Jg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/361202",
+      "kind": "photo",
+      "timestamp": "2026-09-16T11:31:04+00:00",
+      "created_utc": "2026-09-16T13:10:36.437474+00:00"
+    },
+    "Barca_Studio_News/361201": {
+      "post_id": "Barca_Studio_News/361201",
+      "channel": "Barca_Studio_News",
+      "caption": "🔴 - برشلونة يملك لاعبين كبارًا، هل أدهشك أحدهم خلال لقاء الكأس الموسم الماضي ❓\n⚽️🎙#إيـنـيـغـو_سـايـنـز_مـازا | #RAC 🟢⚪️ \n• 💬 الجميع في الشوط الثاني، عندما دخل بيدري وفيرمين ورافينيا وليفاندوفسكي من مقاعد البدلاء، غيّروا المباراة . \n⚽️🎙#إيـنـيـغـو_سـايـنـز_مـازا | #RAC 🟢⚪️ \n• 💬 كنا قد بدأنا نشعر بالإرهاق، ولذلك تسببوا لنا في الكثير من المشاكل . \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/Y2tbWqI9Bz4NEyZz19dc08K30tA26ldBKNu9C1E2BzP0IbJSU1P8ylAndHsBoNq_vprLiCU6PQv4X7iO_85yvY5enVTkCB2vMpgDE4zUjqw97sWlD1-1JFzzm39M4UMSpYD5GOCuq2Z1vdNNiRDZtbdokealB2-V_inlPPSkxvQHX7cS6BNLvFF1s-jTGD16zIhK2m7yPkoeOF7Nw-ZeMEzB2EYdseE63ZHrd-n9TQPSQo8-zS1nXEkj77qSsVGDpxi27IihvhMmHF5xzNJIQhQhbJDuvC3t2xWpHP_jcC8syEtnrgSaudRHtsPvgHxAwIyytGHvPuEdb4UpxVqHLQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/361201",
+      "kind": "photo",
+      "timestamp": "2026-09-16T11:23:11+00:00",
+      "created_utc": "2026-09-16T13:10:36.857180+00:00"
+    },
+    "Barca_Studio_News/361200": {
+      "post_id": "Barca_Studio_News/361200",
+      "channel": "Barca_Studio_News",
+      "caption": "🔴 - ستكون هذه أول مواجهة بين راسينغ وبرشلونة في الدوري منذ 14 عامًا، لكنكم واجهتم بعضكم في الكأس قبل عدة أشهر، ماذا تعلمتم من تلك المباراة ❓\n⚽️🎙#إيـنـيـغـو_سـايـنـز_مـازا | #RAC 🟢⚪️ \n• 💬 إنه فريق يمتلك فعالية كبيرة جدًا أمام المرمى ، ولا يمكنك أن تمر بلحظات تفقد فيها التركيز، لأنهم يعاقبونك في أي لحظة . \n⚽️🎙#إيـنـيـغـو_سـايـنـز_مـازا | #RAC 🟢⚪️\n• 💬 إذا لعبنا بكثافة وبقينا مركزين طوال المباراة فستكون لدينا فرص . \n⚽️🎙#إيـنـيـغـو_سـايـنـز_مـازا | #RAC 🟢⚪️\n• 💬 أسلوب لعبنا يمكن أن يسبب لهم الضرر ويمكننا الحصول على نقطة أو أكثر . \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/ti7Iw5_d-qlyJhTpJPRHX2QW3c9OtLyb5DnSyj44N8NJzHqTrH1jZ_jufjQCyDsU_3fu57gVZYrd0DopOsUF97WfNY1uRY8okX9dUVlTiO61wzXrJ3usdHiGBZtSFOM8aFogpPog1VNQY0tyF41lx-immUcZTG6rxDa4q1LVIeLMHa4qZgJmDiWnGSL4SM9ZN1Tf8MMzoRmZVR1zU2mJNzj1xvacu8d1AxwQ8mo_280YCL0qZRz1YJhg_2g4bLRcIoLTr_UbhFSWZbN5Ycbqn-gCefzdeyNy_TVFC7nHGXvaUmFeugdBe8sAHD5lLcn7gH9KMS5Z24MwiQhuGMZkzg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/361200",
+      "kind": "photo",
+      "timestamp": "2026-09-16T11:21:11+00:00",
+      "created_utc": "2026-09-16T13:10:37.253834+00:00"
+    },
+    "Barca_Studio_News/361199": {
+      "post_id": "Barca_Studio_News/361199",
+      "channel": "Barca_Studio_News",
+      "caption": "🔴 - برشلونة يصل في لحظة مذهلة، حقق أفضل بداية في تاريخه ولم يخسر على أرضه منذ موسمين، هل يستطيع راسينغ تحقيق المفاجأة ❓\n⚽️🎙#إيـنـيـغـو_سـايـنـز_مـازا | #RAC 🟢⚪️ \n• 💬 بالتأكيد، أول شيء علينا القيام به هو أن ندرك أننا أمام مباراة صعبة وفي ملعب معقد جدًا، وأمام منافس يعيش حالة رائعة . \n⚽️🎙#إيـنـيـغـو_سـايـنـز_مـازا | #RAC 🟢⚪️ \n• 💬 لكن لدينا أسلحتنا واجهناهم الموسم الماضي، وكانت الأحاسيس جيدة . \n⚽️🎙#إيـنـيـغـو_سـايـنـز_مـازا | #RAC 🟢⚪️ \n• 💬 سنذهب بكل ما لدينا لمحاولة الفوز، أو على الأقل الحصول على نقطة ، ونحن مقتنعون بأننا قادرون على فعل ذلك . \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/JfuKE3D2vkjm6yRdMWEts_h_vH14xwZxnpxHV_kz5QQ4ugxfIOYULfn9kTOvM5X39fF8yAzR6A9ttOzPBO6p9idiGsamFvysZWL9HMXOJ6OEYvSjr4nQgcGR9Gb-9nW5BnCgxFpLG18Fhdtjl9THmYBbD8i599HnG8ZVSrOjAiNpDfPgaCtbMfHVqCknRoD6OCjZHbmFFyYVkXMWPTab037lGbWfocb548mad2BsZVD5jYzXY8ugpw-VwvBonOXMKtvSejPzMr_86UfpN8Eu5k-aFQWZc_gVmpxP9qxD8wxgL4NRW1QIU_OixR9tn9pYKMz_MQ0ilvJmPP5JDAdOpw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/361199",
+      "kind": "photo",
+      "timestamp": "2026-09-16T11:18:45+00:00",
+      "created_utc": "2026-09-16T13:10:37.713240+00:00"
+    },
+    "Barca_Studio_News/361198": {
+      "post_id": "Barca_Studio_News/361198",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨🚨 - #رســمــيــا | #Laliga 🇪🇸🏆\n🤔 - تحديد مواعيد الجولة (9) من الليغا 🇪🇸 :\n⚽️ ريـال بـيـتـيـس 🆚 بـرشـلـونـة ⚽️\n🏟 - لاكارتوخا . \n📆 - السبت 17 أكتوبر . \n⏰ - الساعة 7:30 🇸🇦. \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/EnEboW5ggcXtS8CHSJxyUmJM2ND1FY01CSkgdDx_nRitVy4CqMe-2rw3VlG0L7xgpuazC9JS04XvSZfgUMShnQk8zCO1Tv3Oe7_wv5p1jdp_CpCgwcgeqpr_eplWLeM1L7sOJ05N-E7iXOc6qBCjQgZumoWbtjKg2dSBgMWB1WwjwuvTSyyi61ljB2JCdIjFUvuM6oOJ73mlHK9tr6cwHxBbF0y1nsYq50dXBIXlCFwK44bOptS7q4N16njwTnkOcwjlHrYtQDW3tmGajYDpBAnn8b2Q6PE6GeKzd_dk3rYNbHEYl-Vl6JeE6oFeG9wcfQ_HbLl6Y66LQxVq5Q0hmw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/361198",
+      "kind": "photo",
+      "timestamp": "2026-09-16T10:59:13+00:00",
+      "created_utc": "2026-09-16T13:10:38.098548+00:00"
     }
   },
   "posted": {
@@ -865,6 +949,9 @@
     },
     "Barca_Studio_News/361178": {
       "at_utc": "2026-09-16T02:45:31.326435+00:00"
+    },
+    "Barca_Studio_News/361203": {
+      "at_utc": "2026-09-16T13:10:36.054138+00:00"
     }
   },
   "ads": {
