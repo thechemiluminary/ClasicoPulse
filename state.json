@@ -631,67 +631,29 @@
     "Barca_Studio_News/361165": {
       "at_utc": "2026-09-16T02:45:32.842259+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/361190": {
+      "at_utc": "2026-09-16T07:55:46.915108+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/361189": {
+      "at_utc": "2026-09-16T07:55:47.258342+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/361188": {
+      "at_utc": "2026-09-16T07:55:47.640435+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/361187": {
+      "at_utc": "2026-09-16T07:55:48.021183+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/361186": {
+      "at_utc": "2026-09-16T07:55:48.410152+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
-    "Barca_Studio_News/361061": {
-      "post_id": "Barca_Studio_News/361061",
-      "channel": "Barca_Studio_News",
-      "caption": "- كلام موراتا كامل في التعليق الأول ⤵️ :",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/361061",
-      "kind": "text",
-      "timestamp": "2026-09-14T23:40:40+00:00",
-      "created_utc": "2026-09-15T05:21:53.348554+00:00"
-    },
-    "Barca_Studio_News/361060": {
-      "post_id": "Barca_Studio_News/361060",
-      "channel": "Barca_Studio_News",
-      "caption": "🔴 - لمن سأمنح الكرة الذهبية ❓ \n🇪🇸🎙#ألـفـارو_مـوراتـا | #ESP 🟠🔴 \n1⃣- لامين يامال . \n2⃣- رودري . \n3⃣- كفاراتسخيليا .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/v6wF4n7SrPZzAtFX6OoqFPcEkJxggOmbOgHHd4EDVrKgXCJgcNiXPUCxp7eU-zZqBbyjmLIoaWV3vmd1yEXzgosWkozXfKanBCmsKyvid0IC-1h-IUPRqnH1u0DbjCtQSAU2XL-gP-wYvrjgQH68SAAAaC9r-Ua0a_CSGIlXCOlVef3A_GOQPpMl52VwxXJp43I8LscX7QSx9lArTvnCPpCa6QNW_hNRt-VDj6RPzQcotxKEvxuBUTgKvV6ugymj_T1UGbhPuvFPNIZqZJdh3vAVP3Es-6kAJT5Clbl1pKEw_5KQBlYjF50Kdq6UytY5e-T2wbSzDC-HA1yZ1MpaRw.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/361060",
-      "kind": "photo",
-      "timestamp": "2026-09-14T23:32:52+00:00",
-      "created_utc": "2026-09-15T05:21:53.708499+00:00"
-    },
-    "Barca_Studio_News/361059": {
-      "post_id": "Barca_Studio_News/361059",
-      "channel": "Barca_Studio_News",
-      "caption": "⚡ - أكثر لاعب فاجأك في التدريبات ⁉️\n🇧🇷🎙#غـابـريـيـل_خـيـسـوس | #FCB 🔴🔵 \n• 💬 برايان فارينياس 🇪🇦 . \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/kR-nPjZBldObneYTapXA2PXKYRdE40jDe07enzjCQUpObGy9fUKjIXhv4pXCXdopToeQqqtMHhx5X4Zr6O9LqCkXFJZwZVfX8nK_Fr2pJMWOTeducSp_c7Qx_f-Zag4UcOojutkFQdFz9x1FdRcVr7W778myGUVY6uVFO2TV1Cxs7scSYWBYFynhD7B4POXx2yWuLBQXy-chARFG7UmaavjbNLj9UWgeBVLjjOAIDD3TK458YrVfAOTu1nQi-uw8VEmhT8yIbblPjXtLOrYdqu1renkufGw9WScPwECQ3KEb3kuQfez_Kqn-1yyh-NFkU9uV1LJhGT8wun93_csnyA.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/361059",
-      "kind": "photo",
-      "timestamp": "2026-09-14T23:29:24+00:00",
-      "created_utc": "2026-09-15T05:21:54.044620+00:00"
-    },
-    "Barca_Studio_News/361058": {
-      "post_id": "Barca_Studio_News/361058",
-      "channel": "Barca_Studio_News",
-      "caption": "⚡ - أفضل لاعب في التاريخ ⁉️\n🇧🇷🎙#غـابـريـيـل_خـيـسـوس | #FCB 🔴🔵 \n• 💬 رونالدو نازاريو . \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/boLoRpfyk-2MAHOvQtH47iCu4Xm-_2PU_f84eXW_sZsUM8MevOp8W9cZvf6SEL9Ds1pIPs6_ezO8VFRIrzpfiv76000nd9f4afb4_GDtRvR8Cec1vm3guCmY1ecdGf0VbU45uF226h_ssrsbMQzcxp-_zffjxIq-4WKJboRsJln6wcoKoCozUCdpu-NmdLCrBZRJq43Pk8CfLHyMMOinrxflfzXvkQ1xBzumsM0lKVbrIPHCvO_4aenfVOKNFUugLNqkJGZXTkf0FB-BRZ7gTzWAq8ScTs4v6EaKPH7Tr3pnSPbwTPLYerPbX9dLIlXORzy3oT5LN_AqeblRrSQfZg.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/361058",
-      "kind": "photo",
-      "timestamp": "2026-09-14T23:27:43+00:00",
-      "created_utc": "2026-09-15T05:21:54.391768+00:00"
-    },
-    "Barca_Studio_News/361057": {
-      "post_id": "Barca_Studio_News/361057",
-      "channel": "Barca_Studio_News",
-      "caption": "⚡ - أفضل هدف في مسيرتك ⁉️\n🇧🇷🎙#غـابـريـيـل_خـيـسـوس | #FCB 🔴🔵 \n• 💬 هدفي مع البارسا 🇪🇸 .\n 🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/UctVUAGVBaYkGoxlN5SPhZyQ7g1nJlSnMv7EvL9aIaiGvjxAEjzZEKe5gdC8cO6dlCh2UY-aJMadOCemhlT0mpxSKmu8Hq9A0OiGpf8zyvShJYWtA1MikPgDch5cyJfsJ6mcsBi8_Ap70xg66zm47g5opxah8ouRdx52j3NlxfbJXXNV4_ZLvlAnTvXFYYhWFPjrUPqnQNb7hicGmewEIekIxjpBTm1HaIjH_L4QjT0J509gUFXfVDaibwUoNruSNqQ0vzM0o_Yj2-jnp93hy1oIYESVcnN2mHkDIggzVdJj6bhMPZgrzpIJivS06F-YXqKKc_9K6zCayyAvGMfGUA.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/361057",
-      "kind": "photo",
-      "timestamp": "2026-09-14T23:25:52+00:00",
-      "created_utc": "2026-09-15T05:21:54.750042+00:00"
-    },
     "Barca_Studio_News/361176": {
       "post_id": "Barca_Studio_News/361176",
       "channel": "Barca_Studio_News",
@@ -815,6 +777,66 @@
       "kind": "photo",
       "timestamp": "2026-09-15T20:42:38+00:00",
       "created_utc": "2026-09-16T02:45:32.842241+00:00"
+    },
+    "Barca_Studio_News/361190": {
+      "post_id": "Barca_Studio_News/361190",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙️#هـيـكـتـور_كـوكـا » 𝖬𝖣 🔴🔵\n💬- قد يعجبك أسلوب فليك أو لا يُعجبك، لكن لا يمكن إنكار قدرته على مفاجأتنا.\n💬- فقد عالج فشل \"عملية جوليان\" بتحرك تكتيكي أثبت أنه نجاح كامل لمنظومة برشلونة الهجومية. قرر المدرب نقل رافينها إلى قلب الهجوم وتحويله إلى مزيج بين مهاجم صريح ومهاجم وهمي. والنتائج تتحدث عن نفسها.\n💬- لم يجلبوا له ظهيرًا مضمونًا، فأخرج من قبعته السحرية لاعبًا اسمه تشافي إسبارت، الذي أثبت حتى الآن امتلاكه الموهبة الكافية ليكون أساسيًا في برشلونة. \n💬- إسبارت أقنع فليك، الذي وضعه فوق أليخاندرو بالدي وكانسيلو. يدافع بشكل جيد (ولا توجد لديه سوى ثغرة خطأ التمرير الذي تسبب في هدف ليفانتي)، ويهاجم بشكل رائع. بل إنه سجل هدفًا. بالدي سجل هدفًا واحدًا طوال الموسم الماضي بأكمله.\n💬- ظهر غوردون من العدم (وهو رهان آخر من رهانات ديكو وفليك)، واندمج في منظومة اللعب وبين الجماهير. أصبح البريطاني إحدى القطع الأساسية في خط هجوم برشلونة. إنه المدافع الأول في الفريق، يضغط ويركض ويصنع التمريرات الحاسمة. ينقصه فقط تسجيل المزيد من الأهداف، لكنه منح الفريق سرعة كبيرة، وسمح بنقل رافينها إلى قلب الهجوم. قلة قليلة كانت تعرفه. واليوم الجميع سعداء بالتعاقد معه.\n💬- ويمكن أيضًا تسجيل التعاقد مع أديمي كإنجاز يُحسب له. كان الألماني عالقًا في دورتموند، ولم يشارك في كأس العالم. كان هانسي يعرفه جيدًا، وعلى الرغم من أرقامه المتواضعة في المواسم الأخيرة، راهن على التعاقد معه. واليوم، يتفق الجميع على أن ضمه مقابل 22 مليون يورو كان قرارًا صائبًا. ويبدو أن هدفه الرائع يوم الأحد الماضي (وقد أصبح لديه ثلاثة أهداف الآن) بدأ يمنحه الحق في ذلك.\n💬- مام راسينغ، توقع فليك إجراء تغييرات في التشكيلة. ومهما كان ما يدور في ذهنه، فليس هذا وقت التشكيك في قراراته. قبعته السحرية، حتى الآن، تعمل!\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/FJ_CrIhYDHm8xw-vfkXMna20fO4Yp0tZoo3f22uvEvyZjjUtBTzXW3_DGPWHThq_1iX9Li0nConZpelZm9zsK6vkAFSSmTxbrMgQP0hxhb9PnBqyIzGfQoljshson3Hd4CDTVD2dbIRE-ATNxRhbjfuUfTSVoxAmNowN0sqU64fhR-aa5tr0-kPhJQodewcAO6QLj2JJ61Hkzs9iPMk2JswU3OtFVbLBqQS54NZbsuGDEDZpg_ONLZO70KHFsYZAmvFs-TnkMA1RmdJ0L0cFSl975ZXUbZkPmh5hL_QmljkozUg7kz1zdnHsHBJ7R8-28IsWld_l2rIhsVoM-a6vhA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/361190",
+      "kind": "photo",
+      "timestamp": "2026-09-16T07:47:50+00:00",
+      "created_utc": "2026-09-16T07:55:46.915088+00:00"
+    },
+    "Barca_Studio_News/361189": {
+      "post_id": "Barca_Studio_News/361189",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨📰 #غـــلاف » MD 🔴🔵\n🤔- لامين يستحق الكرة الذهبية\n🤔-  فليك بحزم: لماذا لا ينبغي لنا أن نقوم بحملة من أجله؟ بالطبع يستحقها، وأنا سأدعمه .\n🤔-  هانزي فليك سيعتمد على المداورة اليوم أمام راسينغ، سعيًا لتحقيق أفضل بداية موسم في تاريخ النادي.\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/phXODMJ7JcXywmofxsYEEInAyqU-xYNPvnCuvT3Bl6LHrV27jh_T7oFiwXHraMK82YJtc1c13fcWVGfRxfoebCF0FPXKzgDQ49uKXMqSI5svGNItHdYrcDEKYmaptRy6Cpw-oK68c59u8GrNixoI-bxO1yGmaWdMJ0vLPV_2RyYN1cCNNQke9VeebtOOUv64Ok8piC0LeVdOyrUVSF3WxxpAj3knqTFMNcrhluvOO3hZGsLrR_lfWdzuoGiM3Ddazwi6oRQ0sl01VpkKNwBbNyftPGazldV7U03EtETk0QMMoqZXG8uSaCZJQwOLJzz7sSg9IL6VsdtZbQjPFZMkAw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/361189",
+      "kind": "photo",
+      "timestamp": "2026-09-16T07:35:12+00:00",
+      "created_utc": "2026-09-16T07:55:47.258325+00:00"
+    },
+    "Barca_Studio_News/361188": {
+      "post_id": "Barca_Studio_News/361188",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨📰 #غـــلاف » SPORT 🔴🔵\n🤔- مُحصَّن\n🤔- برشلونة يجدد عقد حمزة عبد الكريم ويرفع شرطه الجزائي من 15 إلى 150 مليون يورو لحماية «مهاجم المستقبل رقم 9\n🤔- حمزة عبد الكريم: «إذا اضطررت للعب مع الفريق الرديف فلن أشعر بالخجل»، أوضح اللاعب المصري\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/lX5myZ2tUqht5EecZZICZsriFbtNnEaVMSpmkvK4ecPuHVFhy4bZHVAYspu1nY3Fhi6SFTp_WUclta8fgUG64oea0sH8YhHzQALmot-gF2jcSnU1szKc-a9smmBOrPZilyyvPfKkkabC7XyLw4b6V01gj7BZ8vOtu4EPuaMf49WlneBBQQJeX49YK__ReQEi4lwFD6ZrlGxyb7-EtUxRU5xYaVTl-RatgFjJ__xTPQAUwgkARXEQmdSQ1R9EheriBleiOJyoBasYYzM44m7hs3QORIpRJXppZtnqdjMzfNci9o4cgjzhNXDLGHXPQtqNF59xa2qb9tM3J28giKSqhg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/361188",
+      "kind": "photo",
+      "timestamp": "2026-09-16T07:33:28+00:00",
+      "created_utc": "2026-09-16T07:55:47.640415+00:00"
+    },
+    "Barca_Studio_News/361187": {
+      "post_id": "Barca_Studio_News/361187",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙️#أنـيـس_مـارتـيـن» LaVanguardia 🔴🔵\n💬- في الأيام الأخيرة، لامين يبقى بعد التدريبات مع صديقه بريان فارينياس أو رافينها، ويتدرب على الركلات الحرة وركلات الجزاء.\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/Vrer-izgUJhoaIRwcLVZbEkH_nTLvQlF8cniYgzPjcP-6FOT6LsnwZILio0i_tR0tG-rBkAAKNRxcdkMxDh1mixred1GeYd-KOZiwcdIM4Gl-QHQ1UAK84rr2iD_-EF0IY1nye4fP_7Iah3r2nx6Z0HRS7OLmJL459ziPy8ts5igJyKv5tN0Y-UbfCZjO4NMUMz0_fL2a9jcwIq2U2cZEUBTxg3u82i2ljzMX8nFeWOeqcDxqw2z7UBjdU3gbC_wtTlJFSjmTHEuexUtCdVgW7rRxxKkO9kggd-rjxiTW0oWM1Nk0FRy6m6vZ6C-S-NZT4254FlB_46aZZW1oTKHsw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/361187",
+      "kind": "photo",
+      "timestamp": "2026-09-16T07:30:45+00:00",
+      "created_utc": "2026-09-16T07:55:48.021165+00:00"
+    },
+    "Barca_Studio_News/361186": {
+      "post_id": "Barca_Studio_News/361186",
+      "channel": "Barca_Studio_News",
+      "caption": "•📮📄 #صــحــيــفـــة ↫ 𝖬𝖣 🔴🔵\n🤔- فليك على موعد مع رقم قياسي جديد! \n🤔- إذا فاز برشلونة اليوم فسيكون قد بدأ الموسم بـ 6 انتصارات متتالية، ليُعادل أفضل بداية بتاريخ النادي، والتي تحققت ثلاث مرات:\n🤔- 1930/1929 مع جيمس بيلامي \n🤔- 1961/1960 مع ليوبـيـشا بروتشيتش\n🤔- 2019/2018 مع إرنستو فالفيردي\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/SLtyTHvjEB76Cs3X9qMqmfARiJyb1F2MiNqJT4jUklTFeMNNEU5uX0rmIJ_kcYRxFP034WunTBYhX0X2_vSvrEklc0MNl4_bOSoKrimn0fHKKbjGBO-SY4p5Bx4bzHTRO7ocURU5EmZpB0iJg1rRHPDINgYIgr4ehfe1Qln5wxPJyIsbtZ6Z_MoowDEeW5a6yBu6iiHjdO6tuOYaa-QLyOpIex7zk63WpRiC4TL_400zDkv44R5Pt_fYiy-OkimiHm0ksDwYZizOKpTVFvNc9-4Uzxge0V1rlskdOGq8xqOhkuUury5zStMcsmZBxTt-7lTMWcn-iFbmrpmapSz-Yg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/361186",
+      "kind": "photo",
+      "timestamp": "2026-09-16T07:24:25+00:00",
+      "created_utc": "2026-09-16T07:55:48.410135+00:00"
     }
   },
   "posted": {
