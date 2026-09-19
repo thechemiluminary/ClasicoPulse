@@ -859,6 +859,26 @@
     "Barca_Studio_News/362044": {
       "at_utc": "2026-09-19T14:44:29.511067+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/362177": {
+      "at_utc": "2026-09-19T19:31:44.461697+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/362176": {
+      "at_utc": "2026-09-19T19:31:44.829672+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/362175": {
+      "at_utc": "2026-09-19T19:31:45.258729+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/362174": {
+      "at_utc": "2026-09-19T19:31:45.606655+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/362173": {
+      "at_utc": "2026-09-19T19:31:46.007410+00:00",
+      "kind": "text"
     }
   },
   "pending": {
@@ -1027,6 +1047,56 @@
       "kind": "text",
       "timestamp": "2026-09-19T14:30:02+00:00",
       "created_utc": "2026-09-19T14:44:29.511050+00:00"
+    },
+    "Barca_Studio_News/362177": {
+      "post_id": "Barca_Studio_News/362177",
+      "channel": "Barca_Studio_News",
+      "caption": "قبلها تسلل",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/362177",
+      "kind": "text",
+      "timestamp": "2026-09-19T19:31:43+00:00",
+      "created_utc": "2026-09-19T19:31:44.461677+00:00"
+    },
+    "Barca_Studio_News/362176": {
+      "post_id": "Barca_Studio_News/362176",
+      "channel": "Barca_Studio_News",
+      "caption": "كااااد الثانييي لهمم وليفاكوفيتششش موجودد",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/362176",
+      "kind": "text",
+      "timestamp": "2026-09-19T19:31:41+00:00",
+      "created_utc": "2026-09-19T19:31:44.829656+00:00"
+    },
+    "Barca_Studio_News/362175": {
+      "post_id": "Barca_Studio_News/362175",
+      "channel": "Barca_Studio_News",
+      "caption": "اللعب يعود ✅",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/362175",
+      "kind": "text",
+      "timestamp": "2026-09-19T19:31:04+00:00",
+      "created_utc": "2026-09-19T19:31:45.258713+00:00"
+    },
+    "Barca_Studio_News/362174": {
+      "post_id": "Barca_Studio_News/362174",
+      "channel": "Barca_Studio_News",
+      "caption": "🎬 لـمـشـاهـدة الـهـدف الأول لـبـرشـلـونـة ، رافـيـنـهـا 🇧🇷⚽️ .\n         ☝ [ أضـغـط هـنـا ]\n💠💣💣💣💣💣💣💠",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/362174",
+      "kind": "text",
+      "timestamp": "2026-09-19T19:30:06+00:00",
+      "created_utc": "2026-09-19T19:31:45.606639+00:00"
+    },
+    "Barca_Studio_News/362173": {
+      "post_id": "Barca_Studio_News/362173",
+      "channel": "Barca_Studio_News",
+      "caption": "الآن استراحة لشرب الماء",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/362173",
+      "kind": "text",
+      "timestamp": "2026-09-19T19:29:13+00:00",
+      "created_utc": "2026-09-19T19:31:46.007394+00:00"
     }
   },
   "posted": {
