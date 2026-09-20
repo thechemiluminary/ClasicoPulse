@@ -899,6 +899,26 @@
     "Barca_Studio_News/362398": {
       "at_utc": "2026-09-19T23:35:31.580297+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/362404": {
+      "at_utc": "2026-09-20T01:35:07.185662+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/362403": {
+      "at_utc": "2026-09-20T01:35:07.551644+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/362397": {
+      "at_utc": "2026-09-20T01:35:07.888458+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/362396": {
+      "at_utc": "2026-09-20T01:35:08.226351+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/362394": {
+      "at_utc": "2026-09-20T01:35:08.584241+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -1059,6 +1079,65 @@
       "kind": "photo",
       "timestamp": "2026-09-19T22:59:49+00:00",
       "created_utc": "2026-09-19T23:35:31.580284+00:00"
+    },
+    "Barca_Studio_News/362404": {
+      "post_id": "Barca_Studio_News/362404",
+      "channel": "Barca_Studio_News",
+      "caption": "تقرير بي ان سبورت عن مباراة اليوم 🔵🔴\nتجدونه في صفحتنا على الفيسبوك \nhttps://www.facebook.com/reel/1543949344201343/",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/362404",
+      "kind": "text",
+      "timestamp": "2026-09-19T23:50:43+00:00",
+      "created_utc": "2026-09-20T01:35:07.185641+00:00"
+    },
+    "Barca_Studio_News/362403": {
+      "post_id": "Barca_Studio_News/362403",
+      "channel": "Barca_Studio_News",
+      "caption": "هجوم برشلونة في الدوري الإسباني 🥶",
+      "photos": [
+        "https://cdn4.telesco.pe/file/AyzQ7QjQpWwgpUJW6ydM4CsYvfrFi-0ZXXXDNX8FUnHr4f3wkHkyaPvTctP5AJDd22gwegc1aC3nmzMRkWNvuYG-RjpCMRRg-HLoD8jQ5vU6A72svjZdL-cPUxONty3YBDl6iZOCL3fW_7WEAapxQFFhL-wnyL6-qXJMCI-neR0YVeuGggPF2jKyEl95fMtVUHGGtJGZYZMl8-B19dLNZmCh9tEt15VMhCFID9yMHq_RK6GUea7HKvjhvm8iPzIuZ-THqlAJimb7eRaBsOVrjPpOSLQJJCAcyged8lDJVmuqfS0BQqCgjO5b4w1AIBYUVf8FcBA0GeLdm_uO4jtQTg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/362403",
+      "kind": "photo",
+      "timestamp": "2026-09-19T23:45:09+00:00",
+      "created_utc": "2026-09-20T01:35:07.551627+00:00"
+    },
+    "Barca_Studio_News/362397": {
+      "post_id": "Barca_Studio_News/362397",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨📰 #غـــلاف » SPORT 🔴🔵\n- هاتريك للبرازيلي، وهو الثاني له على التوالي، يقلب هدف فوفانا في الظهور الأول لـليفاكوفيتش. \n- لامين قدم تمريرتين حاسمتين، وبرشلونة يدخل فترة التوقف بالعلامة الكاملة من الانتصارات. \n- كريستنسن مصاب. \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/Fga0EBYQfi7kkysBDKKOLNIKG4Vakqupp-5qci7JbY_QNMf8tpiUGzmYHOvMLWRsCncRXaSRgjsovN5Ij6tkE3zBHyl0ZDLsM3Z_bWRpp0DlcoKRsm5x9VM7vSBXAtahwxX31adTWvRYUSh6pwERjsiw93NRGywSCTR99Y9iQGN8PC8N_odvzpGSZ94gemz7YtJRU3XVefqbQfWpFW-bM5K73wafUBhBaFzvR6JdMckmm4H0Um3tlBeEmjDaJB9aQdf6yZSueiSK7Q9gtbXG9XYG9xfjhQvDtGXV6tMlijQzfj27T2QOowhG0zH5ni-e7XJYePJdGiG6e5U-I8pIjQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/362397",
+      "kind": "photo",
+      "timestamp": "2026-09-19T22:56:57+00:00",
+      "created_utc": "2026-09-20T01:35:07.888442+00:00"
+    },
+    "Barca_Studio_News/362396": {
+      "post_id": "Barca_Studio_News/362396",
+      "channel": "Barca_Studio_News",
+      "caption": "🥶💙",
+      "photos": [
+        "https://cdn4.telesco.pe/file/h6_31QU1LwNLx3wSCzcIUwmRDgEs6G-Ugt5X_HlqtpP_Mta46jHc3g4i-oJlQYeOdDa0jj8y2u7kSKupNJCW3Qr3xvS3HHFVbHBpwbz5UmMP9IKZJl8LADaG8_AMt-xrqj7xMfeEK1rdO37ininjSeYyZvMW6pe8c_XlX7e81lJYj3x7oU_f_vo0lwBMiheCEO73Hs55JOukrnVvbw46jj0gydL5IJjsbNTOwqQhw1RGciX4moKzDE1kkdFOjiOlinygkCFpTW0uHziCLWTlzcwavnVWAJB2PeJ1vXGda7cQr0T757f26tpew_t6pEAYwau6JqV-AC0YH8hCTUA6iw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/362396",
+      "kind": "photo",
+      "timestamp": "2026-09-19T22:25:15+00:00",
+      "created_utc": "2026-09-20T01:35:08.226334+00:00"
+    },
+    "Barca_Studio_News/362394": {
+      "post_id": "Barca_Studio_News/362394",
+      "channel": "Barca_Studio_News",
+      "caption": "• 👤📲 #غـابـريـيـل_خـيـسـوس↫ ( IG ) :\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/E-eGsXqp8qqhCus89Xze5BV6riFyb23BEHmX5QdDi1n_f-A5zkT4l_ZOKeFLeEl_g9lp7eoaP9GVLVXGgAV-KTSZVsW0yUrU8w7GLja2Wxo-xJOMdVH_y4wqo8uCE06ws9IVd9lfmziBI0vclCETZFKvAtQN4MCkEdMgZq25A_-LZwhDp6OeYuN2dr0jBL3jzdmEpkR-Ochde72Vj8ViILpAWSOCvWznJwiXTOHmPJiNiEmg3BHxeiQfG4q9wj8yqgbKNkWHb0-L9UO21rEO9hSaAIWpJmFUmKmwrZpYwftidoe9lG9eSD3DX-WDgG268N4iijXrNsQ7RJrxYfSIRw.jpg",
+        "https://cdn4.telesco.pe/file/R0-k0Cui0tuTUWTSQcOXAow96Tfdc7AAC6gX1iJMBVB04HddSvB62MKQchWtlOOvIg3SeAkcGpo0p1sP1yVQoNyq3dcxMO7fE5lNnZP6OWplVJRrmKVgEaJXUzCn5nAPx5cBh58cn1iZWKVW5u9OGkpjGmY8gRdil6Z4czg3Opc-LkirRmDWE2k0llv2TfRFUCbTFDMDzYxILu4SF33S0-hJ6bGOsQJOmJL6JqvuMegd3VHSlNw7HqGcHIwgsc7icvcv_IQ773Nr7-KpsJ-8rOtRMngOfAkW1B6rHgfwVYNL_oqUIoB6bL6B_uvnU0oLyoiuoF6tfPPaC_WD4EoYgw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/362394",
+      "kind": "photo",
+      "timestamp": "2026-09-19T22:18:12+00:00",
+      "created_utc": "2026-09-20T01:35:08.584225+00:00"
     }
   },
   "posted": {
