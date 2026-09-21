@@ -983,6 +983,30 @@
     "Barca_Studio_News/362450": {
       "at_utc": "2026-09-21T06:15:59.669504+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/362494": {
+      "at_utc": "2026-09-21T12:58:54.781858+00:00",
+      "kind": "video"
+    },
+    "Barca_Studio_News/362493": {
+      "at_utc": "2026-09-21T12:58:55.196569+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/362489": {
+      "at_utc": "2026-09-21T12:58:55.618393+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/362488": {
+      "at_utc": "2026-09-21T12:58:55.991463+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/362487": {
+      "at_utc": "2026-09-21T12:58:56.414315+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/362486": {
+      "at_utc": "2026-09-21T12:58:56.779417+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -1159,6 +1183,67 @@
       "kind": "photo",
       "timestamp": "2026-09-20T16:25:24+00:00",
       "created_utc": "2026-09-21T06:15:59.669487+00:00"
+    },
+    "Barca_Studio_News/362493": {
+      "post_id": "Barca_Studio_News/362493",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙#انـيـس_مـارتـي »{ صـحـفـي }  \n💬 رافينها يوجه لامين بعد التدريبات في جوانب مثل تسديد ركلات الجزاء والركلات الحرة المباشرة 🤩. \n💠💣💣💣💣💣💣💠",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/362493",
+      "kind": "text",
+      "timestamp": "2026-09-21T12:11:17+00:00",
+      "created_utc": "2026-09-21T12:58:55.196552+00:00"
+    },
+    "Barca_Studio_News/362489": {
+      "post_id": "Barca_Studio_News/362489",
+      "channel": "Barca_Studio_News",
+      "caption": "— 🤔 مجموعة من الملابس الجديدة التي اطلقها النادي 👕. \n💠💣💣💣💣💣💣💠",
+      "photos": [
+        "https://cdn5.telesco.pe/file/UypG9V1A-oi67Jrgv1juVAUTwXFD1QYZOHeDSYz9OYf1mnJYHs6PM6RTyp1on4z0_KO1c92b3Kq8WXcuWnos87w0Yvg2ho22eP2F4nTbp5xReSUzReTDLvfPAlT0B6-_5r546VMUZ5fT-Vf1TvHjxxuoMSL9L1NUoH2zPfd_ZMh0POi3v-_b1YiSMhuekWd5MAZlIougwSWQk7Y0hvCczvCqdvY0vhwSoUM_Xa9V4v5wIWePs7Or-pPmB-lxKRz1jrWBzKWUE77aMkCuu9w_6d8JTcm3lnn7-NYJ9dxFvfsTHuS6GTIF18CInPIuM9YeSmX33nM2p53R5oWYSNEBjA.jpg",
+        "https://cdn5.telesco.pe/file/g3otn9Nff1CAv-DZHNuhXh5yNGVPofwoDgOzbPilTyWTXf11Q4MPZKu5PlsGgGLH2lFDey_rb4YEKvmE-vrV9SpE6_UaF0UX9iYZ8wiWjPSI1FlOUqJJgo-Tj4Pkq3abNbBlbA5R5BJr5-gmFTRUl0z8acHtbP4Xh5rIt4Qvo_C0WnGDL4R6IkqtQc73nVLREjS3RLzcBQjjWkV9dXkMULY-3So30BwjgNUCX-QrPIm3lJu_Bu_onZ-4N2vu3LbmyohU3p4sf8aftT4nzKi-UV8KUHqe_3x6WnwdFGYRj4BAhD0nwNlNCjpSx0pfczqsKfr4se-yQWDIqtjTo2Q7PQ.jpg",
+        "https://cdn5.telesco.pe/file/Vnt50JFcjhh2GYd_tUfFOtkm49qni2L0MQPh5bIu2sfPGWikz6VFbW8ITunj1gL8fS2-6zoYdKb-SJDFpshdfTmP4c8pahjgWLVcQnxZFzpLrK8HR9wEurBJZQkwxaI_PRvcw7o6Myy3n_0B7CsqqKHyItIxiEHM1gDdfYXQ9C8FFGpbvo9dEVux2UJmA6CMw8c2ULeHSFgSqoOJG1yv0X1Y7zm11Pbbt1h-8KuY7ye8lqkWBqYylue2IhSUpslI88P-mBwp9-3dkHVr-OQ0kEsDc0F33AGmzjdsyoKm4RUUzhjI61i5S1tdkmGoRhhK2ulN96n0p4i6ig_oFwr0Tw.jpg",
+        "https://cdn5.telesco.pe/file/B392cF6g6kG_HExm4SD_gjILiS-gEnhC5R6_pWNTNFRm9QgqKCij347GBG_DQURUplFs_212jNeFB9zxS92eFg8F715XKuBL8_SrSyqZqpmofe4Xg-HwrWM4yFQ65VILqjMifcRxaX8YKXWmrTKCOFCguK7VBR2GzuNIE6-oRJrlj16cxzmSeqnCvR7FG4pZ2Hy9Xg4CQOer7HdsdZE1HqOBoBfuFM8ssX0f89S0ykmAN89eCQveBjrpsTLLAi-jOjq7uKlllOqxoJn7rlEMWlw_lfyER9pu6_5BhJXL6Z1OH1c7Li_VxRaw802vaC1cshXqFuOKw1hOqTLuzdyuWg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/362489",
+      "kind": "photo",
+      "timestamp": "2026-09-21T12:08:16+00:00",
+      "created_utc": "2026-09-21T12:58:55.618376+00:00"
+    },
+    "Barca_Studio_News/362488": {
+      "post_id": "Barca_Studio_News/362488",
+      "channel": "Barca_Studio_News",
+      "caption": "— تشافي يختار تشكيلته المفضلة ✅",
+      "photos": [
+        "https://cdn5.telesco.pe/file/dJZAC-6lL7FdV9e-oCAo-DfSzQXt2hmk6MdZ6bscNadAgM-iNuMkB7Uaa1xVJSSdRuTSv9DLjUR1jWopboVdnrSneq9TH8FK4H0sbZEVgM9y6iZjSVHu9uEwb3sM-cs20LfWaPyAnkOn7-OgftP3C5rF23UxrxeIUplj3lsORxXQnpp6wNRFc8ShZtLe8io6C9wrxauMLrFGOOgNrfsnhJLE1_okrMsjB2yzXgH8J-p9I81MtsaZJFEajpcalLkgoQMqCdhICKR_pIsk2lQYkBOMUc5qsjJlutkMgk78hwgKNplJAHX24nK6WwAuEkxvKgS69ydnb0CQTtX2iLXx0w.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/362488",
+      "kind": "photo",
+      "timestamp": "2026-09-21T12:05:06+00:00",
+      "created_utc": "2026-09-21T12:58:55.991446+00:00"
+    },
+    "Barca_Studio_News/362487": {
+      "post_id": "Barca_Studio_News/362487",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙️#غـابـريـيـل_سـانـز » 𝖬𝖣 🔴🔵 \n💬 هانزي فليك أدخل قواعد جديدة في إدارة برشلونة، والنتائج حتى الآن مبهرة ⬇️. \n1⃣ قلل عدد الأساسيين الثابتين \n2⃣ رفع المنافسة واستخدام اللاعبين في أكثر من مركز. \n3⃣ اتخاذ قرارات حاسمة. \n4⃣ التناوب بين أولمو وفيرمين. \n5⃣ تثبيت ثنائيتي فيرمين-غوردون وأولمو-أديمي. \n6⃣ مكافأة الأداء الجيد. \n7⃣ زيادة أهمية الإعداد البدني.\n💠💣💣💣💣💣💣💣",
+      "photos": [
+        "https://cdn5.telesco.pe/file/R3Rz6OdgSlPsw4mZCJK0wa6jcbGkBtL2xSuxb9lzsZd2GvVID-3NVfMifK07cI01a0wRFdEVuMLbx81gbhdIbmZEma_SXBUVuXLVBcEqf4bUHGgQbdLClUsNhd59EtMoy52JlfWD8iJJwaWYVCyrP5skMMzbuHsZXeYxMEBdazUE6dPq8QDCpyYbgYNRMw0ZwAiJvF7JfMX4AKMiiVLTsUl5GKHMef9zzWqCUs9FdHrG52vtrOEmGMsaQhqaQE_gTgL2ZtzhhGtWPDyS-sBSjRGc_s1UyxHRRz3NjVs3YRYaMiPOsp6AWqO2XlxEWyhecPPK3xsaxDHD8U5wfdqDpw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/362487",
+      "kind": "photo",
+      "timestamp": "2026-09-21T11:34:21+00:00",
+      "created_utc": "2026-09-21T12:58:56.414299+00:00"
+    },
+    "Barca_Studio_News/362486": {
+      "post_id": "Barca_Studio_News/362486",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨🚨📋 الاتحاد الإسباني يعلن عن تجديد عقد المدرب لويس دي لافوينتي مع المنتخب الاسباني حتى عام 2032 ✅.",
+      "photos": [
+        "https://cdn5.telesco.pe/file/BStJrMB8bne4bf4FOR-rEVmkT-V0P0e-QDm41SBgOIdJa4OYMVP2t1ZBj1SfBdKAH-JSGYdIO7bHRn2CX-KaY2jqMGSxBk_nj5S6jMh0M-Orv9OT8VrzlKanXGzxMNS57_VLmtZDket6OA8pY_1UAMgWdK8LLjHVlQcevE5CjG0FZgDfoAiWZKPrMgomgMSV_VD_xo41C54U38xwvukY2yYl6aZnjDGrhGEJtAxPpsnaRfnyMsP0SAN86XsOBjEj6dyLTEf5mEUBu6T7FOYh5n6sdfXqxrGanPpqUS6Gk0cH7g9xMcWL9u7n-aD455nuLuljfDke7Cd8J3jdsnPNWQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/362486",
+      "kind": "photo",
+      "timestamp": "2026-09-21T11:31:59+00:00",
+      "created_utc": "2026-09-21T12:58:56.779402+00:00"
     }
   },
   "posted": {
@@ -1196,6 +1281,9 @@
     },
     "Barca_Studio_News/362456": {
       "at_utc": "2026-09-21T06:15:59.141877+00:00"
+    },
+    "Barca_Studio_News/362494": {
+      "at_utc": "2026-09-21T12:58:54.781879+00:00"
     }
   },
   "ads": {
