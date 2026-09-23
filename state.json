@@ -1127,6 +1127,30 @@
     "Barca_Studio_News/362653": {
       "at_utc": "2026-09-23T06:54:18.771496+00:00",
       "kind": "video"
+    },
+    "Barca_Studio_News/362691": {
+      "at_utc": "2026-09-23T12:30:48.169303+00:00",
+      "kind": "ad"
+    },
+    "Barca_Studio_News/362690": {
+      "at_utc": "2026-09-23T12:30:48.728245+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/362689": {
+      "at_utc": "2026-09-23T12:30:49.209691+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/362688": {
+      "at_utc": "2026-09-23T12:30:49.721898+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/362687": {
+      "at_utc": "2026-09-23T12:30:50.299552+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/362686": {
+      "at_utc": "2026-09-23T12:30:50.782807+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -1315,6 +1339,62 @@
       "kind": "photo",
       "timestamp": "2026-09-22T20:32:35+00:00",
       "created_utc": "2026-09-23T06:54:18.357452+00:00"
+    },
+    "Barca_Studio_News/362690": {
+      "post_id": "Barca_Studio_News/362690",
+      "channel": "Barca_Studio_News",
+      "caption": "📸 - اليوم حصة تدريبية مشتركة بين اللاعبين الذين ظلوا في برشلونة و الفريق الثاني ، في الصورة فليك وبيليتي ✅ .",
+      "photos": [
+        "https://cdn4.telesco.pe/file/vKaaxK5bUm2UQrNd7iudV25YNID-iuETxkAcd-DG45Mjbqh03sgGfuSBdHTkYmQuPPXdIyg9zXeMZKOiuFGzeK_fyQnM571MXItmjxXkDjdce9FaAFKLCQ-_4avmI20PWyFWAgYRERjOMW0-BmmlmA3hw0pqrqcbF71qi8lNwBciPcYYz0XocK5PccIwJHMmit7FdO0Od5immeXa9IO8C6_TAqmW514hCu_qrfh3nJgMo05vM_Auch6aWQuPJzI0pWllYnMab5DZ3B1iucAkrffRosqkPgDbq9JsGpt-D0-wK1sSLvFSwbjVcjffSU7wSSilOCIw95VpJexYoRdkaQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/362690",
+      "kind": "photo",
+      "timestamp": "2026-09-23T12:00:59+00:00",
+      "created_utc": "2026-09-23T12:30:48.728226+00:00"
+    },
+    "Barca_Studio_News/362689": {
+      "post_id": "Barca_Studio_News/362689",
+      "channel": "Barca_Studio_News",
+      "caption": "•📮📄 #صــحــيــفـــة ↫ 𝖲𝖤𝖱 ⚫⚪ \n〽️ - الهدف هو عودة فرينكي بعد التوقف 🔴 .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/362689",
+      "kind": "text",
+      "timestamp": "2026-09-23T10:42:41+00:00",
+      "created_utc": "2026-09-23T12:30:49.209673+00:00"
+    },
+    "Barca_Studio_News/362688": {
+      "post_id": "Barca_Studio_News/362688",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙#دافـيـد_بـيـرنـابـيـو » TV3 🔴🔵\n💬 - والذي لن يتجاوز دوره، كما كان متوقعًا، أن يكون بوقًا أخرى من حكاية فلورنتينو ومتحدثيه الرسميين: العالم والحكام كلهم ضدهم .\n💬 - ولهذا، كان فليك بالأمس في اجتماع المدربين، بينما بقي مورينيو في جحره، متمسكًا قدر استطاعته بنسخة من بيانات فريقه، والتي نسي أن يضع فيها معلومة: فريقه هو الأقل ركضًا في أوروبا .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/362688",
+      "kind": "text",
+      "timestamp": "2026-09-23T10:40:33+00:00",
+      "created_utc": "2026-09-23T12:30:49.721878+00:00"
+    },
+    "Barca_Studio_News/362687": {
+      "post_id": "Barca_Studio_News/362687",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙#دافـيـد_بـيـرنـابـيـو » TV3 🔴🔵 \n💬 - بعد أن كان شعارهم أنهم لا يلعبون ، بل يفوزون فقط ، أصبحوا الآن لا يلعبون ولا يفوزون . \n💬 - ولهذا، لم يبحثوا عن بديل لكروس، ولا لمودريتش، ولا عن بديل لرودري، ولا يمنحون بيرناردو أي اهتمام .\n💬 - ولهذا، أعادوا مورينيو، وهو مدرب عفا عليه الزمن، - 11عامًا من دون الفوز بالدوري . \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/f6FEO7CCW3fMHKJeTRfG8ieiwEIlTXzP18oiepD5qWeGl5bgya8JUa5ZAmPJ76_psAmW35NkqoJUMcmVMlPqCamiS7HwTfWm4XQEU9GqkC2JeRKtouDc7lgHj0oxodUcW0MbdR3_kADyxaluHIJsdlAHU_wBo-APVnf69XTzRjtAv_BqS40W-R7hAWOhWKZcxlMm60Fp9Jb238VuuFrn3qES0RuK0eyOYV5EAnG3bzQ_nXCIR0Bo7UNE11llshHylHtUckPKAn6NnkL_dkeyieXNrSSRSQwFDyCY3jbfAoG8UbVG1Lcv_8JbSy24GiFKtM2JrtUS8G94nNzTsGBzTg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/362687",
+      "kind": "photo",
+      "timestamp": "2026-09-23T10:38:06+00:00",
+      "created_utc": "2026-09-23T12:30:50.299533+00:00"
+    },
+    "Barca_Studio_News/362686": {
+      "post_id": "Barca_Studio_News/362686",
+      "channel": "Barca_Studio_News",
+      "caption": "🔴 رودري⁉️\n 🤵🏻🎙️#فـابـيـان_هـرتـسـلـر: \n💬 - أفضل رقم 6 في العالم. دائمًا في مكانه ونادرًا ما يرتكب الأخطاء مُبهر. \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/fHnZIZFPyWRXsWgOLlXLaRf8m5CIymO_JSoILbyPAxoxOd1ctEkegiN78wWIg8Cz51xxyK5H7UIGNupA_FFaE8zmu4dxjCuDh9Wx_3vz-Pnxw9xlSrvtVH32OHjgQMJ--1pHic0OION8d8OQGfU84uygYIvC7hvB7KBKwqj8T3cWVXQMGslCUjmadsgDp6MMXVIZ7DQfWMAmsJnj8b8XfsqvHaiB64MTv0OCI_0l7MdPAsPWL_CnjHGGsA9_8qAgNysiIQX1VpxD5W95BCRRr-Lr9UA0w0xSAI91Myy8CBqprwL_nMiv9NaCOBSEBxDOvy52E6SFzFLRmY0aVIGmrA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/362686",
+      "kind": "photo",
+      "timestamp": "2026-09-23T10:01:50+00:00",
+      "created_utc": "2026-09-23T12:30:50.782788+00:00"
     }
   },
   "posted": {
@@ -1375,6 +1455,9 @@
   "ads": {
     "Barca_Studio_News/360282": {
       "at_utc": "2026-09-10T20:54:07.463767+00:00"
+    },
+    "Barca_Studio_News/362691": {
+      "at_utc": "2026-09-23T12:30:48.169324+00:00"
     }
   },
   "tg_update_offset": 835476346
