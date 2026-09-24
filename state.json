@@ -1215,6 +1215,26 @@
     "Barca_Studio_News/362827": {
       "at_utc": "2026-09-24T16:39:16.986881+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/362862": {
+      "at_utc": "2026-09-24T20:08:15.700209+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/362861": {
+      "at_utc": "2026-09-24T20:08:16.264620+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/362860": {
+      "at_utc": "2026-09-24T20:08:16.794932+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/362859": {
+      "at_utc": "2026-09-24T20:08:17.350324+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/362858": {
+      "at_utc": "2026-09-24T20:08:17.883220+00:00",
+      "kind": "text"
     }
   },
   "pending": {
@@ -1386,6 +1406,58 @@
       "kind": "photo",
       "timestamp": "2026-09-24T13:36:28+00:00",
       "created_utc": "2026-09-24T16:39:16.986859+00:00"
+    },
+    "Barca_Studio_News/362862": {
+      "post_id": "Barca_Studio_News/362862",
+      "channel": "Barca_Studio_News",
+      "caption": "انلغى ❌❌",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/362862",
+      "kind": "text",
+      "timestamp": "2026-09-24T20:03:39+00:00",
+      "created_utc": "2026-09-24T20:08:15.700185+00:00"
+    },
+    "Barca_Studio_News/362861": {
+      "post_id": "Barca_Studio_News/362861",
+      "channel": "Barca_Studio_News",
+      "caption": "هدف الثاني لـ البرتغال. \n- كريستيانو رونالدو.",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/362861",
+      "kind": "text",
+      "timestamp": "2026-09-24T20:02:54+00:00",
+      "created_utc": "2026-09-24T20:08:16.264601+00:00"
+    },
+    "Barca_Studio_News/362860": {
+      "post_id": "Barca_Studio_News/362860",
+      "channel": "Barca_Studio_News",
+      "caption": "- نهاية الشوط الأول لـ مباراة البرتغال ✅ .\n- نهاية الشوط الأول لـ مباراة المانيا ✅ .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/362860",
+      "kind": "text",
+      "timestamp": "2026-09-24T19:36:42+00:00",
+      "created_utc": "2026-09-24T20:08:16.794914+00:00"
+    },
+    "Barca_Studio_News/362859": {
+      "post_id": "Barca_Studio_News/362859",
+      "channel": "Barca_Studio_News",
+      "caption": "😳😳😳",
+      "photos": [
+        "https://cdn4.telesco.pe/file/HOkDnM-uEQZr1Sd1MGMRokeA_EtZnA7e9eJDXTRdZvX5JpLZWqKGvB6Jb-YdkcuryKJAWPQrGO36PO5GV8ioL1cTAUKYX96BgZnUe7S5g-UZQ250lt6SRmctBzIOH9ffdhHNKJ4cUHNd7CKjChnjJLrWLlD8DPBXQ_-6tYnLg_GrrfFTMkvi_xbIIZw7lOSrID-5UynciPa-OhU52YvIcjqUc_0PgEpjZ2y39gSz8tmpUviknLJ3PooGuVYZAq5KBiYU3i3jS7DRQOJ31gbpSBnSXXscIBxU51GyeAR37VIR0BWQT_kWFhcSu-132BolbGfkGYBn2g9-vZzNBdzg2w.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/362859",
+      "kind": "photo",
+      "timestamp": "2026-09-24T19:28:54+00:00",
+      "created_utc": "2026-09-24T20:08:17.350306+00:00"
+    },
+    "Barca_Studio_News/362858": {
+      "post_id": "Barca_Studio_News/362858",
+      "channel": "Barca_Studio_News",
+      "caption": "- كريم اديمي ضيع هدف محقق ل منتخب المانيا الان 👀 .",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/362858",
+      "kind": "text",
+      "timestamp": "2026-09-24T19:26:25+00:00",
+      "created_utc": "2026-09-24T20:08:17.883204+00:00"
     }
   },
   "posted": {
