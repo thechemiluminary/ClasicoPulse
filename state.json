@@ -1275,61 +1275,29 @@
     "Barca_Studio_News/362886": {
       "at_utc": "2026-09-25T06:32:52.578718+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/362983": {
+      "at_utc": "2026-09-25T20:28:01.018185+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/362982": {
+      "at_utc": "2026-09-25T20:28:01.387051+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/362981": {
+      "at_utc": "2026-09-25T20:28:01.780036+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/362980": {
+      "at_utc": "2026-09-25T20:28:02.270439+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/362979": {
+      "at_utc": "2026-09-25T20:28:02.693699+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
-    "Barca_Studio_News/362862": {
-      "post_id": "Barca_Studio_News/362862",
-      "channel": "Barca_Studio_News",
-      "caption": "انلغى ❌❌",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/362862",
-      "kind": "text",
-      "timestamp": "2026-09-24T20:03:39+00:00",
-      "created_utc": "2026-09-24T20:08:15.700185+00:00"
-    },
-    "Barca_Studio_News/362861": {
-      "post_id": "Barca_Studio_News/362861",
-      "channel": "Barca_Studio_News",
-      "caption": "هدف الثاني لـ البرتغال. \n- كريستيانو رونالدو.",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/362861",
-      "kind": "text",
-      "timestamp": "2026-09-24T20:02:54+00:00",
-      "created_utc": "2026-09-24T20:08:16.264601+00:00"
-    },
-    "Barca_Studio_News/362860": {
-      "post_id": "Barca_Studio_News/362860",
-      "channel": "Barca_Studio_News",
-      "caption": "- نهاية الشوط الأول لـ مباراة البرتغال ✅ .\n- نهاية الشوط الأول لـ مباراة المانيا ✅ .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/362860",
-      "kind": "text",
-      "timestamp": "2026-09-24T19:36:42+00:00",
-      "created_utc": "2026-09-24T20:08:16.794914+00:00"
-    },
-    "Barca_Studio_News/362859": {
-      "post_id": "Barca_Studio_News/362859",
-      "channel": "Barca_Studio_News",
-      "caption": "😳😳😳",
-      "photos": [
-        "https://cdn4.telesco.pe/file/HOkDnM-uEQZr1Sd1MGMRokeA_EtZnA7e9eJDXTRdZvX5JpLZWqKGvB6Jb-YdkcuryKJAWPQrGO36PO5GV8ioL1cTAUKYX96BgZnUe7S5g-UZQ250lt6SRmctBzIOH9ffdhHNKJ4cUHNd7CKjChnjJLrWLlD8DPBXQ_-6tYnLg_GrrfFTMkvi_xbIIZw7lOSrID-5UynciPa-OhU52YvIcjqUc_0PgEpjZ2y39gSz8tmpUviknLJ3PooGuVYZAq5KBiYU3i3jS7DRQOJ31gbpSBnSXXscIBxU51GyeAR37VIR0BWQT_kWFhcSu-132BolbGfkGYBn2g9-vZzNBdzg2w.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/362859",
-      "kind": "photo",
-      "timestamp": "2026-09-24T19:28:54+00:00",
-      "created_utc": "2026-09-24T20:08:17.350306+00:00"
-    },
-    "Barca_Studio_News/362858": {
-      "post_id": "Barca_Studio_News/362858",
-      "channel": "Barca_Studio_News",
-      "caption": "- كريم اديمي ضيع هدف محقق ل منتخب المانيا الان 👀 .",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/362858",
-      "kind": "text",
-      "timestamp": "2026-09-24T19:26:25+00:00",
-      "created_utc": "2026-09-24T20:08:17.883204+00:00"
-    },
     "Barca_Studio_News/362895": {
       "post_id": "Barca_Studio_News/362895",
       "channel": "Barca_Studio_News",
@@ -1435,6 +1403,62 @@
       "kind": "text",
       "timestamp": "2026-09-24T22:56:58+00:00",
       "created_utc": "2026-09-25T06:32:52.578696+00:00"
+    },
+    "Barca_Studio_News/362983": {
+      "post_id": "Barca_Studio_News/362983",
+      "channel": "Barca_Studio_News",
+      "caption": "🇪🇬 - دخول حمزة عبدالكريم في تشكيلة المنتخب المصري في الدقيقة 61.",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/362983",
+      "kind": "text",
+      "timestamp": "2026-09-25T20:23:27+00:00",
+      "created_utc": "2026-09-25T20:28:01.018164+00:00"
+    },
+    "Barca_Studio_News/362982": {
+      "post_id": "Barca_Studio_News/362982",
+      "channel": "Barca_Studio_News",
+      "caption": "- فرصة كوندي الضائعة قبل قليل. 😳😳",
+      "photos": [
+        "https://cdn4.telesco.pe/file/aQDC0nAxra8lQBnOqSZpwnURGp0-LdydmvXU1Y6V0jFHfflhbS3-2ddox0wNUAMrZRpPgy-0daUMUrQVQ4e4ujL4RliMxrJQ715aj6jYiiRKr0fknP_I_BiWWudaKv4DIVYQS7jt8ths-ej__BgXJ_3zvFsjCxGYOIx9pciuwd4BIhTfbzQDMdKQzvvrNCbpCzwgh1IvbCcDWUvRMeDA_Ko0L0fzvdHQEqGhzpRIEF3IXsbOTnZZ86PA4bVuZhmeYffGOGO7k6ugDSzCC647sZd9E2huxs2h4nxsvbZ1P1hEZcHYqjR89WKKL3u7k0uKnb21G1KvKzcffmbhZrsO0g.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/362982",
+      "kind": "photo",
+      "timestamp": "2026-09-25T20:20:44+00:00",
+      "created_utc": "2026-09-25T20:28:01.387033+00:00"
+    },
+    "Barca_Studio_News/362981": {
+      "post_id": "Barca_Studio_News/362981",
+      "channel": "Barca_Studio_News",
+      "caption": "- مبابي مصاب في الركبة . \nالكلاسيكو باقي لهُ شهر 👀👀 .",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/362981",
+      "kind": "text",
+      "timestamp": "2026-09-25T20:11:29+00:00",
+      "created_utc": "2026-09-25T20:28:01.780020+00:00"
+    },
+    "Barca_Studio_News/362980": {
+      "post_id": "Barca_Studio_News/362980",
+      "channel": "Barca_Studio_News",
+      "caption": "🔰 - هل يختلف كثيرًا ما يطلبه منك دي لا فوينتي عما يطلبه منك فليك ⁉️ \n🇪🇸🎙#رودريـغـو_هـيـرنـانـديـز | #ESP 🟠🔴 \n• 💬 لدى المدربين بعض التفاصيل المختلفة، لكن هناك الكثير من المواقف المتشابهة جدًا، خصوصًا فيما يتعلق بالدور . \n🇪🇸🎙#رودريـغـو_هـيـرنـانـديـز | #ESP 🟠🔴 \n• 💬 مع هانسي ندافع بطريقة مختلفة عن المنتخب، لكن هذين المدربين يطلبان منك في النهاية أشياء متشابهة إلى حد كبير . \n• 💬 أن تقود من خلال تمركزك، ومن خلال اختيار موقعك، وأن تبدأ الضغط، وأن تبدأ بناء اللعب .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/PVx4lIUUkrOu4fmE_l8ZCPSa-Q4AOKw7l6h-U_L5Kf3OWf4zif2aSvpt8iOoJZ2mSPzXIztNpZixTMO5Q6TtdaTJ3kBgwVDYWBj1mOeVi2YUMrN9ThC-tUz401x5oHdZHLSsGcNkupKpXzJYsQ1yZx4B0DnJt4yccsfTBpXkxPqZ3HNI4DVEkZYcpaEXzEGJIQuT4Pn7IYWE9Hoemo3qgB4U355cAx2X4wGqbGpYWg4HU9-YLWDQDd8sxcVnBDxaAk1kmlK-zk4oO_Bqlg3WggYlSSw8PLrJflHK9sVnPiWiwWaWodDstYVWG7MjDloyccD1dbN8lQSktT_EzycdAQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/362980",
+      "kind": "photo",
+      "timestamp": "2026-09-25T20:07:05+00:00",
+      "created_utc": "2026-09-25T20:28:02.270424+00:00"
+    },
+    "Barca_Studio_News/362979": {
+      "post_id": "Barca_Studio_News/362979",
+      "channel": "Barca_Studio_News",
+      "caption": "🔰 - العمود الفقري للمنتخب من برشلونة ⁉️\n🇪🇸🎙#رودريـغـو_هـيـرنـانـديـز | #ESP 🟠🔴 \n• 💬 في كرة القدم، العلاقات بين اللاعبين مهمة جدًا، وإذا كان لديك عدد كبير من اللاعبين من النادي نفسه فهذا يساعد . \n• 💬 لكن المنتخب يضم الجميع، ودائمًا يجب أن يكون هناك تغيير بسيط في العقلية . \n🇪🇸🎙#رودريـغـو_هـيـرنـانـديـز | #ESP 🟠🔴 \n• 💬 وأتفهم أن وجود سبعة أو ثمانية لاعبين من النادي نفسه يُعد أمرًا إيجابيًا جدًا . \n• 💬 وخصوصًا عندما يكون هذا النادي يلعب بطريقة قريبة جدًا من طريقة لعب المنتخب .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/TAM4xpfdrMIdZfwtAl98ozMsxv6AWuPvRCT_9OOHnJun3AhlSgksRz0tRh7gJdAmM-UX3IO5NnlN03MByCmGZAFz9DqzgRfVeU08DSir5flGnF1Uq0SGUt5lkS8ph0VtbxYoiBRZxqMZHnodBWj-jKQ96QqJQCdmQrLUooZOz7Zzodks0Jajlw8V1uDfs_ehwy4yxiF5YovEVaNgJm2ke5hTdkw2AM7avtE9zHVfWEX4vs1tuO3wKqbELR8IFA42DWo7LpHDcmPyK_YECNu4MvJ1yFVEmLoy8SUcjIqRTM4hzFuBxND7QU8EO40o1ulNsm9ctULrNMUCz28Gecpz3g.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/362979",
+      "kind": "photo",
+      "timestamp": "2026-09-25T20:02:28+00:00",
+      "created_utc": "2026-09-25T20:28:02.693683+00:00"
     }
   },
   "posted": {
