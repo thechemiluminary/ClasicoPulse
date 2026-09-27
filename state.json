@@ -1431,6 +1431,26 @@
     "Barca_Studio_News/363210": {
       "at_utc": "2026-09-27T13:17:16.907146+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/363225": {
+      "at_utc": "2026-09-27T17:48:44.629942+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/363224": {
+      "at_utc": "2026-09-27T17:48:45.032002+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/363223": {
+      "at_utc": "2026-09-27T17:48:45.517147+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/363222": {
+      "at_utc": "2026-09-27T17:48:46.020825+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/363221": {
+      "at_utc": "2026-09-27T17:48:46.519851+00:00",
+      "kind": "text"
     }
   },
   "pending": {
@@ -1612,6 +1632,60 @@
       "kind": "photo",
       "timestamp": "2026-09-27T10:50:27+00:00",
       "created_utc": "2026-09-27T13:17:16.907128+00:00"
+    },
+    "Barca_Studio_News/363225": {
+      "post_id": "Barca_Studio_News/363225",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨🚨🚨🇵🇹 - تشكيلة البرتغال الرسمية لـ مواجهة النرويج. \n🔴 - جواو كانسيلو ✔️ .",
+      "photos": [
+        "https://cdn4.telesco.pe/file/d1t7teNJUaf7cxXuq0vscfPoCmLBtEYlvSBqzG6JCCLkl43WvYCq5QvgpwkD8zxV5soxIDtyLDQNkAW5AXD-mTQAL4SXGr5ep_Vst4sWn-PiQRaRkjo8T9vybCHyGtslNIKPaOMWJqX7yVACMIoIz5VKSAPAy0lsfVcUJLsYA0Df5tcshL13MJHwIwZkvzZt-m4Jm5oga_qgPyme75T8nKwWw8bvmMckx_a0r09bQXUoKknpB6q_DqDoQEmkhrwvZ3LzV8enYIMbNPEMt-_YnXpcOAsnzGFXVpTgD6jguUTRESjWc9_JbOoBCrQdbcGcfyxSSHMhCfdcUzMxSkMRcg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/363225",
+      "kind": "photo",
+      "timestamp": "2026-09-27T17:36:50+00:00",
+      "created_utc": "2026-09-27T17:48:44.629921+00:00"
+    },
+    "Barca_Studio_News/363224": {
+      "post_id": "Barca_Studio_News/363224",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙#انـخـيـل_بـيـريـز » MD\n💬- أنتوني غوردون يترك بصمته في ويمبلي\n💬- مهاجم برشلونة سجل هدفه الأول هذا الموسم، وكان مؤثرًا مع إنجلترا وأظهر قدراته تحت ضغط أحد أكبر المسارح الكروية\n💬- أنتوني أكد جاهزيته للحسم رغم أنه لم يسجل بعد مع البارسا، بينما يواصل اندماجه السريع داخل الفريق وينتظر نقل هذه الفاعلية إلى مبارياته بقميص النادي\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/363224",
+      "kind": "text",
+      "timestamp": "2026-09-27T17:14:49+00:00",
+      "created_utc": "2026-09-27T17:48:45.031987+00:00"
+    },
+    "Barca_Studio_News/363223": {
+      "post_id": "Barca_Studio_News/363223",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙#انـخـيـل_بـيـريـز »MD\n💬- هانسي فليك استغل مباراة ويمبلي لمراقبة لاعبيه مباشرة\n💬- الألماني خرج راضيًا بعد تألق لامين وغوردون بالتسجيل وأولمو بالصناعة، مع استمرار بقية العناصر في تقديم مستوى جيد يؤكد جاهزيتهم خلال فترة التوقف الدولي\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/363223",
+      "kind": "text",
+      "timestamp": "2026-09-27T17:11:15+00:00",
+      "created_utc": "2026-09-27T17:48:45.517130+00:00"
+    },
+    "Barca_Studio_News/363222": {
+      "post_id": "Barca_Studio_News/363222",
+      "channel": "Barca_Studio_News",
+      "caption": "🇹🇷🎙#أردا_تـوران - [ بـرشـلـونـة سـابـقـاً ]\n💬- تلعب بفرح وشجاعة ونضج. \n💬- تجعل كرة القدم تبدو جميلة، وتستحق الأفضل\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/Ox_bO9cO4E8P72T1OEuk0NDubtE0kbxrLUhpQp1DXKBK1lMhSIrbDdSPLb9p44vr_hoKM3k4tM7i8xkQtRXTugVi3qvIS1DYWy18wS90gLWwkzzU7OE3Un3P8P9QVPNSEPALJm8YDn2XR0VsGj_lT5XmtgXlMRmAJixn-Tt0Ic2xX5sIkPi7TxGYUD5R-t70NGhC_mWoDU7iZCGr2IFXKzg-1oFjeXstuKi8Qf0_HADIboNsny-j8lnTgYQTPjDukOmWoDzyBEtDu_804MPMIG94N4kMXIICF4kVtESECSvyLPZ2TAddyrsXa0Ltp2YUQ4e0HRj3ArX9qMw3Qib4UA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/363222",
+      "kind": "photo",
+      "timestamp": "2026-09-27T15:58:25+00:00",
+      "created_utc": "2026-09-27T17:48:46.020809+00:00"
+    },
+    "Barca_Studio_News/363221": {
+      "post_id": "Barca_Studio_News/363221",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨🚨 - #عــــاجــــل ↫ فـابـريـزيـو رومـانـو\n💬- برشلونة سعيد بالتشكيلة التي يمتلكها، ومقتنعين بأن رافينها قادر على الاستمرار بهذا المستوى طوال الموسم \n💬- كلام ديكو \"جوليان أصبح من الماضي\" لا يعني بأن برشلونة نسي ألفاريز بشكل نهائي \n💬- ديكو يريد من الجميع التركيز على هذا الموسم، وسنرى ما سيحدث في المستقبل\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/363221",
+      "kind": "text",
+      "timestamp": "2026-09-27T15:54:52+00:00",
+      "created_utc": "2026-09-27T17:48:46.519834+00:00"
     }
   },
   "posted": {
