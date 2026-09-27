@@ -1387,6 +1387,30 @@
     "Barca_Studio_News/363188": {
       "at_utc": "2026-09-26T23:49:59.725240+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/363198": {
+      "at_utc": "2026-09-27T01:55:57.435276+00:00",
+      "kind": "video"
+    },
+    "Barca_Studio_News/363197": {
+      "at_utc": "2026-09-27T01:55:57.914530+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/363187": {
+      "at_utc": "2026-09-27T01:55:58.332321+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/363185": {
+      "at_utc": "2026-09-27T01:55:58.848872+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/363183": {
+      "at_utc": "2026-09-27T01:55:59.247845+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/363181": {
+      "at_utc": "2026-09-27T01:55:59.623602+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -1565,6 +1589,69 @@
       "kind": "photo",
       "timestamp": "2026-09-26T22:24:01+00:00",
       "created_utc": "2026-09-26T23:49:59.725226+00:00"
+    },
+    "Barca_Studio_News/363197": {
+      "post_id": "Barca_Studio_News/363197",
+      "channel": "Barca_Studio_News",
+      "caption": "- تـصـبـحـون عـلـى خـيـر كـولـيـز ❤️‍🩹 .",
+      "photos": [
+        "https://cdn4.telesco.pe/file/XUL_bfqBgsxzlLia7pkwswImfh-qpcoB3Yz9Tyj5ZFTIE5gt-lmYvIYYv7AIozE_UZ7ZZ7bCj92_4y61ZqeGSJN8_jVNV82uDirERWgjasAErzmcoX3js-EBXqEvDyWD769Uxivj0IwC0PlKLQRPK8XlkxuBD0gH4Q8c3IsuAQJdzSuZWmiHaBanpGADxOetqP8BIcP3csqW8mfwKW8cYGvVijcEqrrZCwRjHqGOJLlBYz8-bJ-zhqvaL6E1YFX7uWS3pYZFgLfSOrE4k23BQ4UV3by8Ot1hgOopIaETQNDYjZy3p0_2xhN2Dksy4XIMgRgz-VyhH8RqUyTjwRjTNw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/363197",
+      "kind": "photo",
+      "timestamp": "2026-09-27T00:01:21+00:00",
+      "created_utc": "2026-09-27T01:55:57.914513+00:00"
+    },
+    "Barca_Studio_News/363187": {
+      "post_id": "Barca_Studio_News/363187",
+      "channel": "Barca_Studio_News",
+      "caption": "- يا له من لاعب حصلنا عليه ❤️ .",
+      "photos": [
+        "https://cdn4.telesco.pe/file/pBw6-6udtmUSMiQGDc4C9iPQTHVVfmzbcH89Y1Q7-xM78lrh5028-JcHX0JJSh0fmhp8TNSknRwMMTpQMlo6Ux4d6BJZqlZIFpyrj-oYlliCKySvp3h2aYAjL1SrWMfAgWTvuVIx0a5vNhQc7xP_9w_u3Z6k7roJtb-j0r-CU79yJs4w6uOjap7tFcargcKBmW4kVHO6Tsx5SdBqusfH9ozJrGdwMVJMYdvmzjB-P_aJ8aiyX7CcvA6GjGOxo64gXcguf_5P8ZCdByK1bUov_SEWK3BYPXIVC-r0UxAqdBgHujcu2sBw6YhoQ7-I8MICIg8EvyLGLcGw_zlc8URUbQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/363187",
+      "kind": "photo",
+      "timestamp": "2026-09-26T22:21:01+00:00",
+      "created_utc": "2026-09-27T01:55:58.332304+00:00"
+    },
+    "Barca_Studio_News/363185": {
+      "post_id": "Barca_Studio_News/363185",
+      "channel": "Barca_Studio_News",
+      "caption": "📸 - رودري 🤝 بـيـلـي ♥️ .",
+      "photos": [
+        "https://cdn4.telesco.pe/file/pN4M8cNMIyheVCOX6St0e_4csnRRJb7_FiZCVYYNfjyssJo3NP8McMc_zDVxONvVTGFWUqwfVn8rMqiLj7sR1iHq4PRzecG8nGcab5Leg8goUXukb2nS-r13zM-TUavRxRYiETlEQjZwqahGYQb3knw1ppbsN1VkmdijtevTP6t1tPKp3EOsR8NnpuOLXEVcSsHykOmV8824TTb1xxtsKOwZbEkrqGSuIAwvlUZqCeaB2UwC6W4Jo1g-1bSdhjgh5A-aDI1gKWVYpWUfMAvaC3x9d_7gSVP5F-IzfUMKGAYDeC458zezpD6X3fJ-itrIfjUue9hYio-EwXLx-8T9aw.jpg",
+        "https://cdn4.telesco.pe/file/TNmTmETy0buBGfM2JsKAsqlIe44flSmK4CGBu7g8S7mpL76Fgrza5OoHvsaQKpQ-LRfUJb_hSDMQCISQFkgqGBmhae0ENDHE9xpLTv7YBWzGV69BCoLTf_NEbZ8SqmT93R_sj3jSyw3E4E_VWVBDy3HVOocGtgBFWBWceeglpsrh9wO2Z3w_EzgjBDoJBvlUfY18O2e-tRKtfgFWm1DpAHlNQF-Akh2fjuh2wL0oI1ZZE3qlGsp1041vE8DfTZ_a-Ll4_APV5aJ_gnFovmTQijm2hZdgiUtMl9kVNPxMuBMBY0a9Hban0J0ek7Rnm5vLzpQTI0RvdfGtWi-33ui3rQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/363185",
+      "kind": "photo",
+      "timestamp": "2026-09-26T22:19:14+00:00",
+      "created_utc": "2026-09-27T01:55:58.848856+00:00"
+    },
+    "Barca_Studio_News/363183": {
+      "post_id": "Barca_Studio_News/363183",
+      "channel": "Barca_Studio_News",
+      "caption": "📸 - لامـيـن 🤝 بـيـلـي ❤️🩵 .",
+      "photos": [
+        "https://cdn4.telesco.pe/file/c_pjtdEy6fQDsQvUivsuUuJFvOJR41fJwMIS0dooxx5MUNLwjQRXaUv0qK_CNhoTHxROsWGqe9CP8y_mVGTQWtvEUNpvVAXLrFfgkfa242K4IjjuWSkuLKuTpdtwA74nhKCy082_Hj6GNndWktEXTHvB82js2j0kC5hiN9v1FNDQU5tF-TYi6kfRYUCJfS8sDXpHhfEfgmUYQ06A_KVBA26_HKeU_EnjvlKtsPbmAO6bUxHJRl3pcGV-zWDJzUgshiKtOuKG71_uh-FB_BpSuEiOSrVtlQRSmngihb4FPBEqOa1H-FsnkfO90vZGWcQw1yuGabzQ3jsDzY63q8n_GQ.jpg",
+        "https://cdn4.telesco.pe/file/eKiapUtSbIIoD_Cz0ZSJG0Hn12A1DHvX14ftDFTYqjlCjURQd9B_qARPJlEv6eU_10fDMl2XoK69KiDHhEbq6BFmmmiDHFGk-OVMFsxxzFVEvZmWp31eDtgZy-jbEAC-bsSYoHjayUyJzl-lweYJL9j8Vr606lSvXFQPF2sqWeryxGFUmVZkRCUe4TsBU9MHNKVr8DrzPeFYnhx3VF4QQ4ps8n4G2LhgzZsRcMoEC27CTeGkjvqwQB3aN2cFE85mypT_hOkJayNt441cWDPvQuKL62Z2JK9kerGdeRDNzQqwSm-nshjVdFQsFgPYDJCvJYpm_3b93OPYm9_eWxSClg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/363183",
+      "kind": "photo",
+      "timestamp": "2026-09-26T22:17:35+00:00",
+      "created_utc": "2026-09-27T01:55:59.247828+00:00"
+    },
+    "Barca_Studio_News/363181": {
+      "post_id": "Barca_Studio_News/363181",
+      "channel": "Barca_Studio_News",
+      "caption": "📸 - رودري 🦾 .",
+      "photos": [
+        "https://cdn4.telesco.pe/file/ufSU6nMDbwA_oElgib_d8eW0rICWmUEWeB_jwQUaiCK4-8xaA6tWgmm0JXUHhGaDTJSnEzj6EhpbqmgncQR5i_JBL-w_tNjBFsZS-FxPzQM_KEsrc0GCixdxX069UcZJcecT1N5SF_a2mQINEm8cV8LWa1kEJCjFRBv3sD41t7EWsHaeMjJjT2X0z-yPjHUTz0UnnQjJYsNEFtaGlXy1P_uXxIa7I1oQJ7AbQO1VCSJi91FpYsKuO1cT31oSJXRvNJ99czv86638phHe2TiRZS5-vo3doZqQkcAHeGwIqG16l16oHTpkeyikfWuY29kwLXzNMhe4YlvLqk4MhpdvmQ.jpg",
+        "https://cdn4.telesco.pe/file/g1kkdtdZmgexFMNOsNi4wtjOlTZSbNtK4Os38u9ITues0-RPExoS4uhFd5UmPhqYTAtLmLzko5uT-1-_10e8rsiaQwK7AXhEan6zZNaN2inyNIlXWzO74s9UIMg9O0Y8v4nZD-WAn88k5rPj3_vueyoU9jeNmK7u6OFrZcTQhiGnX0cAQ04BPmsX2FRxAsF4iexbUvU-wy5uMqKmZQ4lGiDD9WrQvVggUm9-NedTMODSady5IwtEW9fRwC2SPzZUI2p5RzayvGrE5BHP4OSD-9aMJ90CDwPYSyElfwx3mJS5JNeIPROPZiY9uv1XIWQi5nqFUqJshtbcROqoEgLuBA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/363181",
+      "kind": "photo",
+      "timestamp": "2026-09-26T22:16:34+00:00",
+      "created_utc": "2026-09-27T01:55:59.623585+00:00"
     }
   },
   "posted": {
@@ -1632,6 +1719,9 @@
     },
     "Barca_Studio_News/363192": {
       "at_utc": "2026-09-26T23:49:58.305337+00:00"
+    },
+    "Barca_Studio_News/363198": {
+      "at_utc": "2026-09-27T01:55:57.435296+00:00"
     }
   },
   "ads": {
