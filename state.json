@@ -1475,65 +1475,37 @@
     "Barca_Studio_News/363295": {
       "at_utc": "2026-09-28T07:44:28.035267+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/363331": {
+      "at_utc": "2026-09-28T16:02:02.833215+00:00",
+      "kind": "video"
+    },
+    "Barca_Studio_News/363330": {
+      "at_utc": "2026-09-28T16:02:03.676604+00:00",
+      "kind": "video"
+    },
+    "Barca_Studio_News/363329": {
+      "at_utc": "2026-09-28T16:02:04.214894+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/363328": {
+      "at_utc": "2026-09-28T16:02:04.775848+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/363327": {
+      "at_utc": "2026-09-28T16:02:05.276024+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/363326": {
+      "at_utc": "2026-09-28T16:02:05.792824+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/363325": {
+      "at_utc": "2026-09-28T16:02:06.311058+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
-    "Barca_Studio_News/363214": {
-      "post_id": "Barca_Studio_News/363214",
-      "channel": "Barca_Studio_News",
-      "caption": "•📮📄 #صــحــيــفـــة ↫𝖲𝖯𝖮𝖱𝖳 🔴🔵\n🤔- المهاجم المصري، أحد أهم رهانات برشلونة المستقبلية، يجذب اهتمام السوق.\n🤔- لقد بادر النادي بالفعل: جدد العقد حتى عام 2030 مع بند يتراوح سعره بين 15 و150 مليونًا\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/N50N-AtnOmwgDM5TTobK_2MuUGWpoJhksq44jYOn7XUQlE74jFB5B4RlitfOmF2BKshD0R9Czv2FYkJ_QkpRmXQqcbWUdvNaZKwkwpmMoDbIA1Tku0Ip44xerLVmn3EzUco1HfwcNSggMED5Txm_G5B-4mSrismAE7lNOeQz4LK_NnNkYkHzhJMVaQDd65acRRTANwU7n8s85WGzBNM2hP2vsSBYCY6fMQB503Asqdv9lZMATSyeAaD49BpZY5olaSy-Smzrx5HscnXps5eDXcJkE6kmU0WKPqGuzlFSgXLMn4qdO0U4kI3V9mBR7Fr_pdgjxdsREdjQ5vkYp33JPQ.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/363214",
-      "kind": "photo",
-      "timestamp": "2026-09-27T13:15:40+00:00",
-      "created_utc": "2026-09-27T13:17:14.520121+00:00"
-    },
-    "Barca_Studio_News/363213": {
-      "post_id": "Barca_Studio_News/363213",
-      "channel": "Barca_Studio_News",
-      "caption": "•📮📄 #صــحــيــفـــة ↫𝖲𝖯𝖮𝖱𝖳 🔴🔵\n🤔- برشلونة يراقب عن كثب الأزمة بين إستيفاو وتشابي ألونسو . \n🤔- المهاجم البرازيلي، الذي يتمتع بمؤهلات برشلونة، غير راضٍ في تشيلسي بسبب قلة وقت اللعب الذي يمنحه إياه مدربه . \n🤔- أفادت التقارير أن أليخاندرو بالدي عُرض على تشيلسي قبل فترة الانتقالات الشتوية في يناير. 👀\n🤔- قد يكون الظهير الأيسر لبرشلونة متاحاً للانتقال.\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/363213",
-      "kind": "text",
-      "timestamp": "2026-09-27T13:09:04+00:00",
-      "created_utc": "2026-09-27T13:17:15.098107+00:00"
-    },
-    "Barca_Studio_News/363212": {
-      "post_id": "Barca_Studio_News/363212",
-      "channel": "Barca_Studio_News",
-      "caption": "أنشيلوتي سيشرك رافينها أساسي يوم الثلاثاء كمهاجم 9\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/EeOdT0DXEaS1Yysg8ZLxq3TtfVBxaHL6dwELhAQVbfJ21vSxa3S4ws4zwto2Qos9xJ_sLXZx4r3chzh67jwY7CnM4JSan55qAuQVLG5Ty8UM1ym2adHesRHjwayQnImpNeIr_uwM1q_EWNjTUQwvFqpWrxA2gccfCvt_EN5z9y-_5RBVvfogftP_BfgF6aJ61g5BCgtv0OZudIKqdIKCnq9pzXu22b3n4XuIamFjSGLkBq0uXSiXAXwICA6BMpRn3CINQiPUYnOABd30zWGEPDXHna0L5BEBNXWpK588XC5pTDGmkFV059Q7iqmRQGWz_fLOgS2_oWMjpv0eo-oJnQ.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/363212",
-      "kind": "photo",
-      "timestamp": "2026-09-27T13:03:58+00:00",
-      "created_utc": "2026-09-27T13:17:15.675181+00:00"
-    },
-    "Barca_Studio_News/363211": {
-      "post_id": "Barca_Studio_News/363211",
-      "channel": "Barca_Studio_News",
-      "caption": "🇵🇹🎙#جـواو_فـيـلـيـكـس | #POR 🔴🟢\n💬- فرق مثل برشلونة وريال مدريد وأتلتيكو من الفرق التي يحب الناس مشاهدتها، لكنني بطبيعة الحال أشاهد برشلونة أكثر.\n💬- أنا أتابع برشلونة، وبالطبع أشاهده كثيراً من أجل لامين؛ فأنا أعشق أسلوبه في اللعب، وطريقته في خوض المباريات، وكيف يمنحنا المتعة؛ إذ إن مشاهدته بحد ذاتها تجلب السرور، وتجعلك وأنت جالس في منزلك على الأريكة تشعر بنفس القدر من المتعة التي يشعر بها هو وفريق برشلونة\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/363211",
-      "kind": "text",
-      "timestamp": "2026-09-27T10:51:32+00:00",
-      "created_utc": "2026-09-27T13:17:16.263527+00:00"
-    },
-    "Barca_Studio_News/363210": {
-      "post_id": "Barca_Studio_News/363210",
-      "channel": "Barca_Studio_News",
-      "caption": "🤔- فترتك مع البارسا ⁉️\n🇵🇹🎙#جـواو_فـيـلـيـكـس | #POR 🔴🟢\n💬- ذكريات جميلة جداً. صحيح انه في النهاية لم نتمكن من الفوز بأي لقب، لكن مجرد اللعب لبرشلونة كان يمنحني سعادة غامرة . \n💬-  من الواضح أن اللعب بنظام الإعارة يختلف عن الارتباط بعقد دائم مع النادي؛ فالوضع يختلف تماماً عندما تكون لاعباً في صفوف النادي فعلياً. في غضون عام واحد، قد تحدث أمور كثيرة؛ فقد تكون الفترة ممتازة أو سيئة للغاية، وقد تمر بلحظات تألق أو تراجع . \n💬 - لكنني سعيد جداً لأنني ارتديت قميص برشلونة، كان ذلك حلماً يراودني منذ الطفولة، وكذلك يراود والدي وشقيقي. لقد كان ذلك مصدر فخر لي، أحببت حقاً فترتي في برشلونة .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/jI2vIdTSGo8yD1cZgNR6vjCfG-ghR6z0cF1NOxrY_admD6SEFJdvqRXRGGqMjriapk4BSeUObLnccmDIiHLRUpfBr4-y8iM6f8AZhMIzVD4bYSP-yiRzL_PqHX4R-zIx_gJNb6gBd3NOPex2bURa2Bi6tv979i96LaxLVn-89QmcyIKQnAKAMRpA4Oxze2Oa9HrvmaFHmAy0pHaQm4RTZ3a3z7bl4jml5uhK0uLj6GAcEUyNEcqxfGuqn9mOcJpUlam5eQP2IXhaDFX7I8sDtGDLSFZL2DyuhFbt7DLoaQsO9IXzvNpPlhssJlGciWIxY31Xno_IbfMKLveIwXqOKw.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/363210",
-      "kind": "photo",
-      "timestamp": "2026-09-27T10:50:27+00:00",
-      "created_utc": "2026-09-27T13:17:16.907128+00:00"
-    },
     "Barca_Studio_News/363225": {
       "post_id": "Barca_Studio_News/363225",
       "channel": "Barca_Studio_News",
@@ -1645,6 +1617,60 @@
       "kind": "text",
       "timestamp": "2026-09-27T22:17:56+00:00",
       "created_utc": "2026-09-28T07:44:28.035247+00:00"
+    },
+    "Barca_Studio_News/363329": {
+      "post_id": "Barca_Studio_News/363329",
+      "channel": "Barca_Studio_News",
+      "caption": "🔥 إذا تـحـب بـرشـلـونـة، فـأنـت بـمـكـانـك الـصـحـيـح! 🔥\nمـو مـجـرد قـنـاة… هـنـا تـلـگـى كـلـشـي يـخـص أجـواء الـبـارسا 💙❤️\nمن سـتـوريـات، اقـتـبـاسـات، صـور، وأغـانـي مـخـتـارة لـعـشـاق بـرشـلـونـة 🎶⚽\nنـرحـب بـكـل أهـلـنـا الـجـدد\nنـورتـوا «مـمـلـكـة بـرشـلـونـة» 👑💙❤️\nخـلـوكـم ويـانـا، والـقـادم أجـمـل إن شـاء الله! 🔥\nhttps://t.me/Kingdom_Barcelona\nhttps://t.me/Kingdom_Barcelona",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/363329",
+      "kind": "text",
+      "timestamp": "2026-09-28T14:01:03+00:00",
+      "created_utc": "2026-09-28T16:02:04.214878+00:00"
+    },
+    "Barca_Studio_News/363328": {
+      "post_id": "Barca_Studio_News/363328",
+      "channel": "Barca_Studio_News",
+      "caption": "🇪🇸🎙#كـريـسـتـيـان_تـيـلـو | [ بـرشـلـونـة سـابـقـاً ] \n• 💬 خلال الغداء تم تسريب التشكيلة ، غوارديولا كان غاضب جدًا . \n• 💬 قال إن علينا أن نكون عائلة وأن نكون متحدين ككتلة واحدة . \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/363328",
+      "kind": "text",
+      "timestamp": "2026-09-28T13:42:42+00:00",
+      "created_utc": "2026-09-28T16:02:04.775831+00:00"
+    },
+    "Barca_Studio_News/363327": {
+      "post_id": "Barca_Studio_News/363327",
+      "channel": "Barca_Studio_News",
+      "caption": "🔰 - تسريب التشكيلة في كلاسيكو 2012 ⁉️\n🇪🇸🎙#كـريـسـتـيـان_تـيـلـو | [ بـرشـلـونـة سـابـقـاً ] \n• 💬 غوارديولا كان يحضر مفاجأة في التشكيلة بوجود تيلو وتياغو . \n• 💬 كانت واقعة غريبة بعض الشيء، تدربنا صباحًا في كامب نو . \n• 💬 غوارديولا حدد التشكيلة، عدنا في فترة ما بعد الظهر عندما كنا في المعسكر . \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/XmwbhVuTFI3K1G3dLPm54XkcQgmSTh5nAkOY5EDI5pUnl3_z_1Eet4YUCK1G9VV4Qz9E7tFjfpDVx5ymiek3PmLNCCkA9gyOVVLvkL9232nlEX7Aw2xhhiMn08Q0LmMmImyQWKMFkcoghP2u5clg7gvyz9VpxMGIy4Qx1ngqrlriHwaU83QFDRb6XvCIS-tSrWXG2HpLTM55xFsRSeVSVtlqFm1TJ5maOHUVBbZ5wb7Ncy3Zxks-svlX4tqiG70uvJ7-v2QhWRVrs8A-WZb1KzkFaWdcAJUzUJNHgIhH0qzG06QdzeB7xK7h87743KuoD_HVzO8ziFd6S2t_6P9avg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/363327",
+      "kind": "photo",
+      "timestamp": "2026-09-28T13:40:02+00:00",
+      "created_utc": "2026-09-28T16:02:05.276008+00:00"
+    },
+    "Barca_Studio_News/363326": {
+      "post_id": "Barca_Studio_News/363326",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙️#سـانـتـي_اوفـال » 𝖲𝖤𝖱 ⚫⚪\n💬 - النادي كان يتوقع ان يستمر رافا هذا العام لكن العام المقبل يرحل للدوري السعودي لكسب المال ولهذا السبب تم التعاقد مع غوردون . \n💬 - عندما بدأت مفاوضات تجديد العقد توصلوا الى اتفاق سريع وقاموا بتحسين راتبه واصبح في المرتبة الثانية مع رودري . \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/363326",
+      "kind": "text",
+      "timestamp": "2026-09-28T13:23:39+00:00",
+      "created_utc": "2026-09-28T16:02:05.792807+00:00"
+    },
+    "Barca_Studio_News/363325": {
+      "post_id": "Barca_Studio_News/363325",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙️#سـانـتـي_اوفـال » 𝖲𝖤𝖱 ⚫⚪ \n💬 - متى أصبح رافينها الرقم 9 في برشلونة ❓\n💬 - في فترة الاعداد وضعوه في هذا المركز وفليك تحدث معه واراده أن يضغط مثل الوحش . \n💬 - هذا ما فعله رافينها ، فليك لم يتوقع هذه الارقام منه . \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/KagMTWy_NqoPRmeFVQyENO86c-JgUx1pwvc5jMPGYI3Ai1cOGVAf7UFa0U0jRa-41jROZSmZZ6eYWE5ePU7aDl2xcpCo0y7OYnY_CNHe7jx7OnknUDik31Y8eHchREKS8waamMkZDrJRP8Klp89oBuWqahjAm4_H7cqlvI7wKPrOaX2_ND4Xw_84bFLCRw5YMNFSFa9d4votrl8C7M9fdgpz4tQows_i-SOhV0o0Ye5H1eErDu5hT_vVzNfvHboQy5KDBhmmSF1ynhLjBVr537qgPg5UZUQDCUPyxZ4boPhmfD_DNXOE4vJJT8dBEbzNGe3NQQE-430mZKYahj-mYw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/363325",
+      "kind": "photo",
+      "timestamp": "2026-09-28T13:22:21+00:00",
+      "created_utc": "2026-09-28T16:02:06.311042+00:00"
     }
   },
   "posted": {
@@ -1718,6 +1744,12 @@
     },
     "Barca_Studio_News/363299": {
       "at_utc": "2026-09-28T01:46:28.342057+00:00"
+    },
+    "Barca_Studio_News/363331": {
+      "at_utc": "2026-09-28T16:02:02.833236+00:00"
+    },
+    "Barca_Studio_News/363330": {
+      "at_utc": "2026-09-28T16:02:03.676621+00:00"
     }
   },
   "ads": {
