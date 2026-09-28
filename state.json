@@ -1503,63 +1503,29 @@
     "Barca_Studio_News/363325": {
       "at_utc": "2026-09-28T16:02:06.311058+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/363378": {
+      "at_utc": "2026-09-28T21:51:27.877158+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/363377": {
+      "at_utc": "2026-09-28T21:51:28.464445+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/363376": {
+      "at_utc": "2026-09-28T21:51:28.976126+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/363375": {
+      "at_utc": "2026-09-28T21:51:29.526618+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/363374": {
+      "at_utc": "2026-09-28T21:51:30.060929+00:00",
+      "kind": "text"
     }
   },
   "pending": {
-    "Barca_Studio_News/363225": {
-      "post_id": "Barca_Studio_News/363225",
-      "channel": "Barca_Studio_News",
-      "caption": "🚨🚨🚨🇵🇹 - تشكيلة البرتغال الرسمية لـ مواجهة النرويج. \n🔴 - جواو كانسيلو ✔️ .",
-      "photos": [
-        "https://cdn4.telesco.pe/file/d1t7teNJUaf7cxXuq0vscfPoCmLBtEYlvSBqzG6JCCLkl43WvYCq5QvgpwkD8zxV5soxIDtyLDQNkAW5AXD-mTQAL4SXGr5ep_Vst4sWn-PiQRaRkjo8T9vybCHyGtslNIKPaOMWJqX7yVACMIoIz5VKSAPAy0lsfVcUJLsYA0Df5tcshL13MJHwIwZkvzZt-m4Jm5oga_qgPyme75T8nKwWw8bvmMckx_a0r09bQXUoKknpB6q_DqDoQEmkhrwvZ3LzV8enYIMbNPEMt-_YnXpcOAsnzGFXVpTgD6jguUTRESjWc9_JbOoBCrQdbcGcfyxSSHMhCfdcUzMxSkMRcg.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/363225",
-      "kind": "photo",
-      "timestamp": "2026-09-27T17:36:50+00:00",
-      "created_utc": "2026-09-27T17:48:44.629921+00:00"
-    },
-    "Barca_Studio_News/363224": {
-      "post_id": "Barca_Studio_News/363224",
-      "channel": "Barca_Studio_News",
-      "caption": "🤵🏻🎙#انـخـيـل_بـيـريـز » MD\n💬- أنتوني غوردون يترك بصمته في ويمبلي\n💬- مهاجم برشلونة سجل هدفه الأول هذا الموسم، وكان مؤثرًا مع إنجلترا وأظهر قدراته تحت ضغط أحد أكبر المسارح الكروية\n💬- أنتوني أكد جاهزيته للحسم رغم أنه لم يسجل بعد مع البارسا، بينما يواصل اندماجه السريع داخل الفريق وينتظر نقل هذه الفاعلية إلى مبارياته بقميص النادي\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/363224",
-      "kind": "text",
-      "timestamp": "2026-09-27T17:14:49+00:00",
-      "created_utc": "2026-09-27T17:48:45.031987+00:00"
-    },
-    "Barca_Studio_News/363223": {
-      "post_id": "Barca_Studio_News/363223",
-      "channel": "Barca_Studio_News",
-      "caption": "🤵🏻🎙#انـخـيـل_بـيـريـز »MD\n💬- هانسي فليك استغل مباراة ويمبلي لمراقبة لاعبيه مباشرة\n💬- الألماني خرج راضيًا بعد تألق لامين وغوردون بالتسجيل وأولمو بالصناعة، مع استمرار بقية العناصر في تقديم مستوى جيد يؤكد جاهزيتهم خلال فترة التوقف الدولي\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/363223",
-      "kind": "text",
-      "timestamp": "2026-09-27T17:11:15+00:00",
-      "created_utc": "2026-09-27T17:48:45.517130+00:00"
-    },
-    "Barca_Studio_News/363222": {
-      "post_id": "Barca_Studio_News/363222",
-      "channel": "Barca_Studio_News",
-      "caption": "🇹🇷🎙#أردا_تـوران - [ بـرشـلـونـة سـابـقـاً ]\n💬- تلعب بفرح وشجاعة ونضج. \n💬- تجعل كرة القدم تبدو جميلة، وتستحق الأفضل\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/Ox_bO9cO4E8P72T1OEuk0NDubtE0kbxrLUhpQp1DXKBK1lMhSIrbDdSPLb9p44vr_hoKM3k4tM7i8xkQtRXTugVi3qvIS1DYWy18wS90gLWwkzzU7OE3Un3P8P9QVPNSEPALJm8YDn2XR0VsGj_lT5XmtgXlMRmAJixn-Tt0Ic2xX5sIkPi7TxGYUD5R-t70NGhC_mWoDU7iZCGr2IFXKzg-1oFjeXstuKi8Qf0_HADIboNsny-j8lnTgYQTPjDukOmWoDzyBEtDu_804MPMIG94N4kMXIICF4kVtESECSvyLPZ2TAddyrsXa0Ltp2YUQ4e0HRj3ArX9qMw3Qib4UA.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/363222",
-      "kind": "photo",
-      "timestamp": "2026-09-27T15:58:25+00:00",
-      "created_utc": "2026-09-27T17:48:46.020809+00:00"
-    },
-    "Barca_Studio_News/363221": {
-      "post_id": "Barca_Studio_News/363221",
-      "channel": "Barca_Studio_News",
-      "caption": "🚨🚨 - #عــــاجــــل ↫ فـابـريـزيـو رومـانـو\n💬- برشلونة سعيد بالتشكيلة التي يمتلكها، ومقتنعين بأن رافينها قادر على الاستمرار بهذا المستوى طوال الموسم \n💬- كلام ديكو \"جوليان أصبح من الماضي\" لا يعني بأن برشلونة نسي ألفاريز بشكل نهائي \n💬- ديكو يريد من الجميع التركيز على هذا الموسم، وسنرى ما سيحدث في المستقبل\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/363221",
-      "kind": "text",
-      "timestamp": "2026-09-27T15:54:52+00:00",
-      "created_utc": "2026-09-27T17:48:46.519834+00:00"
-    },
     "Barca_Studio_News/363300": {
       "post_id": "Barca_Studio_News/363300",
       "channel": "Barca_Studio_News",
@@ -1671,6 +1637,60 @@
       "kind": "photo",
       "timestamp": "2026-09-28T13:22:21+00:00",
       "created_utc": "2026-09-28T16:02:06.311042+00:00"
+    },
+    "Barca_Studio_News/363378": {
+      "post_id": "Barca_Studio_News/363378",
+      "channel": "Barca_Studio_News",
+      "caption": "🇪🇸🎙#دي_لافـويـنـتي | #ESP 🔴🟡 \n• 💬 خصوصًا أننا نعرف أن لدينا لاعبين آخرين في حالة ممتازة وهو أيضًا تفهم الوضع تمامًا . \n🇪🇸🎙#دي_لافـويـنـتي | #ESP 🔴🟡\n• 💬 لكنني أكرر، نحن لا نريد تحت أي ظرف أن نخلق حالة صراع مع لاعب كرة القدم، ما نريده هو أن يلعبوا عندما يكونون جاهزين بشكل مؤكد . \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/363378",
+      "kind": "text",
+      "timestamp": "2026-09-28T21:51:01+00:00",
+      "created_utc": "2026-09-28T21:51:27.877135+00:00"
+    },
+    "Barca_Studio_News/363377": {
+      "post_id": "Barca_Studio_News/363377",
+      "channel": "Barca_Studio_News",
+      "caption": "⚜ - إصابة إريك غارسيا وعودته إلى ناديه للتعافي، بدلًا من الانتظار حتى يتعافى وربما تستخدمه ⁉️\n🇪🇸🎙#دي_لافـويـنـتي | #ESP 🔴🟡\n• 💬 بالتأكيد لو كنا في مرحلة نهائية من بطولة، لكان قد بقي معنا . \n🇪🇸🎙#دي_لافـويـنـتي | #ESP 🔴🟡 \n• 💬 أولًا لأننا جميعًا كنا سنتحمل ذلك الخطر الكروي الذي يتمثل في النزول إلى الملعب في أي مباراة . \n🇪🇸🎙#دي_لافـويـنـتي | #ESP 🔴🟡 \n• 💬 لكن بما أننا لم نكن متأكدين من أنه سيكون جاهزًا غدًا، وبالنسبة للمباراة الثالثة كان يمكن أن يكون جاهزًا أو لا، وربما كان سيصل متأخرًا قليلًا، فقد رأينا أن الأمر لا يستحق المخاطرة . \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/jf5E-FecANhV-Ln0zYyN_PdbMuYM9vB611omtMvGzSEoycbUkT6qoIZQxvyzMtwf3Vt1kGiwHT-en62bqbsjy51e1UPStPPyGg3qvoqdU8DwbNODJofaH1wem7UjHvz-jS7b9zhUjFg9wCOJapkdg_25KSvicGeJjNlZty966x8iPbi9V1rGvzPpZruPQlXvqEGDPOxBY9Im2CiA4DnWCtvyGnSWOnRTyrz2dwIrJaIoRzmj3undTb6XwXobX8_vROWBdQAtA8fDumwt8pn5_NzyNoz_OSbFhLOvcsIR0smaWtjB7oook0ZvYUa-ydErKhRvBruTlPqq-8xJF1-K6g.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/363377",
+      "kind": "photo",
+      "timestamp": "2026-09-28T21:48:23+00:00",
+      "created_utc": "2026-09-28T21:51:28.464428+00:00"
+    },
+    "Barca_Studio_News/363376": {
+      "post_id": "Barca_Studio_News/363376",
+      "channel": "Barca_Studio_News",
+      "caption": "🇪🇸🎙#دي_لافـويـنـتي | #ESP 🔴🟡 \n• 💬 وهو يمنحنا هذا بالتحديد: الطاقة، والحيوية، والكثافة، والكثير من الموهبة، والكثير من الجودة، وإنهاء الهجمات . \n🇪🇸🎙#دي_لافـويـنـتي | #ESP 🔴🟡\n• 💬 إنه لاعب متكامل للغاية، هذا النوع من اللاعبين، وهو من نخبة اللاعبين في أوروبا والعالم، يناسبنا بشكل رائع ويتلاءم تمامًا مع فكرة اللعب التي نمتلكها .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/363376",
+      "kind": "text",
+      "timestamp": "2026-09-28T21:45:02+00:00",
+      "created_utc": "2026-09-28T21:51:28.976108+00:00"
+    },
+    "Barca_Studio_News/363375": {
+      "post_id": "Barca_Studio_News/363375",
+      "channel": "Barca_Studio_News",
+      "caption": "🔰 - عاد فيرمين ولم يلعب في المباراة الماضية، ما الذي تخطط له خلال هذه الأيام ، وما الذي يضيفه للمُنتخب ⁉️\n🇪🇸🎙#دي_لافـويـنـتي | #ESP 🔴🟡 \n• 💬 فيرمين في حالة بدنية رائعة، مثل داني أولمو والعديد من زملائه الآخرين، خصوصًا في هذه المراكز . \n🇪🇸🎙#دي_لافـويـنـتي | #ESP 🔴🟡 \n• 💬 فيرمين أيضًا لاعب متعدد الاستخدامات، ويمكنه اللعب في أي مركز في خط الوسط الهجومي، أو حتى في مركز متأخر قليلًا . \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/IylqAA7QO7Jil-ERGvADu0UnsjAbiGSkDrGz3n_rAFStMBcPEh_e9uIQuUD_TEwQ2qj9e0angM2eaS08Mehots4a38QFP12qaiV6Ou73KKZRCLZIbksG_eCZ7xvoO9iemBnCkNQ_mWjbn2GjG-aj1TrHHmAmLut84BHEKR7EXp94RWCncrB9oSsI97I_P8SIIQC6VdSksSku9ABUNcLAlHJXLkDMkDapLNN4fdHa9311D26LhfEOwPJbgUzvUkt2V09C4DROnVIti5MUxQXO_-TOrITkfVfM5lARycxwCgBDIwCxXUgq1JRIOToQjm_4xEq6BWggxW5olDmP4ERNcQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/363375",
+      "kind": "photo",
+      "timestamp": "2026-09-28T21:42:16+00:00",
+      "created_utc": "2026-09-28T21:51:29.526600+00:00"
+    },
+    "Barca_Studio_News/363374": {
+      "post_id": "Barca_Studio_News/363374",
+      "channel": "Barca_Studio_News",
+      "caption": "🇪🇸🎙#دي_لافـويـنـتي | #ESP 🔴🟡 \n• 💬 أعتقد أننا جميعًا حققنا ما يكفي من الجدارة، حتى بين الخمسة المرشحين، وسنرى ما هو المعيار . \n🇪🇸🎙#دي_لافـويـنـتي | #ESP 🔴🟡\n• 💬 وفي كل الأحوال، أنا سعيد بكوني مرشحًا، وبالنسبة لي هذا تقدير كبير ومصدر فخر . \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/363374",
+      "kind": "text",
+      "timestamp": "2026-09-28T21:38:34+00:00",
+      "created_utc": "2026-09-28T21:51:30.060911+00:00"
     }
   },
   "posted": {
