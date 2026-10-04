@@ -1858,68 +1858,6 @@
     }
   },
   "pending": {
-    "Barca_Studio_News/363805": {
-      "post_id": "Barca_Studio_News/363805",
-      "channel": "Barca_Studio_News",
-      "caption": "أحد ليالي شتاء نيغريرا الباردة 🥶\n29 نوفمبر 2011",
-      "photos": [
-        "https://cdn4.telesco.pe/file/B1W-HHjqcKPb2ducLLwsPNkEfGqUm-L7sXbHMibwbAWknrcSGIr2nynYOe0JpS1fyZ1dlOFQ8tRLOEZQMh7tRcMDfFc7iCmC3ZiUTPEviAL9Sv2zdnrksNzRf85Wk5RfH2hLd9ahSeB8cgg7BMyi5OqAK0FXyV5NNBWbM-ufBEZnONOn9qEDME-Jg0m-Zocfs3qZ2qjMXeGxm5p80yWYKAylvPzNaPpEtunLzjl71PPIQBSiVH1RfcuAUHNc3k2q-jgdxR9aitdAN4gOkXpi2vfEkGWOanWsPL_exXC9t4wDEn_Yu9ejKY3iFqcC_M7RToh4fzsvjjX3liZO-8Qo7A.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/363805",
-      "kind": "photo",
-      "timestamp": "2026-10-02T21:20:58+00:00",
-      "created_utc": "2026-10-02T22:08:52.509822+00:00"
-    },
-    "Barca_Studio_News/363801": {
-      "post_id": "Barca_Studio_News/363801",
-      "channel": "Barca_Studio_News",
-      "caption": "- ليفاندوفسكي يحتفل على طريقة لامين ⛳️🫂❤️",
-      "photos": [
-        "https://cdn4.telesco.pe/file/m2EP9-5FCoHhNf-4m9nRkD8_VNJoGjq2gpsz3_lb8NpcvommE45nSvwZKExJb-_krGgR9fReYpOgBnJm6s8isCvLQ8_5Iu_tu-t4r9yQ80zRFvPiACHq8ARifLpI69lx0l4GlD7ZQtJiIsy-brC1PPXjswl6GkcsGhc_H6NlOJ6PzqzR9rXYUHcEiAYTz0AxspZP0OpqKiprgAvCjXYItCrG-bPEDZCEi3VKwxaP3EIkgkwzW0zokZfoYi-CfVZXAb6YicYjYEGSWWmg5NjtF-84RbLTZMOSqirnX5ry0cB5cVD7GZZaVPdUrKKUe9SAs520JGyQXZjYKr1xIbQeSA.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/363801",
-      "kind": "photo",
-      "timestamp": "2026-10-02T20:15:30+00:00",
-      "created_utc": "2026-10-02T22:08:53.029000+00:00"
-    },
-    "Barca_Studio_News/363797": {
-      "post_id": "Barca_Studio_News/363797",
-      "channel": "Barca_Studio_News",
-      "caption": "📸 - لاعبينا في أوفييدو 🇪🇸 .",
-      "photos": [
-        "https://cdn4.telesco.pe/file/GLyWz7FBHsfg9gcJDHuChuuqymDI-w5zh-RPBWskjh9VJcn_U9R3XFMF2QfYtnXzE_U6Yd7cicTGCQ-ABLkD3KxLr5qpsyyJ34P6X568sHzMjyCjZ3ddYAktVXsOPnKmoc7-CDSOgC-GwWdkeFPTaB-xG9xOxg9_xvLQKP5M4H1lKLd6sG8PDA0KYodeNE3bffNAYyk5YlPtdBQUjE7FYj9vfHvQV1PPkhAN2YUXeQr8RWBKzZfjnOM-pPeGbt10AaVU_gryjpdQZeG6Ts0s25OyXaWRP30YJt5Rm64vdw3Ur2LeHRx2Mc-1jBnx3SxfkuujSCq2nLDGGLlpvPQX0w.jpg",
-        "https://cdn4.telesco.pe/file/YcGTMsMpvXGeIjaEN2QiaZO-espHdEcXXv-0mY4T_EXRb7fdsSyzVwTJFM1JE_36OBqCkKJK59lgRLQDzYKmu_MXoDHCYYst0cfgfZsfFhbCFRaajdIvqe8OF-COutCVVvUT6Fj8EkmdBKgtUaUuitljjNnKFFomc6XhnxxO_UqrkmZkykO7aIeOh0LLgfsmThxDiuguh9GzEtOwErhI5ytClvdnEZYSiT8oNkFsQEVBiY5xAY9zA5FK3H2-EyHDqX4-4tZDd_P7E3Sisx9Iltd6a3KxXLfcEhjVNvLiI9EppMmHuEBv2s5a3LZFuDreVgDhkN0yHOJ6kUNlhvFVAg.jpg",
-        "https://cdn4.telesco.pe/file/jCgEW5mAJqhad4H28n_ksOFldcgWbFw1Iyj4II7WHzqGBDFLvJtkQKWQF-GKARnL3g6WXyA8G5XwqnQrtsf9S-TlE9KEzTV9Yb5-EUUDXA1JZPlA-kYtXX2LVNeDQn847tcQ77XPkJa2GG3SuGDHixvtXcXwy9ct8dLkN48tI6SaPoZAml0YGnW54fOf32dvC4TA14u2NpMpCAn_ytsDAisEarjBafay7crdv7lqzz5C0p9fGHyVF029Dbq2CxhIrazLCptkE_I3YOoMWkFLfXUrxf_8eC8x47p-dN5Mp6cvQa0R-ObUQ6CeFLOunR8jePLRza0tcSSSWqMtePZiXA.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/363797",
-      "kind": "photo",
-      "timestamp": "2026-10-02T18:36:02+00:00",
-      "created_utc": "2026-10-02T22:08:53.410462+00:00"
-    },
-    "Barca_Studio_News/363796": {
-      "post_id": "Barca_Studio_News/363796",
-      "channel": "Barca_Studio_News",
-      "caption": "⚽ • عالم كرة افضل قناة لنقل لمشاهدة الأهداف بجودة عاليه والأخبار أول بـ أول🤩.\n💾 ألاهداف أولًا بأول بجودة عالية | 🎁جوائز مالية تقدم من القناة ، نجوم.\nأنضم إلي القناة وشاهد جميع أهداف المباريات 🔥🔥.\n⛓ https://t.me/GooalX\n ⛓ https://t.me/GooalX\n ⛓ https://t.me/GooalX",
-      "photos": [
-        "https://cdn4.telesco.pe/file/T6CuVMg0O3xnUUlpkBPhF609pLKOJqPGEsXAUQIp5cKPg15kTYpEQKHFQzHQNh5ZjQuRCpGTj30HHn1b7kP8dmXxWSG32BqCueYHXhNPmhGUfkC3kidmgbrbMznIZ9BEBas7fr-1Y9BFgPEGy9W2hv9ayedZER_eYZMfm7Ijb2YC6m-5Xxwq6r_sljauF5V2_i2U4-A_SWb3xJu6EPXCc9BQJl3iToZT8FudzlZffY7Sz2uJ3psbN7hwERc3AgcxF50fpR4rpiQ9OOKc_PBF1izs_uwzAGg0QZIg47HE9MuEU7jLAy30C3-bejt4RpWxV_DOos-w76Q1mCgeJ_hpYg.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/363796",
-      "kind": "photo",
-      "timestamp": "2026-10-02T18:16:02+00:00",
-      "created_utc": "2026-10-02T22:08:53.751902+00:00"
-    },
-    "Barca_Studio_News/363790": {
-      "post_id": "Barca_Studio_News/363790",
-      "channel": "Barca_Studio_News",
-      "caption": "🎙️🗣️ إبراهيموفيتش: برشلونة سيفُوز بدوري الأبطال هذا الموسم.",
-      "photos": [
-        "https://cdn4.telesco.pe/file/XEAs0QVlOAZ8G0iav6Jmm-mibgRv3ATiWY5iAJXkT4RSyFdiVKESmNI_wUgvqJI_IQ_-n4afyQMBb3tkhBEIYCZQvYjxtMdv9oApqY-yyOWfskwevCV-57vEr_t8E4-q069JfE1AqwvtYfVXnE-SBDkf-aE18y-olli9aeYg9B1XCgpjGm7LpCQtdemlD9sUanKbY49tQgtgJ00vz659yvLwlXtyVp8D3sIhY7ObLw-mulGC6bGrzZl5DJ60vsfTb0ait56KDTdd0AE7K7nz4brE18w7nExaiy5jrHnqM3IUf5jJDerzbbXc6AeZHQHxIzF9G9UB8NxnIuRy2XbXgw.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/363790",
-      "kind": "photo",
-      "timestamp": "2026-10-02T17:32:46+00:00",
-      "created_utc": "2026-10-02T22:08:54.105407+00:00"
-    },
     "Barca_Studio_News/363846": {
       "post_id": "Barca_Studio_News/363846",
       "channel": "Barca_Studio_News",
