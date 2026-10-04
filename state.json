@@ -1855,6 +1855,26 @@
     "Barca_Studio_News/363931": {
       "at_utc": "2026-10-03T22:07:31.656413+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/363948": {
+      "at_utc": "2026-10-04T06:17:45.351253+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/363947": {
+      "at_utc": "2026-10-04T06:17:45.737379+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/363946": {
+      "at_utc": "2026-10-04T06:17:46.342816+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/363945": {
+      "at_utc": "2026-10-04T06:17:46.771930+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/363944": {
+      "at_utc": "2026-10-04T06:17:47.194024+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -2028,6 +2048,66 @@
       "kind": "text",
       "timestamp": "2026-10-03T21:51:28+00:00",
       "created_utc": "2026-10-03T22:07:31.656396+00:00"
+    },
+    "Barca_Studio_News/363948": {
+      "post_id": "Barca_Studio_News/363948",
+      "channel": "Barca_Studio_News",
+      "caption": "_ صباح الخير. ❤️❤️",
+      "photos": [
+        "https://cdn4.telesco.pe/file/PrrN6jNrBZKAax75FkfKoPC7kLWBiAipqytmRZ7jgIDqci2UkFsDHps0pmJw2bTOGtnt0PmDSuOop_l_tYkWuOuYa-ZRv0Ky0bb8l_Fn7UDcaKAbGuJJYdNlbvjL99XLwFC-kvNXjNhmRT0de8bBat2wZJHdVTYViY072Wbyp2-BvD1zri3WZDoxliM2y9RXU8vAvCfQUPPPqFublR2VshEEmpWcCIrxUB8OtkntMkL16bJPa4XQ2ccJhs3mAQSc9zR_KSOOWVzETdo6rsvBUSt7jO6oOoqOMjRiMcob3nP29pG-UKy3LudP4gEbvqI3vqNDEoZV-87RObsZxPwHCg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/363948",
+      "kind": "photo",
+      "timestamp": "2026-10-04T06:12:03+00:00",
+      "created_utc": "2026-10-04T06:17:45.351233+00:00"
+    },
+    "Barca_Studio_News/363947": {
+      "post_id": "Barca_Studio_News/363947",
+      "channel": "Barca_Studio_News",
+      "caption": "- تـصـبـحـون عـلـى خـيـر كـولـيـز. ❤️",
+      "photos": [
+        "https://cdn4.telesco.pe/file/I8exSilnD7xehCb8U0XMiw8AD49g6t6bRS97pPDVKz4eYySTWpowY7nu5G6OjB8AF2yTgFhMfZVDTOzZBQY743phV4p_VyqYA7kYJAs9YnV7FLJyZXyvdcp246c68Gl7Ptm3EzibCi8eUZfcHsY2RHQkqM4Ykyb1VQRkTxFnd8iXuiiILLS7RX-UnLMNHPA64ZxmVw0KmsXkn7ktFcGbv3TKa0xQ3rSK2nhw1drOHj4b8Bpy38jJxgt0_LpqO_NhCvWGC-Dv94or1libKtoOmqt26jVn2tl6-_zQWTJmbYdnsQxZ3Kn8lNw4_rNf8QAlY0d4EVDn_58U0Hee9FegHQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/363947",
+      "kind": "photo",
+      "timestamp": "2026-10-03T23:15:25+00:00",
+      "created_utc": "2026-10-04T06:17:45.737360+00:00"
+    },
+    "Barca_Studio_News/363946": {
+      "post_id": "Barca_Studio_News/363946",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨📰 #غـــلاف » SPORT 🔴🔵\n🤔- لامين يامال «النجم السوبر». \n🤔- للمباراة الثالثة على التوالي، يفتتح لامين التسجيل في الدقائق الأولى من المباراة. \n🤔- أمام جمهورية التشيك، افتتح التسجيل بهدف رائع، ليواصل تألقه مع المنتخب الإسباني. \n🤔 - رودري، الذي بدأ أساسيًا في خط الوسط إلى جانب داني أولمو وبيدري، سجل أول أهدافه مع المنتخب الإسباني منذ انتقاله إلى برشلونة.\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/k-8c0KZSuPNcMBUjxD0t3_FwU_F01BcWMbUmhLJcad_kp9d_5j1KL0tLyJNBRoA52r3Q184lGexDei7MFio8tIy8lJaVP7-RvOTSq_q71rLP71Xxak36Bx_bpId9qgQhjcR-kUp6fIth22W4mYKNSjNCaSTQYuapZb_Mg2jHQhzd6VhU8iCEE8oxoa5aVj2N5W_VYFb_gZjV07VyYDfA1nXDIj1LCJ2zkFASG1XM3UeGl_iqkEuG1wv1rDdGeH1uS559INQg3wQK3dC_z7YfTZ-Dw3B3sdo3aAxDuR2K91-kE9j8pwx3I3SFrNV72iw7aGJvuzGyuDl_3fJsYvrrrQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/363946",
+      "kind": "photo",
+      "timestamp": "2026-10-03T22:26:01+00:00",
+      "created_utc": "2026-10-04T06:17:46.342799+00:00"
+    },
+    "Barca_Studio_News/363945": {
+      "post_id": "Barca_Studio_News/363945",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨📰 #غـــلاف » MARCA ⚪🟠\n🤔- فوز صعب يؤكد تمسّك إسبانيا بصدارة المجموعة. \n🤔- لامين «السريع» يعود لافتتاح التسجيل بهدف رائع آخر، وميكيل ميرينو يحسم المباراة في النهاية. \n🤔- إسبانيا قدمت شوطًا أول رائعًا، وإذا فازت يوم الثلاثاء أمام كرواتيا، فستتأهل إلى ربع النهائي. \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/QOQGeR3CL6sltiSucz8HBg3krfeWdDNzx7z_Sd5GhCBmvPJe6UV_ZVeruywBIYuYUzzKkgZa8QMRgSNerHTmBy6oBL5Xap45W2Rt_F7nhGb0TXPj7b-S_QIad_O1C7A_nzloHMJtwZHgO7b5JO_mHohKm8xPWamqb5XADTjthXnlmZN_KttYohyZJss2VLBFRluSuxtBP_5iH_kujEOxSPZ07qN9phBAsdMVgp2LBAN60sCatuQdFBD73ngzZYra3C1CX6WZcOOzKwrCmS8PQWiFyoiRodFRBxPVIRbbQjdUOsjgpBhHVN78HbzVlYjR1hWYZbzEb_3EZ6ICVVodRQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/363945",
+      "kind": "photo",
+      "timestamp": "2026-10-03T22:22:01+00:00",
+      "created_utc": "2026-10-04T06:17:46.771885+00:00"
+    },
+    "Barca_Studio_News/363944": {
+      "post_id": "Barca_Studio_News/363944",
+      "channel": "Barca_Studio_News",
+      "caption": "🔴 بالنسبة لك، هل لامين يامال الآن، بهذا المستوى، هو أفضل لاعب في العالم⁉️\n🇪🇸🎙️#دي_لافـويـنـتـي | #ESP 🔴🟡\n💬 - لو كان لاعب كرة القدم الإسباني الوحيد المرشح للكرة الذهبية لقلت لك نعم، إنه أفضل لاعب في العالم. \n💬 - وفي مركزه يفعل كل شيء بشكل جيد. \n🇪🇸🎙️#دي_لافـويـنـتـي | #ESP 🔴🟡\n💬 - لذلك أعتقد أنه إن لم يكن الأفضل، بسبب وجود منافسة مع إسبان آخرين، فهو بالتأكيد واحد من الأفضل. \n💬 - لكنه في طريقه لأن يصبح لاعبًا أسطوريًا، بالتأكيد نعم. \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/ZjVsQz3C0ZiANeLqGpr6pDdDjWJ5SXOP-s9YkdO3QjHrPHXwQ2v1gFPX-94ahEUoJyzvz42R1jDYyg7f3VlxA94DGuvwkZmaRxIsVwekfKfelOSEFlhU-7NJlCvw1xYvc6NfDGwZlTDKHbBPP1g7o9c3hMnuYCUvL7Il43Nb7hvSY4lmjcPGtqSAV1Evr6MTEtzHSjuP9X8qT3bC3a6ok2KMCdmUsWAhUSlvbsyIGw6-YvUWlTVK7iUYgtPrwyfsqOBVPDSHA5sNHn0B7Lz1yG-H-qNxxz6j2nZYVOWS9sFeWgv1GIDYlIXSOf4Tzb4K_m87j3FrAVc9SgfUUb2jgw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/363944",
+      "kind": "photo",
+      "timestamp": "2026-10-03T22:18:24+00:00",
+      "created_utc": "2026-10-04T06:17:47.193998+00:00"
     }
   },
   "posted": {
