@@ -1939,6 +1939,26 @@
     "Barca_Studio_News/364027": {
       "at_utc": "2026-10-05T01:48:45.671437+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/364065": {
+      "at_utc": "2026-10-05T16:24:49.101571+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/364064": {
+      "at_utc": "2026-10-05T16:24:49.649814+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/364063": {
+      "at_utc": "2026-10-05T16:24:50.138189+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364062": {
+      "at_utc": "2026-10-05T16:24:50.767213+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364061": {
+      "at_utc": "2026-10-05T16:24:51.338609+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -2121,6 +2141,62 @@
       "kind": "photo",
       "timestamp": "2026-10-04T20:44:57+00:00",
       "created_utc": "2026-10-05T01:48:45.671419+00:00"
+    },
+    "Barca_Studio_News/364065": {
+      "post_id": "Barca_Studio_News/364065",
+      "channel": "Barca_Studio_News",
+      "caption": "👥 - مارك بيرنال & تشافي سبارت، كذلك مرشحين لـ الفتى الذهبي ✅ .",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/364065",
+      "kind": "text",
+      "timestamp": "2026-10-05T15:12:35+00:00",
+      "created_utc": "2026-10-05T16:24:49.101548+00:00"
+    },
+    "Barca_Studio_News/364064": {
+      "post_id": "Barca_Studio_News/364064",
+      "channel": "Barca_Studio_News",
+      "caption": "- أستبعاد لامين لأنهُ سبق وأن فاز بالجائزة ✅ .",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/364064",
+      "kind": "text",
+      "timestamp": "2026-10-05T14:58:54+00:00",
+      "created_utc": "2026-10-05T16:24:49.649797+00:00"
+    },
+    "Barca_Studio_News/364063": {
+      "post_id": "Barca_Studio_News/364063",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨🚨 - القائمة الرسمية للفتى الذهبي ✅ .\n👤 - باو كوبارسي في الصدارة 🔝 .",
+      "photos": [
+        "https://cdn4.telesco.pe/file/O2LncCX4-l-y_ZyzOAaTxX8DY1ZcOY7RHXlaHA-kyHKTFw3uOcWqeP3MTL9CJ-31XuYvFnGf9z-5e7YyBIgyY7rqTfSmVOLjF-BDExjwP7bRR6N22qY5qgr76ifoex4bsCvF87Xh2KrTW5yGVjTeNoWvxIdCbK2rgqSASrG7TXI2xOfSDbo0nRZV_C0UpVbO1hj5hZSIuVVpecrfjCos1zxaGikw5-YCpUmoMvwcgI6kK_weHsrAwvlHjcguwYEbb_bbbBZmqblvOAh43CzClQPGAEGGcCMEuxCJKp96RXKIMxeqqHDn3uGddoH-QehXZcbPruuFTw99kDNojXLtIw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364063",
+      "kind": "photo",
+      "timestamp": "2026-10-05T14:52:57+00:00",
+      "created_utc": "2026-10-05T16:24:50.138171+00:00"
+    },
+    "Barca_Studio_News/364062": {
+      "post_id": "Barca_Studio_News/364062",
+      "channel": "Barca_Studio_News",
+      "caption": "⬇️-أعلى انخفاض في القيمة السوقية هذا الشهر في الليغا 🏆\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/FxWxLSJ9vkcJlCtm8u47-UnH1HrQ7_Wkqy8dbpfF9OZwCLFHfFKu97rSDTVNT793lEN3E62CyWk--nyD9ZM5-u-GgiNtdpAedo3GEZ8tP2fIWMiwFBk6Yd-wRiKutv74cOGX2pzldjKDOUnEqv6PkrCcut7gCLwQB4XDoQANO1lmKhpV9zqOtUeT0Myat7xmfkOl7pUkJ-Im28zhGmPxhyB0Q71rPXTHSiBKubcTixO0wLBjwKOQoRip8OuGIXP0yN1qmB03RzQY0Bee8nlu04M0-Ny-QVV_vEaw9AO0yQksLqrVUC91aXwGzNfzkmIbN_4VOnCLX-0zWZZV3K8HIA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364062",
+      "kind": "photo",
+      "timestamp": "2026-10-05T13:53:38+00:00",
+      "created_utc": "2026-10-05T16:24:50.767196+00:00"
+    },
+    "Barca_Studio_News/364061": {
+      "post_id": "Barca_Studio_News/364061",
+      "channel": "Barca_Studio_News",
+      "caption": "🪙- أعلى ارتفاع في القيمة السوقية هذا الشهر في الليغا 🏆\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/E-1wkx1LVXvUI9PU6t2KDG8u4iDhIZ4YsNmSrPHinGioB6GF7C42HQmC8OGCDNtl7GBnP51vg5Tt61cvji4dwShnTe8e-AF-g5wyip2tssQ-wtY9VP0ZaAUhF8_XMOTuvWAq0T-Cp-roMVJWUvsNpQATpPDVRnBBevUF0LeI8S8tfdhV4BzTEDLbDUlEtmWnGuD6cXnWPZpmKGqi03ooHub6PdTmTtbGM8P-buoDBWBg1UVNEFmaSri81U6mi0ddcKXNJpkR9FeCxRd77rFZmiTeVXNh1nZNM1hsx2rr0rj-1EyvX9w0IARE3O1cydouaKwnIUNBiTiA5FJQywmwcw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364061",
+      "kind": "photo",
+      "timestamp": "2026-10-05T13:52:35+00:00",
+      "created_utc": "2026-10-05T16:24:51.338591+00:00"
     }
   },
   "posted": {
