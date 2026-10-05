@@ -1915,6 +1915,30 @@
     "Barca_Studio_News/364029": {
       "at_utc": "2026-10-04T23:00:08.197169+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/364041": {
+      "at_utc": "2026-10-05T01:48:43.132465+00:00",
+      "kind": "video"
+    },
+    "Barca_Studio_News/364040": {
+      "at_utc": "2026-10-05T01:48:43.677855+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364039": {
+      "at_utc": "2026-10-05T01:48:44.247174+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364038": {
+      "at_utc": "2026-10-05T01:48:44.835125+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364028": {
+      "at_utc": "2026-10-05T01:48:45.353590+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/364027": {
+      "at_utc": "2026-10-05T01:48:45.671437+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -2099,6 +2123,64 @@
       "kind": "photo",
       "timestamp": "2026-10-04T20:59:07+00:00",
       "created_utc": "2026-10-04T23:00:08.197149+00:00"
+    },
+    "Barca_Studio_News/364040": {
+      "post_id": "Barca_Studio_News/364040",
+      "channel": "Barca_Studio_News",
+      "caption": "",
+      "photos": [
+        "https://cdn4.telesco.pe/file/gmQak8AawaJh8beoL4pGlv0PAtKUQhm3_Tv5F6k7CwG8bCoTdbDAGsrhLiPQ-v_SL_3rYBCDiVTrN_gIiCzXpMG8PmpjiX-MQ7JUNLOLuj0eM1uq4HztHliKl4UxFfvT4Y4plrvsRO6zLXcAfsqlO-p0fnPdrm6LmefEwmScii9_lM1qH-XAz85eImbkERDjMZEKRGTsO_Q2JslEhkpn_HVvirnqfo2FpjQ8ZytUl236ebYsIYBSYi_ujqDh404g47mzOxEezujSFe7h-lD0zKj48ZtQkHcG8nfbh4PswsD5Hl9piBIACrzc7BSxABWQXSYE0Jrsk0h2wx1r8g89sg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364040",
+      "kind": "photo",
+      "timestamp": "2026-10-05T00:25:18+00:00",
+      "created_utc": "2026-10-05T01:48:43.677831+00:00"
+    },
+    "Barca_Studio_News/364039": {
+      "post_id": "Barca_Studio_News/364039",
+      "channel": "Barca_Studio_News",
+      "caption": "تـصـبـحـون عـلـى خـيـر كـولـيـز. ❤️‍🔥",
+      "photos": [
+        "https://cdn4.telesco.pe/file/P853dXuiOzYWOScZXpOMq0DjtfANjj_A4CiLY29jxV0Aa1UqmBLI4I2Um0omVTXVJ8Q5y7QjIGpxaV_fmGekt_NV_cJUkQfTI_XoQJM304BffLOaFfD_tW3twQ35ncCFZFgaszVTEFtog8Qs8LaVKmBOAVkdSUCvz9IlSedWk12fBHQzmBhFuL5bjzGgzrvE4KUMWlVqjztPIfkCEYW-cqSAPbxWSghRL_d0GXtKZ4KaWmfS2ks6L-tWOl6FkTzX4IDFsI-H6H8OgKxRc372OjZp3nc_zgo4_v-1Qa2dp8fzf22K00F5EV2ecLhMs9L9UPokmjbbmQ-Slwv9-eMAbw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364039",
+      "kind": "photo",
+      "timestamp": "2026-10-04T23:46:45+00:00",
+      "created_utc": "2026-10-05T01:48:44.247157+00:00"
+    },
+    "Barca_Studio_News/364038": {
+      "post_id": "Barca_Studio_News/364038",
+      "channel": "Barca_Studio_News",
+      "caption": "أكثر تمريرة حاسمة لم تنل حقها من الإشادة 👏🔥",
+      "photos": [
+        "https://cdn4.telesco.pe/file/KwTlZFtzkYLSKOOyrx8oLD5SwhO824NWieRG4oaBNOi7i6yi51CTAdGM1IDyeygqCpoWiecOMAzeAm6R1MMke1YEKyfZ3l9AEubEna9LkXHvSpYH5CY0cWKSa5YY_SNo7lA_ZYOsvp7xX4zQRFWgtgIWcRXx8nipRyiXgbJCb2JlvHUuRfHFBtkFeTgJl5ITuDYHc2t_lZXK5vlTyxfLpyF78YuExLvcI-mgZ0qUf59IM3DBYyqkRikAV2p70vURG8EBHePLkGFCwGECbuO80g76m4ABfvBgDm-AaGLdApP_bncaC1MgcfsiJYwK9ieZo9Uu8CIJ4Fbcs8mozQafMg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364038",
+      "kind": "photo",
+      "timestamp": "2026-10-04T23:03:06+00:00",
+      "created_utc": "2026-10-05T01:48:44.835109+00:00"
+    },
+    "Barca_Studio_News/364028": {
+      "post_id": "Barca_Studio_News/364028",
+      "channel": "Barca_Studio_News",
+      "caption": "🤔- منتخب البرتغال يتأهل إلى دور ربع النهائي من دوري الأمم الأوروبية 2026/27. 🔴",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/364028",
+      "kind": "text",
+      "timestamp": "2026-10-04T20:46:10+00:00",
+      "created_utc": "2026-10-05T01:48:45.353572+00:00"
+    },
+    "Barca_Studio_News/364027": {
+      "post_id": "Barca_Studio_News/364027",
+      "channel": "Barca_Studio_News",
+      "caption": "ثلاثة ايام على نهاية توقف دولي\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/EuwDb2-SxTJNA9py_dfIH9qK4qdSiZ8TL_elZhIyq4NKq4-yqPMmaKhBYcrVVnm8AKF8uY8gAoXSYG37vU5XyGZpWPoSmkjpvY_U8dNDb7qZFG8P6zrfVYgvv-qLbNaOhaRuENXTGaeafOkQN8hMCWlDyaq1szw0NThhq-s3oqw6RvXAs4ETrLUoPZsyjBzk7OIjvjX5YY9mRujU7KSvirhQT0x1GDGBCYKefBhyXqUUpO7PtCeNmb--t1JAMxcu8ifZegicLKeqjaNo-A66mBSKNnnROGRwkS_uvbwmTrRE4MEnvwbEhyuUzvDNQtJ2MxHhON_xx89a8g_cfcB9ag.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364027",
+      "kind": "photo",
+      "timestamp": "2026-10-04T20:44:57+00:00",
+      "created_utc": "2026-10-05T01:48:45.671419+00:00"
     }
   },
   "posted": {
@@ -2187,6 +2269,9 @@
     },
     "Barca_Studio_News/363934": {
       "at_utc": "2026-10-03T22:07:29.851225+00:00"
+    },
+    "Barca_Studio_News/364041": {
+      "at_utc": "2026-10-05T01:48:43.132486+00:00"
     }
   },
   "ads": {
