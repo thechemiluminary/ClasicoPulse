@@ -2023,6 +2023,26 @@
     "Barca_Studio_News/364141": {
       "at_utc": "2026-10-06T16:03:42.179864+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/364244": {
+      "at_utc": "2026-10-07T00:22:19.039646+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364243": {
+      "at_utc": "2026-10-07T00:22:19.580411+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/364242": {
+      "at_utc": "2026-10-07T00:22:20.156692+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364241": {
+      "at_utc": "2026-10-07T00:22:20.515459+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/364240": {
+      "at_utc": "2026-10-07T00:22:21.433725+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -2197,6 +2217,62 @@
       "kind": "text",
       "timestamp": "2026-10-06T15:46:14+00:00",
       "created_utc": "2026-10-06T16:03:42.179850+00:00"
+    },
+    "Barca_Studio_News/364244": {
+      "post_id": "Barca_Studio_News/364244",
+      "channel": "Barca_Studio_News",
+      "caption": "💙",
+      "photos": [
+        "https://cdn5.telesco.pe/file/kLbT-g9yUxAgzwH3N83AHsSQ1vJfhRXWgCQidbo7ty_UeYcJ7i1d-3pX5HgjFoo1hN3comZOdaIdbWzPfUwYYkdbLyZCSK2-pmN3-Za_drNX6hhDpsVt04fQqQK_O9dNNpU83XOUSVx6KE4cq1a1SYM0y60CwWkXEqyOwQwzx6oJcqe2sts6M-OYR1wcz_EqvEECZ39Y1gn-o5ueKOQxu9vrSjFHes03_zgQrSn4pRrEJP459ZLOEwHbteQzRioRx7aQakA-_Df4M-VuhZSo_qf9iK8GtS8TA_69tgw5UhL8fdpZc3Nbbs41JzmczMRdU1FeZQluc6mECqH3QZLPfA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364244",
+      "kind": "photo",
+      "timestamp": "2026-10-06T23:50:19+00:00",
+      "created_utc": "2026-10-07T00:22:19.039624+00:00"
+    },
+    "Barca_Studio_News/364243": {
+      "post_id": "Barca_Studio_News/364243",
+      "channel": "Barca_Studio_News",
+      "caption": "توقف اللعب في الدقيقة 10 والجميع يصفق لميسي 🥺👏",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/364243",
+      "kind": "text",
+      "timestamp": "2026-10-06T23:42:06+00:00",
+      "created_utc": "2026-10-07T00:22:19.580394+00:00"
+    },
+    "Barca_Studio_News/364242": {
+      "post_id": "Barca_Studio_News/364242",
+      "channel": "Barca_Studio_News",
+      "caption": "بداية المباراة ✅",
+      "photos": [
+        "https://cdn5.telesco.pe/file/BjmykwK_A796pkS7lerhM-hMuGemZX1d5gIrTE9rLmTQQx4NTGQU0eZAM86zYXBpezt6JLnv4m9iSppLheJfO813XSKIs6P2NY6zA2jzsFDkpxpLulfC8pKyDRz-Ms1YM9Eukdu5c-f9XNGL5MvLaFFhVkAFHevI1xGcFHXfNkNrHjJ0sUct34xKz2rvijN_WKPpJC7A_vS9IGRgKjnxrvnENAie-7UGCrgWtBjJ39YPiga8Xs8kDigbzz36znhIjxVsOHDXHPztCNKvlGTryT6QXdojIskFqqZjWnrAS2STfOrizqwWRbbDWzKNiMOUsodbpF0D_eEcLCaVrLu_yg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364242",
+      "kind": "photo",
+      "timestamp": "2026-10-06T23:31:46+00:00",
+      "created_utc": "2026-10-07T00:22:20.156674+00:00"
+    },
+    "Barca_Studio_News/364241": {
+      "post_id": "Barca_Studio_News/364241",
+      "channel": "Barca_Studio_News",
+      "caption": "كابتن منتخب بنين يعطي هدية تذكارية لـ ميسي 🙂‍↕️👑",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/364241",
+      "kind": "text",
+      "timestamp": "2026-10-06T23:28:56+00:00",
+      "created_utc": "2026-10-07T00:22:20.515445+00:00"
+    },
+    "Barca_Studio_News/364240": {
+      "post_id": "Barca_Studio_News/364240",
+      "channel": "Barca_Studio_News",
+      "caption": "الأسطورة ليونيل ميسي يذرف الدموع لم يتمالك نفسه 😞💔",
+      "photos": [
+        "https://cdn5.telesco.pe/file/vNHP0y8xOLG04pldva9bTzMXZwOoaDQT8HMVMeFyDK8xfVr_5KX2Q90Pxxl9kQwHtKcS31BmJW_f5WrphBZfIf3gHwFKfj8H0rdNYY-hXkHaQvNp0mK36_3r1lYXuACgRAWCznpjUTLS-XCMDZI-q2JH9zAL25PGC_CQtlj5E4m2lO3Pn6xeo30sp5_sQrsPGcp33kzBjrt_yPnKTW1-clu5McI5m7QO0eE6gDq_C2OclZYuM0Ot-t7rGvtVb2t_lCUtJ48yih6Mb5mkq0Vt_PJtNUYBwa73i0xjRptSIrTKaxzF5VCjPeXPk8U4a0TRJ4WUXZ3C5v9NmFxHlsLgoQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364240",
+      "kind": "photo",
+      "timestamp": "2026-10-06T23:27:49+00:00",
+      "created_utc": "2026-10-07T00:22:21.433708+00:00"
     }
   },
   "posted": {
