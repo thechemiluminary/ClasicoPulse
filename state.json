@@ -2087,6 +2087,26 @@
     "Barca_Studio_News/364339": {
       "at_utc": "2026-10-07T19:28:58.212324+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/364349": {
+      "at_utc": "2026-10-07T23:43:31.448166+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/364348": {
+      "at_utc": "2026-10-07T23:43:31.950139+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364347": {
+      "at_utc": "2026-10-07T23:43:32.631330+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364346": {
+      "at_utc": "2026-10-07T23:43:33.314649+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364345": {
+      "at_utc": "2026-10-07T23:43:34.015565+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -2262,6 +2282,64 @@
       "kind": "text",
       "timestamp": "2026-10-07T15:25:57+00:00",
       "created_utc": "2026-10-07T19:28:58.212309+00:00"
+    },
+    "Barca_Studio_News/364349": {
+      "post_id": "Barca_Studio_News/364349",
+      "channel": "Barca_Studio_News",
+      "caption": "•📮📄 #صــحــيــفـــة ↫𝖲𝖯𝖮𝖱𝖳 🔴🔵\n🤔 - مصادر رسمية من الاتحاد الإسباني: حكم الكلاسيكو لن يُعرف إلا قبل 24 ساعة من المباراة 🎷⚽️⚽️.\n💠 💣💣💣💣💣💣 💠",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/364349",
+      "kind": "text",
+      "timestamp": "2026-10-07T21:43:08+00:00",
+      "created_utc": "2026-10-07T23:43:31.448145+00:00"
+    },
+    "Barca_Studio_News/364348": {
+      "post_id": "Barca_Studio_News/364348",
+      "channel": "Barca_Studio_News",
+      "caption": "- راؤول أسينسيو ضد برشلونة ⚽️ :",
+      "photos": [
+        "https://cdn4.telesco.pe/file/CTxNgW7qhUR1a7Y7Ogoow9Se0353s06K-1ijpD43rivD70TOu8DO7vKIwfNRubgnnY5Yrz4MUaMRHJ1UxdXv6xaRCc9tJJ2go5mg45PqE2GxIf9k60N2dZWm2omTTl9-H9XAZgVu3Ah5Cw5Hs_KuYGh0UdKSNCmFj3uHN8CyLmdAoNX0ARiTzu_9LBCTxsTl0uWVuN-WtbouKgBGVZ9xlLCj21ehlM2F7-csHJCWm9AqokqzWFrD6KJM8GVZl_mG3tQc_b49k7owCvfqYUEjbxbK-3i6-oVkXE2WOQP_3Vu6QDDEuSgWtRY3diUqjXafAMbhv49XC27xr1Wn-BqRVg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364348",
+      "kind": "photo",
+      "timestamp": "2026-10-07T21:29:10+00:00",
+      "created_utc": "2026-10-07T23:43:31.950121+00:00"
+    },
+    "Barca_Studio_News/364347": {
+      "post_id": "Barca_Studio_News/364347",
+      "channel": "Barca_Studio_News",
+      "caption": "🇪🇸🎙#راؤول_أسـيـنـسـيـو | #RMA ⚪️⚫️ \n• 💬 ظلّ نيغريرا لا زال موجودًا، وإذا كان موجودًا، فذلك لسبب ما، لن أقول المزيد .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/WzY52ZAm5O3Dc2Qd551ITAmuzj6W2T8UJUVSFIXypwxmPFTg93r50gBDFd0r7kvqtypLXQXYXShTGDhwpn3UTNsIA-5xV7nWXqEeD5q_vCjGQbHSCuHdlm5_ndISHmdrWIstxh3ndYlJBcSot1fQRydOgLmvOdzn1hcCIvzkXqYaCK10afoVuCfSrXW_SoV4QBX3ODq5cmUucJN8L8SuGj3EkSredQIDOQ-Nj8Tm5wFTBBSWADUZNRwnIABNhKMCg9daWbrRrwicvglKpID5Dg4M8Zojc6LyIQWSZK6cYuvvaInjC7BEW88el48s3z2arw1u-ad0BhatMM84rjY1ww.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364347",
+      "kind": "photo",
+      "timestamp": "2026-10-07T21:15:36+00:00",
+      "created_utc": "2026-10-07T23:43:32.631316+00:00"
+    },
+    "Barca_Studio_News/364346": {
+      "post_id": "Barca_Studio_News/364346",
+      "channel": "Barca_Studio_News",
+      "caption": "- يـومان على عـودة بـرشـلـونـة 🤩 .",
+      "photos": [
+        "https://cdn4.telesco.pe/file/d_aLj6jbgbWWnKKYVUmnEmKUC8DnfvrroqeYPvVHHQJv8ZE4Sv-T_NnUJVvMexoojGfwreqvn1TI1mBPN-rMXQdzhxvgDS4kM6WxnZwnd_NHKRzv8mTF3y2qOep1OYfqGNIGkJBOkx-1GrNVp3tnnNHHWCNjyMWhFEyD2YJWJI3lhTz1g-TQC47u8tmVcC-cmNiVW2VRIRnTkCG3unNItDy3V4azGjWo5tPNzRLri7l6Q1m1ZLlTsj4jC6wu6S1h2H3_a5wi1DuWeOWgy1mJ5Ozdoi0hsqwG0_A66VcxmVwmlUlR3v9ZFypqhzK7OABxKTDTwGfVDL1EpOpTcTAXKg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364346",
+      "kind": "photo",
+      "timestamp": "2026-10-07T21:02:25+00:00",
+      "created_utc": "2026-10-07T23:43:33.314632+00:00"
+    },
+    "Barca_Studio_News/364345": {
+      "post_id": "Barca_Studio_News/364345",
+      "channel": "Barca_Studio_News",
+      "caption": "لعب في تشيلسي وروما ولاتسيو لكن تم تكريمه في ناديه الأم.\nلن يعرف البعض اليوم كم كان هذا الرّجُل حاسماً 💙❤️",
+      "photos": [
+        "https://cdn4.telesco.pe/file/VTFdojy3KWItQekgqZMsuN-6o7-juaHr8XUZ4WNRB-CFxuOagpTPn1NfApyc8ItDoYnoqSJ4QuPZey7vDsb6IfD5y--GyQzKs5F4gTTD_s63mVW_UAMNy4o3tlg3dfVzgRuPJvIOFe3N7cnxlirfGw-_YhrXcPg7Ef8CFWErcWfNLZ4azmNKfaM-FfLd2yTAbGjvMbcJpJ9qWD08k-LM-D_xBOgTLkOarciTyFkAlaxv7B-PbGeMC0zvkGtD_EMnJ5cRZhhqPRv5GQjskEB6tLwlQyBY91VKWZBcXZfke4ZMJhhIV56SrYPP84cO4_zdRfuB6iTEDhPQPhNm7vldrQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364345",
+      "kind": "photo",
+      "timestamp": "2026-10-07T20:48:10+00:00",
+      "created_utc": "2026-10-07T23:43:34.015524+00:00"
     }
   },
   "posted": {
