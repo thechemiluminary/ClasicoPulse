@@ -2107,6 +2107,26 @@
     "Barca_Studio_News/364345": {
       "at_utc": "2026-10-07T23:43:34.015565+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/364355": {
+      "at_utc": "2026-10-08T10:23:00.506782+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/364354": {
+      "at_utc": "2026-10-08T10:23:01.192664+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/364353": {
+      "at_utc": "2026-10-08T10:23:01.963859+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364352": {
+      "at_utc": "2026-10-08T10:23:02.658228+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364351": {
+      "at_utc": "2026-10-08T10:23:03.388517+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -2284,6 +2304,62 @@
       "kind": "photo",
       "timestamp": "2026-10-07T20:48:10+00:00",
       "created_utc": "2026-10-07T23:43:34.015524+00:00"
+    },
+    "Barca_Studio_News/364355": {
+      "post_id": "Barca_Studio_News/364355",
+      "channel": "Barca_Studio_News",
+      "caption": "•📮📄 #صــحــيــفـــة ↫𝖱𝖠𝖢1 🔴🔵\n🤔- رافينها لم يتدرب مع المجموعة لكنه غير مستبعد من مباراة خيتافي \n🤔- غدًا سيتم اختباره\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/364355",
+      "kind": "text",
+      "timestamp": "2026-10-08T10:02:06+00:00",
+      "created_utc": "2026-10-08T10:23:00.506758+00:00"
+    },
+    "Barca_Studio_News/364354": {
+      "post_id": "Barca_Studio_News/364354",
+      "channel": "Barca_Studio_News",
+      "caption": "🤔- رافينها لم يتدرب مع المجموعة صباح اليوم 🚫\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/364354",
+      "kind": "text",
+      "timestamp": "2026-10-08T09:49:17+00:00",
+      "created_utc": "2026-10-08T10:23:01.192647+00:00"
+    },
+    "Barca_Studio_News/364353": {
+      "post_id": "Barca_Studio_News/364353",
+      "channel": "Barca_Studio_News",
+      "caption": "•📮📄 #صــحــيــفـــة ↫ 𝖬𝖣 🔴🔵\n🤔- برشلونة فليك بعد التوقف الدولي: \n✔️ 1-4 جيرونا — سبتمبر 2024 \n✔️ 1-5 إشبيلية — أكتوبر 2024\n🤝 2-2 سيلتا فيغو — نوفمبر 2024 \n✔️ 0-3 أوساسونا — مارس 2025 \n✔️ 0-6 فالنسيا — سبتمبر 2025 \n✔️1-2 جيرونا — أكتوبر 2025 \n✔️ 0-4 أتلتيك بلباو — نوفمبر 2025 \n✔️1-2 أتلتيكو مدريد — أبريل 2026\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/qI2u9tIdVnPrTzxz_QlkNnc-vvDzU6k3yrn5FO-QQMOWAR0GTm60j9MMc6bSlxnf1NKTDcH_1V4ghdJgnHhbu2pnUieoMxP0wfWW5RMyivxC4PDFbJzbThgR8ck3XQIox9eDbVGVaIaFIW9kk1KJ2qPfgyYjZ9E9bihJtE678-_fZ7LG8vyJGaz4CQvZaxxBFgX5Bjinz-z0eJR0FhtTcFVyQgjmVnBiCo_mqv8irs1VpxqNG-q0BFmSJTHm4Khs27LuuBY-DeAIdyjPyQjyvEe_PpQHr5AlicxdBhgf4d3I5Nnqd8dv7dbQG5RCmHjHeoowbUgAgxJjkc3GcCcvuw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364353",
+      "kind": "photo",
+      "timestamp": "2026-10-08T09:03:46+00:00",
+      "created_utc": "2026-10-08T10:23:01.963842+00:00"
+    },
+    "Barca_Studio_News/364352": {
+      "post_id": "Barca_Studio_News/364352",
+      "channel": "Barca_Studio_News",
+      "caption": "•📮📄 #صــحــيــفـــة ↫ 𝖬𝖣 🔴🔵\n🤔- غوردون حقق أفضل بداية للموسم في مسيرته! \n🤔- في أول 10 مباريات هذا الموسم مع النادي والمنتخب، سجل غوردون 3 أهداف وصنع 5\n🤔- أفضل بداية له قبل ذلك كانت في موسم 2024/2023 عندما سجل هدفين وصنع هدفين في أول 10 مباريات.\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/gfCouw8GwlZzmdVmeWwtLzT6FRhQCN_1xxazJL6jG6I7RlFmDfbVMil4-sU_gL9M-1JQTzA5bLLPMzZ4JjwjhbTA9hWLSfwJ3W5f6HX1sGhCNl3t3c1b8vY8pP04q6eAvafCITz-55_ZdRI4QTt03SdukFnZuyKc5bkSc_rNe_SH5kY5kL1nWUU6Ux1dscd4y0fB7uAVkk2ujsn0TU8Er-RUprhgsBzwrDm4nPoLymSyaEbo4l6F4KHdZMph9C4G2sMX6WIWyRUDI8iLLnMy39wmiisexl4g3c_GosmC9Yvxrf0nAtgWd8AdYdPQsmrBhoxDz5mfrQACWLcY1fuFXw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364352",
+      "kind": "photo",
+      "timestamp": "2026-10-08T08:59:39+00:00",
+      "created_utc": "2026-10-08T10:23:02.658211+00:00"
+    },
+    "Barca_Studio_News/364351": {
+      "post_id": "Barca_Studio_News/364351",
+      "channel": "Barca_Studio_News",
+      "caption": "•📮📄 #صــحــيــفـــة ↫ 𝖬𝖣 🔴🔵\n🤔- ليفاكوفيتش هو الوحيد من لاعبي الفريق الذي خاض الدقائق كاملة في التوقف الدولي (360 دقيقة) 🕠\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/r2JRXhVx_Vh8GUgfk9IjpzVteKdewAJ1g3r9aQ212cGEBZ1gxdROjAU5zJkGoKCj0igOuZo0UjpM2HX8Rvwa_5gRknkGMXg7cxXQDPNIwZXl2zsGWAlUzFWJ4hahNh-au6aets8bnis6LeqP3G2yUCMEddKCxAOY5Ect_nTsdHu6BllF3Fi2vzlvGWr7AynZE34NRDCahzIJqhFOscxR0sLAoklL5FmzTJPubDXdbpPyBT_4MUE7XguT50DHqecEGIZAwCIELbiaSR2KzsHF8gyZ8VgExeDrruvAR4B3LjQBC3lpOGbvCz_UDovN577X9vqcD0ykfcji4efcK0jLFQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364351",
+      "kind": "photo",
+      "timestamp": "2026-10-08T08:58:33+00:00",
+      "created_utc": "2026-10-08T10:23:03.388500+00:00"
     }
   },
   "posted": {
