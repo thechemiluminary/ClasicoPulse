@@ -2147,67 +2147,29 @@
     "Barca_Studio_News/364386": {
       "at_utc": "2026-10-08T22:19:33.680890+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/364396": {
+      "at_utc": "2026-10-09T02:18:14.716999+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364395": {
+      "at_utc": "2026-10-09T02:18:15.144655+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/364394": {
+      "at_utc": "2026-10-09T02:18:15.742978+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364393": {
+      "at_utc": "2026-10-09T02:18:16.314532+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364392": {
+      "at_utc": "2026-10-09T02:18:16.862503+00:00",
+      "kind": "text"
     }
   },
   "pending": {
-    "Barca_Studio_News/364349": {
-      "post_id": "Barca_Studio_News/364349",
-      "channel": "Barca_Studio_News",
-      "caption": "•📮📄 #صــحــيــفـــة ↫𝖲𝖯𝖮𝖱𝖳 🔴🔵\n🤔 - مصادر رسمية من الاتحاد الإسباني: حكم الكلاسيكو لن يُعرف إلا قبل 24 ساعة من المباراة 🎷⚽️⚽️.\n💠 💣💣💣💣💣💣 💠",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/364349",
-      "kind": "text",
-      "timestamp": "2026-10-07T21:43:08+00:00",
-      "created_utc": "2026-10-07T23:43:31.448145+00:00"
-    },
-    "Barca_Studio_News/364348": {
-      "post_id": "Barca_Studio_News/364348",
-      "channel": "Barca_Studio_News",
-      "caption": "- راؤول أسينسيو ضد برشلونة ⚽️ :",
-      "photos": [
-        "https://cdn4.telesco.pe/file/CTxNgW7qhUR1a7Y7Ogoow9Se0353s06K-1ijpD43rivD70TOu8DO7vKIwfNRubgnnY5Yrz4MUaMRHJ1UxdXv6xaRCc9tJJ2go5mg45PqE2GxIf9k60N2dZWm2omTTl9-H9XAZgVu3Ah5Cw5Hs_KuYGh0UdKSNCmFj3uHN8CyLmdAoNX0ARiTzu_9LBCTxsTl0uWVuN-WtbouKgBGVZ9xlLCj21ehlM2F7-csHJCWm9AqokqzWFrD6KJM8GVZl_mG3tQc_b49k7owCvfqYUEjbxbK-3i6-oVkXE2WOQP_3Vu6QDDEuSgWtRY3diUqjXafAMbhv49XC27xr1Wn-BqRVg.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/364348",
-      "kind": "photo",
-      "timestamp": "2026-10-07T21:29:10+00:00",
-      "created_utc": "2026-10-07T23:43:31.950121+00:00"
-    },
-    "Barca_Studio_News/364347": {
-      "post_id": "Barca_Studio_News/364347",
-      "channel": "Barca_Studio_News",
-      "caption": "🇪🇸🎙#راؤول_أسـيـنـسـيـو | #RMA ⚪️⚫️ \n• 💬 ظلّ نيغريرا لا زال موجودًا، وإذا كان موجودًا، فذلك لسبب ما، لن أقول المزيد .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/WzY52ZAm5O3Dc2Qd551ITAmuzj6W2T8UJUVSFIXypwxmPFTg93r50gBDFd0r7kvqtypLXQXYXShTGDhwpn3UTNsIA-5xV7nWXqEeD5q_vCjGQbHSCuHdlm5_ndISHmdrWIstxh3ndYlJBcSot1fQRydOgLmvOdzn1hcCIvzkXqYaCK10afoVuCfSrXW_SoV4QBX3ODq5cmUucJN8L8SuGj3EkSredQIDOQ-Nj8Tm5wFTBBSWADUZNRwnIABNhKMCg9daWbrRrwicvglKpID5Dg4M8Zojc6LyIQWSZK6cYuvvaInjC7BEW88el48s3z2arw1u-ad0BhatMM84rjY1ww.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/364347",
-      "kind": "photo",
-      "timestamp": "2026-10-07T21:15:36+00:00",
-      "created_utc": "2026-10-07T23:43:32.631316+00:00"
-    },
-    "Barca_Studio_News/364346": {
-      "post_id": "Barca_Studio_News/364346",
-      "channel": "Barca_Studio_News",
-      "caption": "- يـومان على عـودة بـرشـلـونـة 🤩 .",
-      "photos": [
-        "https://cdn4.telesco.pe/file/d_aLj6jbgbWWnKKYVUmnEmKUC8DnfvrroqeYPvVHHQJv8ZE4Sv-T_NnUJVvMexoojGfwreqvn1TI1mBPN-rMXQdzhxvgDS4kM6WxnZwnd_NHKRzv8mTF3y2qOep1OYfqGNIGkJBOkx-1GrNVp3tnnNHHWCNjyMWhFEyD2YJWJI3lhTz1g-TQC47u8tmVcC-cmNiVW2VRIRnTkCG3unNItDy3V4azGjWo5tPNzRLri7l6Q1m1ZLlTsj4jC6wu6S1h2H3_a5wi1DuWeOWgy1mJ5Ozdoi0hsqwG0_A66VcxmVwmlUlR3v9ZFypqhzK7OABxKTDTwGfVDL1EpOpTcTAXKg.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/364346",
-      "kind": "photo",
-      "timestamp": "2026-10-07T21:02:25+00:00",
-      "created_utc": "2026-10-07T23:43:33.314632+00:00"
-    },
-    "Barca_Studio_News/364345": {
-      "post_id": "Barca_Studio_News/364345",
-      "channel": "Barca_Studio_News",
-      "caption": "لعب في تشيلسي وروما ولاتسيو لكن تم تكريمه في ناديه الأم.\nلن يعرف البعض اليوم كم كان هذا الرّجُل حاسماً 💙❤️",
-      "photos": [
-        "https://cdn4.telesco.pe/file/VTFdojy3KWItQekgqZMsuN-6o7-juaHr8XUZ4WNRB-CFxuOagpTPn1NfApyc8ItDoYnoqSJ4QuPZey7vDsb6IfD5y--GyQzKs5F4gTTD_s63mVW_UAMNy4o3tlg3dfVzgRuPJvIOFe3N7cnxlirfGw-_YhrXcPg7Ef8CFWErcWfNLZ4azmNKfaM-FfLd2yTAbGjvMbcJpJ9qWD08k-LM-D_xBOgTLkOarciTyFkAlaxv7B-PbGeMC0zvkGtD_EMnJ5cRZhhqPRv5GQjskEB6tLwlQyBY91VKWZBcXZfke4ZMJhhIV56SrYPP84cO4_zdRfuB6iTEDhPQPhNm7vldrQ.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/364345",
-      "kind": "photo",
-      "timestamp": "2026-10-07T20:48:10+00:00",
-      "created_utc": "2026-10-07T23:43:34.015524+00:00"
-    },
     "Barca_Studio_News/364355": {
       "post_id": "Barca_Studio_News/364355",
       "channel": "Barca_Studio_News",
@@ -2319,6 +2281,62 @@
       "kind": "photo",
       "timestamp": "2026-10-08T22:02:41+00:00",
       "created_utc": "2026-10-08T22:19:33.680873+00:00"
+    },
+    "Barca_Studio_News/364396": {
+      "post_id": "Barca_Studio_News/364396",
+      "channel": "Barca_Studio_News",
+      "caption": "🔴 - اذا بإمكانك ان تختار لاعب واحد من البارسا لا يلعب ضدكم من تختار ❓\n🇪🇸🎙#دافـيـد_سـوريـا | #GET 🔵 \n• 💬 رودري ، إنه موجود في كل مكان بالملعب ، ويقدم لفريقه كل شيء .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/HDgFm6acYiwmXJAFhLevKyuRVn849RufxFuqmoTrTfJdYR58bXUff3YlFWEIi1zYJP0reE54F3-ZSkCL7YL5qAwf_SZZmoN6K3pAnmoOmLXCWZD-EGjURcafP6iBBih2BZo5vAFnIqCtPYw80SnNZR1IlMwuCDzY8-htWrZJwSnE0f1tMeW3mSLj8mxh3Tm8IFduxkx6hjomOEWqtVmZOw5FbOlq5ZtIRqf5nx-UMloFR0QDvfPC6_hb2TkX5mw5JuPVbQcfa1If0CS6ZNcoCcimGyd3SbSkQQEWOATSJO-sNFn4vNJnSppZkslbFsDtbdI4r00Xj4C4dGFGlRowEQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364396",
+      "kind": "photo",
+      "timestamp": "2026-10-08T23:31:49+00:00",
+      "created_utc": "2026-10-09T02:18:14.716977+00:00"
+    },
+    "Barca_Studio_News/364395": {
+      "post_id": "Barca_Studio_News/364395",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙#الـفـريـدو_مـارتـيـنـيـز » 𝖲𝖯𝖮𝖱𝖳 🔴🔵 \n💬 - أعتقد لا رافينها ولا جوان غارسيا سيكونان حاضرين أمام خيتافي 🇪🇦🇧🇷⚽️ .\n💠 💣💣💣💣💣💣 💠",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/364395",
+      "kind": "text",
+      "timestamp": "2026-10-08T22:34:56+00:00",
+      "created_utc": "2026-10-09T02:18:15.144640+00:00"
+    },
+    "Barca_Studio_News/364394": {
+      "post_id": "Barca_Studio_News/364394",
+      "channel": "Barca_Studio_News",
+      "caption": "🔴 - تدريب برشلونة ❓\n🇪🇸🎙#أنـدريـس_انـيـسـتـا [ اسـطـورة بـرشـلـونـة ] : \n• 💬 كلاعب في برشلونة ، حققتُ كل ما كان بإمكاني أن أحلم به . \n• 💬 إذا درّبت الفريق يومًا ما وهو أمر لا يزال بعيدًا جدًا فستكون تلك مرحلة أخرى .\n🇪🇸🎙#أنـدريـس_انـيـسـتـا [ اسـطـورة بـرشـلـونـة ] :\n• 💬 لا أشعر بالقلق ولا أستعجل الوصول إلى هذا المنصب ، ما عشتهُ كلاعب لا يمكن تكراره .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/u_d1FEYE7wNF3iY_iuOhZIfdC3X50GbPj4ZfeY-R-QIn-hh8tk5jyQ8DF_qpIYBeL-2BWHBkDY7n3Q06b3H1m9h8PmPolq44xO4M9_lbUkdDosjGa4ZCMV8LjUCTmq8cnappqKQ6SxUPDXDBzqcjGtVDjZQPEwTPxflDQfGCLo2NnOLDlyrvCKYWyebhYtweYA6WsCYDdqxoCsMZizyUbqZzZJxRNNjXsZSiVTNKhJeHBmWd-dgjXzf3-aQ3z0x_MKeHT1OeL13opgqssGICb0hyJAKTNnRDG26NxQfFcERj8xahidgMBKFSJce7XttnxMMms58bvY9dIgWOkKE1JA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364394",
+      "kind": "photo",
+      "timestamp": "2026-10-08T22:33:00+00:00",
+      "created_utc": "2026-10-09T02:18:15.742963+00:00"
+    },
+    "Barca_Studio_News/364393": {
+      "post_id": "Barca_Studio_News/364393",
+      "channel": "Barca_Studio_News",
+      "caption": "⚡ - تدريب بيدري في المستقبل❓\n🇪🇸🎙#أنـدريـس_انـيـسـتـا [ اسـطـورة بـرشـلـونـة ] :\n• 💬 سيكون من دواعي سروري ❤️💙. \n• 💬 أن يقول لاعب بموهبة بيدري إنه يعتبرني قدوته، فهذا أمر جميل جدًا .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/fQcYr84FdrIe5kROPE6NT7OyTiain3RtR3c1PXVhPoRPLm9WYWfyxjPdpw2Q4CpKpsKHHSeSjOdb6sq1WhcocfYizgbPyq7s4mr007zt95T5PlivRWHVFYItVRbvFwewyxMFdj4aIQm2g1kiy_CSE0os6D_VhJXswgIT2rbRtIk2fB5VS3Ob_kO8pJz8tULs0LMTKsZfGZoetIk0O4hybyRrxeNJGN-zpmbM27Rl5B2UumjueBH27yft5h4sKujHDZJ3rF4WQpY2tgBF51fMZ-E0sqKYELlrG6Tb4cj2UBzbhOc7xuuf3t5yrqRAw1Jjn3zkOzs434zfMk97OZVYPQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364393",
+      "kind": "photo",
+      "timestamp": "2026-10-08T22:28:01+00:00",
+      "created_utc": "2026-10-09T02:18:16.314516+00:00"
+    },
+    "Barca_Studio_News/364392": {
+      "post_id": "Barca_Studio_News/364392",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙#جـوردي_كـوسـتـا » TV3 🔴🔵\n💬 - بيدري مثال على ذلك، ولا أعرف إن كان الحديث سيشمل لامين أيضًا .\n💬 - لامين لا يريد أن يفوّت أي شيء، هو حالة رائعة، وسيلعب أمام خيتافي لأن رافينها سيغيب، أنا أتفهم هذا . \n💬 - لكن حتى لو كان عمره 19 عامًا، ستصل إلى أبريل، وعندما تحتاج إلى لاعبين يغيرون إيقاع المباراة، لن يكون قادرًا على ذلك .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/364392",
+      "kind": "text",
+      "timestamp": "2026-10-08T22:23:47+00:00",
+      "created_utc": "2026-10-09T02:18:16.862485+00:00"
     }
   },
   "posted": {
