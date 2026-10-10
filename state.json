@@ -2247,6 +2247,26 @@
     "Barca_Studio_News/364500": {
       "at_utc": "2026-10-10T12:51:24.349848+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/364673": {
+      "at_utc": "2026-10-10T17:30:23.727886+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/364672": {
+      "at_utc": "2026-10-10T17:30:24.197204+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364671": {
+      "at_utc": "2026-10-10T17:30:24.678523+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/364670": {
+      "at_utc": "2026-10-10T17:30:25.199689+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/364669": {
+      "at_utc": "2026-10-10T17:30:25.677892+00:00",
+      "kind": "text"
     }
   },
   "pending": {
@@ -2425,6 +2445,58 @@
       "kind": "text",
       "timestamp": "2026-10-10T12:41:21+00:00",
       "created_utc": "2026-10-10T12:51:24.349830+00:00"
+    },
+    "Barca_Studio_News/364673": {
+      "post_id": "Barca_Studio_News/364673",
+      "channel": "Barca_Studio_News",
+      "caption": "- حسم الفرص جيد جدًا لدى برشلونة هذا الموسم في كل مبارياته، اليوم فرصتين كبيرة = هدفين في مرمى الخصم . \n- اتمنى نبقى على هذا المستوى و نتقدم في المستوى أكثر فأكثر .",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/364673",
+      "kind": "text",
+      "timestamp": "2026-10-10T17:27:45+00:00",
+      "created_utc": "2026-10-10T17:30:23.727871+00:00"
+    },
+    "Barca_Studio_News/364672": {
+      "post_id": "Barca_Studio_News/364672",
+      "channel": "Barca_Studio_News",
+      "caption": "- احصائية الشوط الأول ✅ .",
+      "photos": [
+        "https://cdn4.telesco.pe/file/SJbaOhXLrb7jkzSm2CDUgL2TN7zn9zT2vcxbaMT3u5GhemxiIDnWgLaT_4U5WUQ1GXAffsQ1wx1pB39fz3PO9VtX0RJc7ZfvqFJkbV4KQb6meroQi_1q3lBgalCXKu0ZSNdUyA4LxKGvNsKinY2FrfH5n0micQSQDno-TABBLPPIyd4Ttdhn-SZr0s_5iz0O5cytP_3nalju9mykoSAFudeLTJI4wT6oJtHdCXFDyGTEKKhlMrZaQkNSKRwEzF_FhHFsTIObW6y9rjMR3Vf6pVbKmXsrwjPkmWBylEmYIb8E9NAab3SPx5P1H0HepQa1sAsTiZBxQqs-UkMKI83DOQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364672",
+      "kind": "photo",
+      "timestamp": "2026-10-10T17:26:17+00:00",
+      "created_utc": "2026-10-10T17:30:24.197192+00:00"
+    },
+    "Barca_Studio_News/364671": {
+      "post_id": "Barca_Studio_News/364671",
+      "channel": "Barca_Studio_News",
+      "caption": "- كلها كالت كوندي بسبب الفرصة الاخيره .",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/364671",
+      "kind": "text",
+      "timestamp": "2026-10-10T17:25:19+00:00",
+      "created_utc": "2026-10-10T17:30:24.678514+00:00"
+    },
+    "Barca_Studio_News/364670": {
+      "post_id": "Barca_Studio_News/364670",
+      "channel": "Barca_Studio_News",
+      "caption": "⁉️ - اسوء لاعب في الشوط 🤔 .",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/364670",
+      "kind": "text",
+      "timestamp": "2026-10-10T17:24:09+00:00",
+      "created_utc": "2026-10-10T17:30:25.199681+00:00"
+    },
+    "Barca_Studio_News/364669": {
+      "post_id": "Barca_Studio_News/364669",
+      "channel": "Barca_Studio_News",
+      "caption": "⁉️ - افضل لاعب في الشوط 🤔 .",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/364669",
+      "kind": "text",
+      "timestamp": "2026-10-10T17:24:00+00:00",
+      "created_utc": "2026-10-10T17:30:25.677882+00:00"
     }
   },
   "posted": {
