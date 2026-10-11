@@ -2307,61 +2307,29 @@
     "Barca_Studio_News/364855": {
       "at_utc": "2026-10-11T15:35:05.253543+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/364883": {
+      "at_utc": "2026-10-11T19:41:49.923896+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364882": {
+      "at_utc": "2026-10-11T19:41:50.384252+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364881": {
+      "at_utc": "2026-10-11T19:41:50.885605+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364877": {
+      "at_utc": "2026-10-11T19:41:51.433374+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364876": {
+      "at_utc": "2026-10-11T19:41:51.904555+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
-    "Barca_Studio_News/364673": {
-      "post_id": "Barca_Studio_News/364673",
-      "channel": "Barca_Studio_News",
-      "caption": "- حسم الفرص جيد جدًا لدى برشلونة هذا الموسم في كل مبارياته، اليوم فرصتين كبيرة = هدفين في مرمى الخصم . \n- اتمنى نبقى على هذا المستوى و نتقدم في المستوى أكثر فأكثر .",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/364673",
-      "kind": "text",
-      "timestamp": "2026-10-10T17:27:45+00:00",
-      "created_utc": "2026-10-10T17:30:23.727871+00:00"
-    },
-    "Barca_Studio_News/364672": {
-      "post_id": "Barca_Studio_News/364672",
-      "channel": "Barca_Studio_News",
-      "caption": "- احصائية الشوط الأول ✅ .",
-      "photos": [
-        "https://cdn4.telesco.pe/file/SJbaOhXLrb7jkzSm2CDUgL2TN7zn9zT2vcxbaMT3u5GhemxiIDnWgLaT_4U5WUQ1GXAffsQ1wx1pB39fz3PO9VtX0RJc7ZfvqFJkbV4KQb6meroQi_1q3lBgalCXKu0ZSNdUyA4LxKGvNsKinY2FrfH5n0micQSQDno-TABBLPPIyd4Ttdhn-SZr0s_5iz0O5cytP_3nalju9mykoSAFudeLTJI4wT6oJtHdCXFDyGTEKKhlMrZaQkNSKRwEzF_FhHFsTIObW6y9rjMR3Vf6pVbKmXsrwjPkmWBylEmYIb8E9NAab3SPx5P1H0HepQa1sAsTiZBxQqs-UkMKI83DOQ.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/364672",
-      "kind": "photo",
-      "timestamp": "2026-10-10T17:26:17+00:00",
-      "created_utc": "2026-10-10T17:30:24.197192+00:00"
-    },
-    "Barca_Studio_News/364671": {
-      "post_id": "Barca_Studio_News/364671",
-      "channel": "Barca_Studio_News",
-      "caption": "- كلها كالت كوندي بسبب الفرصة الاخيره .",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/364671",
-      "kind": "text",
-      "timestamp": "2026-10-10T17:25:19+00:00",
-      "created_utc": "2026-10-10T17:30:24.678514+00:00"
-    },
-    "Barca_Studio_News/364670": {
-      "post_id": "Barca_Studio_News/364670",
-      "channel": "Barca_Studio_News",
-      "caption": "⁉️ - اسوء لاعب في الشوط 🤔 .",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/364670",
-      "kind": "text",
-      "timestamp": "2026-10-10T17:24:09+00:00",
-      "created_utc": "2026-10-10T17:30:25.199681+00:00"
-    },
-    "Barca_Studio_News/364669": {
-      "post_id": "Barca_Studio_News/364669",
-      "channel": "Barca_Studio_News",
-      "caption": "⁉️ - افضل لاعب في الشوط 🤔 .",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/364669",
-      "kind": "text",
-      "timestamp": "2026-10-10T17:24:00+00:00",
-      "created_utc": "2026-10-10T17:30:25.677882+00:00"
-    },
     "Barca_Studio_News/364841": {
       "post_id": "Barca_Studio_News/364841",
       "channel": "Barca_Studio_News",
@@ -2477,6 +2445,69 @@
       "kind": "photo",
       "timestamp": "2026-10-11T11:27:19+00:00",
       "created_utc": "2026-10-11T15:35:05.253525+00:00"
+    },
+    "Barca_Studio_News/364883": {
+      "post_id": "Barca_Studio_News/364883",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨🚨🚨تعديل في ترتيب الليجا.",
+      "photos": [
+        "https://cdn4.telesco.pe/file/Z9DOGdC2XuJrlJjkhBfuz6FH4e97-ReR5N1CS9OSaZwySvHIHiJjYHkaTfvva3mSfYXHKBSmQzNivKNWpDrVGaloQBywF5DzOU8kdyhq720pFzYxP7BpMmsOghD7gs_GIPAniMAelJT-yJJA6YUcToMewylaPYlASStherjX2jrWczLvIunSKjlChYj_RMPq-WNVaiSABCFn7nX_JbKmoSbZientiYzBuarfYaMWa4QdrQbk4ryxNXAVHFZLf6UN_EdHxtcT3oyPad5YfIMbefCpBE_jZUM3asA7QqY51p-zo05o6rjLjaFTkgD1YKuoRvf4u-PLg06o3SwkHBUmCg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364883",
+      "kind": "photo",
+      "timestamp": "2026-10-11T19:23:53+00:00",
+      "created_utc": "2026-10-11T19:41:49.923882+00:00"
+    },
+    "Barca_Studio_News/364882": {
+      "post_id": "Barca_Studio_News/364882",
+      "channel": "Barca_Studio_News",
+      "caption": "📸 - الـفـريـق الـفـائـز 😍 .",
+      "photos": [
+        "https://cdn4.telesco.pe/file/P3epozvMHTS6mOwCBJT3hz5hrytUtymKtOeMK11EKQkWyshH1OWGQYAiTZbDJfJwLl3Xp5kqonSHNcXsP69JjlHHhQj-ol5PxdqxGchKSsXAmQEhUd-Y3yk3O8epIVVm2VPAfr4TCla8ce6nuejXXdusFJj9d2geEX1epjkuWxJn5dffmGOsjFPQnQhPSFuTSU-OVYBtwegmtrKpItRB2PW_5-Uw7Fpr4FwKHbEUWeg1rFD3UZMc6gFA41BxXWhtQrtEmgXVbx0tJgLAq8To69YyuW-m65ylDusJmfvSYe41DTFl4jvRwuRx7friGFggsbqR4FEInqOZhwfM5yeH2Q.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364882",
+      "kind": "photo",
+      "timestamp": "2026-10-11T19:22:34+00:00",
+      "created_utc": "2026-10-11T19:41:50.384242+00:00"
+    },
+    "Barca_Studio_News/364881": {
+      "post_id": "Barca_Studio_News/364881",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙#مـاتـيـاس_بـراتـس » ElDesmarque ⚪️⚫️ \n💬 - مورينيو، هذا لم يعد ينطلي على أحد. نفس العذر دائماً: الحديث عن مؤامرة تحكيمية لتجنب القول إن مدريد لا يلعب شيئاً على الإطلاق . \n💬 - تلعب دور الضحية للتغطية على النواقص في الملعب . \n💬 - ماذا قدم مورينيو لكرة القدم في مدريد؟ لا شيء، لا شيء على الإطلاق . \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/QoiFxSaoZz50vfteO5wPDbqIfAyUg5qi67_cIpkuDeKSf31a9utMLjmZLWsX7R0txD5b6in4_WCdIJFxYKny1KYnuNvVhUOxPsJUSq32_hpswMXtqR449Td7fP-aHIPWHV2kZWCM7nFcXZdCBVZW75EjxviJdR7pdiQ3pIdSV6fsHQptO6ZMT5-zh0ITLq3ioHyW3fkAlZVj89D3Ru7e_BhS-6BRrApH0jFBQvSzsIifEzt63LbDlKsVtnr6jkxkTQ7uYP0AbdBHpyy8wuKYX5AToYXVjjbSTKuli_n0Y-chHH35EzGYfU1MHk-YUu_YOHItXJiN_OMq3PSToVMzKA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364881",
+      "kind": "photo",
+      "timestamp": "2026-10-11T19:18:46+00:00",
+      "created_utc": "2026-10-11T19:41:50.885598+00:00"
+    },
+    "Barca_Studio_News/364877": {
+      "post_id": "Barca_Studio_News/364877",
+      "channel": "Barca_Studio_News",
+      "caption": "• 🇧🇷📲#رافـيـنـهـا_ديـاز ↫[ 📱 ] :\n 🔥.\n💠 💣💣💣💣💣💣 💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/Y1ipRoNTqJiqbmJydZ7HRlLyqr0Q6yCFOsb-y1r6LSFWe9xcAf-c0OjRXBNVBzU9hHAzJlGJGpmrcTL-mD4_msyfIYfps2CtbA-yD0yoSkifapWJNxOYjNtVc0ODvTYK4BMCHo_Y34RwyqcuaRGXU0rwMSrLr8lfcjh5vt2YviGc8yFpLXfczEYe-LU33WYrZwJM_H72lg84c0U591HlhwqQJ4YcpCKTcabMGxUiRArj4jzv42B-Ui3BcrV8DYBu2_ijoH-67YSYnFOFwTNXExlrMMZVlY_lB1KaeuXCwRnFCC_xXVWfzw7VeYTm1BVenE2o0OOJyAMEuUBTPZxLJg.jpg",
+        "https://cdn4.telesco.pe/file/b86ihqXMWcuVNF0d3HSLZ1v8JCJ51xlmPBW1XyTEzP4SglOZ25k30AEf2A51oDuhfWFgTebkFtAVP9euMcHqS2qz7oRmu6_xIGkV3MHbuY-VbBnouFAW2iF1t3C4y7pzDH6xxF6pa8joeUzi18Op2NV64jgpXiqjKQy1rqCe-iFpxt_JRf221NK9LCs4msm74FAQApLrURTXGN0FPCLZn9eHuzzkz0KpoURwNJOcEvEkbXU1xRMEzcq8d2ogkZwhgwkXOnErmQJixw_jDcYCzAlobgH4cEN_duX1j3VjCKeJMPrAnjAWEhCtq8yMii6atTaoVAfjdIbUdBd_igsxeA.jpg",
+        "https://cdn4.telesco.pe/file/UPZ80nRP6E-vKzThFLrF5W2VGHWTy9Q-IUTMRDIR1BF3TK08FfqtADuxYaQ36d8SWDNzXDdfLvtAumSOHUbVKd9IbBoD7gmH4LBGoo1m2PeAiidofttArq1k7cLyGZAK2t6tfMyWqGmrl55nPFawoBE9FSgYanyT4hCTbYD8GJqfI-ucl9KPXmxDUjx2XBSp0GIvWji5AE4qlg13ljlHmtxEJqnLCQSHjWPLY5CK5FPkeZ3c8cUDiwYNMExiEvhkfg_EXanyYpCv12rw_FJpG3RScA-mBmsmtpm7fhtozbQb3Yd7zeI3jzoFOZhfe8f792ep1bM4kPXz0RYJ1oGtlQ.jpg",
+        "https://cdn4.telesco.pe/file/NngEisnXI-IAQKUdhLzduvt519zDGFtbXG0QzCEPDamZNgAUiAefFvEEcvJkMOjTz8WG6d_gJOFBa-kYwf3SpR9JrkPA9JGA-CFIF99OA4DdOO8LGT3qRYzwI_i4WE-2EQMRmqc-JWFhOdmiPMesHNoHUiet0KG3e5yzZxCURVzJ2XZAb4ZFFFilcAQM_Ijyn0bp7fqO1B3RLuKQje8JTmsjdgM7pzvAdFHQCzmZCX_McCretbqqMLMj6cRUBeCN6ZdyRFTmKD23AEj12qtqm_5hOAcLOx3XPSu9i6x8WurmiFSFlCzLJmYMR1R99-z11GOzYamcegM0hP-CKfgD8g.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364877",
+      "kind": "photo",
+      "timestamp": "2026-10-11T18:10:34+00:00",
+      "created_utc": "2026-10-11T19:41:51.433366+00:00"
+    },
+    "Barca_Studio_News/364876": {
+      "post_id": "Barca_Studio_News/364876",
+      "channel": "Barca_Studio_News",
+      "caption": "•📮📄 #صــحــيــفـــة ↫𝖲𝖯𝖮𝖱𝖳 🔴🔵 \n🤔 - فليك حذر لاعبيه من غلطة سراي وطالبهم بأعلى درجات الحذر والتركيز ⚠️🇩🇪 . \n🤔 - المُدرب يرى أن هذه المباراة لا تقل صعوبةً عن مباراة باريس سان جيرمان 🇫🇷 .\n💠 💣💣💣💣💣💣 💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/kocqAPix238dFs-Ws__0wuzTWGtJdFRm1Q0A62Hi5lf9CFW4ZO057ZouLNmP4qQUfdnFzaLLIrW2IA0VW1bjje0mx1TBq2qrriNaLgE7l3yZN-tkX2ryIOIiBXC8u9d-uveu38x8L4zpq94wwxS063rFCXtl3M1lEZCSyjvFMxoPHTjFyezG8UfglvjZ9ohVvJA4sTUh-p943Y2XVPcDiuJtD-kMIQ-9rCox0W_I4B4lS-PUuZsv5kG5dEmkSQbUc5mZUA0c21bA0BW4B7uMCTNFq2CVzktooQ8PSIw6fOb8fwEEr9w70tD4ww_zH9qoRSG_DeU1RpbcSjS4LI6-zg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364876",
+      "kind": "photo",
+      "timestamp": "2026-10-11T18:06:58+00:00",
+      "created_utc": "2026-10-11T19:41:51.904548+00:00"
     }
   },
   "posted": {
