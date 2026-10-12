@@ -2351,6 +2351,26 @@
     "Barca_Studio_News/364890": {
       "at_utc": "2026-10-12T02:24:22.391251+00:00",
       "kind": "video"
+    },
+    "Barca_Studio_News/364898": {
+      "at_utc": "2026-10-12T09:32:44.496736+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364896": {
+      "at_utc": "2026-10-12T09:32:44.857277+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/364895": {
+      "at_utc": "2026-10-12T09:32:45.226018+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/364894": {
+      "at_utc": "2026-10-12T09:32:45.654981+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/364893": {
+      "at_utc": "2026-10-12T09:32:46.071143+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -2536,6 +2556,62 @@
       "kind": "photo",
       "timestamp": "2026-10-11T20:40:27+00:00",
       "created_utc": "2026-10-11T23:11:19.405827+00:00"
+    },
+    "Barca_Studio_News/364898": {
+      "post_id": "Barca_Studio_News/364898",
+      "channel": "Barca_Studio_News",
+      "caption": "📆 - #الــمــبــاراة_الـــقـــادمـــة  : ⬇️ \n\" ⚽️ بـرشـلـونـة ✘ غـلـطـة سـراي ⚽️ \"\n🏆 - الجولة الـ2 من مرحلة المجموعات دوري أبطال اوروبا  #UCL ⚽️ .\n📆 - #تــاريــخ_الــمــبــاراة :\n📆 - الـثلاثاء 13 أكـتـوبـر 2026⏱️ . \n⏰ - #تــوقــيــت_الــمــبــاراة : \n⌚ - الـ10:00 مـسـاءً تـوقـيـت مـكـة الـمـكـرمـة 🇸🇦 .\n🖥 - #الــقــنــاة_الــنــاقــلــة : \n📹 - قــنــاة : BeIN SPORT 1 🇶🇦 .\n🔊 - #مــعــلــق_الـمــبــاراة :\n🎤 - الـمـعـلـق : عـصـام_الـشـوالـي 🇹🇳 .\n📢 - #حــكــم_الــمــبــاراة :\n🎷 - الـحـكـم : مـاركـو غـويـدا 🇮🇹 . \n🏟 - #مــلــعــب_الـــمــبــاراة : \n🏤 - مـلـعـب : رامـس بـارك & غـلـطـة سـراي📍.\n📱 - #هــاشــتــاك_الــمــبــاراة [ تـويـتـر ] : \n💻 ـ #GalatasarayBarça ⚽️⚽️ . \n💠 💣💣💣💣💣💣 💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/pPvB_xUVKN0xv2ri2wSLhQ8vMtthe9v9Z1fLQE9PvdWctvyOfUw5SZBkq4Y3afBJsS5ARSObY_8CvRGXZQlhEgvx2CCPehOHEiem1c5WZ3GeYQss82TVpptWdxeyCeU3mxySfXaCw1D2QvnLB1QGTNZVF-NdSpFhK07cH-dUXRkM_Ae_RNVRfey4byTHSGxaNJsZqQC_koTrokI0RZCctIJcPmsJxPrmqOIIqMIlD-ADXbLx49A9FivmB-G28uk9cVZGDrB675DTlThuSkXJO4zxKMIM3gfv4_H_aGcQJSPslHt4vM4twfLzi4rB-WyvHj_w1uVjckHf-HUzSUYODg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364898",
+      "kind": "photo",
+      "timestamp": "2026-10-12T08:40:04+00:00",
+      "created_utc": "2026-10-12T09:32:44.496714+00:00"
+    },
+    "Barca_Studio_News/364896": {
+      "post_id": "Barca_Studio_News/364896",
+      "channel": "Barca_Studio_News",
+      "caption": "اللاعبين الغائبين عن قائمة برشلونة\n- رافينيا\n - أندرياس كريستنسن\n - فرينكي دي يونغ\n- روني بردغجي\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/364896",
+      "kind": "text",
+      "timestamp": "2026-10-12T07:26:48+00:00",
+      "created_utc": "2026-10-12T09:32:44.857260+00:00"
+    },
+    "Barca_Studio_News/364895": {
+      "post_id": "Barca_Studio_News/364895",
+      "channel": "Barca_Studio_News",
+      "caption": "🧾🚨#الـقـائـمـة_الـمـسـتـدعـاة || #FCB 🔴🔵\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/LXXYxJM71AA0PCZ3tKHeZOSBF1r4UQNcQ6ruBMLZVAimIt3aCGIvkqPFImIStA1ZEvyI39VT7iqcKaNLChqEWolOO1yXZ3gGkdPge7YNU_GSsKluAQGO2f-pZStXM_30OMIoIXWdktojwisuOyfAYELlrCfLRvOo2pUUQkBdES8arOtkkTfNKXvd-oGwFq2AGDYYWIrZ4bpxuoDAmuVzVy1gKq93t-s4a-ha9uinrqX7qLfdTOnN2kFWS4g8PJKepgReyZ7TKbOv243p6Lj9ndFemd-ELBUdD7nG9kBBhNJcoCSZPw5zIKSMDAQQiFgLwjdLwX3XHtJ0vQgle22rmg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364895",
+      "kind": "photo",
+      "timestamp": "2026-10-12T07:22:31+00:00",
+      "created_utc": "2026-10-12T09:32:45.225998+00:00"
+    },
+    "Barca_Studio_News/364894": {
+      "post_id": "Barca_Studio_News/364894",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙#غـابـريـيـل_سـانـز » 𝖬𝖣 🔴🔵 \n💬 مارك بيرنال سيجدد عقده حتى عام 2031 مع شرط جزائي بقيمة 500 مليون يورو، التوقيع الاسبوع القادم ✅🚨. \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/364894",
+      "kind": "text",
+      "timestamp": "2026-10-12T07:09:04+00:00",
+      "created_utc": "2026-10-12T09:32:45.654962+00:00"
+    },
+    "Barca_Studio_News/364893": {
+      "post_id": "Barca_Studio_News/364893",
+      "channel": "Barca_Studio_News",
+      "caption": "•📮📄 #صــحــيــفـــة ↫ 𝖬𝖣 🔴🔵\n— 📊 بيدري هو أكثر لاعب استعادةً للكرات في الليغا هذا الموسم بمعدل 6.1 كل مباراة ⭐. \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn5.telesco.pe/file/hSb0wFxh2s5yzk9_s5_soxlwnRvFvtseijgkhGCHTxF_Pf24tZWMFv-w5cSHUiOoRaTDTPBQDWMSbfr5-HLvuHVfyLvBbare4tZrA857YR4GHD6ZLJz9hWHgUN0wWsfBz6QHOoyFWjvkrzgpahpUGkU_ZVlHglwXVK3Ehz9P6Cz24ouLhiR3yL9cfdX9GHSxovzJKhOSbZRpBt3hvfUJsxvl-E0L2i41otPhD_u977LO1vUulvsR3xri4Cp2mwmul87tByRUvHWYdfC8974K2olbt7kdAD3j74FUhgFNumg-UCIJjv7NdNXC4hXRw9Q_mfEOrxObqeKGe1sHDPUPWw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/364893",
+      "kind": "photo",
+      "timestamp": "2026-10-12T07:07:14+00:00",
+      "created_utc": "2026-10-12T09:32:46.071125+00:00"
     }
   },
   "posted": {
