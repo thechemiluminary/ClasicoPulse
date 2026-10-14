@@ -2479,71 +2479,29 @@
     "Barca_Studio_News/365599": {
       "at_utc": "2026-10-14T10:00:55.710107+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/365661": {
+      "at_utc": "2026-10-14T19:16:16.374044+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/365659": {
+      "at_utc": "2026-10-14T19:16:16.972230+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/365658": {
+      "at_utc": "2026-10-14T19:16:17.576419+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/365657": {
+      "at_utc": "2026-10-14T19:16:18.154808+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/365656": {
+      "at_utc": "2026-10-14T19:16:18.758845+00:00",
+      "kind": "text"
     }
   },
   "pending": {
-    "Barca_Studio_News/365068": {
-      "post_id": "Barca_Studio_News/365068",
-      "channel": "Barca_Studio_News",
-      "caption": "🚨🚨🚨🚨🚨🚨🚨 عاااااااااااااجـل  & رسـمــيـااااااااا|\n⚽️ هُنـا لا تُشجّع برشلونة… هُنـا تعيشه.\n🔵🔴 قـنــاة بيـت الكـــوليز ⚽️\n✦ 𝐁𝐀𝐑𝐂𝐀 | 𝐂𝐔𝐋𝐄𝐑𝐒 𝐇𝐎𝐌𝐄 ✦\nمكانٌ للنخبة من عشّاق البارسا.\n📰 اخـبـار | 🧠 آراء | 🏆 مسابقات\nإن كنت ترى برشلونة أكثر من مجرد نادٍ…\nفمرحبًا بك في بيتك الاول . 🏘🔵🔴\n#رابـــط_الــــقـــنــــاة_لــلانـــــضــــــمــــام ⤵️⤵️\nhttps://t.me/+INzQLalNmHkyMGM6\nhttps://t.me/+INzQLalNmHkyMGM6\nhttps://t.me/+INzQLalNmHkyMGM6",
-      "photos": [
-        "https://cdn4.telesco.pe/file/bvNDBaHXyqHeeCWnvNP3zNa4QPK1mKa8lX5iCMf95jVp4DZTqiSuGjV3BB9nZF1j2DUGVmvng7U8JQoSILlzHcVHemsPWa3cDwiADzcR2Ex9V3WvEHj6jH-_9mwT4cIGULmfkNYIvGoqz6ZkF5xuoilxZJd-beunQug6PE38TKIX-Q9h6v7UtbWYHDu2O_SHRsZXGRNLiF8tu-b6afrGtkNTIEmkpaiojP3poI0cU6mW_4u7v1LoZdoX8yLqJBYk_YRcNGm4DzRhnapa6FeGanrfjzKHmdmBc64iklccJ1SLdcnQZQDnOL1sjI2Mq0Rk-Ehhmy5mfbFUBieEHEhG6A.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/365068",
-      "kind": "photo",
-      "timestamp": "2026-10-13T15:51:54+00:00",
-      "created_utc": "2026-10-13T15:54:32.533524+00:00"
-    },
-    "Barca_Studio_News/365067": {
-      "post_id": "Barca_Studio_News/365067",
-      "channel": "Barca_Studio_News",
-      "caption": "🚨 - تعزيزات أمنية كبيرة في مُحيط رامس بارك 👮🏽‍♂️ .",
-      "photos": [
-        "https://cdn4.telesco.pe/file/OvaBe1_KqnCCVyklbe9ckoksjCmxWI3v4ERVIbOx5L8tCylkR7J85uVBSjGRQHeEUwplWH2G2b5qLW6M-xTIb_3gf4Wm3Bv7iVKBdQ_Hwg8xlBgW8znV3Ev9A2z6DaSJhHWiJgmLc2Tu-tf-1O_lw3SXaMhbFgXgow6tqo55lbNZDMmKaHuyWCJ57SSopesWtOjC4WN9vjPjZDMc_PnwEOIeydB4zGF_Bkrk1Ftc4IrM2lE5-jeUrn5chM0XNtghCda1h8PJPE_HdUHThDv78EcRRQVigFQ_F2QU-pk-79fslQ4apWXAI9FYNa-SpSazkj2RJvsiCRvvdiKVzxQnmg.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/365067",
-      "kind": "photo",
-      "timestamp": "2026-10-13T15:46:46+00:00",
-      "created_utc": "2026-10-13T15:54:33.029986+00:00"
-    },
-    "Barca_Studio_News/365065": {
-      "post_id": "Barca_Studio_News/365065",
-      "channel": "Barca_Studio_News",
-      "caption": "🏟️ - رامس بارك الاَن .",
-      "photos": [
-        "https://cdn4.telesco.pe/file/I_nDmmgMLqOsEzint3LrgWA0o8QSS4glFljpYJcaiYJqLjfifCN1qoOpyuOe3EQao28rai2BsCkMGQejbrutHxg_Ymdcuk5Y46uEzqWDWstY35q5oVbSSVNMpgaOfxKkI_wI1ZJvEP0RGSzmmeOpMLHpb3RjgZkuamc2Yq5i8dvPgJ_wIfm9slt0G6L9y6XZranXc035BvzwS6PssH7CkyJWYvHFv7ApiZ6gG22ChjNksDDyfPJ0f_ZMhHq0Es9WFsxyPlDeN715cq77TFgQewjFVLehKjxMOUDIW1BaQ9Es2YtkhqAUao9PUoEqGXcMD480sedKRwIvlHMU_YE7Gw.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/365065",
-      "kind": "photo",
-      "timestamp": "2026-10-13T15:36:50+00:00",
-      "created_utc": "2026-10-13T15:54:34.038629+00:00"
-    },
-    "Barca_Studio_News/365063": {
-      "post_id": "Barca_Studio_News/365063",
-      "channel": "Barca_Studio_News",
-      "caption": "📊 - #احـصـائـيـات :\n👥 - لاعبين شاركوا بقميص غلطة سراي و برشلونة 👕 .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/Uc2MHtJz550L6XnGrDdMBaQmg7wEoL0FKdqHGAWsWKnU7DaX9CTiE26b6NzuQdV9exXmCdvVOW1Vmkcj3bKyQsOCIu6wCTlOcKPEcQAWx0GRckoc7kXGEq4DoLmjib4JU7CiQ6j683D_3IvFtEqtDgVnIShQt-gbOpY23ViPZ_kaoPPgWP7sGaz6qsyey4IGRRyN64Hr2RhhF5sDLUrk2HFrffreE8Ln4wRkGEfDoanYHtEMStNNukGEJAMaVXqt6Qs5rUjMX9f101m9b_y7GULl0Q2l8KmHxMEnAmj-OZhotClHszeChY63Ckhqvv054u3skV157otW9sTzH384NA.jpg",
-        "https://cdn4.telesco.pe/file/fT-392nphvhYWOJ97rEc1UxN1YPUTFkO3YSHFShfiL8K0FzWzwp9AeGWAnpqYMeWnjLqT5iwz050RghELL1A4hYbzCKe9Pxl4M_PPn15KYAKc4h04ogAKW4xpiWMrvdlfUlpDyWWWdCGY8QxU-hL786dSIFGw_6_9fCsCCfJZqiz3fHNBbd4jJWHoKImM8OVLw3sEZh3XfslU6Ya_qu7WdC03J5CukUEz5-hkeOjGC_FwP6fxD9NoPFe1VEWofaaEjCYdanflF1a7DKRnkeixvy0_KRz6Zd8m4OAGFFFMRJIvenI-1jR-rXo7X2A59SsPayNslGRC7K35TvQnTrl6A.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/365063",
-      "kind": "photo",
-      "timestamp": "2026-10-13T15:35:21+00:00",
-      "created_utc": "2026-10-13T15:54:34.557094+00:00"
-    },
-    "Barca_Studio_News/365061": {
-      "post_id": "Barca_Studio_News/365061",
-      "channel": "Barca_Studio_News",
-      "caption": "🚨🚨 - حساب برشلونة عبر X ينشرون صور فيرمين و كانسيلو 🤔 .\n🤔 - هل من الممكن أساسيين ⁉️ .",
-      "photos": [
-        "https://cdn4.telesco.pe/file/M2EobE0Jf-Prk-5jTeCdC17pSy5KG7pevkFh9mhE0__tk_h5hTrCNyQw4YcUGLTiUTXsrRbeGWWvLUwh8gVYc17XqUdAVSz1ksV7F0mdEekofrqeLyoYvOeGJrRyG8fd0YI1c0tnAOfRmYHdWJ7W_n__NGuiWOglXP8Adad18ydm3vF7JMRtnnIB-XRYZpYffsfWO-Kmzfx14rxBKnX9Crjvzlkuuhf4yann23gc9rMpsKttcnh4_7lGeklSYIHlmy_lmkvVYe-Y36AIHbt9ENXi9q4XOUr0YUh4Ri-oB088XepMrnn92WUpVmfOF1bTFeqVuTGvw0EUi3cfYW0PDQ.jpg",
-        "https://cdn4.telesco.pe/file/IvYFfuf8oTCV7G6uvJUeAUh3eWwfvjowb8zrFQ1TDGvIuOl67fcmHl9alyATfOxPqt4utCzaeOmbetA44LvPaz5nWywgqdDcZPMqBEst2s0Xi1mHMhbHVilGLZbp0Hdre5ZR_pUmFWt9WVyNP7EoK3qHxJwN5oFLp_1Lv0DyGpQSkAwPbDS3jw9BFCqLph9A3oaPN5GabCbF37cfSPiSBnn03rHLC8SZTjCqXWLETNOIDylWpnOHJE_lgj2QcTPnmanZEVoNM1NamaWxQiz2Vb8K1_m4cu4QsdX8iF4sHEuEx6UtiJhAOg_N3A9hk4pSm_v94MWr9gVlrJnJotyfyQ.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/365061",
-      "kind": "photo",
-      "timestamp": "2026-10-13T15:32:18+00:00",
-      "created_utc": "2026-10-13T15:54:34.991410+00:00"
-    },
     "Barca_Studio_News/365473": {
       "post_id": "Barca_Studio_News/365473",
       "channel": "Barca_Studio_News",
@@ -2664,6 +2622,62 @@
       "kind": "photo",
       "timestamp": "2026-10-14T09:35:59+00:00",
       "created_utc": "2026-10-14T10:00:55.710089+00:00"
+    },
+    "Barca_Studio_News/365661": {
+      "post_id": "Barca_Studio_News/365661",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨🚨🚨 بث مباشر لمباريات دوري ابطال اوروبا 🇪🇺\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 مانشستر سيتي 🆚 باريس سان جيرمان 🇫🇷\nمشاهدة ممتعة 🎥\nhttps://shahidmatch.s.gy/wTXIbU",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/365661",
+      "kind": "text",
+      "timestamp": "2026-10-14T18:59:07+00:00",
+      "created_utc": "2026-10-14T19:16:16.374021+00:00"
+    },
+    "Barca_Studio_News/365659": {
+      "post_id": "Barca_Studio_News/365659",
+      "channel": "Barca_Studio_News",
+      "caption": "— 👤📊 لاعبنا المُعار رونالد أراوخو ضد لاسك: \n– 62 دقيقة ⏱️\n– سجل هدف ⚽️\n– 68 مرة لمس الكرة \n– التمريرات الدقيقة 96%\n– أكمل 55 تمريرة من أصل 57 \n– فاز بمواجهتين هوائية من أصل مواجهتين \n– التمريرات الطويلة 3/4 \n– خلق فرصة وحيدة\n– تشتيت الكرة 5/5 \n• ⭐️ حصل على تقيم 8.3\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn5.telesco.pe/file/kxEci0vCWjwdXoRpcrrKiTj_YF4WzX1LNP-aYBYthDWHv2zuclZhzwZZ8qTmYA5YDa-Y54-8gyPSC75i-Z9JbFi2hktgXRrQQ_XJKJy5XNmgYCMTdnuqAIP-51gwSsLQHtQZp1J9w5zf44uPXeNPBoBpfQUWI9jwwMsvIxHKSp2BBcBjloDOz4gnLNiR1c-KGqskh3DcZD0-qK4TkChmvMni3GCLN_IN5HXs9ytEtRxRdj4HfSXbHutIXsdpajC5Hj9zIjZGmuonhTXQjVtKo8N3qW3gSr5eMc_Jf-Rr0frQyz3Kh24lCV0u0oQd37DtutmwOBazuIgztuQanDAh2g.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/365659",
+      "kind": "photo",
+      "timestamp": "2026-10-14T18:27:47+00:00",
+      "created_utc": "2026-10-14T19:16:16.972214+00:00"
+    },
+    "Barca_Studio_News/365658": {
+      "post_id": "Barca_Studio_News/365658",
+      "channel": "Barca_Studio_News",
+      "caption": "•📮📄 #صــحــيــفـــة ↫𝖲𝖯𝖮𝖱𝖳 🔴🔵\n— 📊 داني أولمو لعب ثلاث مرات مع برشلونة كمهاجم وهمي: \n✅ 1-5 ريال بيتيس — (يناير 2025) 🅰️🅰️. \n✅ 1-2 أتلتيكو مدريد (أبريل 2026) 🅰️. \n✅ 1-4 غلطة سراي (أكتوبر 2026) 🅰️. \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn5.telesco.pe/file/PrGkGC-a_w3Q6M1hw9t_rapVQiCvlLgypaImd4uXxlsnQrSxZrRXKGi6QUP5yJ2zE8gdvpNxkND_jMFUkBp7uO5DSJBxfLNyZURuylmyDoib95DIUF8ixktaVIYoYvMvkllqTfPg3qsciBo7qkw9xrrBZLb8V-KObQ2soHrIltvf5eQ6SlDMA--c7oKL73im353QasI2N3_KfBcWxXQHwKoMI8iQ5EdBXRDuCqffGF-h9cmvWO16U55LDxPs572WCsCDnT5mfQn2bjCdTxYIztebWFINCnk9JIDo-npjik8mloJ_UOmfeQOpAw-2LHGTDHUhlPZdm3neKUXw39iigQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/365658",
+      "kind": "photo",
+      "timestamp": "2026-10-14T18:15:07+00:00",
+      "created_utc": "2026-10-14T19:16:17.576401+00:00"
+    },
+    "Barca_Studio_News/365657": {
+      "post_id": "Barca_Studio_News/365657",
+      "channel": "Barca_Studio_News",
+      "caption": "•📮📄 #صــحــيــفـــة ↫𝖲𝖯𝖮𝖱𝖳 🔴🔵\n— ◾ داني أولمو أكمل 35 مباراة متتالية دون تسجيل أي هدف مع النادي والمنتخب ❌. \n— ◾ آخر هدف سجله كان في 15 مارس ضد إشبيلية.\n— 🔰 لكنه صنع 12 هدفًا في هذه المباريات الـ 35.\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn5.telesco.pe/file/dqr85JpI7jF6sfDt_hF3mXj93O9mbG0I2lJNiD1adyoQMV0VBwAg2G-l9a4ydDl7YEww3ZM3G1s4zMl2ENO1tHATCQld8uNIN5dJisXE6KS7LpLjnQIVg_BaBTMugmA7OJcijPmqDaPL0h1r9mFlkfSBdol-G9McGcSzVk-jrn4TwSiI65oFnMN5HIKe0-7Lhk3s5a-FZKFedOrL0WuPN9fHqHj8CRt6cUCLYeXFc2tfm74vmQEdmdRF1uF26G-FSdsZaRTwIlDBWlYllRBoAvSrJorz0p24KSq_6anjY9-lZVbgNwIFSO40KCy9HltWwhYGfyQVqjwQKzfehDMZDg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/365657",
+      "kind": "photo",
+      "timestamp": "2026-10-14T18:13:32+00:00",
+      "created_utc": "2026-10-14T19:16:18.154792+00:00"
+    },
+    "Barca_Studio_News/365656": {
+      "post_id": "Barca_Studio_News/365656",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨🚨🚨🤡 قناة ريال مدريد: \n💬 لا نتصور أن يُعاقَب لامين بأربع مباريات بسبب شدّ شعر لاعب الخصم.",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/365656",
+      "kind": "text",
+      "timestamp": "2026-10-14T18:04:39+00:00",
+      "created_utc": "2026-10-14T19:16:18.758829+00:00"
     }
   },
   "posted": {
