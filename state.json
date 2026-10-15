@@ -2519,6 +2519,26 @@
     "Barca_Studio_News/365667": {
       "at_utc": "2026-10-14T22:22:01.159914+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/365676": {
+      "at_utc": "2026-10-15T00:38:33.440537+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/365675": {
+      "at_utc": "2026-10-15T00:38:33.831965+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/365674": {
+      "at_utc": "2026-10-15T00:38:34.270184+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/365673": {
+      "at_utc": "2026-10-15T00:38:34.687760+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/365665": {
+      "at_utc": "2026-10-15T00:38:35.110470+00:00",
+      "kind": "text"
     }
   },
   "pending": {
@@ -2701,6 +2721,64 @@
       "kind": "photo",
       "timestamp": "2026-10-14T20:11:04+00:00",
       "created_utc": "2026-10-14T22:22:01.159895+00:00"
+    },
+    "Barca_Studio_News/365676": {
+      "post_id": "Barca_Studio_News/365676",
+      "channel": "Barca_Studio_News",
+      "caption": "لامين مُرشح لجائزة لاعب الأسبوع 🌟",
+      "photos": [
+        "https://cdn4.telesco.pe/file/evWhQmndRNJjl4t1HfKTRsuBvusAcJKe2Gkl1KUmQBcW4mwbHvCbYEZKvswdRR3J5mOPUi156ldq528xPPbj_akewMy2IauZJyAysIAgZoQHlfHyvvnaf_VzBSLY7ZVXYl302yAoXFZWhdixSuug00DKr8AeXxjIVbgTU56CkCPWtiq5HnigBuBpR0I5TZQqJT16hTKd6v4jhqO8Y4XB_XeT2QUQEn8vqH6l7dkAGo76gc2d0C1rNrSaqu_j11TRE5U_a1rohsb59Wq5mwJqROCzXqtPwK-GofMFpHrjgsjEq2KEuuwWnDmyum41Qg9psE7-0IkCLP_zTM97RGpM5w.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/365676",
+      "kind": "photo",
+      "timestamp": "2026-10-14T23:34:11+00:00",
+      "created_utc": "2026-10-15T00:38:33.440516+00:00"
+    },
+    "Barca_Studio_News/365675": {
+      "post_id": "Barca_Studio_News/365675",
+      "channel": "Barca_Studio_News",
+      "caption": "🇧🇷🎙#فـيـنـيـسـيـوس_جـونـيـور : #RMA ⚪️⚫\n💬 يجب حماية اللاعبين الذين يقدمون أشياء مختلفة في كرة القدم، مثل لامين في برشلونة، وخوليان ألفاريز في أتلتيكو مدريد، ويمكنني ذكر الكثير من اللاعبين الآخرين 🚨.\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn5.telesco.pe/file/XWO7FRwuNpCNNvtTRScu8OuHRkpSrNlc6EhOoDa3EhZ5JN2q-HHbkoIWyJFr5WeMZSYhHQKm0bpak9cMfQ1d-cag05O4GF90Y0ctgWpCD6pFUSu4oH2iZIfopjLN__SVKxvxijSeWCNsg8Ycl2ME2U5NQvsi8T1cca-5gtBXr0a8xv_sE3sdL4iH9_xe0TDqLjCt-CDNtgU0_9hA_y2Um1gN7fRPpHuW1Zy00MaDAXAmBrMyfkE0S1bHSU_MVuoaNr6FwGVEJgukJj3vvXpIsKoIxrOgNnoloPRbES_Ysimf6iPWQKI75Fg3VooGMSpZfB7QK-SX3Qpvd3OtZYV1Mw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/365675",
+      "kind": "photo",
+      "timestamp": "2026-10-14T22:30:32+00:00",
+      "created_utc": "2026-10-15T00:38:33.831947+00:00"
+    },
+    "Barca_Studio_News/365674": {
+      "post_id": "Barca_Studio_News/365674",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨🚨 #رســمــيــا : #UCL 🇪🇺\n— 🖇 لامين مُرشح لجائزة لاعب الأسبوع 🌟. \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn5.telesco.pe/file/q4T1Rw1Pus68jyPpz8uFDQ_HQSbI0QbGpynaKysLgaNpJKoos2hFUeMALJFpVMH0mdy_YRwOJBCeliZ_Ph3kFUyzaSMvyQwQtOndYpm5lomfcFClJE1qqRVGxAtBY5wgYiSjcXH8biQLjpWdWQlD6wSCWdX2v4cE03D49q-x6eaBYcTkSHNJY29og1hmu2HaEoytHSGEsYHqRl8PF7oWQvnTMt2G_qIRQO0iNodLxtiYI9dn3qv-TjTc4WdkBiuTTRZzQmQvgPqxynLfQIGhIvBAaSl8ncQfIOUPw-IThPgEJtD1Ft3MZ9BZ0KgJrOUxKNTwhVvmoQkoVSNPXYDUFA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/365674",
+      "kind": "photo",
+      "timestamp": "2026-10-14T22:29:18+00:00",
+      "created_utc": "2026-10-15T00:38:34.270166+00:00"
+    },
+    "Barca_Studio_News/365673": {
+      "post_id": "Barca_Studio_News/365673",
+      "channel": "Barca_Studio_News",
+      "caption": "— 📊 ترتيب دوري ابطال اوروبا بعد نهاية الجولة الثانية #UCL 🇪🇺\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn5.telesco.pe/file/QpC5SYIIfYa5zG01MeEqWfp41rKmtjl54YlncpR6Ma_Ye658Fq8VVh65A5_XbwS-Y0A39FeaXdtlq3pKTsyeDHFvLjS5ITwmo124KajeGXZJpbQwoOLJG5IN1hycs7bqjovQRPPyQHW7JyFVPerVu3gS5ufnv3pr07lYwq6mpCnX9526o4qspnF0t1ACrnTo7Yknp72icMrbvj7hArkkWpK8MN9AxUw4gJRLTryzps28NRhdk4Ib2KoRa-izExhQ5ZTz1v1l6Q2j39iL2VZglZRJKwm1NbIlYo0o53wO9Q_9KU4Atr2JWktWTNKoGN-ZoQe6Kd6RGhMmsmnj6haqJA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/365673",
+      "kind": "photo",
+      "timestamp": "2026-10-14T22:24:21+00:00",
+      "created_utc": "2026-10-15T00:38:34.687742+00:00"
+    },
+    "Barca_Studio_News/365665": {
+      "post_id": "Barca_Studio_News/365665",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨🚨🚨 بث مباشر لمباريات دوري ابطال اوروبا 🇪🇺\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 مانشستر سيتي 🆚 باريس سان جيرمان 🇫🇷\nمشاهدة ممتعة 🎥\nhttps://shahidmatch.s.gy/wTXIbU",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/365665",
+      "kind": "text",
+      "timestamp": "2026-10-14T20:02:06+00:00",
+      "created_utc": "2026-10-15T00:38:35.110452+00:00"
     }
   },
   "posted": {
