@@ -2539,6 +2539,26 @@
     "Barca_Studio_News/365665": {
       "at_utc": "2026-10-15T00:38:35.110470+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/365726": {
+      "at_utc": "2026-10-15T18:41:06.131903+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/365724": {
+      "at_utc": "2026-10-15T18:41:06.579808+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/365720": {
+      "at_utc": "2026-10-15T18:41:07.001415+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/365715": {
+      "at_utc": "2026-10-15T18:41:07.549989+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/365709": {
+      "at_utc": "2026-10-15T18:41:07.979285+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -2716,6 +2736,79 @@
       "kind": "text",
       "timestamp": "2026-10-14T20:02:06+00:00",
       "created_utc": "2026-10-15T00:38:35.110452+00:00"
+    },
+    "Barca_Studio_News/365726": {
+      "post_id": "Barca_Studio_News/365726",
+      "channel": "Barca_Studio_News",
+      "caption": "🇪🇸- الفريق الفائز",
+      "photos": [
+        "https://cdn4.telesco.pe/file/L2jY4vwUYGSHNfKAfAxJf4L08Esl4RbTShUDmTKhVqR5kmdvpXbwa7hucX9ta46-HmhMsWQ0USkBXTb5QjdA4d8QWOma-LyznEbBvXwT4m2Lm0shoh3Sx4wmMz5PAaljrRFJgeQ3D7OE8gaNLu9INcg6bmzRqhoc6i5LGrQpURTEjt4mUI0VIbzW50bXuoNEKJZOC5VgQcPdMV59iju08iEyiK4p4iXZ-Bf1DB5buKXZSET7YyY8Sc1ZFaCXeqDaZyl2auYB3OzZiDeKecnxcXeAaQiaCgYBjPrZ-vsfNG8PDeVH2zOYdV_8l9qaUswV1PKgka_KfQ41E5dO5wY1QA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/365726",
+      "kind": "photo",
+      "timestamp": "2026-10-15T18:40:15+00:00",
+      "created_utc": "2026-10-15T18:41:06.131883+00:00"
+    },
+    "Barca_Studio_News/365724": {
+      "post_id": "Barca_Studio_News/365724",
+      "channel": "Barca_Studio_News",
+      "caption": "🇧🇷📲#رافـيـنـهـا_ديـاز عـبـر↫ ( IG ) :\n💬 من الجيد أن أعود 🔥. \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn5.telesco.pe/file/I9CiKPrffnROmyVigOfTz7uMsKSs8b9sUbLn0gRx3PEZFHZfLH3MjMYGXcz7ADNuyMY41OglOsCkNfu5th1B5c4QyNnsslCzHymirBAQaSZajqE8_xWBMP-AUwAO8B3WuPsxkGFscb9luFGj5IySL5DADl-xSUDbWerF0r63kaf32iuzBQBNb63k4zk-Vhj_RCRI_8pw5k44Ahs-lCDk4rK9GdJbU9mWAfze4S3IjfzeBB5YNa-7dVcJpfsMx7R34bPoQnfdurpu6Ub0nHLakf5mCvjmx8cVuq5yjBgpSOUiot2E_ryEwHxlUgZ0n2NlBMxZlh_9cp4pgNIg7n02cw.jpg",
+        "https://cdn5.telesco.pe/file/bNa9fQcIi-1NtzPnYrNVqgfZ98hbdmviPodo7Knr54vBBddCdS_NILxmcPa5voFvb-kjsXovI25lXabzG5dDsZ58pH7n_nrJ3neem0qJ8Cj4UIwNIzxBbZQ0tUNl2mXEGlEFp30H3WMurBZO9Z3iVWLRAMAZ45fxARX35whyv7vb4pHHCAiQN3ctKUchNBOCDx-hgCowsW9e9ww9-uyBfck7089iz883-hvGpURvk-iq5_rIlQLCRbS5r4326FPrkAXH1mKwg2z_9d_Z-NDCRykCxLGsWqSJy8fYoMkYo1i84dtBgODA_tG6Z4XChtDuhnmavbEufx61Sa-vDJ7xUw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/365724",
+      "kind": "photo",
+      "timestamp": "2026-10-15T18:30:15+00:00",
+      "created_utc": "2026-10-15T18:41:06.579791+00:00"
+    },
+    "Barca_Studio_News/365720": {
+      "post_id": "Barca_Studio_News/365720",
+      "channel": "Barca_Studio_News",
+      "caption": "— رافينها من التدريبات الجماعية 🤼‍♂️✅",
+      "photos": [
+        "https://cdn5.telesco.pe/file/XGv-Lb4eJU6G81z_4K3OX_upvJ-fBbceKAzLQDfNa7IRCr25WOExkMhVNc9ZGstdAdsZOnAc5t-Vb5xP5T4Tk-16XXDV48ihfn2uN3OjwV7xaDqU1v2uzky6Wje0CUoJcpvDbRT-CxVXSm4Jb2ShFjUA-5UCUTM9tj2PKkKHZ9EJe2vAcsvi5Z9H5v6k-kMyzdjkBWvDEmVYQFofY3lTs5yECnPfTfuts686I3Z5pDxU6GvwGOXp5GLmuSw5BZ_CBncGg5BHT9hZo3QlCV573gqF_D0fVa6320h6pHHLvDs-quZwHbGqeD6MguYxb6Xdv9vpIEk6QQbcU_nU2B7Z3w.jpg",
+        "https://cdn5.telesco.pe/file/HLSx05cU7NkRrhqTmiC_NjXkAQDkAUUAU6aw_5zo6zG31djS_HXjvqStVq-juIbxiss_Q8cgYa3WKSn45EM-BqY2VM59yqu22syzTWvajErrxsS4vQLY2ydoDBktJMrB1TiqfcVkmFNk9wvjnjqYxGUQtj-Nm8RI9XPom4WBxOr3I0qPrQYpEPDWaPQBc7yJSh6T0Zk4KseOVE37f4MPxPvSzx8RgvQXV1yrM5_bhKaWtcShn_9AhqRM8M-jafsYbkVgvHC8tmkyb247BwHJDie6IT_2EiiomNgviyA4hEMInxrTgHKVGCTb8mNkLT3ZW8-Ahz5LTkb723eyuvNitQ.jpg",
+        "https://cdn5.telesco.pe/file/ROdNVPDcl9d1urfW26ZjMMA4fMMTWsir8YgajGVcbjYvJAxBOZaX7fsBgK6eVrUanyLBclU2qMUl-QrE0sIO0zSwD0NyvmUKk0uUqhBiFs0NjFcZaait6BMxhgyqKpdjrAItVQ7XcChHAZJNKMg2ClpwVjO-cVwTI0IqfaKrZr-v_bXiH44Ia9sYVwxVylI19jH0G7l3khE0ypm7TV67uqmpAFjPWPprWJzb-ILrthGXenaCssk_bLpNjP7_-0xskCHChuV8aGsGNCIKemfcqmWO0he5S_mGU-N3QebLLCD1y2beLMFnWmuhkR_7OEav-4q8QFTp9vkhWh-0-IBypg.jpg",
+        "https://cdn5.telesco.pe/file/aUpowlfiALqE7Ny9Q82k8v5y0lF_2uXBC01ku_oimro97rDZBigb2is2bNg-KCVya3dd1tBoxIjHVlnKG9bK7_IBkNsDUjpR2oM2Go9JEUj5rtP9dsxR9fcrdvW3k7MFsfRBR14LmPPhQ4VwKDFwqDgN_8A170lg6vDFDAXOdh0eWUu1-7YW2moOcSvGujzoc2s_6tg9FOpvy_yLjTUzw1oSDIR5AbUOlmoQaYehz7RTVr8OMhaICXXBXsC1IQAp8RQ_1JpA7iWg752WnJvg7aGvTlTU9lOgFzPvdo-_W5MQfatybxkyIJSaEOvsTXKUqsw6jiqfW_fB1c-j7MEddw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/365720",
+      "kind": "photo",
+      "timestamp": "2026-10-15T18:24:27+00:00",
+      "created_utc": "2026-10-15T18:41:07.001369+00:00"
+    },
+    "Barca_Studio_News/365715": {
+      "post_id": "Barca_Studio_News/365715",
+      "channel": "Barca_Studio_News",
+      "caption": "🤼‍♂️🔴🔵",
+      "photos": [
+        "https://cdn5.telesco.pe/file/rtZZWkhe2eqP49NswPONNPCPgwTwjvCJFXn_OwnzsJ64kjLQ758E-XsyW8a0zymj4a5rnn8bVI31myM_LTBwSS6MUJ9vsfJ-v-SjEhg0Q_rw_AlGDyk137FG4NcgLO3nLlk7DSZ2DuzH5xPO1BsfGpALSaxSElatZ6sXvw6eDvw0rUSMjydmm_s81GS3o7xAT2BFLyz5kvdn6Ywxx2rvKL5ikSs3DPncxeQOVpIRIpzA5_QyqfiuazC7e5fLdTbgHS9CQCEDBAIvYMQYsO_sU42OGy2wrh0p5NPkx7YwrL1PqayiIKcX-ITUngqcD2QahHoVyM-rWgSBUlDWhnxe9g.jpg",
+        "https://cdn5.telesco.pe/file/Zsu3nP8adFJfNfZO-ZWSGCV-MuTyTtDyDOYXSj2YW4gI3C2cvYyyaW-R-CqM9p71wLZWvijEmircmsNmMtgi2vm5OtH_-qQ_vzq8QIRbWns8d6B_9GIy4ANzNQNHhDXgpTre15HAkFr8fxy8gOlQ-5GfOls7GeURjnauQ0NCLkt8Z6tfQiK7EnKV-18UvKoPnUl5ATcztzVkuhYsqhVDJukxzmo-zDykvNR5_on5z-CP2FmVJiPCuX4r6vb7F60QvNUBi9ZruNnM9R4eEkoa1hxABjF7w4LRyVTO_7PSqg5cY3epLjoYt0IVfU7XLD5GKRtxvkI0XvAF5AFmYMobSg.jpg",
+        "https://cdn5.telesco.pe/file/mCt6IXP-BPm7K_wbR7gL11RFFjYVIW97e6UJZDGNX1NMKCu3hxGdZ98oitbZM7wqzmoQ5tcqJCG5P9xPwce100cloj8EH4Fc3-3T42mEGrrXtw6qrFEiZvA8gcZIZLSSEa0o5lBcvBs8dXWY7IBVI6vwkpRv5pqh8vloB0_xxhwFrCpDrJWJbaqapncG0Mr4PTu6uiy7p4_5Mn22OPRi_cH1QqzEyGqAJ9Xj18ywfvpm_tIdYKfY2EKmr4MgsEY31P63IMmnV5N1Wb6wU0iB51JWJMiBWtVrdwTxYj28RcA4dV-Wl6yeHKD8yQZhCYHcPb1Wozb8wXq4EI0uR7RnDQ.jpg",
+        "https://cdn5.telesco.pe/file/h7N8QPX2rUjxdhHUVMAXwoE66pWUvN7oKnKI0OzVkKsWg58WljmtainTE-W0Vo79MowgSI1_TCRg1viW3qOdE_vU4GfoFpeVnKH2yKVOv1AOGM8PPkgw99EfjrX1WBgdYUjNGgxJLr-Ci9ColERIQCxfNCw4TKoti7w--oAsR__4s8FLU0wDAnmQ3Nn-x9IOz6vcti1TUdFyk9oh3-suRM1uVSqiPLzynP_VyeSS7HOj8uTSclx3INFJziGMtELESlwqlNDCio2fLrNQSx5vpLbjngdqmZ3b8UGFTQABJrtXdUOj3qUzKl8giGxNZSJ4iJZC2nQtK9MVWXTuC12NIQ.jpg",
+        "https://cdn5.telesco.pe/file/SlVHPtNla0ZDD9n6EoOzD5B67IY5WC2HsjzRRI9ezJgD3o0s4zVL6EXuWKkuT7SH2H0j9ILEB9asYLotpYtQgoPn3ehzr-ZBsGnjNaUyZHs557ItIn3PLAKCEFG662JJsdfPQdtwEhjmFzjfOoEn0tHpDqtmK_uqanB5JrnUS2MOaArFX0YUV7UhB2boWFQ5TkS5ELRPkqRVinVW4FWllMhOKhGnbKr0MwKywDGb7yMUg9aCooL5kLXih9wF95nWjT1jKlPkPGF96GiNyQGEui_UVAim6o7gbdXrB2KOja0EyDbtHFnC5i-Gi3twO5f4LjrYo82wc1bIF02TFXcatg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/365715",
+      "kind": "photo",
+      "timestamp": "2026-10-15T18:23:15+00:00",
+      "created_utc": "2026-10-15T18:41:07.549972+00:00"
+    },
+    "Barca_Studio_News/365709": {
+      "post_id": "Barca_Studio_News/365709",
+      "channel": "Barca_Studio_News",
+      "caption": "— من تدريبات اليوم 🤼‍♂️.",
+      "photos": [
+        "https://cdn5.telesco.pe/file/LUIOT5-1V8X0KAP-JRD_EmwzOF01KefgBYmKEhIDCLz8F9Eqq2eQrl-JCF0Z6j-MIJoPbQl-CGEJndX8E6Fh0MidcgbuOUv7Md5xDewtzCMoa8ni3w891pVD0ZVdWtFDlUErGrkExPrv2htuZM1dr6L0BZ42AawYSMHcXn-xnycDZIRhRzPPCMyW4StqrOlEMH-svK61Gjtc0yAT3PCsq8JKCl5f3jA067ZBSvT3_aaQ7xEayp9Ws9KptMUm1De1BfSFcnh1irLr2ANpS7BBJ_ZH1s6HHFkzzJxV2_ZY6sVJbELd1B6imsFWyEwSvtNJguI8BNNWFjQhaIYiSB9RVA.jpg",
+        "https://cdn5.telesco.pe/file/irgvi13V_xF9_If45f9c27BsW2153HUQ0zMOTdOYaoO3NFrVhjubL_5W3NrBJz_OSBBtFv8CgH3dp7n7f3MwzwQVOuSMqMdevxqZICToaGNW0-Uwhqe5_Jb5OxMOEsgcTjtb3uzx-bel-lwa-2GErZGFKpAriK98HxEPY8Ofkpym8lL8Kwoihol51oYtYbw-kV5QS7SyKTnjoUj6ohvUE5go7gc3JVe-uQKR35bZU6JtptRuHOs16Joftem80uqJoE-sVRPPjEfS_wVi6ZyfeWy1zVqSp57kwTKl83SHh0rAgCmivp9XALEU5GnoaiI7gIG_0HM3_CdG9_NN42AixA.jpg",
+        "https://cdn5.telesco.pe/file/uO4uOMAuvGWIztNaN_MhTGpL0e2bUBws85DZ2rCpNpA8YHjAo15REplCf8Dyc2j6a0lNXKvb1wSgYQAkI7qV-WJXz9TBaoBJLzlMFHxM3ndVdw_UiKD27it63Y5hPukghocvHNvsdCx435VDMX2Db5ZxLhAojfS9WNyBlIgULizQbljkguizj73hxKebEm06OB_k6_pcTLDnLUpoBo1sL0jPGETflDULYnc_6hysKceS1a9F621-jZHNn1ScFNpwCXTzr-Fn6GJM-KqpbscIP8Pf8mj7u-oMx4OPdq7W17UN0JSu4HD53owyh-UEFJ8lFh1MAo0M1hFcpfq8acN4ug.jpg",
+        "https://cdn5.telesco.pe/file/OJFcFV8MRDTQVMOpARAnXyuINKuw4Ozj763L1AYnmWzRxBY0LS8Ma_HNjze5SI0k_4UXxWH8r2mOOkSmDyLhgM4HcputjX9x6FG1dgWMkkiANWyYMP95SsQ718rYKuFBfdSot3KaJ3C4G_w2Ix5T00essEwTaj4Lfm_UsU1Cts_fi5FZkolJslsvx2bDE08EusXBDejgu2qavOck_wy_cuJgzIR6Ujcb1tMJZsJTgegHgy8OEelXHRkLSLQyvGYSh71oHT583gHQPQBCcgKKHAS0c4vmJHe7Tna-bGgIOQXLa4JkGUol2qW-gqkU9Lyr3SXjZnWt5B9f8p7OhJW5qg.jpg",
+        "https://cdn5.telesco.pe/file/flKnz6zaXTpL8c6rpiN54qisaylb69Zrf8tYdsLfx40NVV69chPy-HF3orX-Q1X8Ra_dWn8EcMX-JHWwRic354K4PI7gYB3a9HCEbUAVyD3qHCiyeeqHuxWWvB91rPq2EZ_brK0lkRZT6bKpbAZWfd3z531JRmraIlxsn-4rf8uEOc6c3sQ0FO5WnqoaKivASgOFmy0I5IIHN5e-BWjjLloSnP-KonuZredB1IaU3CsreveABquEoWbRchdSxj4cJdp4Y_4TiUTkmzUml4AZQNGwAtRQ6-KBEmBOPiHL0ojV7r1xFxE2VefOQcU-x8QboM3Aas91GGqhpepq8fs04w.jpg",
+        "https://cdn5.telesco.pe/file/JAKprnLjHZ_PgnzqrUSuI3b4buAjG8haGVukmXVZO-9Oj0oPCK008ChCgJ46NLGaUkglz4nKFppcBa7wwJUpkrxedVZEc4RW8XdmWaZJbhYQLA0o4DiH-4DVt2pNn-oc7MiAFH4ETvBU1NYRj2DqWyJjZ11wU8_dSzI8ZcvMmpNhMT5_P_6nqTl_8HiVF-LxG9MtQ2CykjZYGPi-DE85jswD03SqmeQaRecdQl7w6vsAeHuZUolW2fc-vyKPqoosESOgs5j0abORwN89dPyfupowXycNdeWjWa9LZg2xFZ3b3E0_guVMPZcF3LVhrQ9ZlucQsXhwDjdRAy5e4EcHag.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/365709",
+      "kind": "photo",
+      "timestamp": "2026-10-15T18:22:33+00:00",
+      "created_utc": "2026-10-15T18:41:07.979268+00:00"
     }
   },
   "posted": {
