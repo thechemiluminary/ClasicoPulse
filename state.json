@@ -2703,6 +2703,26 @@
     "Barca_Studio_News/365854": {
       "at_utc": "2026-10-17T09:14:42.192572+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/365877": {
+      "at_utc": "2026-10-17T13:00:16.391461+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/365876": {
+      "at_utc": "2026-10-17T13:00:16.748489+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/365875": {
+      "at_utc": "2026-10-17T13:00:17.117325+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/365874": {
+      "at_utc": "2026-10-17T13:00:17.475869+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/365873": {
+      "at_utc": "2026-10-17T13:00:17.829746+00:00",
+      "kind": "text"
     }
   },
   "pending": {
@@ -2888,6 +2908,60 @@
       "kind": "photo",
       "timestamp": "2026-10-17T06:31:13+00:00",
       "created_utc": "2026-10-17T09:14:42.192554+00:00"
+    },
+    "Barca_Studio_News/365877": {
+      "post_id": "Barca_Studio_News/365877",
+      "channel": "Barca_Studio_News",
+      "caption": "👥 - الاستوديو التحليلي لـ مباراة برشلونة 🎙️ .",
+      "photos": [
+        "https://cdn4.telesco.pe/file/u21tUPwR0jBW2mL4xRzSsKBNQagAPsuMCIjsU4lcAi0K3kbFVxqfJqslSpnTaRbOAebXJB0-f8OV1SC7I7QufH9y7zyMH3LpTq6-EACzvsb6yB77uPYCpMl3dZDGdi5ioLi0ShScEO7eqV19MyWo5naMGdemdjJ0HHNrEwJiKeTpKMn0Tq3U-ixekmUC_l5j9V6-HtGsBH4slGhzQCAlpLxN-57s223gvvNYXQU84-Psftb2jdA_aR1aXLGx6C1ec8QXFT86HConWUIUq0-TCDNOa3CY8vsqDhSBa-fquSicB6q0D9pHfE65kQEhqkFT76tbMKfcfnP3wb0d2Wf7zQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/365877",
+      "kind": "photo",
+      "timestamp": "2026-10-17T12:59:07+00:00",
+      "created_utc": "2026-10-17T13:00:16.391439+00:00"
+    },
+    "Barca_Studio_News/365876": {
+      "post_id": "Barca_Studio_News/365876",
+      "channel": "Barca_Studio_News",
+      "caption": "🇪🇸🎙#خـوان_لابـورتـا | #FCB 🔴🔵\n 💬 - بيتيس فريقٌ رائع، ومن الفرق في الدوري الإسباني التي تتمتع بأفضل مستوى حاليًا وتلعب كرة قدم أفضل، إلى جانب برشلونة\n 💬 - دون أن نقع في فخ الغرور أو أي شيء من هذا القبيل، لكن بالنسبة لي هذا هو رأيي كمشجع لكرة القدم\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/365876",
+      "kind": "text",
+      "timestamp": "2026-10-17T12:57:16+00:00",
+      "created_utc": "2026-10-17T13:00:16.748472+00:00"
+    },
+    "Barca_Studio_News/365875": {
+      "post_id": "Barca_Studio_News/365875",
+      "channel": "Barca_Studio_News",
+      "caption": "🇪🇸🎙#خـوان_لابـورتـا | #FCB 🔴🔵\n 💬 - ريال مدريد يبحثون عن ألف عذر لتبرير الوضع الذي يجدون أنفسهم فيه 🚨💣 .\n 💬 - هذا الوضع ناتج عن قراراتهم هم، وكان ينبغي لهم أن يمارسوا النقد الذاتي أو أن يراجعوا أنفسهم، وأن يحللوا أوضاعهم داخليًا.\n 💬 - لكنهم بدلًا من ذلك يحاولون تدمير كل ما يستطيعون تدميره، رابطة الدوري أو الاتحاد أو الحكام.\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/365875",
+      "kind": "text",
+      "timestamp": "2026-10-17T12:55:01+00:00",
+      "created_utc": "2026-10-17T13:00:17.117309+00:00"
+    },
+    "Barca_Studio_News/365874": {
+      "post_id": "Barca_Studio_News/365874",
+      "channel": "Barca_Studio_News",
+      "caption": "⬅️ - #أنـت_الـمـدرب : \n👥 - اختر التشكيلة المناسبة لـ برشلونة في المباراة ـ #BarçaRealBetis ⚔️🔥 . \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/V4q5a2y4kMmdReC0AelSsh_zHqoKG5cbbidzbDhg-DGmDthxwfzKTnUX3PTmRn0vcfsL0EU2BpBxhGq2AmEW4dM81nSTlQi3wfk0_a3PZbQkOpXqyu7pcgPQuztLjPnHPx6NIUBi_cI5p3NeA74DIjA7gRE0TncQyu5BqHeUVZjpb0Bq2srWCF_t14bHA0_aIdDYmhff3bxaMCJvIxRlyCypmcX2dNqhr78UmaDXl28z79od9rVWYlGsVdP6Sqrim1NMtZoATtid7VD3GImScnwkV2fRMo6Wfcqx3zxUbRKA725yD-ggiJiZj2twdZhVaqj3RQyZx11UDYazD9fOOQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/365874",
+      "kind": "photo",
+      "timestamp": "2026-10-17T12:50:59+00:00",
+      "created_utc": "2026-10-17T13:00:17.475852+00:00"
+    },
+    "Barca_Studio_News/365873": {
+      "post_id": "Barca_Studio_News/365873",
+      "channel": "Barca_Studio_News",
+      "caption": "👨🏻‍💼🎙#خـوان_لابـورتـا | #FCB 🔴🔵\n 💬 - بعد بيتيس وباريس, سيكون لدينا الوقت للحديث عن الكلاسيكو، الذي سيكون بالطبع، وكالعادة، المباراة التي سيشاهدها العالم بأسره .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/365873",
+      "kind": "text",
+      "timestamp": "2026-10-17T12:41:40+00:00",
+      "created_utc": "2026-10-17T13:00:17.829729+00:00"
     }
   },
   "posted": {
