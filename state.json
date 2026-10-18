@@ -2767,6 +2767,26 @@
     "Barca_Studio_News/366378": {
       "at_utc": "2026-10-18T13:29:06.951008+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/366422": {
+      "at_utc": "2026-10-18T16:46:43.067551+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/366421": {
+      "at_utc": "2026-10-18T16:46:43.474108+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/366420": {
+      "at_utc": "2026-10-18T16:46:43.877653+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/366419": {
+      "at_utc": "2026-10-18T16:46:44.264455+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/366418": {
+      "at_utc": "2026-10-18T16:46:44.680154+00:00",
+      "kind": "text"
     }
   },
   "pending": {
@@ -2888,6 +2908,60 @@
       "kind": "text",
       "timestamp": "2026-10-18T13:03:24+00:00",
       "created_utc": "2026-10-18T13:29:06.950992+00:00"
+    },
+    "Barca_Studio_News/366422": {
+      "post_id": "Barca_Studio_News/366422",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨🚨 - بنسبة 99٪ هذا خط دفاع برشلونة أمام باريس 🤔 .",
+      "photos": [
+        "https://cdn4.telesco.pe/file/HqC3GIT8Z2qN4MdLhsPEOwNlqOVTfcB19hDF5WuFKm7zWDR-VzQHrJ3ahYDgLFkCbyOFTfMmKlEb9PU_dmy_bET1kouWxAQAjCsmp_PX_5JM0pnqd5gdCI4Px4JGrAi2Vk4WFEO2fMMgztjxuV_rxStJbrtBnymsZS9nurQlsNaowXfaBjg1YyFa1l4znhCXTk8aaFIMFXPjjbyWz0piHoOKKYsBwHypQUVsKQWjVrPAu_ltEcdT_2rnbrpbW2-yhXcjz8DTdAzD3zM-og4vfMmphfao5XBciPK0JL1RJQqZaalCFRhdYZ_9APdIkpWqkXsqxxWV0NY99Kls8GHecg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/366422",
+      "kind": "photo",
+      "timestamp": "2026-10-18T16:04:05+00:00",
+      "created_utc": "2026-10-18T16:46:43.067526+00:00"
+    },
+    "Barca_Studio_News/366421": {
+      "post_id": "Barca_Studio_News/366421",
+      "channel": "Barca_Studio_News",
+      "caption": "حان وقت بالدي ؟ 🐅",
+      "photos": [
+        "https://cdn4.telesco.pe/file/l5k815hcrCOf5E_YiJ_UsUOnk8ENfXmswhoUHDKWG7mLCxLdNXgdbl-xF_zp8pQZxx4lFWX9c_HJYHhj01thtlB2UsB60SiGOtC_wQrlSFBlS6mxpgQHfBgbxtGzEOdHUhtxlW5t4Uu2MXfArxpa5lCZJ9PqANJOLmdAK1zea4zZu9Ug0DienKwR-Kf_2bEyRy1uIRUWILRCf7mxFZDeeSXHgikHq8dksdNzmr6SHJgXxHIJpAUV_qWmgpY7jCOVe8svHkefgSpDRiPp4ldCS6qlHNsueYTaw7sJ2h_iUWkWKMb-HNt34d4c-o-HvRFFDs9tOeZ0jseRQTGbMyjAWQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/366421",
+      "kind": "photo",
+      "timestamp": "2026-10-18T16:02:34+00:00",
+      "created_utc": "2026-10-18T16:46:43.474090+00:00"
+    },
+    "Barca_Studio_News/366420": {
+      "post_id": "Barca_Studio_News/366420",
+      "channel": "Barca_Studio_News",
+      "caption": "•📮📄 #صــحــيــفـــة ↫ 𝖲𝖤𝖱 ⚫⚪\n🔴 - جيرارد مارتن جاهز لـ لقاء باريس ✅\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/366420",
+      "kind": "text",
+      "timestamp": "2026-10-18T15:57:29+00:00",
+      "created_utc": "2026-10-18T16:46:43.877636+00:00"
+    },
+    "Barca_Studio_News/366419": {
+      "post_id": "Barca_Studio_News/366419",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨⚠️#عــــاجــــل ↫نـيـل_سـولا :\n 💬 - جاهزية مارتن لـ باريس سان جيرمان ✅✅ .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/366419",
+      "kind": "text",
+      "timestamp": "2026-10-18T15:56:07+00:00",
+      "created_utc": "2026-10-18T16:46:44.264436+00:00"
+    },
+    "Barca_Studio_News/366418": {
+      "post_id": "Barca_Studio_News/366418",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙#فـيـرنـانـدو_بـولـو » 𝖬𝖣 🔴🔵\n🔴 - من المتوقع أن يكون جيرارد مارتين متاحًا لمواجهة باريس سان جيرمان، رغم أن كل شيء سيتوقف على مدى تعافيه خلال الساعات الـ48 المقبلة\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/366418",
+      "kind": "text",
+      "timestamp": "2026-10-18T15:53:57+00:00",
+      "created_utc": "2026-10-18T16:46:44.680137+00:00"
     }
   },
   "posted": {
