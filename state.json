@@ -3111,69 +3111,33 @@
     "Barca_Studio_News/367345": {
       "at_utc": "2026-10-23T09:31:45.021351+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/367412": {
+      "at_utc": "2026-10-23T14:22:24.733585+00:00",
+      "kind": "video"
+    },
+    "Barca_Studio_News/367411": {
+      "at_utc": "2026-10-23T14:22:25.152543+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/367410": {
+      "at_utc": "2026-10-23T14:22:25.620462+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/367409": {
+      "at_utc": "2026-10-23T14:22:26.245663+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/367408": {
+      "at_utc": "2026-10-23T14:22:26.681094+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/367407": {
+      "at_utc": "2026-10-23T14:22:27.104902+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
-    "Barca_Studio_News/367240": {
-      "post_id": "Barca_Studio_News/367240",
-      "channel": "Barca_Studio_News",
-      "caption": "🇩🇪🎙#يـورغـن_كـلـوب | #GER ⚪️⚫️\n🗨️ - بالطبع سأشاهد الكلاسيكو بين برشلونة وريال مدريد لقد شاهدت هذه المباراة في جميع مراحل حياتي\n🗨️ - في الماضي كنت أميل أكثر إلى تشجيع برشلونة لأنني كنت ضد تصرفات بيبي ومدافعي ريال مدريد الآخرين\n🗨️ - أما اليوم فأنا أشجع الفريق الأفضل وبالنظر إلى الوضع الحالي فمن المحتمل أن يكون برشلونة هو الأفضل\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/X_pc7AMOOqA6ZdcfouUK2RM7gBXMYogmmfQjrXKWCwHosyBIc1cX9Dxyj34RjxtPwEl_3XXM1feyJBqXxMGxH3-DGinGr_QAFVaJgalQOD-DqFqgtHBXalqxg-EJr7dAheW5JIlpPDRZxd1BSVDynLw0GTuEgOkhHJLcI4wALl6jR2DHt_acKdzgmLs1c6fCrVLaUAyC39mD_r4II8_BF-pFAqY4IoB4VfStpJae2afFbFI1OonNwaofjQh6I9UssszrLCHZb7RoFYUtXg77Z5y7mQsdaYwxICq8_5GFs9Ht1GXs9aa7bwTi2ORLqfXu9kPDj83KFSARrccYqu8kKA.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/367240",
-      "kind": "photo",
-      "timestamp": "2026-10-22T13:01:57+00:00",
-      "created_utc": "2026-10-22T13:02:56.754181+00:00"
-    },
-    "Barca_Studio_News/367239": {
-      "post_id": "Barca_Studio_News/367239",
-      "channel": "Barca_Studio_News",
-      "caption": "•📮📄 #صــحــيــفـــة ↫ 𝖱𝖺𝖽𝗂𝗈𝖢𝖠𝖳 🔴🔵\n— 🖇 برشلونة يرفض استضافة مباراة إلت برات وأتلتيك بلباو في ملعب يوهان كرويف ❌. \n▫️ تقدم نادي إلت برات بطلب إلى برشلونة لإقامة مباراته ضد بلباو على ملعب يوهان كرويف، لأن ملعبه لا يستوفي متطلبات المسابقة. \n▫️ فيلاخوانا، نائب رئيس إلت برات وعضو مجلس إدارة برشلونة السابق، تواصل مباشرة مع رافا يوستي وقدم طلبًا رسميًا. \n▫️ كان مسؤولو إلت برات يأملون في الحصول على دعم برشلونة باعتباره ناديًا كتالونيًا، وكانوا يرون أن الموافقة على استضافة المباراة ستكون لفتة جميلة من النادي. \n— ⚠️ السبب وراء رفض برشلونة:\n▫️ برشلونة درس الطلب واستشار المسؤولين والمهندسين المختصين بأرضية الملعب، الذين أوصوا بعدم إقامة أي مباريات إضافية خارج المباريات المعتادة للحفاظ على العشب. \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn5.telesco.pe/file/KEM-hbVau7Ui7fWlBBCLTKylXYdTMq6RntGoychpA5akDHv6QvfnnskEzCZx0pm0RRkKD8SoRTw4o-eB0feX1KP5D22F-kTy1Dc75Rn1JMGOOiUSX1DjH56Vf4fgfmV_bXZENErZYXqPgND6p1pEwXYQckkydGeFtY839mc3TvRqPZ7aVGHXl38A0S8aMXMCg98_Lp7KkS7NCpN4FmCIH-6gw1Na_Wh3__j-eq1VERl24_bw1aG_F9JpdfOb-y6Ni8AcDSBZkGg4v0mosLfcoB7qgQmsu0zVCtVBv_a0Ds5-hRhlhipkmB6fnq9mP-IUMBfaM42il47wsB6BHsBH2A.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/367239",
-      "kind": "photo",
-      "timestamp": "2026-10-22T12:50:57+00:00",
-      "created_utc": "2026-10-22T13:02:57.116303+00:00"
-    },
-    "Barca_Studio_News/367238": {
-      "post_id": "Barca_Studio_News/367238",
-      "channel": "Barca_Studio_News",
-      "caption": "الاسطورة ميسي يوقع على قميص برشلونة",
-      "photos": [
-        "https://cdn4.telesco.pe/file/XjIZx1T7ZCUhkXOQkNI-e6TH2uRfi32y2_Y7grVkLjgg2wbjpSityVarhS4rjk4bBHI5MwJH5edMwYfsyAMRbGZe95rp-Sp-aHkmr9JEnN0MQ5ENAfm8zdDq4B4sQ7uYD1GULxBFf-yyPDr122XNVnC_p_A-GF6qgbFZwvbm9BIXxeM6i8wghf9a46pKJWLhKg1sRVVcsLfAJ8P9t8kQXyq2CRXWCQ_I8HFhDnCkBQIP7akH17eqDExMlLU252JoVnzLgaUCtE5omMrwCvBichM2Q1ihfLc03aIl87zy7K6Trn6NYr-Y1VtdpeIGWeKbkCG7c7uG2zQTgDm09XGjoA.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/367238",
-      "kind": "photo",
-      "timestamp": "2026-10-22T12:47:40+00:00",
-      "created_utc": "2026-10-22T13:02:57.596563+00:00"
-    },
-    "Barca_Studio_News/367237": {
-      "post_id": "Barca_Studio_News/367237",
-      "channel": "Barca_Studio_News",
-      "caption": "•📮📄 #صــحــيــفـــة ↫ 𝖱𝖺𝖽𝗂𝗈𝖢𝖠𝖳 🔴🔵\n— 👥 ديكو وبويان يريان أن سيرجيو بوسكيتس يمتلك مقومات تجعله مدربًا مميزًا في المستقبل. \n— 🖇 ديكو خلال اجتماع مع بوسكيتس اعجب بفهمه العميق لكرة القدم وامتلاكه لرؤية كروية واضحة وشخصيته القوية كما أنه يفهم فلسفة برشلونة وطريقة لعبه. \n— 🌀 خلال أسابيعه الأولى مع الرديف بدأ بالفعل يثبت قدرته على التأثير في اللاعبين الشباب\n— ▪️ اذا استمر مسيرته التدريبية في تطور يمكن أن يكون مرشح لقيادة الفريق خلال 5/6 سنوات. \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn5.telesco.pe/file/QZ8osC3PuvlPKxuqUwFYoIMQLrQsioJzWmODUNeU2HxN0daso9DajNvnAGj_nNG5KrnUJTvoXb11A-g34YV1OT3I-lfahU51UjSUL5ls58Y9_FNqTggfhmenGyzp79xKm09XDC7KcDsY1dmg0alF7NCgI77oyDD-lSgm3N8yOOeJ2Tnn3U4hCBOkXjKiH7GNsAtDHQrmvyBpUpKeSfb1LjAHGplv1v9-lBhA-8HOeMJ8NJcI2t5ZnKYVai0T3r9ZEZ_MZweCrR9cmWrAf5QHD-x3lrXH-aHcJZPYJxrkoNxrnaHLdaeK5v6X6l2r3oYYCY-wkDo2ilyrYhjJ6m0K8w.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/367237",
-      "kind": "photo",
-      "timestamp": "2026-10-22T12:46:28+00:00",
-      "created_utc": "2026-10-22T13:02:57.926529+00:00"
-    },
-    "Barca_Studio_News/367236": {
-      "post_id": "Barca_Studio_News/367236",
-      "channel": "Barca_Studio_News",
-      "caption": "•📮📄 #صــحــيــفـــة ↫ 𝖱𝖺𝖽𝗂𝗈𝖢𝖠𝖳 🔴🔵\n— 👥 رودري ورافينها يتقاسمان القيادة داخل برشلونة. \n▫️ قبل وصول رودري، كان رافينها القائد الأبرز داخل غرفة الملابس\n▫️ أصبح هناك نوع من القيادة المشتركة بين رافينها ورودري، ولكل منهما أسلوب مختلف\n▫️ رافينها يمثل الجانب العاطفي والحماسي، ويتميز بقدرته على تحفيز اللاعبين ودفعهم إلى القتال داخل الملعب\n▫️ أما رودري، فيمثل الجانب العقلاني والتكتيكي، إذ يركز على شرح التفاصيل الفنية وتوجيه اللاعبين وتصحيح الأخطاء\n▫️ رودري يقدم ملاحظات دقيقة ومحددة، ويتعامل مع زملائه بعقلية أقرب إلى عقلية المدرب\n▫️ لا يعني ذلك أن رودري انتزع مكانة رافينها، بل أصبح الاثنان يكمل أحدهما الآخر في قيادة المجموعة\n▫️ هانزي فليك سعيد للغاية بهذا الوضع، لأنه وجد لاعبًا داخل غرفة الملابس يتبنى أفكاره الكروية ويساعد على إيصالها إلى بقية الفريق. \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn5.telesco.pe/file/Xu9u0qg1gIppk_PbTlol0A9u0Xzfljb_3Z4nm0932itM3TpyUfruMg9ZjM9m2YLccWkwa5QpXe2UJqlwJpSlLkpJ7Cu2K0Ev4450XAgNMcH8IJSVYmnW3YThZQicQ3wW8PMUgVaB_kv1yvue9SuqRbdMcXc3rdX35mhM4V9Koy2lV-5ifqAja1LjTCdQB0ihWEQJB_vHzentUQpfIYvS_y1CieFsNQXlp2-QePCZzcOpkK9RB5Z30DYuovjy04iiglRi2nvBO3qInR_trIMHiTZwzOkaGPExPS5Uq3t5gVyAfQlAdvwnveZjrb8dS1u8YQeOY_z7BAaKyT7uLHRTAQ.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/367236",
-      "kind": "photo",
-      "timestamp": "2026-10-22T12:44:58+00:00",
-      "created_utc": "2026-10-22T13:02:58.281851+00:00"
-    },
     "Barca_Studio_News/367301": {
       "post_id": "Barca_Studio_News/367301",
       "channel": "Barca_Studio_News",
@@ -3295,6 +3259,62 @@
       "kind": "photo",
       "timestamp": "2026-10-23T07:55:31+00:00",
       "created_utc": "2026-10-23T09:31:45.021333+00:00"
+    },
+    "Barca_Studio_News/367411": {
+      "post_id": "Barca_Studio_News/367411",
+      "channel": "Barca_Studio_News",
+      "caption": "•📮📄 #صــحــيــفـــة ↫ 𝖬𝖠𝖱𝖢𝖠 ⚪🟠\n🚸 - برشلونة ملعب يعرف خطورة مبابي والفرنسي يستعد لفصل جديد من التألق. \n🚸 - يدخل مبابي الكلاسيكو بأرقام لافتة، بعدما سجل 12 هدفاً في 12 مباراة مع ريال مدريد هذا الموسم. \n🚸 - اللاعب يستعد للعودة إلى مدينة سبق أن تألق فيها بقميصي باريس سان جيرمان وريال مدريد.\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/rr9dNJ3Zumeci-nl1iZ1LLsQcmLLk_NR6Gxu55b0Sl3e9Fg2YVXx93Tej_cjYgWU11eQHecPPMVkAAmysTQB89A5KHlQV34GlSy4BL6v_BK686THuuw__SxvV7ANqmelnNvGxO7UCcEqcYvUlR1NWTSYnW5uXPR77VDCCyxh3to_Ylp0_6AHylji4SDfq9R9jNeAfQ2UAxJdv00ApF_BN35deDQXtT2l2Nc64MRACNRSpr3WH6wUUHwmtOdNZvlKG9hWC1Xu4XatpQkasCBXMICIt2QB9rSjsL4tOGydj5OHp94zCJas-cAgl2EgTmv9qY9eHOKnYWJmBQMqWKBUgg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/367411",
+      "kind": "photo",
+      "timestamp": "2026-10-23T14:18:48+00:00",
+      "created_utc": "2026-10-23T14:22:25.152525+00:00"
+    },
+    "Barca_Studio_News/367410": {
+      "post_id": "Barca_Studio_News/367410",
+      "channel": "Barca_Studio_News",
+      "caption": "‏🚨🚨 - #خــبــر ↫‏Jijantes 🔴🔵\n🖇🚸 - سيزور المغني الأمريكي Tyler, The Creator مدينة برشلونة طوال عطلة نهاية الأسبوع، ضمن تعاونه مع سبوتيفاي وبرشلونة بمناسبة الكلاسيكو.\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/X6JzJKtW-N3P4Jq5X0zk1bJwgK8GsUR_nWRr-OIomKYvjLvDFcNTXdFuvh43N-aAHSbHDn-x59aRS7lUEI3CLhEIlb9UU3hl3igd2qcdSQ5xTIFk112upMzTXOLey1ZtVwirc9DvEv0EjkMcDBPjmBWaeP2uhgNR-fnEiXqdBxp5JFKFN3bA2IWgga_UpISA-zSnfMQJn65RXqlU4m2bUd-I56-yslcYKtJjRytXEb090vMDMvN_au9FuokhUDG7SV1V4K9rX59pIGBJXKRhKOALvrgMkOrt-lAAF6eyUSN0LlQRXLGFNKm2ZqvbUtV0cUXqkIshwEj8S4Fgj_Sp9g.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/367410",
+      "kind": "photo",
+      "timestamp": "2026-10-23T14:14:27+00:00",
+      "created_utc": "2026-10-23T14:22:25.620445+00:00"
+    },
+    "Barca_Studio_News/367409": {
+      "post_id": "Barca_Studio_News/367409",
+      "channel": "Barca_Studio_News",
+      "caption": "🧑🏻‍💼🎙#خـافـي_مـيـغـيـل » 𝖠𝖲 🔴⚪\n💬 • يتساوى برشلونة وريال مدريد تاريخيًا بـ106 انتصارات لكل منهما، مقابل 52 تعادلًا. وإذا فاز برشلونة، فسيتقدم على غريمه في عدد الانتصارات بالكلاسيكو لأول مرة منذ ما يقارب قرنًا.\n💬 • كما قد يتفوق عليه في فارق الأهداف، إذ يتقدم ريال مدريد حاليًا بفارق ثلاثة أهداف فقط، 444 مقابل 441.\n💬 • ويسعى برشلونة أيضًا إلى تحطيم الرقم القياسي لأفضل بداية في تاريخ الدوري الإسباني بتحقيقه تسعة انتصارات متتالية، والفوز على ريال مدريد سيمنحه الانتصار العاشر على التوالي.\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/367409",
+      "kind": "text",
+      "timestamp": "2026-10-23T14:07:24+00:00",
+      "created_utc": "2026-10-23T14:22:26.245646+00:00"
+    },
+    "Barca_Studio_News/367408": {
+      "post_id": "Barca_Studio_News/367408",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙#نـيـل_سـولا » 𝖲𝖤𝖱 ⚫⚪\n💬 • جول كوندي لم يُستبعد بعد من مواجهة ريال مدريد 👀. \n💬 • اللاعب يتدرب في صالة الألعاب الرياضية ويخوض تدريبات منفردة على أرض الملعب.\n💬 • كوندي لا يزال متمسكًا بفرصة المشاركة في الكلاسيكو، وسيبذل قصارى جهده للحاق بالمباراة. \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/367408",
+      "kind": "text",
+      "timestamp": "2026-10-23T14:05:40+00:00",
+      "created_utc": "2026-10-23T14:22:26.681078+00:00"
+    },
+    "Barca_Studio_News/367407": {
+      "post_id": "Barca_Studio_News/367407",
+      "channel": "Barca_Studio_News",
+      "caption": "• 👤📲 #حـمـزة_عـبـدالـكـريـم ↫[ IG ] :",
+      "photos": [
+        "https://cdn4.telesco.pe/file/QV-SPSztI1fZP2tq-Zn1gTaycGEDDE8q86zIIanTnxirog4S87H4fw7QEggU9MlvXkHCxISil1EYnFDyf7VAT0Uj2xv8gpqim6n1yPun_XO1zkdcGGldobGZ79MA9mD_ahM6yoRg5yhSaJ5b0Q2FqO-xPcoIrcJD-umBzOLP3S5MamGa5ayg-Ft3xvoyTy-xFVwqDekL_-co7ElIha_KgEOhFjT-ugOAphon8DgUQTxeFW8zSWvqBhqDKlAsR_AV8fOa2GnRUrgtptJpUmfoRwdh-jxLrVi1ORXxZSQHlx2pFEAih_6eGtDvVKBy5dtN12VmMpkph9jLBAIQvZbh7g.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/367407",
+      "kind": "photo",
+      "timestamp": "2026-10-23T14:03:03+00:00",
+      "created_utc": "2026-10-23T14:22:27.104885+00:00"
     }
   },
   "posted": {
@@ -3434,6 +3454,9 @@
     },
     "Barca_Studio_News/367315": {
       "at_utc": "2026-10-23T00:00:17.086261+00:00"
+    },
+    "Barca_Studio_News/367412": {
+      "at_utc": "2026-10-23T14:22:24.733606+00:00"
     }
   },
   "ads": {
