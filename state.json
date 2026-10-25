@@ -3275,6 +3275,26 @@
     "Barca_Studio_News/368272": {
       "at_utc": "2026-10-25T21:39:14.603788+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/368406": {
+      "at_utc": "2026-10-25T23:32:54.190671+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/368405": {
+      "at_utc": "2026-10-25T23:32:54.525294+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/368404": {
+      "at_utc": "2026-10-25T23:32:54.919042+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/368403": {
+      "at_utc": "2026-10-25T23:32:55.274652+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/368401": {
+      "at_utc": "2026-10-25T23:32:55.630750+00:00",
+      "kind": "text"
     }
   },
   "pending": {
@@ -3390,6 +3410,60 @@
       "kind": "text",
       "timestamp": "2026-10-25T21:37:18+00:00",
       "created_utc": "2026-10-25T21:39:14.603770+00:00"
+    },
+    "Barca_Studio_News/368406": {
+      "post_id": "Barca_Studio_News/368406",
+      "channel": "Barca_Studio_News",
+      "caption": "🇪🇸🎙 #بـيـدري_غـونـزالـيـس | #FCB 🔴🔵\n💬 - نحن بحاجة إلى التعافي. لدينا أيام للتفكير فيما فعلناه بشكل خاطئ. علينا التفكير في الخطوة التالية؛ إنها عملية طويلة.\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/368406",
+      "kind": "text",
+      "timestamp": "2026-10-25T23:17:21+00:00",
+      "created_utc": "2026-10-25T23:32:54.190650+00:00"
+    },
+    "Barca_Studio_News/368405": {
+      "post_id": "Barca_Studio_News/368405",
+      "channel": "Barca_Studio_News",
+      "caption": "اليوم.. 👀⁉️",
+      "photos": [
+        "https://cdn4.telesco.pe/file/pkODRfB3-jGFZ2KG-eLdMwnhKrgXAVjw2gvtgm2QgXTsg-2dSpETloU4ZJDgnP1vxcWDpepuW3wn19qkJOyaxki5RCdhWjC4V3J-Myjai5tTls_LPrAxUuOd93_LJLFcfKdkCz0_iL7_XE_Dudp_dg98ZQ7gzhPBYhzYZ3P4s2E0EBjp9mhCSNoNy_VlEZvwYqTkaUELiNWcoQl24nGxvEQPen_MOJdWlu4bhHcmgZZEcfxHBT7JyuePgfO0hL3ZTShT8uMDjrxJsO3RAh4zlugIa9oeBeEXKUbq3uagIc4truUl7sAwx051pq_DpAg0KbwhlW7BckOTNSiC9GGOJw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/368405",
+      "kind": "photo",
+      "timestamp": "2026-10-25T23:15:33+00:00",
+      "created_utc": "2026-10-25T23:32:54.525276+00:00"
+    },
+    "Barca_Studio_News/368404": {
+      "post_id": "Barca_Studio_News/368404",
+      "channel": "Barca_Studio_News",
+      "caption": "🇵🇹🎙#جـواو_كـانـسـيـلـو | #FCB 🔴🔵\n💬- علينا أن نحافظ على ثقتنا بأنفسنا، فهذا جزء من كوننا لاعبين محترفين، ومن طبيعة المهنة التي نمارسها\n💬- نحن نعرف جيدًا حجم الضغوط التي نواجهها، فعندما نخسر نتعرض للانتقادات، وعندما نفوز يتعامل الجميع معنا وكأننا آلهة\n💬 - لكن هذه هي كرة القدم، وعلينا التعامل معها\n💬 - أنا وجميع زملائي نعمل بجد كبير كل يوم، وهناك جودة عالية للغاية في التدريبات\n💬- لذلك أنا واثق تمامًا من أننا سنُظهر رد فعل قويًا، وسنسعى إلى تحقيق الفوز في المباراة المقبلة\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/368404",
+      "kind": "text",
+      "timestamp": "2026-10-25T23:10:00+00:00",
+      "created_utc": "2026-10-25T23:32:54.919024+00:00"
+    },
+    "Barca_Studio_News/368403": {
+      "post_id": "Barca_Studio_News/368403",
+      "channel": "Barca_Studio_News",
+      "caption": "🇩🇪🎙#هـانـسـي_فـلـيـك | #FCB 🔴🔵\n 💬 - لا أقبل الأعذار. علينا التركيز على المباريات المقبلة 👀 \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖.",
+      "photos": [
+        "https://cdn4.telesco.pe/file/kLFfmyKZ6wECD8aRvvzpXUv3HwEMXN4PIzGhD70brt-fcVsxFcArbu_RDJO2DF8AvstqryLh-IArUKwIym7Cq0FIo_VCWq0e5je4P3hsi_c8m4773zcv5a1YN1yGg4V0bMaWDujwRDrpslNScOYgs8MUsFlTGeCLDrpkIcpYjvBHgqNPGzDJiK1AWUxoRcPIVZ_WgkWdA5vLrP6Yn8fch6D67tGU3yH9U9laF5-f7frsLAf8GzGmNI3uWfb08aVx-dKCAOwzWBmWY9gUuA2pn4yo_OBCEPkKTP3QMGaaBI2N1-mtgGdTcPH_Lt4jSFPz6FLlbnAfvDHDi2RZ8vhx0Q.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/368403",
+      "kind": "photo",
+      "timestamp": "2026-10-25T23:07:15+00:00",
+      "created_utc": "2026-10-25T23:32:55.274631+00:00"
+    },
+    "Barca_Studio_News/368401": {
+      "post_id": "Barca_Studio_News/368401",
+      "channel": "Barca_Studio_News",
+      "caption": "◽ - جوزيه مورينيو قال إن تدخل جواو كانسيلو على ديوماندي كان يمكن أن يغيّر مجرى المباراة، وإن اللقطة كانت تستحق بطاقة حمراء واضحة، وكان ينبغي لتقنية الفيديو التدخل كيف شاهدتها ⁉️ \n🇪🇸🎙️#بـاو_كـوبـارسـي | #FCB 🔴🔵\n💬 - بصراحة، لم أشاهد اللقطة\n💬 - لم أتمكن من رؤيتها بشكل واضح أثناء المباراة، ولم أشاهد إعادتها حتى الآن\n💬- لذلك عندما أشاهدها، سأتمكن من إبداء رأيي بشأن ما حدث\n💬 - لكن إذا قرر الحكم أن اللقطة لا تستدعي تدخل تقنية الفيديو، فمن المؤكد أن لديه سببًا لاتخاذ هذا القرار\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/368401",
+      "kind": "text",
+      "timestamp": "2026-10-25T23:05:42+00:00",
+      "created_utc": "2026-10-25T23:32:55.630734+00:00"
     }
   },
   "posted": {
