@@ -3355,6 +3355,26 @@
     "Barca_Studio_News/368677": {
       "at_utc": "2026-10-27T02:14:57.338541+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/368686": {
+      "at_utc": "2026-10-27T07:58:17.514976+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/368685": {
+      "at_utc": "2026-10-27T07:58:18.133196+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/368684": {
+      "at_utc": "2026-10-27T07:58:18.599940+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/368683": {
+      "at_utc": "2026-10-27T07:58:19.162124+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/368682": {
+      "at_utc": "2026-10-27T07:58:19.636294+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -3469,6 +3489,60 @@
       "kind": "text",
       "timestamp": "2026-10-26T23:26:18+00:00",
       "created_utc": "2026-10-27T02:14:57.338524+00:00"
+    },
+    "Barca_Studio_News/368686": {
+      "post_id": "Barca_Studio_News/368686",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨🚨🎙 - عم لامين يامال :\n💬 • أنا حزين جدًا! لا أفهم إطلاقًا كيف لم يفز لامين بالكرة الذهبية ،هناك شيء ما يحدث في الخفاء !\n💬 • دائمًا يقولون لنا إنه صغير جدًا، وإن لم يفز هذا العام فسيفوز العام المقبل، لكنهم قالوا لنا الكلام نفسه العام الماضي !\n💬 • هناك لاعبون لم يقدموا أي شيء هذا الموسم !\n💬 • حتى دون الكرة الذهبية، لامين يظل أفضل لاعب في العالم ،في الوقت الحالي، لا يوجد أي لاعب مثله\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/368686",
+      "kind": "text",
+      "timestamp": "2026-10-27T07:52:33+00:00",
+      "created_utc": "2026-10-27T07:58:17.514953+00:00"
+    },
+    "Barca_Studio_News/368685": {
+      "post_id": "Barca_Studio_News/368685",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨🚨 غارسيا، رئيس مجلة فرانس فوتبول:\n كيليان مبابي تصدّر سباق الكرة الذهبية لفترة طويلة 👀. \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/368685",
+      "kind": "text",
+      "timestamp": "2026-10-27T07:33:31+00:00",
+      "created_utc": "2026-10-27T07:58:18.133178+00:00"
+    },
+    "Barca_Studio_News/368684": {
+      "post_id": "Barca_Studio_News/368684",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨🚨🚨 رئيس مجلة الفرانس فوتبول ⤵️ :\nالاصوات ضاعت بين يامال ورودري لذلك يمال كان مرشح ضعيف.\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/368684",
+      "kind": "text",
+      "timestamp": "2026-10-27T07:31:56+00:00",
+      "created_utc": "2026-10-27T07:58:18.599921+00:00"
+    },
+    "Barca_Studio_News/368683": {
+      "post_id": "Barca_Studio_News/368683",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨📰 #غـــلاف » MD 🔴🔵\n برشلونة يسحق الجميع.\n📄 • نجاح كبير لبرشلونة في حفل الكرة الذهبية: أليكسا فازت بجائزتها الثالثة بفضل نجاحاتها مع برشلونة، ولامين وفيكي لوبيز أفضل اللاعبين الشباب، وبيري روميو وكاتا كول والفريق النسائي انضموا إلى قائمة الفائزين.\n📄 • كين فاز بالكرة الذهبية للرجال في نسخة متنازع عليها أمام مبابي ولامين.\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/eNPhTmlvUlnVJnQZxWNQtYxwL9YqgKhE6nuGZc3Lh5_QoYSCEmD-fH28WaKExuy36yvx4peVUhyKM3pgd2OiiCmzMNo0qOeN70GlgnDGOQKFvZXA4omUCWco_dymNcWRT4SdxGoe8RWIC20QtOtO04KeB8oRGnzUClQE5rw719zqxESVBK7ByBI5mZn93QBJtc58R9JvEaEzdQhGx61tTV_4IQzHMC6POpEz2vtehY5b89vCaGlfyuhnRcTl4Ubolf9fL93R_WHgg1loz4_has-mg4TcGqX_kwi8GqpcFJbxv73F6gZlMDRjYkLPKBHrPcNoCSPJ_D5xRKLJMtmkHg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/368683",
+      "kind": "photo",
+      "timestamp": "2026-10-27T06:03:17+00:00",
+      "created_utc": "2026-10-27T07:58:19.162107+00:00"
+    },
+    "Barca_Studio_News/368682": {
+      "post_id": "Barca_Studio_News/368682",
+      "channel": "Barca_Studio_News",
+      "caption": "- صباح الخير كوليز ❤💙",
+      "photos": [
+        "https://cdn4.telesco.pe/file/G_CPov96ou0XTz5XtjShN3beQdTiBwnMGR2-KglOoVVVsMQC6Qx4KV_ojspf-WekyqOn4IByFxuqBmGKajgpsKc0cEuNMAPPgGyoBldmFxaEBk8DIPYVUj6FvVvy6TQxPjq4PcxUhh19n88QXy0qesAoxiXLNdIiifvhYUae5hCedqUT0kT_UhlChjLLPbofhFee1W8okrcGju1OwElknnUU1jO_btBKP-RuS38BUfStbmqsjogz-3BylqKsvsXB0M-f3nEpLJXYGtBoLznARst3CPnJBrfIFiEXrqByly_LXRs1xsK2rFEBPj_nlyYE9c3mMvjbrik6hxZdnkrgmQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/368682",
+      "kind": "photo",
+      "timestamp": "2026-10-27T06:00:03+00:00",
+      "created_utc": "2026-10-27T07:58:19.636277+00:00"
     }
   },
   "posted": {
