@@ -3559,6 +3559,26 @@
     "Barca_Studio_News/368888": {
       "at_utc": "2026-10-30T07:46:07.184897+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/368944": {
+      "at_utc": "2026-10-30T14:35:26.653468+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/368943": {
+      "at_utc": "2026-10-30T14:35:26.993549+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/368942": {
+      "at_utc": "2026-10-30T14:35:27.323673+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/368940": {
+      "at_utc": "2026-10-30T14:35:27.709299+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/368938": {
+      "at_utc": "2026-10-30T14:35:28.039253+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -3736,6 +3756,68 @@
       "kind": "photo",
       "timestamp": "2026-10-30T06:33:49+00:00",
       "created_utc": "2026-10-30T07:46:07.184879+00:00"
+    },
+    "Barca_Studio_News/368944": {
+      "post_id": "Barca_Studio_News/368944",
+      "channel": "Barca_Studio_News",
+      "caption": "📊 - #احـصـائـيـات | #FCB 🔴🔵\n— برشلونة مع الحكم كورديرو فيغا ⤵️ : \n- 🏟 8 مباريات. \n- ✅ 6 انتصارات.\n- 🤝 0 تعادل.\n- ❌ خسارتان.\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/muMAggzfOofAQxUDpzU09oGY9PhZc8uk3BgVvCmDTRyOB0PL6ehootsuQgmt2OTHy3sW-OkatXG57U19_yX-Z9SThU7UIgt5tt-ctamjNhSHIWqS9m7AZK62A77kNA8HPl-4Vkohjt-aprkdKcCoYGiGMBzc6x9SPIwdZXEtSW0Y6VeU6wbuCFzPhz25HG6R0foZk7GcSjheaO1_Fu8MLSwWIT-ldTayEIw81GPwi8KdmN8eb3QXm5rOdDf_NyLZNAxqtRpYeLZdmhSbPI0Gkw3D-H9yK_n5b8EQiBuQY3Q7DllErYL3HPU8WFfmwh09jZU5c9OG1JCGHBPbXXvHvQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/368944",
+      "kind": "photo",
+      "timestamp": "2026-10-30T13:51:38+00:00",
+      "created_utc": "2026-10-30T14:35:26.653447+00:00"
+    },
+    "Barca_Studio_News/368943": {
+      "post_id": "Barca_Studio_News/368943",
+      "channel": "Barca_Studio_News",
+      "caption": "بيزارو غوميز حكم لتقنية الفيديو ✅. \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/OFnGnJtH6wpcjLAM_wBpmYrfYAq6ibtE8c8YaUqpCbREcwbpH-o7voiVbnCyRXOYrJF0P0z6VnQCQ2vsIIXZkrAx5sio5sMDxtjH6ZNsOXf65Y86y-ZsNrQxHUQQoTO30FuW1XWVrOUk1wAsbPcF8bQyWz8tHLIHM0E05w-c9SvYghus1W_VNMr6KaqyINngJQVA7JMuS0VX7hIL8qI4ptVW46fL0kCz5gcY8-YRaM_OEKmkjneN9jL-LqpzDgDWmHRXDsJojrCSBxRGN_YhKaOHtLNov6AYsfWBVw9lGar8lAtQ5hY_rF5T8rSFByiFHpuOozluLT-ArQbLUqKYdw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/368943",
+      "kind": "photo",
+      "timestamp": "2026-10-30T13:50:11+00:00",
+      "created_utc": "2026-10-30T14:35:26.993532+00:00"
+    },
+    "Barca_Studio_News/368942": {
+      "post_id": "Barca_Studio_News/368942",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨🚨 - #رســمــيــا | #Laliga 🇪🇸🏆\n👤 - تعيين الحكم كورديرو فيغا لـ مباراة الغد ضد الافيس ✅ .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/pbwIGcu-_dZPbWi8xAEwtt5cQdMeO0en2sSnEHgSjN7HOtDffz-EvsCIcFNfQ2I7qJerKehzqlivA8T95hC_amhWcPLB172-Ui51OIesUOSKxQ7HiWaj2214N8OdznwtkAP1NoNlMWqSX9rFDDEko-LX-Topxh04P8G2rw50xtPtqALTQ0DiDngAtNJbFs5b6RV4uQTuJz2tjA3KwtwZukHYC4z9t98QW04sL-kCO4sDd1HX4CcvkORkMtRrbH1aQ6BTLlXMg5lLLSFR36GKKKU1pXm42HnASse9Agva0JN0eXG0HD7RpshlP0-81VqPxDd1WdQwNmWQ4T2XqBsX9A.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/368942",
+      "kind": "photo",
+      "timestamp": "2026-10-30T13:47:30+00:00",
+      "created_utc": "2026-10-30T14:35:27.323660+00:00"
+    },
+    "Barca_Studio_News/368940": {
+      "post_id": "Barca_Studio_News/368940",
+      "channel": "Barca_Studio_News",
+      "caption": "— مارتين 🪨💪🏻 #FCB 🔴🔵",
+      "photos": [
+        "https://cdn4.telesco.pe/file/Idn8AAXsmAf37hCYSkU1SsdMY_Ay0A3TlsRMhwQ6C_a7m6tOGL1QPYYdoZECmHGgvCh2Sg7DDtQwTfqHYb-_u7X_nL6L2VD-xTlld1Qzkwagcd9Jls2WQGRWDIz1ycNz0hC7tTPcquf2z0RZ6SJaXOcjFthDvHPvr6QHA5iMbZUlF1OBD0ik9yKvpd5xkX1D1qEavJ_V-BdnPhBsAMyFHnEGN17XfevYutoFKUZpUw7TIiGSxSn2hpGWLWUyN5OMk-cN2ijjPOgmqW9EisAy7WmVJ6VxzLRq0CTCaPd6Gw1Zzc9fYUMkKU5O6hocyKpUBbf7fdX47OuJfAGk1AmDOg.jpg",
+        "https://cdn4.telesco.pe/file/vLzscTX5L7QewSJjxJGbGXd53yUwUVTkasNm9iCfLQ_4kAgsbOy2rU4Ik-Ucq8IXuNKsVjI_JpJdcV48Gal2Up3SSjEgBovNfHaY0cXFHbrrwlCRI0HJ8JAtfVln657CbqQnwqzofxmp_cfSucI6iN6zwanaICgTTABqjn31P3j15AUblwXl4j0wnM3ZLJP9BtFY_pkKPXbHBX218_kcnHRlfQqBH0wygBTkpJ6kBUF4JBhxL-Kiw5OuhJpjqwbUSVn-ae5m7dtCYNevEivBHKjvxPVZUU5QcOXUrQQ26PDr5X9IJgC0lu1ZnFF3uBeICaLO4rtUsyFFCbMifmqIVg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/368940",
+      "kind": "photo",
+      "timestamp": "2026-10-30T13:45:05+00:00",
+      "created_utc": "2026-10-30T14:35:27.709283+00:00"
+    },
+    "Barca_Studio_News/368938": {
+      "post_id": "Barca_Studio_News/368938",
+      "channel": "Barca_Studio_News",
+      "caption": "— جيسي بيسوو 🧡🇧🇪 #FCB 🔴🔵",
+      "photos": [
+        "https://cdn4.telesco.pe/file/Tl914yTsBstsfpNBxfTlGblwesp_cag6MI7Ul9quaJ4WhuEI3gkB49Og6LFaZ-w7T7jehGMfV0CxWPgvXIv8nXXE-toOfpvvrfvtwD3ZFsNIjXIdtTwMcJrYrKf_fz24o-z_iI_cBfyqcZMr9uK1B_WUFrjgzLUjWeDSuvBee__Q76tN-KOGO2a9Y9UENCkvyvf_dEOTSYzqas90BQnjlBkeZO9nDEAk4hdTw-SNzQ3t8E5jkfzpDtzvXXp4DmjZV7PCuRKcA7154d8wpt4lR0rbU8aR8beySAxnkIkCgxxNvZpfFaWbqVaZP7qvglCTqTWww84-6RtocQ5oTvjK3g.jpg",
+        "https://cdn4.telesco.pe/file/q2VJhupIemBR7h7PlPqbO3NDWun3RIKJBk-MyKGFbybSj7_CxcrcEvucyQEvraSsRkP_RSARPx7qdDQ2G52WRghJaLUwxfeSShnRQ3JXk127Dew9FPnCazoEfdIF2FbP1JNd8CSwfHk6P6RTKvDtsORxslZ9El231CABxE4SbeSfoEqqo6Oo6sNrWd39z4JxnE4WZISpbQ99VJqRlZyIK5hTxvK-xcDCnIAZq0Qjp2IDsm7XW0yb6wbgs6GD4KvRI1qYbZsOLYYYE8FJFMkVv9g2Z3hjQiZP3_MujhlpWfNawLeNx0zcuK-6xBaht0nqnjCSWuEkMxRqUVl_Vxg2MQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/368938",
+      "kind": "photo",
+      "timestamp": "2026-10-30T13:43:16+00:00",
+      "created_utc": "2026-10-30T14:35:28.039236+00:00"
     }
   },
   "posted": {
