@@ -3695,127 +3695,33 @@
     "Barca_Studio_News/369481": {
       "at_utc": "2026-11-01T14:16:27.825722+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/369539": {
+      "at_utc": "2026-11-01T18:59:03.730260+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/369538": {
+      "at_utc": "2026-11-01T18:59:04.136402+00:00",
+      "kind": "video"
+    },
+    "Barca_Studio_News/369537": {
+      "at_utc": "2026-11-01T18:59:04.546056+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/369534": {
+      "at_utc": "2026-11-01T18:59:04.944162+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/369531": {
+      "at_utc": "2026-11-01T18:59:05.338802+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/369528": {
+      "at_utc": "2026-11-01T18:59:05.732227+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
-    "Barca_Studio_News/369030": {
-      "post_id": "Barca_Studio_News/369030",
-      "channel": "Barca_Studio_News",
-      "caption": "- 2-0 إلى اتلتيكو مدريد ⚽ .",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/369030",
-      "kind": "text",
-      "timestamp": "2026-10-31T14:20:53+00:00",
-      "created_utc": "2026-10-31T14:48:27.014422+00:00"
-    },
-    "Barca_Studio_News/369029": {
-      "post_id": "Barca_Studio_News/369029",
-      "channel": "Barca_Studio_News",
-      "caption": "🚨🚨 - نتيجة مباراة أتلتيكو الان 👀 .",
-      "photos": [
-        "https://cdn4.telesco.pe/file/C4o5XCHvsMpsTFnw4ryTS027oX4yJdKs4_hrZY9ZJLw5UTcyyfd55rHChgUmjZS_mXXKVJF_eiF9MP8UZODGOxQooDiRfwO8Xrvgk3MvxElc5bYvDsINd58ZM7dqDlS7jLkXxHSndlV-cNuJCmKCp8kMnZVcHw2-hw6nCbnc4tqwPcT2U6-2KR1kGECayWbd27vi5tFjZFYMzcHiy_bmtXOa_3lFH6bLOYdxqE3-h-Rpc52T5NndotC-3zpHYzfIYMDaEzw5bXdr3mJmYi5IGPaMwXacu_EQVX0J5t9x3nZN0cjUSwy4EJXiA4a2IoqFTSuQ920cphjlflywRIx-ow.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/369029",
-      "kind": "photo",
-      "timestamp": "2026-10-31T14:15:41+00:00",
-      "created_utc": "2026-10-31T14:48:27.488988+00:00"
-    },
-    "Barca_Studio_News/369028": {
-      "post_id": "Barca_Studio_News/369028",
-      "channel": "Barca_Studio_News",
-      "caption": "🚨🚨 - اتلتيكو يتصدر حاليًا 👀 .",
-      "photos": [
-        "https://cdn4.telesco.pe/file/Tc2WOrVuscz94SpejjxJ8S4t9CHzYmVfcOfNo6qL-1Vi0gGO3LDmKMxeK9vRXjaBCPhJIuFyyAoluInLRv-GYFmoIG5Vn3yqEnliS2-4AfcX3067sKIvo6u3UX7rr7ypG6QELglQoHTzDNHBn2AaGgDggERWxpumCY-SsIpf2uRZW-Kr31G0HzoFcjq37SskDCa-WrCq-76-oNXEIFL1WSzipT5mJYaHT8Jn91byEPBRmlNba2xilmiK-SlPPzbs86o8HSycfjiXUJaWA5cjbfbq6ga50mZu_yyOqgkxeTJMz0DCka1pTKp5J_bIrcYmvaNw_gLEYvqssxWi7GQn2A.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/369028",
-      "kind": "photo",
-      "timestamp": "2026-10-31T14:14:07+00:00",
-      "created_utc": "2026-10-31T14:48:28.026203+00:00"
-    },
-    "Barca_Studio_News/369027": {
-      "post_id": "Barca_Studio_News/369027",
-      "channel": "Barca_Studio_News",
-      "caption": "👥 - الاستوديو التحليلي لمباراة اليوم ✅ .",
-      "photos": [
-        "https://cdn4.telesco.pe/file/Z5c1OOmp69Wuyv7GTIrT7g5IFx7UsVwyCJwKpt_Z8HyAPRE2PDujTa9uedqm9W0jEzgDJx16yoB8a1rPfg4MUxcfTqrI_yatQrDXtZjqVO1PfQ0jDBVoTwEw7kE0Z-KKmV3sIEC-1L4WB_-zIulu76fLy1MwTy7gVBNzyr21DmzxuUZPO08oIfedXgCz_usAcL-Kn3skZvBMO8XTNghWnVZCwCTU7VI-eAbPi1qZOsbQpk7JMVtrz-tYrKxNMAD9HGUZCI268zwIB1GrkwPqHFTJ7i7rLAZGn3-Ow07ijRXSvGAaji0f9G8Q70GK0qYwD8q13knTKVujcOyvbrM9-g.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/369027",
-      "kind": "photo",
-      "timestamp": "2026-10-31T14:12:53+00:00",
-      "created_utc": "2026-10-31T14:48:28.561048+00:00"
-    },
-    "Barca_Studio_News/369026": {
-      "post_id": "Barca_Studio_News/369026",
-      "channel": "Barca_Studio_News",
-      "caption": "👥 - ترتيب الهدافين بعد الكلاسيكو 👀 .",
-      "photos": [
-        "https://cdn4.telesco.pe/file/E0ppj9QmlM5vl06dVQyctZGGksjsfZqAyBnRFoQOmQknn1PtS1wQJB8oO6OocfhMR4lRBKNVxwEHGcxqvoGt0F5PaEfejCp0ckoJ0kMVT3G6MjSrePYWNQ_ABfmppYPzAjW5senAJavblmEyr4pomRp7BKKOscKBQmWyUTZtfcEkYouYAEvOCOzETkYknppAy3b0tp8RVRDam9eHahIdQtOi42KzkmmlaKKKtS94YnI3mdu9TqYz3LrcUi5iRfwMs2FzMSE0k4DrbrG6-d4xYQkcDl0MAatYv9QAmcK9Y5leApri9XlXmDSPsWPfPk8ocsGJ_KV40CKPYpjeAnjQdw.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/369026",
-      "kind": "photo",
-      "timestamp": "2026-10-31T14:07:49+00:00",
-      "created_utc": "2026-10-31T14:48:29.056722+00:00"
-    },
-    "Barca_Studio_News/369078": {
-      "post_id": "Barca_Studio_News/369078",
-      "channel": "Barca_Studio_News",
-      "caption": "💺🚨#دكـة_الـاحـتـيـاط || #FCB 🔴🔵 \nبالدي، غافي، غابرييل جيسوس، تشيزني، غوردون، جيرارد مارتين، مارك بيرنال، ليفاكوفيتش، عبد الكريم، تونكارا، غييم فيكتور، أليكس كامبوس\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/369078",
-      "kind": "text",
-      "timestamp": "2026-10-31T18:49:57+00:00",
-      "created_utc": "2026-10-31T18:51:35.034855+00:00"
-    },
-    "Barca_Studio_News/369075": {
-      "post_id": "Barca_Studio_News/369075",
-      "channel": "Barca_Studio_News",
-      "caption": "⚽️- بعثة نادي ألافيس في الكامب نو",
-      "photos": [
-        "https://cdn4.telesco.pe/file/Gl5o2zMGauDDhQ0qD4ykaT0uFavGRTIzF0nw6gIvszd0LI1siV2Osym7wa-vrZXXQBcWnVfUr1pwqEQH2Qx3dC2UT4FGk9DxB8cgFFNJhHY6COVXKIR3-z_g-pCK7r-sn-ug3C1H1WqlCH8uXnQHq1mCijnvc0R6xKq2DHmXb7m7kiJnySnElg0OzMuaXNuu1G5SMLDHZQ_cowZ18vmolcSMKllQjoF1erX_1zwxU4b124DJp60xxolCMb8GhYHL7S-9zO7fW9x86oRvjMpQSZjRTiC7cmRYVyXWSnHoZ3Rjf9YutmTdG5p9_jkuPV83PonPpFiPkfjNzj_PUxQqUQ.jpg",
-        "https://cdn4.telesco.pe/file/ZvuzUm1rbYMs7symyeiyG9k4WpJGhN7e4sUezpKgRKCiLNFE0pdmVxvJt6j82te5hZFRveEyIqfGep0tPekc0C-ecGswfm5qFe0D8uzA7_ElXi09R0rV6B97P2lfOkeq4ikxKu-aCN57PgW-Qc-p2CLGTvzKV2Sh8IovFnYflyOC0h0bqUTmGobXki4oJoft5k54qIlUitDTbP_U6VtXo5LxILy1kKnFehu1oXnXNFUNcSUlosncLC70_eKw-SRZZHm7XUJkJ5S2TJFADQjHzhH4gPlhBJeLF4vwTGJQ0x2NB1L5cWfJGHIXmZoilZ_ATZd0ffAaH_yRGBd1bp7jWQ.jpg",
-        "https://cdn4.telesco.pe/file/uvJRZxppTxEN4GY2s7Q2c-rZX66safYF79_5tf17rvUbxcu_OlE-NQPWqKyoShxpZ2Pm_wa7hyrUQvIRxngl2EXbJljRl4tgIcYpAXkqNzwJO3tAmF2zNwrJSXAHQj6L3lavNHdo3Ja90-mVH3LGKtCwat5M32yFtPk_xlJJpXc4tNRIjDmHy75SFhZPapaBopbusP3soWaO0_Opzy2gHmRVuQxrnNjC7sUQ_6-luXFsALmVPSWqtysBI7SlNeig_H6f7sVPdRnu5ZvVI3wi1tdH-2TSJQy4u8B5gIjZiMWgmn1YyJtTp0R1eOTFOUD36s23jCJoO_qrdu2Iw0Espg.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/369075",
-      "kind": "photo",
-      "timestamp": "2026-10-31T18:47:40+00:00",
-      "created_utc": "2026-10-31T18:51:35.535101+00:00"
-    },
-    "Barca_Studio_News/369074": {
-      "post_id": "Barca_Studio_News/369074",
-      "channel": "Barca_Studio_News",
-      "caption": "📜🚨#الـرسـم_الـتـكـتـيـكـي | #FCB 🔴🔵\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/P7-oodtK6b-IgMh1EGiIlXNUHM5Mg3qYYu8__wUznusGoSzF9CwKqFGY0hDrdUb85sr89J2uOMIPYS-r19HuRpxv_mJduzkd-DMjZXKRIR7ZsyLKsUl1QxSjJhcb73efKbg1B6VZoDahzk3F2TvYm3U08bS54H81GYnVanBAzwUWlfhJv1kCYO4jd2xy8Xr0QFXJIMPyZjMKPGTHE6jkdahrZ8Zghq02gUgm3te0XYJVBE-E1eg20G0rGxVjmLn1ZzlTaB6nxYVRAKXGloo4DAYv_khRFHGS6SoS1Bj4zO1R0YMqfaRdXbTjcaE3jgFiZh1rK519uLOmuMKK9A1Esw.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/369074",
-      "kind": "photo",
-      "timestamp": "2026-10-31T18:44:57+00:00",
-      "created_utc": "2026-10-31T18:51:36.028044+00:00"
-    },
-    "Barca_Studio_News/369071": {
-      "post_id": "Barca_Studio_News/369071",
-      "channel": "Barca_Studio_News",
-      "caption": "📋🚨#الـتـشـكـيـلـة_الـرسـمـيـة | #FCB 🔴🔵\n🤔- جوان — فاريناس كوبارسي دي يونغ كانسيلو — رودري بيدري فيرمين — لامين رافينها أديمي\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/OhNtWt9LuuMED0peQm3-0ia2DpgB4TbMR03Pn8tA1MgcOefFUQOzQFmiaYiBoWFvK5AAg-XsyNY9_4xnGq-CNjQLaUOiIFdkSzrEJtGpxrWm5w4wmtvqYAtb8noB12o5YtMWtVJpUTuapF8GEXhOUB6qy7pHeP12_UT0kopBgRVzE4VISyfAAvb7w5YegblRQgkXgXhjtlLE1tOwDDiCLeWoV3CEnSNviePBeOi0dEG-e0XKwOvmWNtnR7oVlqp2mUkS0HDXY7enSLmKHa7ubH-mK0dLHQt9BCFfM4_R3-uShA_I8IOogEV5X_XIFYAzzuXpJ5Kea9GF_AS9tOIOaw.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/369071",
-      "kind": "photo",
-      "timestamp": "2026-10-31T18:38:38+00:00",
-      "created_utc": "2026-10-31T18:51:37.628070+00:00"
-    },
-    "Barca_Studio_News/369065": {
-      "post_id": "Barca_Studio_News/369065",
-      "channel": "Barca_Studio_News",
-      "caption": "— عـودة الـثـقـة ⁉️",
-      "photos": [
-        "https://cdn4.telesco.pe/file/j4QZBB2PGovzQyNdxW4udDhWKUThooFqRpOmojW_Uk8w8aGNcR6LuK4TCGTDvjwz58UOqfSVb3JYQ8dbe7kDlAV4LEeC5ycdYX9mJeHp7nWid91mYZeUo_CRBxONhf87ypoZHANLA4pFm12aE6Vk3NrQxvS5DxiQNJlry7VjUYE8Wf8j4z8iYTXw04REUVP27XXKILxVaKPI7a-s-e8LB4cAMlqzBdnEjcdDSXY7vOocINvybANKZKZcakv4yrkYjGMXeOkIFQHAa68R3rde6lxgkHxF6oe1IuptntsGfOznzjacthkHXRt6C1_hAnDfrjB3K8nhbXJNNK1Mf8RFiQ.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/369065",
-      "kind": "photo",
-      "timestamp": "2026-10-31T18:35:05+00:00",
-      "created_utc": "2026-10-31T18:51:38.730584+00:00"
-    },
     "Barca_Studio_News/369485": {
       "post_id": "Barca_Studio_News/369485",
       "channel": "Barca_Studio_News",
@@ -3867,6 +3773,68 @@
       "kind": "text",
       "timestamp": "2026-11-01T13:12:07+00:00",
       "created_utc": "2026-11-01T14:16:27.825706+00:00"
+    },
+    "Barca_Studio_News/369539": {
+      "post_id": "Barca_Studio_News/369539",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨🚨⚽️ – توماس رونسيرو :\n💬 - هل تعرفون ما الذي قد يحدث ليلة السبت ؟\n💬 - ريال مدريد قد يذهب إلى التوقف الدُولي متصدراً للدوري . \n💬 - كل شيء تغير ، لقد حدث تغير جدري حقيقي . \n💬 - قبل فترة قصيرة، كانت الأمور تبدو وكأنها مقدمة على طبق من ذهب لبرشلونة لكي يحسم لقب الدوري بأكتوبر أو نوفمبر .\n💠 💣💣💣💣💣💣 💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/RE_9hhbTORDSN9wnN75vpuFIIkMXDwl8ReRGbB9-N1kKsDlI6tTwHvJjspREU2caMJJJmD2NWqE1XHZ8NC-ZNbNjVOzwG4VLVVZjuYM85baukeaz9jW8rFHq8bNWF8IJKKZ00uBS2SXz0Rj8dYgqqu2T2do07xkV_feVZHCugM60MXgqgXRVRIPnFTLlDFeWBGYmrtYxImhGNYjt6GOW9X8y_5jd-pS3oIUZM94OnX1ozUAaL1CpkwJaV0M6zijdu6_rfLGcsVoisYrZzUlvZJhfhMn0q3E_-vIO6M_4-PZvKh_hlI03pBxpT8Z8KSgJhk3nT2MRCsroju-Ie81U2Q.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/369539",
+      "kind": "photo",
+      "timestamp": "2026-11-01T18:29:55+00:00",
+      "created_utc": "2026-11-01T18:59:03.730237+00:00"
+    },
+    "Barca_Studio_News/369537": {
+      "post_id": "Barca_Studio_News/369537",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙#لـويـس_روخـو » 𝖬𝖠𝖱𝖢𝖠 ⚪🟠 \n💬 - فليك وسط بحر من الشكوك قبل أستون فيلا 🇩🇪🏴󠁧󠁢󠁥󠁮󠁧󠁿. \n💬 - في حال عدم الاعتماد على دي يونغ، يبقى الخيار الطبيعي هو جيرارد مارتن إلى جانب باو كوبارسي 🇪🇦🇪🇦 . \n💬 - والسيناريو الأقرب هو الاعتماد على جواو كانسيلو وأليخاندرو بالدي، في بقية الخطوط، الصورة أكثر وضوحًا 🇪🇦🇵🇹 . \n💬 - رودري وبيدري مرشحان للعب معًا في المحور 🇪🇦🇪🇦 . \n💬 - وأمامهما يتجه فليك للاعتماد على لامين يامال وفيرمين لوبيز وأنتوني غوردون 👥 . \n💬 - أما كريم أديمي فتراجعت حظوظه في التشكيلة الأساسية بعد عدم استغلاله فرصته أمام ألافيس 🇩🇪⚽️ . \n💬 - وسيواصل رافينيا اللعب في مركز رأس الحربة 🇧🇷✅ .\n💠 💣💣💣💣💣💣 💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/F5VyYjSWG2sAdoYmZ8E9iYRKktssHyRCM10FWep_lrn8Yc7gQxHD5ASN-szlQ7dozq0xPxzn0gURyCKhBDeatC6YkvujAnaEK1rkAsSxEpF1ERtDdfiPnMPRKTbPwzwnKfT6nE3MppHKZnHG_EFi0hoRi1kqHpNFeDTA6TzGmlRTHXkzyc1wq8KEmBWE8qpVl94KFtSfJQbG-8VpwPD973ICz_OPXY9cOOFJhcPJkNjMgq8OeP-vwVEUSLFUn40ccQgf1ikeT7JEuNBUduCQc0Mq7bUHMR0fTusOtSyFZbTi1D1yM3yNCPUQ5bR7JZMwwbfOWmv01Tsmp8LIFb4uaA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/369537",
+      "kind": "photo",
+      "timestamp": "2026-11-01T18:22:26+00:00",
+      "created_utc": "2026-11-01T18:59:04.546041+00:00"
+    },
+    "Barca_Studio_News/369534": {
+      "post_id": "Barca_Studio_News/369534",
+      "channel": "Barca_Studio_News",
+      "caption": "• ⚽️📲#الــحــســاب_الــرســمــي ← [ 📱 ] \n💬 - نوفمبر صعب ينتظر برشلونة 👀 . \n💬 - برشلونة يبدأ الشهر الرابع من المنافسات الرسمية بخمس مباريات قوية، تتخللها فترة التوقف الدولي الأخيرة في عام 2026 . \n💬 - أستون فيلا، أتلتيكو مدريد، فياريال، صباح وديبورتيفو لاكورونيا . \n💬 - أبرز الاختبارات ستكون أمام أستون فيلا في دوري الأبطال وأتلتيكو في متروبوليتانو، قبل التوقف الدولي، ثم رحلة بعيدة إلى باكو لمواجهة صباح .\n💠 💣💣💣💣💣💣 💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/YdBVF2lw5e0eTcU-3o54BJmRRXVnVBW7XnTrAgeCqgXGaq3l7aumYGKmtMw1YU3-XhZa0VkVzrIHImbT9HEM9WELmfgHURxItNpq6jPkVOdMdDM7CfblSkuLW-iqODznI2tY3yHfbhdYYBjbls8-4Izv0mP6JSIGV0LDx7KftZePaiFx5VySXRewGIAighoFKSxFqmGyYjVRofzyJkpRfZBLrXL9jprqDaV_Ir41x_r7vsM0cwCO2kDnEHBmr-GOxgCzgQeohcD-8Ha7SqR4ySJE-7sKQOMrSyi4UIKOetRpKYrWelNBejHmehrCpd0hq_4b9PzNDi0W3VbR4VoR3A.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/369534",
+      "kind": "photo",
+      "timestamp": "2026-11-01T18:00:57+00:00",
+      "created_utc": "2026-11-01T18:59:04.944143+00:00"
+    },
+    "Barca_Studio_News/369531": {
+      "post_id": "Barca_Studio_News/369531",
+      "channel": "Barca_Studio_News",
+      "caption": "غافي 💔🇪🇦\n💠 💣💣💣💣💣💣 💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/vD41uR4b2uS9pz1wz1Evpar_U_yUFSZkJqnWeNTjxDGPz94e0nCKbIcdQbW7oHYdAAmi-IIvmWubkbaSoBe5ts1ioBjYjcqCxGLBJ2UfplX9smzRd0dbkRH-AMTc4Jij76iixoGujIxs-6ythV3NhcM9OyRQRkKKccmNagwfZY1XYtXdGPLuYdFDiQPGIyPBK5s1OHsm3umtJCM91EV_J9PMGbAfWLZ_cHrgS6UvLPrJM3MgzVluWb523iFVzxe0ov2lA7ulWOjyibycXFGUzsIz-JEb996FYXrzv6lXC7aehGJFJyg1Qk9zvtnmYvx4ZfvdOoTPtJYnL-tGOfjoIQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/369531",
+      "kind": "photo",
+      "timestamp": "2026-11-01T17:22:38+00:00",
+      "created_utc": "2026-11-01T18:59:05.338782+00:00"
+    },
+    "Barca_Studio_News/369528": {
+      "post_id": "Barca_Studio_News/369528",
+      "channel": "Barca_Studio_News",
+      "caption": "• 🇪🇦📲#جـوان_غـارسـيـا ↫[ 📱 ] : \n💬 - نواصل حصد النقاط في الدوري الإسباني !\n💬 - ثلاث نقاط جديدة على أرضنا ، ونواصل تصدّر جدول الترتيب 🧤⚽ .\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/sSP9n86MhaUiarxsDjsS6WBY5B13p6ZzSds-_gIF2dPy5MfTYSrpYi6lu-vZ8NQUYY402PwBCbk2ptfTlJrwJ8qOgpfjFTBmYJkxJWo_heypDURAczxbaqgDxX4_F39slEMgrgpETYRMkS4x-vF1UWaX9iU_l4yRXFYSpc6jgjE1MFDRk2NQZ7ikx1qkiuPL9Nj8QOSUQe85dnhfP8r5_FMMa6lgWETzmgYChzwdu4PKe4A6k76YhfXGyyMqLmuPcSJgPzMYBXq8uPm3vVp-enzxUAdDUa7YPMGMrXj9q_kA7amWcJoUWkcej-AEEJVqzji6a-G43IFMhJNr7EIO2Q.jpg",
+        "https://cdn4.telesco.pe/file/iSL0N1hNFC6jt1DaXhKjt-ud1aqHfYdLxMNUo6xdsGy9DeeRmc-gRGNMPoM6Q3b-MfnXoR4mpTP3Fs9ngkOduMWWA_BKF7uHpHWCce2R0BZ-jYCP-Bxy17av76Uj8xzJ9pGoFhFnxgSoD8xXAahaUBmJWtBHn5sYNY5rzbPwJEoBZ1EQAB4iSmkbV3dQiiLNOlcdeoX431OCijogbSM1boGaHEftcjgiO9Z9vxza2QHLUHJUNDcOd_D0dd7BrYdINuCarYuTrWIyqqglNhAEsRHKELPgGC3ptTsqnco0TlCIPtvRYB10JwjFFQM6t8QgXDGO8I4R2rBdIU3O5MYHOA.jpg",
+        "https://cdn4.telesco.pe/file/sBoxjPvmGPohbnwEWShVU-61MyyGkAuYQ1AISptV15QFqsANa1NyssL9EcupOlGcH5r7URY4Sy2e9e_Ro4s1IsHjDlf8YPYdsFACw-PULues_i-xkx5l7RywO0jZ3Fk0AipvATIAZzhmecFURC_BteoQcbR-geyywT_cPN6Ebbej5wRHG1m3oIIFwTIBYTSUfmXKvs5Y5-a5uL1vroKqYoI_eNTgJ66TzrkTbF6kZG4YxVEX1qC9txMC6pTUuthCN_qsaWmQXYg4qRQY_ULjQfaLhV49GvMTTMA1TBkHOHJU-puGj2DVV1_0oFQwuDkThO_5k9qGZQAXnsIcPTIvCw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/369528",
+      "kind": "photo",
+      "timestamp": "2026-11-01T17:21:15+00:00",
+      "created_utc": "2026-11-01T18:59:05.732214+00:00"
     }
   },
   "posted": {
@@ -4024,6 +3992,9 @@
     },
     "Barca_Studio_News/369064": {
       "at_utc": "2026-10-31T18:51:39.237884+00:00"
+    },
+    "Barca_Studio_News/369538": {
+      "at_utc": "2026-11-01T18:59:04.136416+00:00"
     }
   },
   "ads": {
