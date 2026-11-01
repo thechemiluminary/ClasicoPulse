@@ -3719,6 +3719,30 @@
     "Barca_Studio_News/369528": {
       "at_utc": "2026-11-01T18:59:05.732227+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/369576": {
+      "at_utc": "2026-11-01T22:41:51.949600+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/369575": {
+      "at_utc": "2026-11-01T22:41:52.428184+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/369574": {
+      "at_utc": "2026-11-01T22:41:52.801482+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/369571": {
+      "at_utc": "2026-11-01T22:41:53.190866+00:00",
+      "kind": "video"
+    },
+    "Barca_Studio_News/369570": {
+      "at_utc": "2026-11-01T22:41:53.585215+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/369569": {
+      "at_utc": "2026-11-01T22:41:53.974577+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -3835,6 +3859,62 @@
       "kind": "photo",
       "timestamp": "2026-11-01T17:21:15+00:00",
       "created_utc": "2026-11-01T18:59:05.732214+00:00"
+    },
+    "Barca_Studio_News/369576": {
+      "post_id": "Barca_Studio_News/369576",
+      "channel": "Barca_Studio_News",
+      "caption": "•📮📄 #صــحــيــفـــة ↫ 𝖬𝖣 🔴🔵\nكانسيلو أحد أكبر داعمي بالدي داخل غرفة الملابس 🇵🇹🇪🇦\nفي احد المرات كانسيلو تدخل ودافع عن بالدي أمام فليك 🇩🇪\nليس كانسيلو فقط، هناك لاعب آخر ذو وزن ثقيل ومقرب من فليك دافع عن بالدي عندما طلب منه فليك بتبديل مركزه مع بالدي بالتدريبات 👥\n💠💣💣💣💣💣💣💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/l__Bknmj8YJYBQtu3qGm0b0lv0sUnBw_4wUMFDcxoHfxFdU31h7TSuMPtHFbtVkI97BoZfRGEBj02hECKtKPAqzk-R50rzg-0PR19JtOptOPPIDqDmguAH01N-UOAnQMl9eZjcBaLsgb2ip64T3P4MdCjCtH4pZC58gwHmn3u-peIR24bS-ZxqsCrom-rkIDNGxTMeXIboCyPaaqik3buMtwXfz1ae_8CSWspQBmQi9j1q2BBt-fpdYADle916MoRwHTx9gDsRFetp-86XmJXyxs1aOAVF6Tls7uq7IrLtaxMaiQXOjxYAdIrUS1i9dzUO2ENi3WM1NvonXx6U-mjA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/369576",
+      "kind": "photo",
+      "timestamp": "2026-11-01T22:34:29+00:00",
+      "created_utc": "2026-11-01T22:41:51.949578+00:00"
+    },
+    "Barca_Studio_News/369575": {
+      "post_id": "Barca_Studio_News/369575",
+      "channel": "Barca_Studio_News",
+      "caption": "•📮📄 #صــحــيــفـــة ↫ 𝖬𝖣 🔴🔵\n🔵 بالدي يشعر بخيبة أمل لأنه توقع أن يكون فليك صادق معه🇪🇦\n🔵 قبل اغلاق السوق، فليك تحدث بشكل مباشر مع كاسادو وفورت وأبلغهما بأنهما لن يحصلا على دقائق🇩🇪\n🔵 بينما بالدي لم يتحدث معه أحد، وكل الرسائل التي وصلته كانت عبر المؤتمرات الصحفية \n💠💣💣💣💣💣💣💠",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/369575",
+      "kind": "text",
+      "timestamp": "2026-11-01T22:28:52+00:00",
+      "created_utc": "2026-11-01T22:41:52.428165+00:00"
+    },
+    "Barca_Studio_News/369574": {
+      "post_id": "Barca_Studio_News/369574",
+      "channel": "Barca_Studio_News",
+      "caption": "•📮📄 #صــحــيــفـــة ↫ 𝖬𝖣 🔴🔵\nبالدي أصبح منفتح على الرحيل في يناير 🇪🇦❌\n💠💣💣💣💣💣💣💠",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/369574",
+      "kind": "text",
+      "timestamp": "2026-11-01T22:18:46+00:00",
+      "created_utc": "2026-11-01T22:41:52.801462+00:00"
+    },
+    "Barca_Studio_News/369570": {
+      "post_id": "Barca_Studio_News/369570",
+      "channel": "Barca_Studio_News",
+      "caption": "📊 - #احـصـائـيـات | #FCB 🔴🔵\n🇪🇦🔝 لامين يامال يتصدر قائمة أفضل المراوغين في الدوريات الأوروبية الخمسة الكبرى، بـ43 مراوغة ناجحة!👑\n💠💣💣💣💣💣💣💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/ulepRSLer9-m89oHgMksnjqQZ7-RBmyfHUU6BmAIpghVTooQ4ufpSbwv5QfdHEV4SMI0dQ_uuMaJZYEl6_sSJam3-howkgFjZB6MWsIPoPCPlzRjAQ8IULz2qzP_piyVdoflh_awFirQe-ov6jpF50eS35ioIwSuDj20Kv6Fdq5M9z-ibzLtTm54X7XelKJ3gsPxj2jonQRsP9B4xKCeqKQ2hhYi1qudSd2pcK-0jw4Dk9rrxkWkNy1rfmQQU_y-bKrrzxqswntMZwmI3CdTOTzbo3-wdnwINBjhFbZfsk5lpZJigm8qXEmT-Bk7GcF3De0ypsNWoQThZVbiGSIKJQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/369570",
+      "kind": "photo",
+      "timestamp": "2026-11-01T21:24:10+00:00",
+      "created_utc": "2026-11-01T22:41:53.585195+00:00"
+    },
+    "Barca_Studio_News/369569": {
+      "post_id": "Barca_Studio_News/369569",
+      "channel": "Barca_Studio_News",
+      "caption": "❤💙🇪🇸",
+      "photos": [
+        "https://cdn4.telesco.pe/file/J2Wmi6fVTMEh0oiSenKVSl3LclCn7HLTRsOpo9FWydO29DizFHRZngdjDonkg4331HLyoB4G22w4yrpqgHvu-emNDHf3_9lchk-rbk8lsEygBYDfzK7nDeaE15yyTeWYHeXrNzZks3PmMrPZjjExxuKQMiIaL7svodx7tGOD--UK_DX4s3VBwMxdSxUOAFUAnFtG0ESWrNf8i_-18lzk2Rq8Uu5jmUTkEx4AxgM9NOX_xYIeezvi2JaIoNWVIJqhtxYgvvAjgL_48erZVAKgwrFI3Nd05s8bbuRoWBPlV9TBBsf3-B-fpgbmuF70EFciymrCHCwZ28xcZsFl7lYJzg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/369569",
+      "kind": "photo",
+      "timestamp": "2026-11-01T21:05:48+00:00",
+      "created_utc": "2026-11-01T22:41:53.974558+00:00"
     }
   },
   "posted": {
@@ -3995,6 +4075,9 @@
     },
     "Barca_Studio_News/369538": {
       "at_utc": "2026-11-01T18:59:04.136416+00:00"
+    },
+    "Barca_Studio_News/369571": {
+      "at_utc": "2026-11-01T22:41:53.190886+00:00"
     }
   },
   "ads": {
