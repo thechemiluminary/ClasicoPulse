@@ -3823,6 +3823,26 @@
     "Barca_Studio_News/369755": {
       "at_utc": "2026-11-03T16:04:59.737357+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/370100": {
+      "at_utc": "2026-11-03T21:42:28.340154+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/370099": {
+      "at_utc": "2026-11-03T21:42:28.802640+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/370098": {
+      "at_utc": "2026-11-03T21:42:29.253498+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/370097": {
+      "at_utc": "2026-11-03T21:42:29.692290+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/370096": {
+      "at_utc": "2026-11-03T21:42:30.142108+00:00",
+      "kind": "text"
     }
   },
   "pending": {
@@ -3991,6 +4011,56 @@
       "kind": "text",
       "timestamp": "2026-11-03T15:30:58+00:00",
       "created_utc": "2026-11-03T16:04:59.737340+00:00"
+    },
+    "Barca_Studio_News/370100": {
+      "post_id": "Barca_Studio_News/370100",
+      "channel": "Barca_Studio_News",
+      "caption": "غوردون لا تفكر بعد",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/370100",
+      "kind": "text",
+      "timestamp": "2026-11-03T21:41:45+00:00",
+      "created_utc": "2026-11-03T21:42:28.340130+00:00"
+    },
+    "Barca_Studio_News/370099": {
+      "post_id": "Barca_Studio_News/370099",
+      "channel": "Barca_Studio_News",
+      "caption": "غوردووون يراوغ ولكن بعيدة",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/370099",
+      "kind": "text",
+      "timestamp": "2026-11-03T21:41:34+00:00",
+      "created_utc": "2026-11-03T21:42:28.802621+00:00"
+    },
+    "Barca_Studio_News/370098": {
+      "post_id": "Barca_Studio_News/370098",
+      "channel": "Barca_Studio_News",
+      "caption": "انلغى ما شاء الله خير وبركة",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/370098",
+      "kind": "text",
+      "timestamp": "2026-11-03T21:40:37+00:00",
+      "created_utc": "2026-11-03T21:42:29.253480+00:00"
+    },
+    "Barca_Studio_News/370097": {
+      "post_id": "Barca_Studio_News/370097",
+      "channel": "Barca_Studio_News",
+      "caption": "خصمنا القادم اتليتكو بلع الثالث الآن من البايرن👀",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/370097",
+      "kind": "text",
+      "timestamp": "2026-11-03T21:40:12+00:00",
+      "created_utc": "2026-11-03T21:42:29.692272+00:00"
+    },
+    "Barca_Studio_News/370096": {
+      "post_id": "Barca_Studio_News/370096",
+      "channel": "Barca_Studio_News",
+      "caption": "عرضيية كانسيلو وتبعد",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/370096",
+      "kind": "text",
+      "timestamp": "2026-11-03T21:39:29+00:00",
+      "created_utc": "2026-11-03T21:42:30.142089+00:00"
     }
   },
   "posted": {
