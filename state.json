@@ -3803,6 +3803,26 @@
     "Barca_Studio_News/369729": {
       "at_utc": "2026-11-03T07:59:27.153812+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/369759": {
+      "at_utc": "2026-11-03T16:04:57.679571+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/369758": {
+      "at_utc": "2026-11-03T16:04:58.159909+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/369757": {
+      "at_utc": "2026-11-03T16:04:58.662375+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/369756": {
+      "at_utc": "2026-11-03T16:04:59.242183+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/369755": {
+      "at_utc": "2026-11-03T16:04:59.737357+00:00",
+      "kind": "text"
     }
   },
   "pending": {
@@ -3921,6 +3941,56 @@
       "kind": "photo",
       "timestamp": "2026-11-03T07:35:37+00:00",
       "created_utc": "2026-11-03T07:59:27.153794+00:00"
+    },
+    "Barca_Studio_News/369759": {
+      "post_id": "Barca_Studio_News/369759",
+      "channel": "Barca_Studio_News",
+      "caption": "👤 - الهدف الثاني لنادي أستون فيلا وينتهي شوط الأول 2/2⚽️⚽️.",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/369759",
+      "kind": "text",
+      "timestamp": "2026-11-03T15:51:34+00:00",
+      "created_utc": "2026-11-03T16:04:57.679548+00:00"
+    },
+    "Barca_Studio_News/369758": {
+      "post_id": "Barca_Studio_News/369758",
+      "channel": "Barca_Studio_News",
+      "caption": "👤 - الهدف الأول لنادي أستون فيلا ⚽️⚽️.",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/369758",
+      "kind": "text",
+      "timestamp": "2026-11-03T15:38:49+00:00",
+      "created_utc": "2026-11-03T16:04:58.159892+00:00"
+    },
+    "Barca_Studio_News/369757": {
+      "post_id": "Barca_Studio_News/369757",
+      "channel": "Barca_Studio_News",
+      "caption": "🎬 - لمُشاهدة الهدف الثاني للشباب 👤⚽️ .\n ☝ أضـغـط هـنـا\n💠 💣💣💣💣💣💣 💠",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/369757",
+      "kind": "text",
+      "timestamp": "2026-11-03T15:35:51+00:00",
+      "created_utc": "2026-11-03T16:04:58.662359+00:00"
+    },
+    "Barca_Studio_News/369756": {
+      "post_id": "Barca_Studio_News/369756",
+      "channel": "Barca_Studio_News",
+      "caption": "👤 - جوان هيرنانديز يسجل الهدف الثاني للشباب ضد أستون فيلا ⚽️⚽️.",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/369756",
+      "kind": "text",
+      "timestamp": "2026-11-03T15:32:00+00:00",
+      "created_utc": "2026-11-03T16:04:59.242166+00:00"
+    },
+    "Barca_Studio_News/369755": {
+      "post_id": "Barca_Studio_News/369755",
+      "channel": "Barca_Studio_News",
+      "caption": "🎬 - لمُشاهدة الهدف الأول للشباب 👤⚽️ .\n ☝ أضـغـط هـنـا\n💠 💣💣💣💣💣💣 💠",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/369755",
+      "kind": "text",
+      "timestamp": "2026-11-03T15:30:58+00:00",
+      "created_utc": "2026-11-03T16:04:59.737340+00:00"
     }
   },
   "posted": {
