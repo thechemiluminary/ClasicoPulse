@@ -4151,6 +4151,26 @@
     "Barca_Studio_News/370747": {
       "at_utc": "2026-11-08T19:55:23.814998+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/371063": {
+      "at_utc": "2026-11-08T23:25:38.030241+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/371062": {
+      "at_utc": "2026-11-08T23:25:38.344584+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/371061": {
+      "at_utc": "2026-11-08T23:25:38.847856+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/371060": {
+      "at_utc": "2026-11-08T23:25:39.177253+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/371059": {
+      "at_utc": "2026-11-08T23:25:39.496867+00:00",
+      "kind": "text"
     }
   },
   "pending": {
@@ -4325,6 +4345,60 @@
       "kind": "text",
       "timestamp": "2026-11-08T19:49:27+00:00",
       "created_utc": "2026-11-08T19:55:23.814978+00:00"
+    },
+    "Barca_Studio_News/371063": {
+      "post_id": "Barca_Studio_News/371063",
+      "channel": "Barca_Studio_News",
+      "caption": "🤔- هل كانت الفعالية الهجومية هي العامل الحاسم في خسارتكم أمام برشلونة ⁉️\n🇦🇷🎙#ديـيـغـو_سـيـمـيـونـي | #ATM 🔴⚪ \n💬- في الحقيقة أنا فخور باللاعبين\n💬- قدموا مباراة كبيرة، لعبنا المباراة التي أردنا لعبها في دقائق كثيرة منها، وحسناً، لم تكن لدينا الفعالية التي تتطلبها مثل هذه المباريات\n💬- ومن هنا بالطبع انتهى بنا المطاف بخسارة المباراة أمام فريق نعرف جميعاً مدى فعاليته\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/371063",
+      "kind": "text",
+      "timestamp": "2026-11-08T23:12:51+00:00",
+      "created_utc": "2026-11-08T23:25:38.030218+00:00"
+    },
+    "Barca_Studio_News/371062": {
+      "post_id": "Barca_Studio_News/371062",
+      "channel": "Barca_Studio_News",
+      "caption": "- حفظ الله الملك 🩵",
+      "photos": [
+        "https://cdn4.telesco.pe/file/btsP04JB7xnxs4miocixi71BsX2NogXZJ--twwrl9eKja4wu6-mdAYq7dWBuB7vi0B48QhFislRpPuDR5Kcxa0ISDmhkU2obJHTel6HBZU3WhbjpIiE6hjm-eyLgnAk3mue8k9-wulynWdVpLhGG4csnqKSADW-D9QPduewSddvzfHwGr8N5LdRFHAFzt3qqyI1j0MpLXaAsThGyqL1pDV0vTPrBO2r6dp4-e54qBcnT3NAGYZlON95voaeePcZZkGZiibEIA8nvsGbjboXdE3jC20rO8Ulh9NX73sHEksHZUPfMiI8qwtmKO3vSsAAWE5M-mkp4kQ_uOR251hcHzA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/371062",
+      "kind": "photo",
+      "timestamp": "2026-11-08T23:12:15+00:00",
+      "created_utc": "2026-11-08T23:25:38.344563+00:00"
+    },
+    "Barca_Studio_News/371061": {
+      "post_id": "Barca_Studio_News/371061",
+      "channel": "Barca_Studio_News",
+      "caption": "🤔- كيف تقيّم هذا الأسبوع بعد الخسارة في دوري أبطال أوروبا والدوري الإسباني ⁉️\n🇦🇷🎙#ديـيـغـو_سـيـمـيـونـي | #ATM 🔴⚪ \n💬- هدوء، لا شيء أكثر من ذلك\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/371061",
+      "kind": "text",
+      "timestamp": "2026-11-08T23:11:08+00:00",
+      "created_utc": "2026-11-08T23:25:38.847836+00:00"
+    },
+    "Barca_Studio_News/371060": {
+      "post_id": "Barca_Studio_News/371060",
+      "channel": "Barca_Studio_News",
+      "caption": "❤️🫶",
+      "photos": [
+        "https://cdn4.telesco.pe/file/jBZUzAskNpOfOz6ahtSVA2YJOXlG7ynqfQwARuwBUlTNM82QO75FFZA4x_9oU1Vb5IPX0mb9X5F2RT463jRTDh0sdCRiRH25RISiBmzH62fYTaqOAOFrl2jz_9Pi0Dqzi4Ni-tQuUuD7lxekwcjX8gHBNrMTRlmIyTgMWMID_HpVfzQC8NcAG_eIP65nqnI7_aO1lNpz8lEn9ghVwWEAcWhUWfxEC_pailkyfLdJ1EcpAkcsIWci-PZzjE0q7drziUIfw8k4Ss_4CVE1Aoxd5nYVB-ukEXUpteKRtCkjCHO43YlewxB774ttPrLh-v45NaHGooSFYgW6VFtMRKB9Vw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/371060",
+      "kind": "photo",
+      "timestamp": "2026-11-08T23:09:29+00:00",
+      "created_utc": "2026-11-08T23:25:39.177233+00:00"
+    },
+    "Barca_Studio_News/371059": {
+      "post_id": "Barca_Studio_News/371059",
+      "channel": "Barca_Studio_News",
+      "caption": "🤔- ما الذي غيّرته في الشوط الثاني حتى ظهر برشلونة بصورة مختلفة تماماً ⁉️\n🇩🇪🎙#هـانـسـي_فـلـيـك | #FCB 🔴🔵\n💬- الفوز هنا ليس بالأمر السهل على الإطلاق، لم تكن البداية سهلة بالنسبة لنا، لكن أعتقد أننا في الشوط الثاني سيطرنا على المباراة وكنا أفضل بكثير، وأعتقد أيضاً أننا استحققنا هذا الفوز\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/371059",
+      "kind": "text",
+      "timestamp": "2026-11-08T23:08:36+00:00",
+      "created_utc": "2026-11-08T23:25:39.496848+00:00"
     }
   },
   "posted": {
