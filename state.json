@@ -4211,69 +4211,29 @@
     "Barca_Studio_News/371183": {
       "at_utc": "2026-11-10T03:29:03.762570+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/371200": {
+      "at_utc": "2026-11-10T11:38:58.898680+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/371199": {
+      "at_utc": "2026-11-10T11:38:59.509429+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/371198": {
+      "at_utc": "2026-11-10T11:38:59.956606+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/371197": {
+      "at_utc": "2026-11-10T11:39:00.432427+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/371195": {
+      "at_utc": "2026-11-10T11:39:00.878063+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
-    "Barca_Studio_News/371108": {
-      "post_id": "Barca_Studio_News/371108",
-      "channel": "Barca_Studio_News",
-      "caption": "•📮📄 #صــحــيــفـــة ↫ 𝖬𝖠𝖱𝖢𝖠 ⚪🟠\n🇪🇦- لامين يامال اشترى في نهاية 2025 منزلًا في برشلونة مقابل نحو 11 مليون يورو كان مملوكًا سابقًا لشاكيرا وبيكيه\n🤔- العقار يخضع حاليًا لأعمال تعديل وتحديث ليتناسب مع احتياجاته وأذواقه، ويضم حدائق ومسابح وصالة رياضية ومساحات رياضية واستوديو تسجيل\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/EKXZQDN4XoD-Ryi3SLzRfmW02LAzJd6eNBc0mxr8-ltqrHYoAC-6KF9yxiXDGq2Njqy6pzWRkW0JiM70AlWo4jlIj7FigEz13IjDX5xk0pzcCBcdWOsgMJ8BUk6D0cjtFPIoMgrUpu-BVHj64MXaxSdfkUC9VDze9l4Onuvvkscxxt7QWSXP-I4Q9exre_2cxxZEB3kiUTPbkdG5aqezQRpsvbeE7K5ZPIdu36arQM88_sYnjhMsyniQYLCzE1jAhCc5ixrTcpU6Zk_YhY9ENZJxarnHR0CDP2i2rh0fNU_VhOIvA0Zkv4FfFpgUJM_Ols32laqX4UaEW_jiXf2zag.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/371108",
-      "kind": "photo",
-      "timestamp": "2026-11-09T10:01:22+00:00",
-      "created_utc": "2026-11-09T10:38:02.582226+00:00"
-    },
-    "Barca_Studio_News/371107": {
-      "post_id": "Barca_Studio_News/371107",
-      "channel": "Barca_Studio_News",
-      "caption": "🤵🏻🎙 #تـشـافـي_نـافـارو » ARA 🔴🔵\n💬- التحول الحقيقي في المباراة جاء مع دخول فرينكي دي يونغ\n💬- الهولندي لعب أولًا في مركز الظهير ثم انتقل إلى الوسط، ومنذ عودته من الإصابة يواصل تقديم إضافات إيجابية في أكثر من مركز\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/hb_IjCivbMj2DTpc0_KVlMdNqWgRcHbvZk3h3paiIAy82P93Zc53GQpnkqwXRN-RSGCUIQRhIJzdPhDFT3NnUBiad9D_-QJk3KOZBUktMv6c_v1ThbHWSDdh-lVWtSe_TXURHuJIIgp8yWa8CNPC9HdrAZiyUi32h19rr5Xpg31Np_2E_TUJoL0ztvioiBZCGh2uji9elhxeXHsPI8mTX8ZXe_j2GJG2udmFC71ziYXJwZih_zn8MOUayuvamqDIFVfZmNeYNSFbDf65gcDC1hmn3y34IJfsR6lrmTV8cELJHUfj-sL8gxP_VAx7YU5FvqnW1A0Qcz_B-lYUuxCO5A.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/371107",
-      "kind": "photo",
-      "timestamp": "2026-11-09T09:56:28+00:00",
-      "created_utc": "2026-11-09T10:38:02.986937+00:00"
-    },
-    "Barca_Studio_News/371106": {
-      "post_id": "Barca_Studio_News/371106",
-      "channel": "Barca_Studio_News",
-      "caption": "🤵🏻🎙 #تـشـافـي_نـافـارو » ARA 🔴🔵\n💬- مارك برنال بدأ المباراة بصورة متواضعة رغم الترحيب بقرار فليك الاعتماد عليه بدلًا من دي يونغ لتعويض رودري\n💬- أداؤه تحسن بوضوح في الشوط الثاني، خصوصًا بعد دخول دي يونغ ومساعدته في إخراج الكرة\n💬- برنال يملك مقومات لاعب وسط مهيمن، لكن دوره المثالي لم يتحدد بعد بشكل نهائي\n💬- ما زال السؤال مفتوحًا حول ما إذا كان محورًا تمركزيًا، لاعبًا يجمع بين الصندوقين أو لاعب وسط هجوميًا أكثر\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/rsIYAOjxHQrlZnL306WlcXAxIDTibw55L0tk9ItH5W9a61Q6HlnrrE-HpzT33VO_X8Zh-i44gKfNezb8pnzi725U6AnkuGTbcWOWluZpA9Zav7VTreFvi_PEgBLC7DGbXz6ytQozk6DAatJmaJswrRaXjP4b1ucIinj4pmd6l_9Eu-neO6CMiPA7AYPdpLIS574a6VyKcncoPy_jPBwoIAr9Y4LlLJ4dfXehJx4uQxKPrMPXxUIlQFIVKsHP3teoYvxBMiPa6hS_d71Xr2Veftjhfo14nWeTAobZhYYeI_shjCB1MDsnvVxVlRIZ16qCUCxHYqmuDcM8k1ArZnQTAw.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/371106",
-      "kind": "photo",
-      "timestamp": "2026-11-09T09:51:31+00:00",
-      "created_utc": "2026-11-09T10:38:03.389481+00:00"
-    },
-    "Barca_Studio_News/371105": {
-      "post_id": "Barca_Studio_News/371105",
-      "channel": "Barca_Studio_News",
-      "caption": "🤵🏻🎙 #تـشـافـي_نـافـارو » ARA 🔴🔵\n💬- فيرمين أصبح لاعب الوسط الأكثر تسجيلًا في الدوري رغم أنه لا يضمن دائمًا مكانه أساسيًا بسبب المنافسة مع داني أولمو\n💬- حتى أرقام مثل 80 أو 100 أو 120 مليون تبدو غير كافية لتقدير تأثيره الحالي\n💬- يمتاز بقدرته الكبيرة على إنهاء الهجمات بكلتا القدمين، إضافة إلى عمله الهائل في الضغط\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/P3YD9f8hrMZuR55ecUSe4OynGEUM9k6KczaH4uzuvyfQrQv4C-iHuU77KUwVG6Ko4Howxj7EqTKsLOTrQsBEhsI2nhYXQIqYUlsQ3hSJ4alnOLfMVsmT_qUbCjw2Gr-ycvQUCCuJkf280595wN5Muf0-EFeoGNshHyPDNWmqi9HU9-myEpamWoHKlBqeZFoTId7tvg21sV61s_475N7jhdydbKv09xu3wfduY9GIEoBF9n46e0JA8rykrfIH-NhuTPrfRPTN0fq0-dUHIZKrbNOyYWidMLo8y0-JrHsa7vIEz_h619RpJ7CGxT-oF7x-vylLYdZ9bPmzdVBtfrLDbg.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/371105",
-      "kind": "photo",
-      "timestamp": "2026-11-09T09:45:19+00:00",
-      "created_utc": "2026-11-09T10:38:03.889140+00:00"
-    },
-    "Barca_Studio_News/371104": {
-      "post_id": "Barca_Studio_News/371104",
-      "channel": "Barca_Studio_News",
-      "caption": "🤵🏻🎙 #تـشـافـي_نـافـارو » ARA 🔴🔵\n💬- قبل سيطرة برشلونة، حصل جوليان ألفاريز على أكثر من فرصة خطيرة وانفرد بـجوان غارسيا في مناسبتين، لكنه لم ينجح في التسجيل\n💬- الحديث عن أنه أهدر الفرص عمدًا لأنه كان يريد الانتقال إلى برشلونة في الصيف لا يعدو كونه مزاحًا غير منطقي\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/GvcB05NQnUDae9zaYBTNLoBZ6uwj3WJGqJzgsaFxClzUZzRuWnMrNX1gupu6zqKmeOiaiU9ZVlwUPxyU4fHS9uCdP-CVcWoPe3MsX3LX1Ta8-8MZD7c_2InGB6VHEljXPtiA5878mEoQeaUWTEKwn_9Y3DoPlUv5yRHgV1gnPTbNPZIMZjUmZ0NMiVJYAsLfXwRCWp18kKwqmnT30ah75PcssYohx3UcVt_N8BZ2vaNNHqLKlafNFjpN80zjTOHRkXcUurarQM6umPiopWnv0tzmGDCNDnXiFV7aXiKa-TDOhYsFLnL5PluyPktvyaBOnI1wfRgrCgmbQp_j8Zl4zg.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/371104",
-      "kind": "photo",
-      "timestamp": "2026-11-09T09:44:16+00:00",
-      "created_utc": "2026-11-09T10:38:04.278946+00:00"
-    },
     "Barca_Studio_News/371187": {
       "post_id": "Barca_Studio_News/371187",
       "channel": "Barca_Studio_News",
@@ -4331,6 +4291,65 @@
       "kind": "photo",
       "timestamp": "2026-11-09T20:54:44+00:00",
       "created_utc": "2026-11-10T03:29:03.762555+00:00"
+    },
+    "Barca_Studio_News/371200": {
+      "post_id": "Barca_Studio_News/371200",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙#سـيـرجـي_كـابـديـفـيـلا » 𝖲𝖯𝖮𝖱𝖳 🔴🔵 \n🧠- اربعة ابتكارات بتغيير المراكز قام بها فليك هذا الموسم حتى اللحظة\n🤔- تحويل رافينها من لاعب جناح الى مهاجم رقم 9\n🤔- اسبارت يلعب وسط وظهير ايمن؛ هذا الموسم لعب ظهير ايسر\n🤔- فاريناس من لاعب وسط الى مشاركته لأول مرة كظهير ايمن\n🤔- اخر الابتكارات كانت ضد اتلتيكو، فرينكي دي يونغ لعب كظهير ايمن مكان فاريناس\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/371200",
+      "kind": "text",
+      "timestamp": "2026-11-10T10:01:03+00:00",
+      "created_utc": "2026-11-10T11:38:58.898659+00:00"
+    },
+    "Barca_Studio_News/371199": {
+      "post_id": "Barca_Studio_News/371199",
+      "channel": "Barca_Studio_News",
+      "caption": "•📮📄 #صــحــيــفـــة ↫ 𝖬𝖣 🔴🔵\n🤔- التقارير القادمة من البرازيل تؤكد أن وقت لعب رافينها هذه المرة مُرتب مسبقاً\n🤔- برشلونة والاتحاد البرازيلي يتعاونان لإدارة وقت لعبه لضمان عودة رافينها بكامل لياقته 🔴\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/j-Vb4OxIh-jU7TL-mBTcJqSkYZB_GLlkr8AQ92FB0gyYS2dmCmYb5KiMoQCyGXp2S7-Fbd2GLjUToFnctWmVRzbhHQ2sJ70DauPzoyNYJzp0_VTnBOvRVefa3TKoVQb4p5weMTrQ3fFk5xm1SNzOzvyXash66vga9W7XJqL4tc3Zyy3Z0m3Ub05ZfVCmpq_rwS2_Yu3MT3LfQif3J-LJyHwiQm4_TbkvrCtLs4wxPsso4BUHgev91UcGUiFFF6e4S3mDzwm8BdpLXam4LnpfTMggyRh89kNpvHceI2r-Vbb5Zd2xaI5gO6QYSh359fVhnO0qxb_J5sZhGcyg9cMNmg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/371199",
+      "kind": "photo",
+      "timestamp": "2026-11-10T09:58:55+00:00",
+      "created_utc": "2026-11-10T11:38:59.509412+00:00"
+    },
+    "Barca_Studio_News/371198": {
+      "post_id": "Barca_Studio_News/371198",
+      "channel": "Barca_Studio_News",
+      "caption": "•📮📄 #صــحــيــفـــة ↫ 𝖬𝖣 🔴🔵\n🇪🇦-داني أولمو واثق من جاهزيته ضد فياريال بعد التوقف الدولي مباشرة\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/R8o92rHign8CAt3pErDmn1BJ7ruGNM8mWLJHuRTXwMmnXbymDoNCkcCzzfHmLt65A1yzESFGSBaRYHYSCoyP5Tl02jZWRY-Qy6Y0xmWFxMoA78m1XNkOsRe_GjO4eH_X79OSxTDoommgcWMI095cHPxd3nkaWTG4jub5y2-rQCQH4wtR0QXO0BrempbZxo9ZdFty85LMjVsbP5qqGkHtV9KqFlPKOnyOO8FWHwCj9gUsxTIxjDAkK0jw--NZL-DTqJFfSWkam3R1KiwHAODmGuKoSJKOU0erT3yP6Y9Z7B6rUfwNOMVLA-RkHzelL6vlGc-YoZhMYwKOSwX6RvQ90A.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/371198",
+      "kind": "photo",
+      "timestamp": "2026-11-10T09:57:19+00:00",
+      "created_utc": "2026-11-10T11:38:59.956589+00:00"
+    },
+    "Barca_Studio_News/371197": {
+      "post_id": "Barca_Studio_News/371197",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙#جـيـرمـان_بـونـا » 𝖲𝖯𝖮𝖱𝖳 🔴🔵\n💬- فليك استخدم أربع تشكيلات دفاعية مختلفة أمام أتلتيكو\n💬- بدأ بـفارينياس كوبارسي مارتن وكانسيلو، ثم أدخل دي يونغ كظهير، وبعدها كريستنسن بدل كانسيلو، وأخيرًا إريك غارسيا في الظهير لينتقل دي يونغ إلى الوسط\n💬- كل تغيير زاد من سيطرة برشلونة وصلابته حتى انتهت المباراة بفوز ثمين في متروبوليتانو\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/dQ3ISmivjktaRapkZKipB9hK7E7AtfVjF1aA6Gf1gQfdyM5Ub1nNrcpJ2E1iJKdDsETeQjkbiO9wS95MlJhwjR73XN2IJCcaF1TdLXiVknsgkvFMb1TsELlP_hMTPdptWsGh055uH4oSsUWvsGwnYwzzC_F-fEALCLm6AAEC_8fYTUcDlhCH6rmuvxYNoaT0eccI1upz5eBQOHKMiCCui9XUGzM0ddDqRuaQ1ubTghdBooOYQYOvO34erJ0oxWnPo8QQVSqD0gKB_DWgVc7RTgm2xuXqAioUpWScWbPl5jlvGK1pkRkb-Z2TT4JAd0EaseNGeAviR64YF0zIpBXY6w.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/371197",
+      "kind": "photo",
+      "timestamp": "2026-11-10T08:05:12+00:00",
+      "created_utc": "2026-11-10T11:39:00.432410+00:00"
+    },
+    "Barca_Studio_News/371195": {
+      "post_id": "Barca_Studio_News/371195",
+      "channel": "Barca_Studio_News",
+      "caption": "📷 — انـتـونـي جـوردون مـن تـدريـبـات الـمـنـتـخـب الانـجـلـيـزي ⚔️🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "photos": [
+        "https://cdn4.telesco.pe/file/Zl_iCCJfsoamC6jer2DJTrPgDnZ3PeHJ7jw5PCtSrem_rWtscEcSaVBQDG1MDrcq995pt2g_d50YBH1eOkzqCpf7ubQ2weVEAgUqg3-87_ESPaq6N0jYDbImqVtub-Gke12RHJM3uiThu-TqqOeRo64fXw2UUu7lar9j8iee6r8ogOdamMi9ojKuKkClgycC_W7rvKK7cgn4Q7KNichHyhym7-3WlD_P-WxXnKPpH8vlKW_BvolZ8g_JjfwumyW8ZrKLKG7EJePqG4gu512YnP5hIN6BWy-njJMEpgej5kr56oGkrg2K8CyRq_2lyw9SsxQU7qXZqoMBWNq6LW_LVg.jpg",
+        "https://cdn4.telesco.pe/file/In1TfCVthnV0KaYYXmapmqNA8cNrBVO3jM_rAsB4nahfOL61rjrXExXsvYhwvSHCIjgjDCDO8-QFu00T3toqXRGmbiu7GeJOAg8wF66Q8BIfeS40r5BPf1wWKIljnHhyNo1-M9YePiOayIwPhgOfsl-E93zF2DQm3hCVBzRJt1WIIf0HoyfBJt6hZoYUnYYUBL68SqyXGJtQkouPxYCUEVQ0Na9HPviT0_YCyTMkZoC7WXNBqWkVwELXkPLO0t1bIK1Trlx6kwuaLEnEh3G44cC7rBV7xpm3C53bhFg1x_skXt8chT9wTLguzmD1cdRiUkle0zxxmCd9thIgP3YXEg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/371195",
+      "kind": "photo",
+      "timestamp": "2026-11-10T06:48:25+00:00",
+      "created_utc": "2026-11-10T11:39:00.878045+00:00"
     }
   },
   "posted": {
