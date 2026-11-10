@@ -4251,6 +4251,26 @@
     "Barca_Studio_News/371231": {
       "at_utc": "2026-11-10T18:49:39.141074+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/371249": {
+      "at_utc": "2026-11-10T23:46:41.811270+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/371248": {
+      "at_utc": "2026-11-10T23:46:42.249969+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/371247": {
+      "at_utc": "2026-11-10T23:46:42.701478+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/371246": {
+      "at_utc": "2026-11-10T23:46:43.176825+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/371245": {
+      "at_utc": "2026-11-10T23:46:43.618442+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -4428,6 +4448,65 @@
       "kind": "photo",
       "timestamp": "2026-11-10T18:06:16+00:00",
       "created_utc": "2026-11-10T18:49:39.141059+00:00"
+    },
+    "Barca_Studio_News/371249": {
+      "post_id": "Barca_Studio_News/371249",
+      "channel": "Barca_Studio_News",
+      "caption": "🔴- فرينكي دي يونغ من تدريبات المُنتخب الهولندي",
+      "photos": [
+        "https://cdn4.telesco.pe/file/JEaOhwKnPIuwlSCOkv3fScZpK_JcjUVEaKxYTTg-YvB7UYJvt9XQN2VI8_gQ1JwrLFimijlKQibdWxoiB01goyZ56xfX5bnI5od4I-unrf_2qMWOgtBwJnyr2yPpGqTSHPcpIxk12IWJsRpiQKwUVv88TPvRjxNWll0lzbB7jdrAcQGL4hB-tEYyeRI-QuGCCpt_QikpNoP6ZbFJWTrH49qDuOfTF5CPZ25PIDeSlySBuv0-sIXgsghn1NiR1mNvNFWdFanRKED4IY549MnLCbZK16i5qWj_RxvC9zLYHUsmfHZho8zVR4RzCQkStYSM-xYtlaxda6_auaDEg4pTfw.jpg",
+        "https://cdn4.telesco.pe/file/ZuQ_e8yaiiAFUbpjTkKwBhao8nIx2i1ygNYFRe0ArqizsJ7NNWu3Ig6IDFTQ99YPG3CTenXSkpuqCrFh2l3ut1PShVny8ElXqx5FphxkRQi8GhOV8E-AMG8IzxrBMFB9V3XAIQ1Z_MJgshsSFfBRFQlIaioeBZqZa2Hd3XEcaORzP_K_6TZPi7c-8MONB7QUHoQkmPKYJ_IzSGT19YZda89msvQgqTgh6r6W91lY3aHDFqILtSSiRZe1kaRNmlsMKXlzYXQW4PBKzaHPIYsmCVdC7kSCL3xZlkC01hAQ81uV0Q0m2Os0tbx8Ay4JjLvFXY8N3uG89nMMlHJ7krkBkQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/371249",
+      "kind": "photo",
+      "timestamp": "2026-11-10T21:00:28+00:00",
+      "created_utc": "2026-11-10T23:46:41.811247+00:00"
+    },
+    "Barca_Studio_News/371248": {
+      "post_id": "Barca_Studio_News/371248",
+      "channel": "Barca_Studio_News",
+      "caption": "🇪🇬- حمزة عبدالكريم من تدريبات المُنتخب المصري",
+      "photos": [
+        "https://cdn4.telesco.pe/file/IDBRdu25OdplrtS9unmIKc5w9OmGiO18wfGTFKrwi_56Nd3FVmtsRQhsTRibCPvoaM7XDi2jKILlvJr1gaPEo8T3_8F-a3pz-2Q3Dc3siqceirWXF-eDFezgvMdIg-kPXr8nVTPJbCSr7mGkMSja3QXOKFVXqWyhUpusqYGFO-y7bJr1DZjis1v52LMcVvwvn2qLkRZAFY5EwEmt6pBVoTM4xPBl0-74Zrllc5cbxmSjHh_NuEmnvEsvs2R0Z15vsifai5R9B92IDDbATK1S0yEeRFWfC3VSrbqObbdFMKATqqngIWI4WTyl-5tIUwiSPqy7gKHqnyKOmIsQmB3hcQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/371248",
+      "kind": "photo",
+      "timestamp": "2026-11-10T20:59:25+00:00",
+      "created_utc": "2026-11-10T23:46:42.249952+00:00"
+    },
+    "Barca_Studio_News/371247": {
+      "post_id": "Barca_Studio_News/371247",
+      "channel": "Barca_Studio_News",
+      "caption": "🟠- تنتظركم مواجهتان مهمتان أمام التشيك وإنجلترا، هل الهدف تحقيق الفوز في المباراتين وإنهاء المجموعة في الصدارة\n🇪🇸🎙#خـوان_غـارسـيـا | #ESP 🔴🟠 \n💬- نعم، هذا واضح\n💬- هذا هو الهدف الرئيسي: الفوز بالمباريات، ومواصلة التقدم في دوري الأمم الأوروبية، والحفاظ على سجلنا دون هزائم\n💬- أعتقد أن هذا أيضاً أمر جميل وهدف مثير للحماس نسعى إلى تحقيقه\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/371247",
+      "kind": "text",
+      "timestamp": "2026-11-10T20:57:57+00:00",
+      "created_utc": "2026-11-10T23:46:42.701459+00:00"
+    },
+    "Barca_Studio_News/371246": {
+      "post_id": "Barca_Studio_News/371246",
+      "channel": "Barca_Studio_News",
+      "caption": "🇪🇸- تعود إلى المنتخب الإسباني بدور مختلف، وسط منافسة مع ثلاثة من أفضل حراس المرمى في العالم، كيف ترى ذلك\n🇪🇸🎙#خـوان_غـارسـيـا | #ESP 🔴🟠 \n💬- أعتقد أن هذا يعكس بشكل جيد جداً العمل الذي يتم القيام به في أكاديميات كرة القدم الإسبانية\n💬- الآن انضم ألفارو أيضاً، وهو حارس مرمى رائع، ويثبت ذلك كذلك\n💬- أنا سعيد جداً بمشاركة غرفة الملابس معهم، والتدرب إلى جانبهم، ومواصلة التطور\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/aDMVT-2402tnYjXjbuyrLkmLloRD-gg_yDtRsV82YO2sAoqkzCBo_SEzZvvh9wpPauBME5L3To8pZBMbLHfAP_MvYeNRj6d8VSh24I4fmNmrHNRjSfnlkt5gVYNv7S-OUbF8ChnAEkrkS7hhJELrDFQ08WjqmP8hhlYvaXqtUU5eGLzNQdkkNIT4Z3PXnPNT42bIsKiI3CRHtZo4FlUwcONQeONCbTX2V3iCCkZF9lWPDlc5N5S6OkpKqqzIt87c8VU69BgOmbtkzKelKyzNdTXKkx3N1nmeimlRZ6HQoxk1E4X73gKKpADEK-B68YjxtPLoAOB689p_YCZ6aGqfZA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/371246",
+      "kind": "photo",
+      "timestamp": "2026-11-10T20:55:21+00:00",
+      "created_utc": "2026-11-10T23:46:43.176808+00:00"
+    },
+    "Barca_Studio_News/371245": {
+      "post_id": "Barca_Studio_News/371245",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵‍♂️- خوان لابورتا قال إنك أحد لاعبيه المفضلين، ما رأيك في ذلك ⁉️\n🇪🇸🎙#بـيـدرو_بـورو | #ESP 🔴🟠 \n💬- لم أكن قد رأيت ذلك إنه أيضاً أمر يدعو للفخر من جانبه\n💬- كما قلت سابقاً، من الجيد أن يقدّر رئيس نادٍ آخر غير ناديك العمل الذي تقوم به\n💬- بالتأكيد هذا يعني أنني أقوم بالأمور بشكل جيد\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/YvqZsXg5bf_Dms51A6-KLqjS2Eevy3YP87MQvQGQAsdPyissKHGJG6wySTu4l-zz3CYo7xKay3e_g7gMywp6YkYK0T8lD_h1JGLYU2vyNW64t5UmbQXmP2tX-tuoPIYBBMDn6_eoA30VeJgjP5mCtv5n65HHvQ1ArZY07onU2gs4COmevBwy_KkCN3EBv5-DXDD_Og0T1gve5GppbFrJiECjAYR63wzbr5Tp_z3XcQqkh5Yqn6Ew_AQFjp59-81TjmVykEFFkoTVE92kRnQ2oAG8WR6m0ZsiEwMuuwTn9YLNnfT0j9uzsU5FEzGxjmsjK-ugDstrW44iPrtSEcAEtg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/371245",
+      "kind": "photo",
+      "timestamp": "2026-11-10T20:52:29+00:00",
+      "created_utc": "2026-11-10T23:46:43.618425+00:00"
     }
   },
   "posted": {
