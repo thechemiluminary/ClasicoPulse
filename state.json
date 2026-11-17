@@ -4595,61 +4595,33 @@
     "Barca_Studio_News/371858": {
       "at_utc": "2026-11-16T20:56:23.990280+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/371857": {
+      "at_utc": "2026-11-17T03:27:05.351551+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/371856": {
+      "at_utc": "2026-11-17T03:27:05.784441+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/371855": {
+      "at_utc": "2026-11-17T03:27:06.187111+00:00",
+      "kind": "video"
+    },
+    "Barca_Studio_News/371854": {
+      "at_utc": "2026-11-17T03:27:06.616641+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/371853": {
+      "at_utc": "2026-11-17T03:27:07.035854+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/371852": {
+      "at_utc": "2026-11-17T03:27:07.550382+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
-    "Barca_Studio_News/371779": {
-      "post_id": "Barca_Studio_News/371779",
-      "channel": "Barca_Studio_News",
-      "caption": "تقرير بي ان سبورت 🎥\nانجلترا تثأر من إسبانيا ... بحضور ملكها.\nhttps://t.me/BarcaMedia10/12388",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/371779",
-      "kind": "text",
-      "timestamp": "2026-11-15T23:09:34+00:00",
-      "created_utc": "2026-11-16T03:06:01.632461+00:00"
-    },
-    "Barca_Studio_News/371778": {
-      "post_id": "Barca_Studio_News/371778",
-      "channel": "Barca_Studio_News",
-      "caption": "- تصبحون على خير ❤️❤️ .",
-      "photos": [
-        "https://cdn4.telesco.pe/file/s2-0UrUdzO9bWVoUHszXLQdEataL5twvdDpoPwX9a4Vdvt03cUpaIahHu59xb47KtY6ONwevkbXIxJ-LR8pOzyHFwEPm-iu6RL4jo46dUIJ0ujA8MPmym-HGqjQvrrLvQoL25R13PIoFGQUp7y4sTGEXptmBRVa1J-svfo1gf2fHyyskwbc9swYX9G6R0ssEn8evP1jfowgIjcQ_WR2MDSjllu8MLL0kJabCYWzJ23WtpZ9c20Pk5riKBbERZk8gSm0U7J9Q1v23WHs9VAKwnUvmzl3prgW8h1N6K_0IdO-k1orq6J4fXctKzRgyiXY28zuEgqwe8x36TOsy3Yb47A.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/371778",
-      "kind": "photo",
-      "timestamp": "2026-11-15T23:09:18+00:00",
-      "created_utc": "2026-11-16T03:06:01.953313+00:00"
-    },
-    "Barca_Studio_News/371777": {
-      "post_id": "Barca_Studio_News/371777",
-      "channel": "Barca_Studio_News",
-      "caption": "🚨🚨🚨🚨 الإتحاد الأسباني يؤكد إصابة باو كوبارسي مصاب في منطقة الورك.",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/371777",
-      "kind": "text",
-      "timestamp": "2026-11-15T22:21:18+00:00",
-      "created_utc": "2026-11-16T03:06:02.347088+00:00"
-    },
-    "Barca_Studio_News/371776": {
-      "post_id": "Barca_Studio_News/371776",
-      "channel": "Barca_Studio_News",
-      "caption": "🇪🇸 – نهاية فترة التوقف للاعبين:\n🇪🇦- لامين يامال\n🇪🇦- بيدري\n🇪🇦- فيرمين لوبيز\n🇪🇦- كوبارسي\n🇪🇦- جوان غارسيا \n🇭🇷- ليفاكوفيتش \n🏴󠁧󠁢󠁥󠁮󠁧󠁿-غوردون \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/371776",
-      "kind": "text",
-      "timestamp": "2026-11-15T22:01:51+00:00",
-      "created_utc": "2026-11-16T03:06:02.661811+00:00"
-    },
-    "Barca_Studio_News/371775": {
-      "post_id": "Barca_Studio_News/371775",
-      "channel": "Barca_Studio_News",
-      "caption": "📊 - #احـصـائـيـات | #LY10 🔴🔵\n🔴- لامين مع النادي والمُنتخب هذا الموسم:\n– 21 مُباراة \n– 31 مُساهمة\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/371775",
-      "kind": "text",
-      "timestamp": "2026-11-15T21:51:22+00:00",
-      "created_utc": "2026-11-16T03:06:02.975597+00:00"
-    },
     "Barca_Studio_News/371809": {
       "post_id": "Barca_Studio_News/371809",
       "channel": "Barca_Studio_News",
@@ -4763,6 +4735,64 @@
       "kind": "photo",
       "timestamp": "2026-11-16T19:06:00+00:00",
       "created_utc": "2026-11-16T20:56:23.990262+00:00"
+    },
+    "Barca_Studio_News/371857": {
+      "post_id": "Barca_Studio_News/371857",
+      "channel": "Barca_Studio_News",
+      "caption": "🇮🇹🎙 إيفان زازاروني (Radio Napoli) :\n• 💬 غابرييل جيسوس انتظر نابولي لمدة شهر ونصف إنه شاب رائع وشخص استثنائي وكان متحمساً للغاية لهذه الإمكانية . \n• 💬 لكن النادي الإيطالي لم ينجح في إتمام الصفقة ، وفي النهاية انتهى به الأمر في برشلونة ✅ . \n💠 💣💣💣💣💣💣 💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/u3raM1I1BwAY1fIqK83vCT3vukxn2LkegwaOHj2TaUFo-qRp6PgNCH7h87T3waTqtUfo22OfWuzsqs2b6bJ8gAqSMskPU1RrVyiokfjKGzGO5d_38ca90D5uiALNliPcBP2F1mg_vTUZ0ctw7AJy7OEHdu13yuZvrabD-59Kobl0Vio07wI0CO7lNSSKDSFdjpEaqp2ukBe9VlUA29-9tE2eJ14APX_7NEpZVwb4a34_-KluGOcnMLBVik7Fuz9xTVypIKQt8tHFcztZuJVDRHZPq_PDVu15tH7lr1UEz_jWJ8-52hSegV13KIz3uIsmlmHL_zMEib28zxjaTM__0A.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/371857",
+      "kind": "photo",
+      "timestamp": "2026-11-16T19:01:01+00:00",
+      "created_utc": "2026-11-17T03:27:05.351524+00:00"
+    },
+    "Barca_Studio_News/371856": {
+      "post_id": "Barca_Studio_News/371856",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙#خـافـيـيـر_غـاسـكـون » 𝖬𝖣 🔴\n• 💬 حصيلة دقائق لاعبي برشلونة الدوليين حتى الآن : ⤵️\n🇭🇷 - ليفاكوفيتش : 180 دقيقة . \n🏴󠁧󠁢󠁥󠁮󠁧󠁿 - غوردون : 160 .\n🇪🇦 - كوبارسي : 135 .\n🇪🇦 - فيرمين : 127 .\n🇪🇦 - لامين يامال : 90 .\n🇧🇷 - رافينيا : 71 .\n🇪🇦 - بيدري : 60 .\n🇳🇱 - دي يونغ : 45 .\n🇪🇦 - بيرنال : 45 ومباراة متبقية . \n🇪🇬 - حمزة عبد الكريم : 18 ومباراة متبقية . \n🇪🇦 - خوان غارسيا : 0 .\n🇵🇹 - جواو كانسيلو : 0 ومباراة متبقية . \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/biZweL6-YWKHl39rO2vsa6E75cvVkUhKhq_iMkTuNRTBpVHBMHYrfMlT3bEkBYGEOH4P5UuoK2TaSKRc2lM8UgZQBihNH1z7j8vftRAVlkzSWQIAKcpwvS_xQxre6YrCKWPv2KXqk_yzeNEtsMER40d-iTrsWFna_mcOl_KoVY8Kt_ykst4zaKo6AkPlKb_XikgrukV1TL1NQnqBhplA8pab9Zqlk3_QX-VIi3X2Vs-qY5BUtOoWxmFPuk692lHpU8gxtnMFBE6_OvgYhMinGoyMl989-MGqhtEbIxcmPfn0DkjXiEftZTBu7awVzblSo9J_Jv2wJd5o4FJhDDYDXw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/371856",
+      "kind": "photo",
+      "timestamp": "2026-11-16T18:58:50+00:00",
+      "created_utc": "2026-11-17T03:27:05.784419+00:00"
+    },
+    "Barca_Studio_News/371854": {
+      "post_id": "Barca_Studio_News/371854",
+      "channel": "Barca_Studio_News",
+      "caption": "- برشلونة مدينة جميل يا لويس هال 😊 .",
+      "photos": [
+        "https://cdn4.telesco.pe/file/AUsBRtHoCEOHKJ2336k916g4QUaTjHg-ddeMhF6aVuDOYdcKhNoXMVL7cMsSsj0vibdig7qtbD177pQAcKfAqQ8gK0dILGj4rY6NOcHL1tV8XcyFn15S4sEK8PKjOohVTMfzjcYRU9_wIeYwg7XtRR1lzjckmatGHB_Ce3OZC3Y1mrg0lPiZUJCEVMObbZa8-nN_TGliIsnWxbxwlj7n-nvxYAKtXLoAqfh7Myvmx062ZBjWKhVd4qZo_uY98WZzczLU3xQbmbKw2dPGK-DCHb4wd59a8OT7v-C6KjtNjRpdDzkNp7qb9Ur3w43tbbLewAbq8r1l5ujEqgLjIlxxLA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/371854",
+      "kind": "photo",
+      "timestamp": "2026-11-16T18:15:26+00:00",
+      "created_utc": "2026-11-17T03:27:06.616621+00:00"
+    },
+    "Barca_Studio_News/371853": {
+      "post_id": "Barca_Studio_News/371853",
+      "channel": "Barca_Studio_News",
+      "caption": "‏🚨🚨 - #خـــبـــر ↫ #مـاتـيـو_مـوريـتـو | #FCB 🔴🔵 \n• 💬 بيدرو بورو لن ينضم إلى برشلونة خلال فترة الانتقالات الشتوية ❌.\n• 💬 برشلونة سيستمع إلى العروض المقدمة لكل من جول كوندي و أليخاندرو بالدي - قد يرحل أحد اللاعبين، أو حتى كلاهما.\n• 💬 تشيلسي، يدرس إمكانية التعاقد مع كوندي 👤✅.\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/371853",
+      "kind": "text",
+      "timestamp": "2026-11-16T18:09:06+00:00",
+      "created_utc": "2026-11-17T03:27:07.035834+00:00"
+    },
+    "Barca_Studio_News/371852": {
+      "post_id": "Barca_Studio_News/371852",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙️#لـويـس_روخـو » 𝖬𝖠𝖱𝖢𝖠 ⚪🟠\n• 💬 \" رافينيا يتلقى الانتقادات من كل الجهات \"❗️. \n• 💬 بعد إصابته في آخر ثلاث فترات دولية ، اتفق مع أنشيلوتي على إدارة دقائقه، فاتهمه البعض في البرازيل بعدم الالتزام ❌ . \n• 💬 وبعد طرده أمام اليابان ، قرر البقاء مع المنتخب بدل العودة مبكرًا إلى برشلونة ، ليتعرض هذه المرة لانتقادات من الجانب الكتالوني 👀 . \n• 💬 المفارقة أن أي قرار كان سيتخذه كان سيعرضه للهجوم من طرف ما 😐 . \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/WpC9rMDSdUdVxDbnYXtcXLIYb6JXIuJfVhJZSsa7ZOB7DkHM45hzqQMZFNnpqs6WllWV4ZTsNlP9iQPG8O4DDzZedr9fxCIq3_CY1NE9m7UldwS1MQGSIhaxFGJENrga-8OxkTlvEa7YBAVVlC5pyasJbGnGYyGXtynwHiB_5jOAffa49En7rX2c-0--1IyNTLMUqK2aIZxjtiXBhjYC5WLYduPGFxT2cJgyALip-57mjmH_I-zqNY6V7w0xVa4dbjnjgMufGv0EOYuyUSp50R5mhqJgPRoC8nVmAD2smbnEgTsEWnEJoYsD1Sgqv_dmWnquV_Eep1ceRAzz-QkDZA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/371852",
+      "kind": "photo",
+      "timestamp": "2026-11-16T17:59:40+00:00",
+      "created_utc": "2026-11-17T03:27:07.550362+00:00"
     }
   },
   "posted": {
@@ -4935,6 +4965,9 @@
     },
     "Barca_Studio_News/371388": {
       "at_utc": "2026-11-12T16:21:20.374569+00:00"
+    },
+    "Barca_Studio_News/371855": {
+      "at_utc": "2026-11-17T03:27:06.187134+00:00"
     }
   },
   "ads": {
