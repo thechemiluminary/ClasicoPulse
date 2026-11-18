@@ -4663,6 +4663,26 @@
     "Barca_Studio_News/371932": {
       "at_utc": "2026-11-17T21:05:37.599506+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/371938": {
+      "at_utc": "2026-11-18T02:51:42.443980+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/371931": {
+      "at_utc": "2026-11-18T02:51:42.978013+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/371930": {
+      "at_utc": "2026-11-18T02:51:43.497414+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/371929": {
+      "at_utc": "2026-11-18T02:51:44.020269+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/371928": {
+      "at_utc": "2026-11-18T02:51:44.546659+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -4838,6 +4858,62 @@
       "kind": "text",
       "timestamp": "2026-11-17T20:17:04+00:00",
       "created_utc": "2026-11-17T21:05:37.599492+00:00"
+    },
+    "Barca_Studio_News/371938": {
+      "post_id": "Barca_Studio_News/371938",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨 انتهى التوقف الدولي 🚨",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/371938",
+      "kind": "text",
+      "timestamp": "2026-11-17T21:43:50+00:00",
+      "created_utc": "2026-11-18T02:51:42.443947+00:00"
+    },
+    "Barca_Studio_News/371931": {
+      "post_id": "Barca_Studio_News/371931",
+      "channel": "Barca_Studio_News",
+      "caption": "🤔- من الصعب جداً تكرار ثلاثي الـMSN، أليس كذلك ⁉️\n🇺🇾🎙#لـويـس_سـواريـز | #MIA 🟣⚫️\n💬- صعب للغاية\n💬- أولاً، لأن الأنانية بيننا كانت صفراً، صفراً مطلقاً\n💬- عندما كان ليو يسجل هدفاً، كنت أنا ونيمار نحتفل بجنون\n💬- وعندما كنت أسجل أنا، كان ليو ونيمار يحتفلان بسعادة كبيرة\n💬- كنا نفهم بعضنا عن ظهر قلب لم يكن يهمنا من يسجل الهدف\n💬- الأهم كان مساعدة الفريق هذا ما جعلنا أقوى وأعظم كثلاثي هجومي\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/ppXBKeXXaf44e6QPyTYeR211pQJGtZVQkcpwSCLKKpF0frOZhwR8eOtlQ8_qThXROwD1T_0umCXHnkZ2dwtHw7-2qnG8qjH3iZojby0YYeAehMlyH6NkIa8nddacGP2KR614KVVhOtrHNzpYAxX58c6s4IcykHfUH_JP54U0XyuuZayGpNAHNA5naP-2Onpa2hXg0npsY1SwWLboTPH_WYxUqyNrNMlTrSWC0VZb-jC03sAsByqM8qmSQ6Oc5X5PIjNtQSKx587FkMrDm5nEBN2yjvr4gkdk3Re5t4o8eJluOX_hY1sSHVlfJTxYJQJFSNBqk7EOWll662ZlAyFD5A.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/371931",
+      "kind": "photo",
+      "timestamp": "2026-11-17T20:15:37+00:00",
+      "created_utc": "2026-11-18T02:51:42.977992+00:00"
+    },
+    "Barca_Studio_News/371930": {
+      "post_id": "Barca_Studio_News/371930",
+      "channel": "Barca_Studio_News",
+      "caption": "🤔- اقترح تبادل المراكز بينك وبين ميسي ⁉️\n🇺🇾🎙#لـويـس_سـواريـز | #MIA 🟣⚫️\n💬- في مباراة خارج أرضنا أمام أياكس، تحرك ليو نحو الطرف خلال إحدى الهجمات، بينما بقيت أنا في العمق\n💬- فقال لي ليو:\n💬- ابقَ هنا يا سمين، ابقَ هنا! 😂 \n💬- فبقيت في ذلك المركز، وبدأنا نصنع عدداً أكبر من الهجمات\n💬- وشعرنا براحة أكبر في اللعب\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/nnoiKhJK0PAjb79HteJnFRHVgKzrFxNwLC78vlomxmMadlzWAa0Q6JTrReRZChgOa_Yi3B4JHxZmA52_11gTfFeOc4rlhRP5OEX2EhbsSpYnEgTFCPomLegZgYMf36eg_Ppxz3MStairHddIboHNbW7g_Hk-0LeI782Bcy7cwfgmHViXUdpF7MIPNPS1eiKfnlbRqxqqPbyMedc9iMvA44HdqNovLreJS9dQMhDDA1PO0DeWq7MTMBoars4ljWDRTL-h0VeqP2Afr1WXp1JbVDq-ldEntoTvKzboMvDa0C431YQGyuzMJpvloPqKgIZvebijlqNXitM30GfAsxzNhg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/371930",
+      "kind": "photo",
+      "timestamp": "2026-11-17T20:12:15+00:00",
+      "created_utc": "2026-11-18T02:51:43.497394+00:00"
+    },
+    "Barca_Studio_News/371929": {
+      "post_id": "Barca_Studio_News/371929",
+      "channel": "Barca_Studio_News",
+      "caption": "🤔- هل ترى شيئاً من ليو ميسي في لامين يامال ⁉️\n🇺🇾🎙#لـويـس_سـواريـز | #MIA 🟣⚫️\n💬- كما قلت، المقارنات بغيضة دائماً\n💬-نحن نتحدث عن شاب يبلغ الثامنة عشرة أو التاسعة عشرة من عمره\n💬- ونقارنه بلاعب مثل ليو، الذي يبلغ التاسعة والثلاثين، وفاز بكل شيء وحقق جميع الإنجازات الممكنة\n💬- أعتقد أن البدء بمقارنة لامين بميسي في هذه السن المبكرة ليس أمراً جيداً بالنسبة إليه\n💬- لا يزال أمامه وقت طويل جداً\n💬- لكن معادلة ما حققه ليو تكاد تكون مستحيلة، بالنظر إلى كل ما أنجزه\n💬- وعلى المستوى الشخصي، أرى أنه من المستحيل أن يصل أي لاعب إلى مستوى ميسي\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/371929",
+      "kind": "text",
+      "timestamp": "2026-11-17T20:08:56+00:00",
+      "created_utc": "2026-11-18T02:51:44.020250+00:00"
+    },
+    "Barca_Studio_News/371928": {
+      "post_id": "Barca_Studio_News/371928",
+      "channel": "Barca_Studio_News",
+      "caption": "🤔- هل يفاجئك تحول رافينيا إلى اللعب في مركز المهاجم الصريح ⁉️\n🇺🇾🎙#لـويـس_سـواريـز | #MIA 🟣⚫️\n💬- نعم، يفاجئني، لأن هذا ليس مركزه الأصلي\n💬- لكنه لا يفاجئني إطلاقاً بالنظر إلى الجودة الكبيرة التي يمتلكها كلاعب\n🤔- وحتى من حيث الشخصية، يمكنك أن ترى نفسك فيه ⁉️\n💬- بل هو من يرى نفسه فيّ\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/uhIKmbr5a5RTvelhtdxKTE2TKxkw-XZPOce7XTXUjyIV1Z_Wa4mGPM4-f-EgrS3vZVyikclNFlAUyqh6qb2Ix-n0egXfx-E0W_FfmnPS7UeUE8YeLQykPulxhyiwvyVWs-j0HaJ9O5vhClDVqKML_V9q-bGDpyBRca8QGMrfOLwBeYobCEoKjDy74mujlTzpTbMq9vNllcRYYvo3dLmpzcDy20pGQzkgq5cE0_pNWT9KHCtpzxpclD20GjU96xebkBLACt1SJgAwcXUofrLveKADVNvdVtC9kkYdXQBIfAnodcGB56VKeeBdoCzu2CJBAWqz5iogq63QlxcaosvaEw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/371928",
+      "kind": "photo",
+      "timestamp": "2026-11-17T20:04:49+00:00",
+      "created_utc": "2026-11-18T02:51:44.546640+00:00"
     }
   },
   "posted": {
