@@ -4703,65 +4703,29 @@
     "Barca_Studio_News/371991": {
       "at_utc": "2026-11-18T19:09:14.683317+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/372014": {
+      "at_utc": "2026-11-19T01:12:18.035927+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/372013": {
+      "at_utc": "2026-11-19T01:12:18.341054+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/372012": {
+      "at_utc": "2026-11-19T01:12:18.673435+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/372011": {
+      "at_utc": "2026-11-19T01:12:18.993599+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/372010": {
+      "at_utc": "2026-11-19T01:12:19.314752+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
-    "Barca_Studio_News/371936": {
-      "post_id": "Barca_Studio_News/371936",
-      "channel": "Barca_Studio_News",
-      "caption": "🤵🏻🎙 #نـاتـان_كـابـانـا_بـيـروكـال » 𝖲𝖯𝖮𝖱𝖳 🔴🔵\n💬- برشلونة تفاوض حتى المراحل الأخيرة من أجل ألفي أوزبورن قبل انتقاله إلى تشيلسي مقابل نحو 480 ألف يورو\n💬- المدافع الاسكتلندي البالغ 18 عامًا يبلغ طوله 1.96 متر، بدأ مسيرته كلاعب ارتكاز وكان معجبًا بسيرجيو بوسكيتس قبل أن يتحول إلى قلب دفاع ويتخذ جون ستونز وفان دايك نموذجين له\n💬- حقق جائزة أفضل لاعب مع هارتس، حمل شارة القيادة وقاد الفريق إلى كأس اسكتلندا للشباب لأول مرة منذ 26 عامًا\n💬- وفي النهاية فضّل تشيلسي بسبب مشروعه الرياضي، لندن وقربه من عائلته، بينما سيواصل برشلونة مراقبة تطوره\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/F0gUrjxZQrnqWLSskVK3n2AMrkFZ-SBXcDsZmurn7hSwPWhwb4dBm38NEw85N3_uWXujGb7UAdWHymggAXRhbw4tnJzvJ-BFyHC8Lt-w80gKScJqbXwKDRdGJmBN2xpSrRha11C1w1QFFCVBhy8AH7TFPqLoV5OB3YMTYU3voG35fE1qWmjrnPxOxmsMPuAF3B2nVXDYJcZbbIEK2d3X3mbxqovxyE6mfINPr_p6HaH1q2OI-39M0wqx1amMLlZOOfULr4qTQ2bTzQZMnCQCW0kkO-f4mRBh0YFgQUTeePZilITJGjCKSaqhS7AFVamyZH-nGcUaBsjisFg4Hgu2wg.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/371936",
-      "kind": "photo",
-      "timestamp": "2026-11-17T20:28:51+00:00",
-      "created_utc": "2026-11-17T21:05:35.737490+00:00"
-    },
-    "Barca_Studio_News/371935": {
-      "post_id": "Barca_Studio_News/371935",
-      "channel": "Barca_Studio_News",
-      "caption": "لن ننسى 💙❤️",
-      "photos": [
-        "https://cdn4.telesco.pe/file/V555DsN_w895g2QKbYv5kZjF7XNyVYttOOAeK5N27SX1o5osvjg33Rvgfo5CNewcSY_lXMZ1mXa7eDM8fxOFoykfWBAj0lNEOoRsDSxpHmOhyFl2qYO1Ldt4z7-fH_keoxaPXCK342QTgtFMlL3POR9lEXEK2O0SOsKi_aoUGpc-ue7xFqDW6KhV3SO-eoy8W1vs58a-G_ohQphNAlpIQP3vAra-HPjaDTONDY7RUcNadCRHYcPx8xPgsEAOf_JiuBXvvrCMFhpk8SR13ybICGpyt-1_tx5eta5Ok1weL_pcsiHTJ8RcuaI5lhw9k-LRxB8b7eSur8Ko3N35k2f7rA.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/371935",
-      "kind": "photo",
-      "timestamp": "2026-11-17T20:26:13+00:00",
-      "created_utc": "2026-11-17T21:05:36.188483+00:00"
-    },
-    "Barca_Studio_News/371934": {
-      "post_id": "Barca_Studio_News/371934",
-      "channel": "Barca_Studio_News",
-      "caption": "🤵🏻🎙️#فـيـران_مـارتـيـنـيـز » MD 🔴🔵\n💬- خورخي مينديز اجتمع خلال زيارته السريعة إلى برشلونة مع لامين يامال وبالدي\n💬- اجتماعه مع لامين كان قصيرًا للاطمئنان على وضعه، بينما كان الحديث مع بالدي أطول وركز على مستقبله وإمكانية الرحيل في يناير\n💬- وفقاً لمعلوماتنا، لا توجد أي عروض رسمية حتى الآن، لكن اللاعب ينتظر ما قد يصل إليه في السوق\n💬- مينديز سيتحدث أيضًا مع برشلونة لمعرفة موقف النادي، فيما يظل الدوري الإنجليزي أحد الخيارات الجذابة لبالدي\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/371934",
-      "kind": "text",
-      "timestamp": "2026-11-17T20:24:19+00:00",
-      "created_utc": "2026-11-17T21:05:36.688744+00:00"
-    },
-    "Barca_Studio_News/371933": {
-      "post_id": "Barca_Studio_News/371933",
-      "channel": "Barca_Studio_News",
-      "caption": "🇺🇾🎙#لـويـس_سـواريـز | #MIA 🟣⚫️\n💬- يسعدني دائماً الحديث معكم واستعادة تلك الذكريات الرائعة التي عشتها في النادي\n💬- أبعث بتحية كبيرة للجميع\n💬- فيسكا بارسا 💙 ❤️\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/oxghU-gp4g_wXx5pOeG7Hh9Y0gbeIHZl0jFMJhHJJUziLrYQtfe6yhyrQ2VhHc3QuiVFjvccIGsvf9qLeK3yrkgKWepZ2Ix16w7Fy5L0nFbgbx_QVaPfsJfjqkZ26JK3RYbVcx6qMEcOCLVZu8f-Be57a4YIpA1isrSFHjuDh5zdxR7QE4nND8zH8o8z_tTqXEk_YArTQRQwLNDB1ZEJKHBJjA47TeYA349T7f9bg8_9XHLuUEIqM_s-fzopoX04hSQB58qVNA3hQ9dShmSQnQ1O3dBc-Rg_bGlz3_TBxdcI-BEDhXyl3ZE4flTTckrc7WA1pXA8s8Jp_GAWEaKbqg.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/371933",
-      "kind": "photo",
-      "timestamp": "2026-11-17T20:20:15+00:00",
-      "created_utc": "2026-11-17T21:05:37.129136+00:00"
-    },
-    "Barca_Studio_News/371932": {
-      "post_id": "Barca_Studio_News/371932",
-      "channel": "Barca_Studio_News",
-      "caption": "🤔- كدتما تقنعان نيمار بالبقاء في الصيف الذي قرر فيه الانتقال إلى باريس سان جيرمان، أليس كذلك ⁉️\n🇺🇾🎙#لـويـس_سـواريـز | #MIA 🟣⚫️\n💬- كان من المستحيل إقناعه\n💬- الوقائع تتحدث عن نفسها، لأنه رحل في النهاية\n💬- لكننا فعلنا كل ما بوسعنا لكي يبقى معنا\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/371932",
-      "kind": "text",
-      "timestamp": "2026-11-17T20:17:04+00:00",
-      "created_utc": "2026-11-17T21:05:37.599492+00:00"
-    },
     "Barca_Studio_News/371938": {
       "post_id": "Barca_Studio_News/371938",
       "channel": "Barca_Studio_News",
@@ -4867,6 +4831,66 @@
       "kind": "text",
       "timestamp": "2026-11-18T19:02:12+00:00",
       "created_utc": "2026-11-18T19:09:14.683300+00:00"
+    },
+    "Barca_Studio_News/372014": {
+      "post_id": "Barca_Studio_News/372014",
+      "channel": "Barca_Studio_News",
+      "caption": "• 🔴📲 #دانـي_أولـمـو ↫[ 📱 ] :",
+      "photos": [
+        "https://cdn4.telesco.pe/file/LX_MqWPNiQBaY7dWwH0fjAF3K463pG_jbAMp_RGZKoK_4vBtHo09YW7LhTuiGgGx-T8YHm4uU8DCqqoElaeczdu1H8ioZa6tgNWfslE4lln4vKd96Yh6rPU2Eay0fGu1jaCuvUvklSzWHSD1H2gjArRv84yhTswPTndYWiqE87k9jN9XXu5jlUBC_u51Wqw8nQYEfVQ9S30mcN3AlZZqzKXIJWhBz51OQGh0V98rMiHtpjKR-TBkXhRpkhRMwx1-pqkv02lYVfnghWnQLtO9aqHS8oVjOEKupihgcgIsUUedPkNXFr9xTW2gm2BZNzktPw83erMHUygdXbeBbN5f8A.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372014",
+      "kind": "photo",
+      "timestamp": "2026-11-18T20:23:21+00:00",
+      "created_utc": "2026-11-19T01:12:18.035907+00:00"
+    },
+    "Barca_Studio_News/372013": {
+      "post_id": "Barca_Studio_News/372013",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙 #نـاتـان_كـابـانـا_بـيـروكـال » 𝖲𝖯𝖮𝖱𝖳 🔴🔵\n💬- لوكمان مصاب ولن يلحق بمواجهة برشلونة\n💬- جناح أتلتيكو مدريد النيجيري يعاني من التواء قوي في الركبة سيمنعه من المشاركة في مواجهة الدوري أمام برشلونة يوم 2 ديسمبر\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/EvPlEmJyzYYHd1IvyDwfUKYtBjuM1fCHp_p92Jx7-leN0M-zp-MLHYTo3L22WlrkmDLKvSLH-pRu9xtNQhWLNnzLA3J8BVg3QML9vdFK4BTyHWdCfpCo1W7j7JPvSza3axE9aHZW94MnFG7WKJuL1jRNFmnPs5QPxhPuZfKwcOVVimIIT7q9mzR-nrzI1azkxjhuEiMu-J61loB0OA5-AhCHvWi4gVB-UyAOFe7RHWrijgWfsY6ZazY4YW3ibiHafLGxbg06aNVK3YpTStD3oo65yWrVx-ze8Ktw4HRaZh7uEEWBQglhyV9trNkRFUphhLV6LNmNRMd5pYSetMi72w.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372013",
+      "kind": "photo",
+      "timestamp": "2026-11-18T20:21:33+00:00",
+      "created_utc": "2026-11-19T01:12:18.341040+00:00"
+    },
+    "Barca_Studio_News/372012": {
+      "post_id": "Barca_Studio_News/372012",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙️#لـويـس_روخـو » 𝖬𝖠𝖱𝖢𝖠 ⚪🟠\n💬- برشلونة قرر تعزيز دفاعه بعد المشاكل التي ظهرت أمام كبار المنافسين، وفليك يريد قلب دفاع وظهيرًا جديدًا\n💬- الأولوية هي التعاقد مع قلب دفاع في يناير ليشارك كوبارسي، بسبب إصابات كريستنسن وتراجع كوندي وعدم اكتمال تطور جيرارد مارتن\n💬- أما الظهير الجديد فمن المتوقع أن يصل في الصيف، بعدما تراجع مستوى كوندي وبالدي واعتمد فليك مؤقتًا على إسبارت وفارينياس\n💬- بيدرو بورو من الأسماء المطروحة، لكن قيمته تتراوح بين 40 و50 مليون يورو وعقده يمتد حتى 2031.\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/aQv2buWh7c_yDKeSTRk3diugP8oQKnVUNx8CjSfKhuuMyhKARBuX_s3qkmfUWkwcNm1LblqD9bbFJ18gC4VPJPbgDXGOBqBlf6sMbeulMkxjLgC9LRjq7W0gD4yKNTzWTHlQcLYpK1lWp8xMUv7cSL_y9pdMJkzFp2cntIHQ3oULm55kANU0xr_-GXBn4jTx8HmSyJtROoB8T4jd5QQ-lYr4WVU4_unggR8eE9_7-Gf1kCwE4wY4ifHvtm8LCOH0q4jDjLzeqoTkS4Urqi2T8kAX1abrYgkfjA8CZCiPRd46pSm8tj2s5NqtsqYfqhYc40j_R6s92RfmzCuGeZtbgw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372012",
+      "kind": "photo",
+      "timestamp": "2026-11-18T20:20:04+00:00",
+      "created_utc": "2026-11-19T01:12:18.673420+00:00"
+    },
+    "Barca_Studio_News/372011": {
+      "post_id": "Barca_Studio_News/372011",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙️#رامـون_فـويـنـتـيـس » 𝖬𝖣 🔴🔵\n💬- يامال سيتسلم جائزة أفضل لاعب في الليغا لموسم 2025-26 بعد تسجيل 16 هدفًا وصناعة 12\n💬- هانسي فليك فاز بجائزة أفضل مدرب بعدما قاد برشلونة إلى اللقب بـ94 نقطة\n💬- وخوان غارسيا حصل على جائزة أفضل تصدٍ، إلى جانب تتويجه بجائزة زامورا بعد استقبال 21 هدفًا فقط\n💬- وسيتم تسليم الجوائز يوم 28 ديسمبر خلال حفل غلوب سوكر في الإمارات\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/lLf9K3uUAjT2LqWnHEcUBCESuoR0PF0UH8nw3pZjuL0Ot7APoEeImkV8oRFah1kpYpUd73-RmWKXldNn2V_nUnRQ3cXEexj3G1VnZNBXmb7Uw7EGCjEby1Dp6Wqs1m5EMSYBq8R1ohkHtbbhWScoICa21z-YVLafWtf3enYGlE-K8e8p3DepKARItqGsY_7th1XIcPEmp_eFyWy_Tvd-DZeLAGEphnAUEkyK6lPSqC5mptoC4484Vj-R6Y5j5S1N6yo3jUaRQ-zW3zR2j2vrjBPvKlUF0sOXika5_i8UCT5IHL6r2EXH1zuQrlh-BcI87pBAadolTUz9WZLbDjTt4Q.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372011",
+      "kind": "photo",
+      "timestamp": "2026-11-18T20:17:59+00:00",
+      "created_utc": "2026-11-19T01:12:18.993584+00:00"
+    },
+    "Barca_Studio_News/372010": {
+      "post_id": "Barca_Studio_News/372010",
+      "channel": "Barca_Studio_News",
+      "caption": "🔥",
+      "photos": [
+        "https://cdn4.telesco.pe/file/bRaXu-0VYEvgV6hzXqS2BFFdMM3HcFTS_Sh0Nmg06Na7Y6n_4VGX-xxR9LQUWIwSjjfTJVB1h7mfNDMJZWgx8cl9HyIFBiyYPPzDRT64CPeh8wFpWvnRQ0TfmxAQ5gMOEKN-Kk2eoXx1KZlt_w53qVtHM3kyIcGOALtRq3sbsH6wqmfNEOX4_L66vKBRAKdgAKli2sdC9UXYXqmGGWE5uUwOgtMrY6Xql3HGFaxcW3TXkEuRreLnbMITfqxqnHEyUdz8tl4YjlRocceflDDERmNSFfUBW3LuQ3PJsPYaVwVPkuBjMDpe-rKfVGvPpxpajIE4ig8s_4diapDNH6J4Fg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372010",
+      "kind": "photo",
+      "timestamp": "2026-11-18T20:15:11+00:00",
+      "created_utc": "2026-11-19T01:12:19.314740+00:00"
     }
   },
   "posted": {
