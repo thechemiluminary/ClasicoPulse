@@ -4907,65 +4907,29 @@
     "Barca_Studio_News/372287": {
       "at_utc": "2026-11-22T02:29:26.645383+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/372696": {
+      "at_utc": "2026-11-22T17:49:29.634173+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/372695": {
+      "at_utc": "2026-11-22T17:49:29.959832+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/372694": {
+      "at_utc": "2026-11-22T17:49:30.294492+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/372693": {
+      "at_utc": "2026-11-22T17:49:30.622637+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/372692": {
+      "at_utc": "2026-11-22T17:49:30.923101+00:00",
+      "kind": "text"
     }
   },
   "pending": {
-    "Barca_Studio_News/372259": {
-      "post_id": "Barca_Studio_News/372259",
-      "channel": "Barca_Studio_News",
-      "caption": "🇲🇦🎙#أشـرف_بـن_عـيـاد | #FCB 🔴🔵\n— 💬 النادي لن ينشر القائمة المستدعاة لمباراة الغد وانما التشكيلة مباشرةً ✅. \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/372259",
-      "kind": "text",
-      "timestamp": "2026-11-21T17:18:58+00:00",
-      "created_utc": "2026-11-21T17:41:56.770487+00:00"
-    },
-    "Barca_Studio_News/372258": {
-      "post_id": "Barca_Studio_News/372258",
-      "channel": "Barca_Studio_News",
-      "caption": "🐝❤❤.",
-      "photos": [
-        "https://cdn5.telesco.pe/file/Ws0OS6kgPRKn-O1QiSNbfo5rSJ5xKQL-CWEZgtc3S43dJsQP86u8VfS87ma4rrhum1bLg8sXcCSTUjzn37w2kvKW653RnS01y-RZgV0AGKvX7s2IZlNbb4aWAcCY6BGpQMCQhB4-2XNkKsaSijQ54qW1USKoNwfEuvvZC9GEUYbfy69_DcdIAY58O0VtjGjCJajy98RtMngp93KN3JCOXH9Uxzbv-aBwrcvUwdLwRZjmhafdUk7Sj3g0fyd37dP_IaPxT-NK0X12QwxmO0R2BYpnLtUvzjnHDfpxJcT25eWrlBFC-5l1IL4fU0y3Nr3LfWSVVnPjrXkNHmTweVR55Q.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/372258",
-      "kind": "photo",
-      "timestamp": "2026-11-21T17:06:22+00:00",
-      "created_utc": "2026-11-21T17:41:57.150994+00:00"
-    },
-    "Barca_Studio_News/372257": {
-      "post_id": "Barca_Studio_News/372257",
-      "channel": "Barca_Studio_News",
-      "caption": "🤵🏻🎙#جـوان_إيـرغـويـن { صـحـفـي } : \n💬 هانسي فليك جرّب اليوم خلال التدريبات خط دفاع مكوّن من : ⤵️\n▫️ إريك غارسيا. \n▫️ دي يونغ. \n▫️ جيرارد مارتين. \n▫️ كانسيلو. \n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn5.telesco.pe/file/fjd84vxCsFqils60N1T-K-Zn7varSzy9s3e_c9ZGzSYofTk60P05G1P4lwO5V6vMhxBdFVuRG8Pepu2-QQxgTbEfdo9B1njZdvNOElVXa78YD0YDAYLNOsB7-3Q9J2EMKvH73E0bYzHd33qdQJB1SWg_Z5kJljW1wFi9K17t0J2u9Dv5MC35J2js32X5LClJ9dKmHcRcdNZZnaQ7sv9huDcPWeJrxdfjW-Ava_pm6mEhfRa3qFd_AcjBbZhVSQTOr1A755D0N9r3ugV_E-7-TExgXL-LvYpAOErk95ta7bQQNphDQk8drZRTYA6z7fYKcj7iRmIpu5z67saeAdlL0w.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/372257",
-      "kind": "photo",
-      "timestamp": "2026-11-21T17:02:22+00:00",
-      "created_utc": "2026-11-21T17:41:57.591875+00:00"
-    },
-    "Barca_Studio_News/372256": {
-      "post_id": "Barca_Studio_News/372256",
-      "channel": "Barca_Studio_News",
-      "caption": "Brothers ❤️.",
-      "photos": [
-        "https://cdn5.telesco.pe/file/Gj1R1A4QaBD3TXsE292kSZIcmKq6yu7OptZHEJ6vjRCJA9ptagdjMDkXp4cvlq7BJ6PRDQvxj8cwNknIJMrnQfLRZEZRxO6p5k1BS1evssw4jDwDfkC89O4aGleG_AJ7otXhUMf6dG2RLXTfiL9WlCNA4fVqkOO1z9n2qUFgijKnwQOAih9Fh9yOuVNQD1owaM_9Z0ylkIrhRzy54-YbhZ0EYvQpL-gLEn4cC1sID2T_YntMm6o4ED2d8BOUfjtG6OhBSU_iGFrJO2uOqQBq_1nqj_oCY8EEAO3RsSnsXP9qVrcaWcp46ZH5tY4kwr2YN_DxN8lWO4uFUbsLwA_npg.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/372256",
-      "kind": "photo",
-      "timestamp": "2026-11-21T16:57:48+00:00",
-      "created_utc": "2026-11-21T17:41:58.010723+00:00"
-    },
-    "Barca_Studio_News/372255": {
-      "post_id": "Barca_Studio_News/372255",
-      "channel": "Barca_Studio_News",
-      "caption": "🚨🚨 استبعاد حمزة عبدالكريم من فريق الرديف بسبب الألام 🚑.",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/372255",
-      "kind": "text",
-      "timestamp": "2026-11-21T16:54:36+00:00",
-      "created_utc": "2026-11-21T17:41:58.429326+00:00"
-    },
     "Barca_Studio_News/372295": {
       "post_id": "Barca_Studio_News/372295",
       "channel": "Barca_Studio_News",
@@ -5077,6 +5041,64 @@
       "kind": "text",
       "timestamp": "2026-11-21T19:57:20+00:00",
       "created_utc": "2026-11-22T02:29:26.645375+00:00"
+    },
+    "Barca_Studio_News/372696": {
+      "post_id": "Barca_Studio_News/372696",
+      "channel": "Barca_Studio_News",
+      "caption": "ردة فعل فيرمين😂🇪🇦🇪🇦",
+      "photos": [
+        "https://cdn4.telesco.pe/file/f5xmOeUm_nRTBGQSiZtvLaoIl8c18DXrPIWqg6jXac3EJm0YqjHPhg7poousTPuDuv_k99Pczr0-O8Gu_BbApjtOMch-iJ0VEh4huaYhTjVwvhk3B6NtrSiNB5_rsvBqLKyBY-KoZyBM9mx1RZyH4VN_MFVzN-z2ESMKxWGOi-mHzJQq_vUwu-5fU325m3v2uaQA3xk2pWeJOkVH1eXmjieCbQ2l6ysOBxysjW_92m7uUgb0gM8KGZ9LiJt3-4X-F3yZmBCE0TJg7PR-liJqrioD3YpG5RobR7TdbSbB_e2aSIYwVdbsHywb5Y1UqWnN89bPdGBWK5_tnAB7kXvmhw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372696",
+      "kind": "photo",
+      "timestamp": "2026-11-22T17:41:17+00:00",
+      "created_utc": "2026-11-22T17:49:29.634152+00:00"
+    },
+    "Barca_Studio_News/372695": {
+      "post_id": "Barca_Studio_News/372695",
+      "channel": "Barca_Studio_News",
+      "caption": "📊 - #احـصـائـيـات | #FCB 🔴🔵\nالتمريرات أمام فياريال⚽️⚽️\nجواو كانسيلو 🇵🇹\n✅ 50 تمريرة ناجحة من أصل 58\n🎯 دقة التمرير: 86.2%\nإريك غارسيا🇪🇦\n✅ 46 تمريرة ناجحة من أصل 58\n🎯 دقة التمرير: 79.3%\n💠💣💣💣💣💣💣💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/GHln9RTFMyfjkxiXhseQ4hcT4lyHv5aq5PnwU9Dl1Yy5SzzLXwIxejDzfbvepR-cKUmfKwJao2mE9K0utKucw04fVP8XElgxiwkCtPC5o6L2bQ0CoOD4ptRVSFnlDt0LnxhUYUPa5HPdEywvfyGPwwyW_E7zGQ2bUnnb_IvGFW5qwY5mAlvkZ3jY6ICQahg-k54VexwIl5AxstMxkbfNMmrmpCHHk8KMM7oyqLRXYFBxMaK3AB0lxrvvn31FLLTLb0yORBoNkY_tml8KwNlvMCDYbwQLSh3iAWSzfqL2Wsb4n_USDcIL3X3nejEbVWRYHyzz8cDqhXc8cxJcZVjw4A.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372695",
+      "kind": "photo",
+      "timestamp": "2026-11-22T17:38:14+00:00",
+      "created_utc": "2026-11-22T17:49:29.959813+00:00"
+    },
+    "Barca_Studio_News/372694": {
+      "post_id": "Barca_Studio_News/372694",
+      "channel": "Barca_Studio_News",
+      "caption": "📲#الــحــســاب_الــرســمــي ← [  𝕏  ]\n💬 • ماذا يمكنك أن تفعل في 10 دقائق؟ 🥶🔥\n💠💣💣💣💣💣💣💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/SN_kNCHHDDvww3ks9Y17CS787Hjeoz-MfKa1M3eSDRCZDyyVWdStYrR_bZA1pb6-1HR-V24_z8Q8JPaXug4r7lzFM2DyTEUROHT-topGcW01_G88tzdxiOaLR0pCov0hWC3L4ELxtth_ZTFNRJhf9S-xs8UDvPRGO2XNCi1p8EoY-cLcLvJrqsk8YjW8kAjCFs7dZj90Hwm8MNkhJolAN67lA1f_JFRmSog_B38GG8WWcgN1c75l9PTBOo_Yo_BFYPAn1oBg1vlcBUcA1rHkYL_elwcYTjepdYVX8U-Ut7vyZOX4BjChVPiuY_Ls1qSRO6MHgcMHf6QVSYcEQKoXaA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372694",
+      "kind": "photo",
+      "timestamp": "2026-11-22T17:16:06+00:00",
+      "created_utc": "2026-11-22T17:49:30.294474+00:00"
+    },
+    "Barca_Studio_News/372693": {
+      "post_id": "Barca_Studio_News/372693",
+      "channel": "Barca_Studio_News",
+      "caption": "• 📲#الــحــســاب_الــرســمــي ← [  𝕏  ]\n💬 • عندما نبدأ في التسجيل، لا أحد يوقفنا ⚽️🪄\n💠💣💣💣💣💣💣💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/c3Cp4OHEworYrRKnrrzLssO-UJ0oNgLKDKvV3SrG5ncF49jfuAXLxhj0-Vc-ys_QqajpISCip_U8q2ohsZKGiF-4V68Aif0B9OL16qkvAK8DgJvoJBrt-89wADFq4AeZyqBNWSlp1qT1A1oyP1zB4zFvY8346k3NMBdxqZW0gndcNlIMwGosTdXZmw2JV4hafGKEJBe29KZYfpnDJhsDxwh2ZzAPlRvD08jx9L0RigU7wbyp8SY5J0ID3mZ8WVxiOIpimckcjnHbLRh9jCXQvTxcPhTKUK1FCJ0Kw386fy5-jcavRJuVoCzJkDk70qauWHFgWPgQZCIVut0QD1qaqg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372693",
+      "kind": "photo",
+      "timestamp": "2026-11-22T17:08:56+00:00",
+      "created_utc": "2026-11-22T17:49:30.622618+00:00"
+    },
+    "Barca_Studio_News/372692": {
+      "post_id": "Barca_Studio_News/372692",
+      "channel": "Barca_Studio_News",
+      "caption": "🧑🏻‍💼🎙#فـابـريـزيـو_رومـانـو | #FCB 🔴🔵\n💬 • برشلونة لا ينوي على الإطلاق دراسة أي عرض قادم من الدوري الإنجليزي للتعاقد مع فيرمين 🇪🇦👀\n💠💣💣💣💣💣💣💠",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/372692",
+      "kind": "text",
+      "timestamp": "2026-11-22T17:03:12+00:00",
+      "created_utc": "2026-11-22T17:49:30.923082+00:00"
     }
   },
   "posted": {
