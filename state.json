@@ -4883,6 +4883,30 @@
     "Barca_Studio_News/372290": {
       "at_utc": "2026-11-21T22:25:40.836841+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/372299": {
+      "at_utc": "2026-11-22T02:29:25.216579+00:00",
+      "kind": "video"
+    },
+    "Barca_Studio_News/372298": {
+      "at_utc": "2026-11-22T02:29:25.502829+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/372297": {
+      "at_utc": "2026-11-22T02:29:25.784626+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/372289": {
+      "at_utc": "2026-11-22T02:29:26.074532+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/372288": {
+      "at_utc": "2026-11-22T02:29:26.353384+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/372287": {
+      "at_utc": "2026-11-22T02:29:26.645383+00:00",
+      "kind": "text"
     }
   },
   "pending": {
@@ -5059,6 +5083,64 @@
       "kind": "text",
       "timestamp": "2026-11-21T20:10:04+00:00",
       "created_utc": "2026-11-21T22:25:40.836824+00:00"
+    },
+    "Barca_Studio_News/372298": {
+      "post_id": "Barca_Studio_News/372298",
+      "channel": "Barca_Studio_News",
+      "caption": "🥰",
+      "photos": [
+        "https://cdn4.telesco.pe/file/uSwzjt3RqOkY2tFmqNBmuxiUZk9AV1n_pWJv-CQi6mGsUcrDLz37euHswOAcIxawC0rDhRJjzEMlVTT6IKpjburutjvikOmqmM1vykohW5P-xoW5mr03sP-UdgEQzVmP_qljjJdsHZ6WPd6hVyZHwZGye29ZZjKi3q-SsZ2zac8z-ayPabucf0yi6fg3FrHYLx3xPSBuDQcUdFO8HgB6WDYHnQl4fRI5ewcGMBKpEWQyvR3lG2b3N4xR4yykyo4VHzltwF3aEbych9A10zeNr-6KUFOGfF3vRz5reQh4aQP5JERajqRMcWhIfu03TsqrwbXUv0rInJfcErU8Y0Hs6w.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372298",
+      "kind": "photo",
+      "timestamp": "2026-11-21T23:37:35+00:00",
+      "created_utc": "2026-11-22T02:29:25.502820+00:00"
+    },
+    "Barca_Studio_News/372297": {
+      "post_id": "Barca_Studio_News/372297",
+      "channel": "Barca_Studio_News",
+      "caption": "😍😍😍",
+      "photos": [
+        "https://cdn4.telesco.pe/file/LDVSlU5nYT7robjsSEkb--qfzs6yth4wLnBWt-ViTzaYfWp6COlefZQbnSkEO525Brye1ZKs21IfJ62_GNmE03TNJ0AX0P7NyuEpUy6vb26AHvPxc0bdTOn2BARJrPyVopSiDBVlHdBQuIB-PqFrZQO_HTlPa5H2f10Zk2r25FaetddZguLdOAYoyNu7Xq5SwUUYQnJ95V4IQbhD8mE7TXrUQSZC3x7xO61S5g0PhVja9jqM_AGMYJgSbupsw5LJK1Yv3TBn-_5AorLLcYU600w6y58hWnCQOAdiKHEHOHE8rv1G2xPCLAlwL0Ai6YM7FlNf6TGbSQZkARj-yaAfTw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372297",
+      "kind": "photo",
+      "timestamp": "2026-11-21T23:24:38+00:00",
+      "created_utc": "2026-11-22T02:29:25.784617+00:00"
+    },
+    "Barca_Studio_News/372289": {
+      "post_id": "Barca_Studio_News/372289",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙#سـيـرجـي_سـول » 𝖬𝖣 🔴🔵\n🔴- فيرمين يحطم رقمًا قياسيًا في القرن الحادي والعشرين\n💬- لا يوجد لاعب وسط شارك في أهداف أكثر منه خلال أول 11 مباراة له في موسم من الليغا منذ عام 2001\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/dkZtR64lUj5UZF7Skdc3XvnGfKGZVVwD95jWE-Zno9PRO0tpMSpsIefrbrSQnzZh59drTFNpZBi070FzQrMhfjwJxQrVqDAsfdi0M-ubcnBOkpq5hAxW4-vqRlaoAAZwjIkJ2qHijB4fVdHSf2u1XwCegLYV5ufttPvTzCwhOw-jypkH3vtVprpK5SbW6TJuUy8gJ93WFH_W3Q_ysmG6agNhuSRF_fIukhBYdusca7tp8YU9EFdPXjr8KY9tutULSfkEwOYSg84eiCmiFiCcn4vMc0TfmmAhJkDMQw4JPJ42ehfzo11FRjwNgC0sL-L606orJ_sXkt1n9YotQPMDZg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372289",
+      "kind": "photo",
+      "timestamp": "2026-11-21T20:04:25+00:00",
+      "created_utc": "2026-11-22T02:29:26.074524+00:00"
+    },
+    "Barca_Studio_News/372288": {
+      "post_id": "Barca_Studio_News/372288",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙#بـول_مـارتـيـنـيـز » 𝖬𝖣 🔴🔵\n💬- إينيغو بيريز لم يسبق له الفوز على برشلونة\n💬- مدرب فياريال يملك أربع هزائم وتعادلًا واحدًا أمام برشلونة، ولم يحصد نقطة سوى في التعادل 1-1 في فاييكاس الموسم الماضي\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/CZFAnHy4SPCUyKaZB3-FYrWWLLPK3n_6oZtbiABM7r9eQpJhZ74NHpMvK5rlrJtY_ESbbxxN6-7rLZDz-nlLu6lISyrRq7ryxavnl_IUvflaIO-BhKJNrnI_iO4TPE-8Z-bLuxqIsYbjuo07Enkv9FqZJipwI4sm34Z1DZGhKwEuXagq7OR7yT9UUANUud42mcLXQUyaaQvxLARry-JVdvETIQlhZAPCFTVBd82V7FfJa2filzLhwxJAJ-qDMFE7E2w5mp8sayZeNTMeuc6tw4Sg9V8KWYHH9TdplTBHeKkhIiE0q3ZlQf3q6Ct-Fj-YL0KZOvlAtBkr6H9bWLw1eA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372288",
+      "kind": "photo",
+      "timestamp": "2026-11-21T19:59:29+00:00",
+      "created_utc": "2026-11-22T02:29:26.353375+00:00"
+    },
+    "Barca_Studio_News/372287": {
+      "post_id": "Barca_Studio_News/372287",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙️#سـيـرجـي_دي_خـوان » 𝖠𝖲 🔴⚪\n💬- لامين يريد معاقبة فياريال من جديد\n💬- يامال سجل 5 أهداف وصنع هدفين في 6 مباريات أمامهم في الدوري\n💬- أبرز مبارياته كانت في فبراير الماضي عندما سجل هاتريك في الفوز 4-1، وهو الهاتريك الوحيد له حتى الآن مع الفريق الأول\n💬- يصل للمواجهة بعد تألقه مع إسبانيا أمام إنجلترا، بينما يملك هذا الموسم 13 هدفًا و12 تمريرة حاسمة في 16 مباراة بجميع البطولات\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/372287",
+      "kind": "text",
+      "timestamp": "2026-11-21T19:57:20+00:00",
+      "created_utc": "2026-11-22T02:29:26.645375+00:00"
     }
   },
   "posted": {
@@ -5237,6 +5319,9 @@
     },
     "Barca_Studio_News/371937": {
       "at_utc": "2026-11-17T21:05:35.286187+00:00"
+    },
+    "Barca_Studio_News/372299": {
+      "at_utc": "2026-11-22T02:29:25.216591+00:00"
     }
   },
   "ads": {
