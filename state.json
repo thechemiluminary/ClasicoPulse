@@ -4927,63 +4927,33 @@
     "Barca_Studio_News/372692": {
       "at_utc": "2026-11-22T17:49:30.923101+00:00",
       "kind": "text"
+    },
+    "Barca_Studio_News/372729": {
+      "at_utc": "2026-11-22T22:51:10.551521+00:00",
+      "kind": "video"
+    },
+    "Barca_Studio_News/372725": {
+      "at_utc": "2026-11-22T22:51:10.942384+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/372724": {
+      "at_utc": "2026-11-22T22:51:11.307901+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/372723": {
+      "at_utc": "2026-11-22T22:51:11.676793+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/372722": {
+      "at_utc": "2026-11-22T22:51:12.091479+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/372721": {
+      "at_utc": "2026-11-22T22:51:12.519299+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
-    "Barca_Studio_News/372295": {
-      "post_id": "Barca_Studio_News/372295",
-      "channel": "Barca_Studio_News",
-      "caption": "🚨🚨 اليوم يلعب برشلونة 🚨🚨",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/372295",
-      "kind": "text",
-      "timestamp": "2026-11-21T21:00:48+00:00",
-      "created_utc": "2026-11-21T22:25:39.171302+00:00"
-    },
-    "Barca_Studio_News/372294": {
-      "post_id": "Barca_Studio_News/372294",
-      "channel": "Barca_Studio_News",
-      "caption": "🧑🏻‍💼🎙#خـافـيـيـر_مـونـيـوز » 𝖠𝖲 🔴⚪\n💬- جيورج ميكوتادزي يصل مع فياريال إلى كامب نو وهو يعترف بأن برشلونة هو «نادي حياته» منذ طفولته\n💬- المهاجم الجورجي انتقل إلى فياريال مقابل 30 مليون يورو، أغلى صفقة في تاريخ النادي، بعد تجارب مع ميتز وسيراينغ وأياكس وليون\n💬- سجل في موسمه الأول 16 هدفًا وصنع 6، بينما يملك هذا الموسم 5 أهداف وتمريرتين حاسمتين\n💬- عقده يمتد حتى 2031 وشرطه الجزائي 80 مليون يورو\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/gpXDTqXzYOqRcXJyiGV7-tLVAOhKfWMYqwQ5N5VeW9596tJp_L6DQAYgQ2Pg9NUfkgMLMqyXaA2op1QWT1VK1DWkolY4Zpbe671ghSixb0NI20wUJ2BMoRu1v8yID5jo7CK0a9ynFVMg3yrAHibwFE1kkGVn-SQ-V4juTdOqxHW6kzxPJSY5ZCuQGPtKamUfHGeLy9aGQMV6sIQmP30POvEOxivnBC1BHdga9QCVBO1_6llRm3LJJ8ryGsFo7Fo8eXKkMzKuKMRG2Mlr-J5U5Vkpncw2mnHMJgzt48jEBFR6dWvhbXIEZJsWm7ckfLshmgEryx_Ps0rQsRN3II2p7g.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/372294",
-      "kind": "photo",
-      "timestamp": "2026-11-21T20:44:43+00:00",
-      "created_utc": "2026-11-21T22:25:39.635828+00:00"
-    },
-    "Barca_Studio_News/372293": {
-      "post_id": "Barca_Studio_News/372293",
-      "channel": "Barca_Studio_News",
-      "caption": "•📮📄 #صــحــيــفـــة ↫ 𝖬𝖣 🔴🔵\n🔴- حصل باو كوبارسي وكاتا كول على جائزة Premi Barça Jugadors عن موسم 2025-26\n🤔- تمنحها رابطة قدامى ولاعبي ولاعبات برشلونة السابقين\n🤔- الجائزة تكرم الأداء إلى جانب قيم الاحترام والروح الرياضية والجهد والعمل الجماعي واللعب النظيف\n🤔- تم تكريم الثنائي باعتبارهما من أبرز ممثلي قيم برشلونة داخل الملعب وخارجه\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/XEoVN2GPwzJSz9tJohM2Mfr8tKkNoebGKE2FWQN0YR4geRX8WN8KjSYQqeCEb8fqdKIyT0bVTKVbxntjxElVh9IdyqkNeLWeUCE0mow4gg_oqgx4BJotnopuPR82rNq9CZfFGXpWyZHE2Zbx36Su4z3DEfNB1HeVmXFYKT_ipRkO8-XuwRCkkFwJwu6sFFFR5xidtnwVz1kz5ZfS5DRgCK2Qz72Thyj8piNGYDgxnA1bZ5RpR-Kl0jrBTR60d4FX0WboYIE9o5hUhNC9qaUYm0mMlCTLsLgWiT7bOWnoGUUTngh5ex7BdPiI5UJ1U-9not6pT8A_3OWUu84FJWOkKA.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/372293",
-      "kind": "photo",
-      "timestamp": "2026-11-21T20:36:12+00:00",
-      "created_utc": "2026-11-21T22:25:40.036535+00:00"
-    },
-    "Barca_Studio_News/372292": {
-      "post_id": "Barca_Studio_News/372292",
-      "channel": "Barca_Studio_News",
-      "caption": "🤵🏻🎙️#الـيـكـس_غـالان » 𝖲𝖯𝖮𝖱𝖳 🔴🔵\n💬- برشلونة خاض 7 مباريات عند الساعة 2 ظهراً بالتوقيت المحلي منذ 2020 وفاز في 3 فقط\n💬- مع فليك، لعب ثلاث مباريات في هذا التوقيت: فاز 1-0 على رايو و1-0 على ألافيس، وخسر 1-2 أمام لاس بالماس\n💬- نسبة الانتصارات الإجمالية عند الساعة الثانية تبلغ 42.8%\n💬- مواجهة فياريال ستكون الأولى للفريق هذا الموسم في هذا الموعد\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/372292",
-      "kind": "text",
-      "timestamp": "2026-11-21T20:18:06+00:00",
-      "created_utc": "2026-11-21T22:25:40.443576+00:00"
-    },
-    "Barca_Studio_News/372290": {
-      "post_id": "Barca_Studio_News/372290",
-      "channel": "Barca_Studio_News",
-      "caption": "•📮📄 #صــحــيــفـــة ↫ 𝖬𝖠𝖱𝖢𝖠 ⚪🟠\n✅- التشكيلة المُتوقعة لنادي برشلونة أمام فياريال:\n👥- خوان، إريك دي يونغ مارتن كانسيلو، بيدري بيرنال، لامين فيرمين أديمي، رافينيا\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [],
-      "post_url": "https://t.me/Barca_Studio_News/372290",
-      "kind": "text",
-      "timestamp": "2026-11-21T20:10:04+00:00",
-      "created_utc": "2026-11-21T22:25:40.836824+00:00"
-    },
     "Barca_Studio_News/372298": {
       "post_id": "Barca_Studio_News/372298",
       "channel": "Barca_Studio_News",
@@ -5099,6 +5069,69 @@
       "kind": "text",
       "timestamp": "2026-11-22T17:03:12+00:00",
       "created_utc": "2026-11-22T17:49:30.923082+00:00"
+    },
+    "Barca_Studio_News/372725": {
+      "post_id": "Barca_Studio_News/372725",
+      "channel": "Barca_Studio_News",
+      "caption": "🇫🇷📲#جـول_كـونـدي عـبـر↫ ( 📱 ) :\n 💬 شعور رائع أن أعود مجددًا ⭐ . \n💠 💣💣💣💣💣💣 💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/s-satnQERBmBauA7ljEm6ANoHJaoFWW3J7WeXsLmRDhqXkoufAmhTRrYiikkuX8Pf-kePmwlnC08K94E9pdQL5-B3MleN3TILsyiliXFVb_Fo7PCPQd-PPMBwvjp0qKiyOfwUg3LQlSbgdpA5605GCKH3zj_Ao9dbEFrBZcqYS7QZ7zdpZtntfgCkXZguaeO04I0xX3pOfNxQFwpBnfWewxb032ejwUKXvAbINSjl3cT-2UIyBDxrSfn9s4UjtUM3kQSbbIBBsaFq_sshhLglIqzmmEBapzq6t3gHe_VnTEYGk1HFDP4AvLKm8sfpN-_LpcFqgCR27YJIodZskoRxA.jpg",
+        "https://cdn4.telesco.pe/file/U1eFX6JB5sEDEmxaEocmixDcfw1T3i3SZPhX232ew6-c_83tY_B0jKPY8sdJgQ0Ku1VtIoSlilsTqd99vevqZIrYeSInp-MHGN3SUnhlp5-6qFhgUYBkkF8Ub9a84HUVkMtGfPm-Olf-gekvejBoD2nqWwiHLjrBKfjOoQZuZQ7TtE7t9s8kY1heohNyi9SgfyEXBk5bXrp5OdTPN-4FntQcxPHim8jlggqqWrszJiReGEOmQYcmwk10Qivk3sov4i5oRnRHNJfx9sXFmi0qgFpj4fOw6S1RYsSa8AjSfRFA5E1fvKlNF4_GcMViog6XAEot-QpL-qamSGe2Edz4kQ.jpg",
+        "https://cdn4.telesco.pe/file/efO4Za9ckSiszj4HTuy5Eo9allOGZz7RiemzbwM3L6E97skmW6n1nAJF_-RPycJijXagjEtBlMjySI-W-CcQgi3l7M_zD-9LAQOabptRFjzY2ouK7o3_nHNQy5ElnoqG0hquVhF6k1vfjK2vtwaZZLHpn701ssNoV1uQ9noOYfsI3xcrfF8EDN79hVsCAhG27MIHLHzcteOJYvgyruGGQqySOxYkXzm-t9vlxOY4uSTWQbRDERNDWpH2NXp7nclKM3dwdvEJGZVhlK9vYBMN7ZB8DKhjjmKzhr73he3Prtqs15UKAFq0U436PcCroIC0PbW9nKOC2fE3l_5Z7qzo6w.jpg",
+        "https://cdn4.telesco.pe/file/BxTRpI-vsGwt_VPWP19PIu35qJEN8X2YEY1qopn6PvV6c-CAppi6NP0mg65j_9_P3fwyTWa17HiMxxYKJaRmeyUbWFQKp4ruzpd-BJ0AIv0CuWvUjIhJgJNhT7o_VGmcXfT0TvnSLOoC4GjbuAFPtpZetjC8RQdmLE7DGZfXWuD5U-m9APn2lFbQ-dyqfB78V9uMOmpfeqgp3TSHY-_WwpcSQayyd7FJB89ihc04OuNMDe1ykw-TFw24Ch-6v8G6pLcMtM0MpnfWJsKmpZCtSmGuosfMXS2LtB5ckozWM7RHfTgVYy4sKbLkArBfW_C3zlI7VZTblVuZyQwvVFNxwQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372725",
+      "kind": "photo",
+      "timestamp": "2026-11-22T20:04:06+00:00",
+      "created_utc": "2026-11-22T22:51:10.942370+00:00"
+    },
+    "Barca_Studio_News/372724": {
+      "post_id": "Barca_Studio_News/372724",
+      "channel": "Barca_Studio_News",
+      "caption": "💪💪 .",
+      "photos": [
+        "https://cdn4.telesco.pe/file/Cdmq96SpqJs_r7N0lBRqYY-UOEZZTwT4PuDBTyuYLOKyRf5ojJgGVkSma9YzgfKsZO9tMNdd3AAI-L-yhnU5Gq997J6d6GLaZb9Vf522uKJCu1Oa9-CnPjbvVvaHD_ZMLrlG56xeOVv1A5BmIHMNw0n_aoK3QYI9OPDAChgLKsF7UVP3k6oXdMWxsJkZBZngg4Bzg029ZTvr2mlfDpdKuIQgvhL2sA671aoKdmziOvUjTv9MPjoEjGOSfUADl2h6GqAjrwI7o0gGJdBtI1k7bRg1arfttHJxx66TjOnei15DsBmJ2qZNS5Gs9M0pdH7u6aCDNp6vJaAJv2sCCsjTig.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372724",
+      "kind": "photo",
+      "timestamp": "2026-11-22T20:01:51+00:00",
+      "created_utc": "2026-11-22T22:51:11.307885+00:00"
+    },
+    "Barca_Studio_News/372723": {
+      "post_id": "Barca_Studio_News/372723",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨🚨🇪🇸 إيتورالدي غونزاليس (المُحلل التحكيمي في AS) : \n• 💬 فيرمين سيتعرض لعقوبة الإيقاف لمباراتين ، وبالتالي سيغيب عن مواجهتي ديبورتيفو وأتلتيكو مدريد ❌ . \n💠 💣💣💣💣💣💣 💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/BYv5aizfsnPf0TvlO_L0XrGw_lWc_nsajBXDlR_cZNaIlO_x96PTJUBUraLHheGfRHC1l_YSDWZMLpfdfobQum-S9umZZ7rMSprEBLao_dMnW-TCH-iWoG8tGn7RO8hKMZ2UTguHKTWC57FqMYizKBWLmmppsuYQXrSRAlXDipZAUOT4ikeWqd-VijLhLnSioVIDy_ZT0Dkfod9g9nNidZFTYq_gp-RhIKxemlZrFJf8gkCt-LNhUN_AnDznFjQeTLC4fOplHps_kL_z-iNTzc2chU0XBWbOsvDL0Q7IOi_YEzxgXeQ3Gy_OW7vwRqGn3O0i4AKO6aeTU1tY8QIVKg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372723",
+      "kind": "photo",
+      "timestamp": "2026-11-22T19:58:42+00:00",
+      "created_utc": "2026-11-22T22:51:11.676780+00:00"
+    },
+    "Barca_Studio_News/372722": {
+      "post_id": "Barca_Studio_News/372722",
+      "channel": "Barca_Studio_News",
+      "caption": "🤵🏻🎙️#لـويـس_روخـو » 𝖬𝖠𝖱𝖢𝖠 ⚪🟠\n• 💬 ربما علينا توجيه الشكر إلى لويس دي لا فوينتي، لأنه منح بيدري دقائق قليلة جدًا خلال المباراتين اللتين خاضهما المنتخب الإسباني في فترة التوقف الدولي الأخيرة . \n• 💬 قدم بيدري يوم الأحد ما قد يكون أفضل مباراة له هذا الموسم 🪄 . \n• 💬 ربما كان أكثر انتعاشًا من بقية اللاعبين ، لكن النجم الكناري كان دائمًا المرجع الأساسي لفريقه ، وقائد الأوركسترا الذي احتاجه برشلونة لتحقيق الريمونتادا بعد التأخر بنتيجة 0-2 .\n• 💬 كان من الممتع حقًا مشاهدة الطريقة التي يبحث بها عن المساحات ويتجاوز بها منافسيه 🤩 . \n💬 كما صنع الهدف الأول لجيرارد مارتن 🎯 . \n💠 💣💣💣💣💣💣 💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/aqQE-xOk4QiwpYNW0W0sh59H8YZpHjUt52eVgM7fEN60HvDLaQsh0TAARR2BLbpjZWv9ljNEMILYpdR2HCaq0xo-xh88kzTSdYT7FwnHoAN-lTYMN4edWehGRn22qBZdaBpOl5jEKdI58Cf9jgSEKG7W7_beVfMxND5bsc00ErKPItn--k3ZjcDbeDnt35UqNFS9f9fS5N5ez1P-UXCFhWIejcqN6kQrkL6hUXBHD1Q1lGMnKDBXT_krKY1bnSvUi_ydURgBv0BVVUDcd6Q0Cfp4i34ZgxZ7mRy76fIXURC5zkiJLVT4eTZtJ5tik_tydDfJxRG3sRAUOoS9OQg-tg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372722",
+      "kind": "photo",
+      "timestamp": "2026-11-22T19:07:03+00:00",
+      "created_utc": "2026-11-22T22:51:12.091462+00:00"
+    },
+    "Barca_Studio_News/372721": {
+      "post_id": "Barca_Studio_News/372721",
+      "channel": "Barca_Studio_News",
+      "caption": "- Cubarsiiiiuuuu 😄 .",
+      "photos": [
+        "https://cdn4.telesco.pe/file/T31JJ-tm4wHAyM5LoBVNevI0YKW8_0QugNZGXhX7gD5mZJVwTo6Cw9hGTCRq-vtVjPMhgX69rCyJitw9lrfgBcsDzxYaojSgOtvehm1ZsozpHjyyTsN06iksYFse_QZ7afIQWfeXRVZ9nXkIafK1l2tzQ1yEqBGYzmSdxeS9MMNPk9Ov7-drIFQHOMhnHoQQsJDHJ0MD8-1MIjy6xpqD0XRdK53H6nESjihWLvilsKBREsAUU2hRx0ApFe9fduihjpRDTSxmhVEl8i13tD7HEuEZau-YEdXBDIKVnz29am3E4aBRQFdd5C52kVdy2SPhGK9t05OdJLKoeGC5vrfN_g.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372721",
+      "kind": "photo",
+      "timestamp": "2026-11-22T19:03:09+00:00",
+      "created_utc": "2026-11-22T22:51:12.519283+00:00"
     }
   },
   "posted": {
@@ -5280,6 +5313,9 @@
     },
     "Barca_Studio_News/372299": {
       "at_utc": "2026-11-22T02:29:25.216591+00:00"
+    },
+    "Barca_Studio_News/372729": {
+      "at_utc": "2026-11-22T22:51:10.551539+00:00"
     }
   },
   "ads": {
