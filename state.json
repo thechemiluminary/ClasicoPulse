@@ -5031,6 +5031,26 @@
     "Barca_Studio_News/372888": {
       "at_utc": "2026-11-24T20:53:09.334150+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/372898": {
+      "at_utc": "2026-11-25T03:53:26.030002+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/372897": {
+      "at_utc": "2026-11-25T03:53:26.369359+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/372895": {
+      "at_utc": "2026-11-25T03:53:26.715129+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/372887": {
+      "at_utc": "2026-11-25T03:53:27.074770+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/372886": {
+      "at_utc": "2026-11-25T03:53:27.496969+00:00",
+      "kind": "photo"
     }
   },
   "pending": {
@@ -5153,6 +5173,67 @@
       "kind": "photo",
       "timestamp": "2026-11-24T20:44:07+00:00",
       "created_utc": "2026-11-24T20:53:09.334131+00:00"
+    },
+    "Barca_Studio_News/372898": {
+      "post_id": "Barca_Studio_News/372898",
+      "channel": "Barca_Studio_News",
+      "caption": "🏀 تشافي إسبارت في البالاو لمتابعة لقاء برشلونة أمام فنربخشة ضمن الدوري الأوروبي لكرة السلة",
+      "photos": [
+        "https://cdn5.telesco.pe/file/VZlXW8n3wmjiYPuh4dUUgfo7XK-8t9uVF4iRvNiB2bP7dt_WSr8fOkpzUdHAmcod5lpZk_BdO_zcXACGfVcEaHmtsHyQr6CR0Wplb0yiZYKOHB0zaDiaUYIJ0q3yAVkH0I-x93NT0gw_ZspykWKdCR-2PFow1kIawR9Ho3Fklrt2M2Aeq8lMC3cQ4_robRuqj82FWtwQs1c2dyU6JgLSm8d0wVojaNnDhZDIG43Tg2wiPawdzEvNWigribk7tkzKAAi3KaiUsUh4lZwsDGEqOSMW2C734stWQmnX7JSi9j113Du6HwBG1fqeDySIw9WcQI2xmetbB4VN3JGJGdWS4w.jpg",
+        "https://cdn5.telesco.pe/file/M2qDCOqB7SNM274AZ5WUsxIqrZD4ucYV67w3i9jJcPgB7f1kQE3ZEPQwRqxYtq6NAMoOhTQ3I2BC7MQRxjNoKBEWTidtdV0fcpUhhuseI3eMFnHu8xE5rd2YhJkXGqrzfSG4MQWbRUiEI42khhQL2EekgLxJqPgcsnjLJCMl8IV6CdcZSrAka38GaTTUIHT46NLOG3LfiE20TqwDleb8Dn2_V30c8rUKUALoMgj2AhpBwXNxrvko9zefQxN1CiV7IHED_5W4b6pgLuoDTo7VzUIfMUp130-vAshsRHiznFZhoeGJyfzSF9MQJE2jZq76Y3W8skpipuW-Rjom4gmZOg.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372898",
+      "kind": "photo",
+      "timestamp": "2026-11-24T21:42:25+00:00",
+      "created_utc": "2026-11-25T03:53:26.029975+00:00"
+    },
+    "Barca_Studio_News/372897": {
+      "post_id": "Barca_Studio_News/372897",
+      "channel": "Barca_Studio_News",
+      "caption": "‏اليوم يكمل الساحر بيدري 24 عامًا 🎂✨",
+      "photos": [
+        "https://cdn4.telesco.pe/file/IUtnpEsh5Lrq-YUZ1S-fozVWArAohETRik89UKERtryU5YhBBvqCj571SO0qLbzVKryHvp32XIjLLzlqTxajgjziB4p4_uKMiSBqlQanTMgdzXNsf2-9X1cLe9e_8rql-BoFV2f-PoriS-C80499pcOKLIopD8_O3ipEWj52NEfEeK8DQ8dM3kSvvlkvAsx-zIEenVSy8SCn_WpNFTTvXcxr1eCHYltcrU8WC0h08Omr6ZEyE2QT8VezJwAnrPmLpK-XKOawvc6qG84m10cyxlzaCj2IucawZcxmoitrSeltz_V3G_5YyZ6SOk6lasbBmYohLQZCdOTzlJsVsBhyDQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372897",
+      "kind": "photo",
+      "timestamp": "2026-11-24T21:37:29+00:00",
+      "created_utc": "2026-11-25T03:53:26.369343+00:00"
+    },
+    "Barca_Studio_News/372895": {
+      "post_id": "Barca_Studio_News/372895",
+      "channel": "Barca_Studio_News",
+      "caption": "— عائلة الاسطورة 👨‍👩‍👦‍👦💗\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [
+        "https://cdn4.telesco.pe/file/Lk4MRfYVmAsCUJvBCDSHL3owew7pz3eNBcu2-PKVYaeDfDDNxAUZK0Qljux5O6EEX3qcBIvnN0aRgqycQ2JccVpC_irvzrVcXOjYWKExTYzk3tBVpNucWabjVvIkehEngWn0H1lr9xyvUungwopmmQ7ApK-4KVQFzEqWHZXToGs3xNM81i62JU3Y5jYj4IMyd_w5ntlOX8-hTjd_7MMq7w6YvbYtVnNi1NuwByga5tTATCW9FF3Mp3Jl-wiXDGlO5sQLQJXLDuNprTlC1NTeiZLmawEOkFLvCr4MxrPis484t8pKRis0LtQGvgIDw2rpN2c6bhAJBqMpVSHpXApOFw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372895",
+      "kind": "photo",
+      "timestamp": "2026-11-24T20:54:07+00:00",
+      "created_utc": "2026-11-25T03:53:26.715112+00:00"
+    },
+    "Barca_Studio_News/372887": {
+      "post_id": "Barca_Studio_News/372887",
+      "channel": "Barca_Studio_News",
+      "caption": "• 👤📲 #جـواو_كـانـسـيـلـو ↫[ IG ] :",
+      "photos": [
+        "https://cdn4.telesco.pe/file/g-uKZn9Yhbd4Ck4hoC9-ec3KEvmoP5hNGKYc6qt18F059T0w4OKqWiR5HjnddreUmr1B0JLLKlVTqWp_TdDqYL6FQ8wfy1eqRzL5rQCaMnbIX9SGexPYYGlZaDyAprAHyGoHeF2hss7sktaceingTOHu6QtNJYdGKCjR4gnTH_yeLYkm3-yGGw1b-Kj2OUAvr32jlInTA0aKx3_AsNc6Zo1pLYXUKnkZwxBxHmuCAnkWu-VbKEdPUmcV8HaWPXQJddLUoGru440CoiNs_jgeXkxDdUdDfZdaHCLqYfmjtUEo_zThtRESxheriu1dNtYnE5Vu7v1D35a6HleiiwJCpw.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372887",
+      "kind": "photo",
+      "timestamp": "2026-11-24T20:42:21+00:00",
+      "created_utc": "2026-11-25T03:53:27.074755+00:00"
+    },
+    "Barca_Studio_News/372886": {
+      "post_id": "Barca_Studio_News/372886",
+      "channel": "Barca_Studio_News",
+      "caption": "• 👤📲 #بـرايـان_فـاريـنـيـاس ↫[ IG ] :",
+      "photos": [
+        "https://cdn4.telesco.pe/file/Gls3auEvDKT3UozQHfLfiZRsis37ZOHmpZf-KJSg8TscTaz7p89xmrYiGMbRoZPUHq7QTVrsPjHaY95Kg-jb6ni2UTFvfRgX6PidjDc-5aK2XEQ1ReuXeuQDhlY2mDJr7y70fBTClSbzdyk4Yp-hJhgLQ0iH4ixIXnaBH07TZcz6JTXcmEijiqGpRqaAXm8rYSyY4Rb9N7TpmQY0RYKj77pHtWiuWuMoxWMo8m_SWULs1FKFHbbAzHA5Hp5eQinFwxnYFO5vie7FVd_TXLCaggLan-4SDdbPDK7aotAXSnhpMk1NTxjJD-4S9asmB-2lPfxqJdGDEc0fmzpLFQ79YQ.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/372886",
+      "kind": "photo",
+      "timestamp": "2026-11-24T20:40:38+00:00",
+      "created_utc": "2026-11-25T03:53:27.496951+00:00"
     }
   },
   "posted": {
