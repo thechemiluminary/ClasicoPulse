@@ -5131,72 +5131,29 @@
     "Barca_Studio_News/373338": {
       "at_utc": "2026-11-26T14:20:18.346195+00:00",
       "kind": "photo"
+    },
+    "Barca_Studio_News/373364": {
+      "at_utc": "2026-11-26T23:06:25.380431+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/373363": {
+      "at_utc": "2026-11-26T23:06:25.773947+00:00",
+      "kind": "text"
+    },
+    "Barca_Studio_News/373362": {
+      "at_utc": "2026-11-26T23:06:26.103894+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/373361": {
+      "at_utc": "2026-11-26T23:06:26.453535+00:00",
+      "kind": "photo"
+    },
+    "Barca_Studio_News/373360": {
+      "at_utc": "2026-11-26T23:06:26.765743+00:00",
+      "kind": "text"
     }
   },
   "pending": {
-    "Barca_Studio_News/373307": {
-      "post_id": "Barca_Studio_News/373307",
-      "channel": "Barca_Studio_News",
-      "caption": "أعتقد أنه أقل موسم كأداء لمُعظم أندية النخبة في أوروبا.\nلو شاهدنا أداء باريس والإصابات التي ضربتهم فهم مُتراجعين جدًّا مُقارنة بالموسمين الماضيين.\nبايرن لا يمتلكون إسكواد يستطيع المُنافسة.\nليفربول والسيتي أداء متذبذب.\nيُوجد ناديين ريال مدريد بشحن مورينيو وبفرديّات لاعبيه وجودتهم الخارقة، ويُوجد أرسنال الفريق الأكثر استقرار لكن هجوميًا فهُم فريق مُتواضع.\nوبرشلونة أيضاً يستطيع أن يُنافس خاصّة لو تم تدعيم الخط الخلفي في يناير، وتخلّى فليك عن عناده في الإقصائيات.\nوطبعاً لا ننسى من هُنا إلى أشهر الحسم تتغيّر الكثير من الأمور.",
-      "photos": [
-        "https://cdn4.telesco.pe/file/Xp5GnrWwsxw5shWcCKfrIh-bwCx19oUyT_SPEY5zoqg3SB2e-MwphTi5DVqjJ5HqaBtEhbE-wnwCSitBLTg0eT5JYb_7kVqJyaGZJq_ge-FoDi3HTesbrCJL-Xh8BH3RQyzfUu8kTY6zkkOkkFj_GA53EE5v4EqVVeozeo0lt_Hr8Ve2zNdpSQxZKOL9f9MqJSJQx4aKxuo9-BHm-o0I3DiMO0yHMw9la3qik01j7gexgWX7kipwvo0tDhb_cTxYhrHtDp2QQzTT-RJIzIQSya1MblGiMip4CPxRy5eiPK3vb6TTPSj0hpftLbz6AcL8IYYWkWtF86jnYr9UpVhMaA.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/373307",
-      "kind": "photo",
-      "timestamp": "2026-11-25T22:11:21+00:00",
-      "created_utc": "2026-11-25T22:49:31.869810+00:00"
-    },
-    "Barca_Studio_News/373306": {
-      "post_id": "Barca_Studio_News/373306",
-      "channel": "Barca_Studio_News",
-      "caption": "🇪🇸",
-      "photos": [
-        "https://cdn4.telesco.pe/file/jLbwCBu_STeUDPo8C8dPI-HI9A8wd6ZBr6iNz76AbR3BMxE_VpkwUB3QiIVYoMYpsHGFvHTGNWqGEHvs1L9WxabEqOHICB5uME9hlC2pOAbHVf2nfBZETQQJg5jSXhTi1VDb-aE9GPsxRhHBhRnmnUeDWgdD736muPbAcZBuSHB64ogkicTdOX3SNMLT8B3LjUYDLSHc3CD235c50SfbLcu-x2B3V5VC7w2BPRbrjF1GsOyG2otxUjAwiSVU49cdNButlYdvP9YFd69eUw2t3lVUSUeGII4Fs473WNcmWzKwSC0XZWlUKoaCuvGfuV_f2KLShj8UFMEui2R4hbs-TQ.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/373306",
-      "kind": "photo",
-      "timestamp": "2026-11-25T21:26:48+00:00",
-      "created_utc": "2026-11-25T22:49:32.198217+00:00"
-    },
-    "Barca_Studio_News/373305": {
-      "post_id": "Barca_Studio_News/373305",
-      "channel": "Barca_Studio_News",
-      "caption": "• 🔴📲 #غـوردن ↫[ 📱 ] :\nتعجبني باكو\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/Spl-CWpFEwpx2Z3YOJ2-mVAZVJCZY5VqBbKuy0kmrSznCrZTAw7Q-J0JwwbkKaS8bmo-UwdECr5GorK6ErIld-2t5G1DooI2D6WKxW9BkBw1ybh09ysNRd_iZEoYYO7TMze7r3frFsTnAkVAbO5xczqn0EhDrXMSVRxUx2BeU5YTl3X7Ui5EVIMQsgHGGwHs-BBYyE8NQJdnlalSfTDIN-J_M40SdWhLj1xRjAJTxsjzB8WxnAyj5ScRjJOAMvHCjoHkqjeA6mvTBL4LCAjel_u1hOt0iZvDh9MDhZP08gV5co4M5c9Q1midzXsP3Bp7-4ZrUth9aKyLuTw2y40QsA.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/373305",
-      "kind": "photo",
-      "timestamp": "2026-11-25T21:25:17+00:00",
-      "created_utc": "2026-11-25T22:49:32.515568+00:00"
-    },
-    "Barca_Studio_News/373304": {
-      "post_id": "Barca_Studio_News/373304",
-      "channel": "Barca_Studio_News",
-      "caption": "• 👤📲 #بـالـدي ↫[ 📱 ] :\n🔴- إذا كان الله معي، فمن ضدي؟ 🤞🏾🐆\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/G7vookCLAeWIWj0gIe_y9AKUGrdwMBQMIa4E3l_EYtdMQ9uay_O-CvZK1YbGtvPx7dhDqLrOT8x4g93OjWM25boGjfGxOV32RVnfOZWOAp6ZSzhmyyQBDcMMS1xZ__lxwkoeptXuBnpAE4qywQ9ZjxS4XjQoPqxc-AWwy87UaqMhJZMP03Bxgo8RSP-OxN2mGUG3PbXd3J-gsxCHNbM86HMFvdow9P-t46LKDzPdrWVali_-vR-9wY3mzSarSSlKIPEZDbwdo76eAyYr8Ks7ookNpweKCXszEjEyr7DQYSLkEco-1HYxdvlan0oipV8PQSaAo3yQzzxXZqP0geLbIA.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/373304",
-      "kind": "photo",
-      "timestamp": "2026-11-25T21:24:19+00:00",
-      "created_utc": "2026-11-25T22:49:32.830903+00:00"
-    },
-    "Barca_Studio_News/373300": {
-      "post_id": "Barca_Studio_News/373300",
-      "channel": "Barca_Studio_News",
-      "caption": "• 👤📲 #غـافـي↫[ 📱 ] :\n🤔- نواصل حصد النقاط في دوري أبطال أوروبا بالعقلية نفسها التي نتحلى بها دائمًا، وفي خدمة الفريق!\nفورسا بارسا 💙❤️\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
-      "photos": [
-        "https://cdn4.telesco.pe/file/BUs9UgMxCQahXFSET_U0gxKZsux1O8QdnAqQTDbvRxDXU_w4REzrIpEge0rzjZZrPczWEqiIr5o_OJnKJy6ZioPxwG2BXbrddxeJiq8VZYWeA_GIx4Es14jmWePoFprSrLDKqYlYK43uifZf-XMeRw-ivuQv4-W5IbT5SFdSyLcGqR-XJa-AYQAkorqxpqA6izwWUM4DGMCpmhvs_geBaWlztu1yiEeJfw4Az5fB8SHZ3M5wmhgSbjn3aPrscs3AVgkfp1WZY9ElmJaFHvwyuNOXHb1Dt2iPsZB4jU3efxSCjHvRn5e8PHbDOE5hn4bqB_Pwe_M30BvW0lOghWWRDA.jpg",
-        "https://cdn4.telesco.pe/file/hU-1P1PJMsaxdqKKYkGl9254hTxfF34Nh89oVs6KEt0MdTabLmBfHb0g3y8zsPpOwY_JgRmPDwcoKhUQTtoFkfuXTivcFr2PtyReEK_wmvXjoBr4nyK6npuLIVAl05htUfOcOTD7dQM9MD5oPoeCQTNPN4Ri2v0Kk3f1Hw0PC_LbWMNr8D201aVYc2GJmOL_jHoJi6DE7d0vaq0xScrJSUmzt7Elay84y7_XTVTmbErHH2yU2w7pYBZqJRAOZpbMLXy7ZAVClNK205kTh3K2dGqTyTCe7RfdVl5CO4naKlLi2iQGhr7jfJxVr_FrMHy3p74J8NVr0nh-6uGpxkbPnw.jpg",
-        "https://cdn4.telesco.pe/file/KThV2qvAPgq2bHzFMZowhp4iHuqwlribrXTgJfSJX0HxZPhHZFkPw9HvnhW6SEjRB1oyUee_sGKNxhtPsO2ri2Xf-9xFhSH8GYI9WTaADAozsOKOHw_DOZPrgOBRCn6NLLHe9q-OVRSMAKEzYNMoQpDZ8kmUkVzhn653RsB3KXU-4d6ADPEelSP8cTkdGtuDkvO5o-OhUu_sj3d0MD0Re0bWhaswNz_dXioPSzg6CtSy8dAbR67wDAhXfX_Vy94oK2k4NeTl_Ey6J3sovzWRIBpNFI50cP6odAJYzJ6rYWHtc1bYtLUELwL04FYUptv9Ersn2mTuO4YQWGXmZvkq6g.jpg",
-        "https://cdn4.telesco.pe/file/HrQjs_iR02bf6ItyKFGPG5VQuMRcKJ_A1qNrAlBtb148RguqHYhIUQ-Rlb4I6i-iLo6AuMSYVtSDvKAVtJjvuAsVsRJIjKeEMihnFGYGN8fH3aaj0nIQhlBqPiskPiGjZIHjf2GPV_rUE9LDWKCPKef07tR96FdxTd7XB7XiHbxx92U9jz5rB8d-pm48WtQ5OwHx4bvM5khNZTLAg4WcCaeu4i7Qw_lSz6nYv7Jqy3Cyvtn0Zo5vwBnTWGwf9yhSZEQB-Ramh_8_XtYHHsfZK5kfCbd9-MZLOE-Wxb6J86K56QSrc4_BbVhHsaqQWumRnHF-TqTl6N3Su4fQdJMuyA.jpg"
-      ],
-      "post_url": "https://t.me/Barca_Studio_News/373300",
-      "kind": "photo",
-      "timestamp": "2026-11-25T21:22:54+00:00",
-      "created_utc": "2026-11-25T22:49:33.165438+00:00"
-    },
     "Barca_Studio_News/373299": {
       "post_id": "Barca_Studio_News/373299",
       "channel": "Barca_Studio_News",
@@ -5312,6 +5269,62 @@
       "kind": "photo",
       "timestamp": "2026-11-26T13:46:23+00:00",
       "created_utc": "2026-11-26T14:20:18.346175+00:00"
+    },
+    "Barca_Studio_News/373364": {
+      "post_id": "Barca_Studio_News/373364",
+      "channel": "Barca_Studio_News",
+      "caption": "ثلاثة مباريات لـ دي يونغ في قلب الدفاع 🔵🔴",
+      "photos": [
+        "https://cdn4.telesco.pe/file/Rf66kwr2xtJjkTkLtDEiK3sw0ef5GxptF-vgDToslgRa7krJed5-cxmiZ2cmaGOOImpQn0upnHbNOmzMrTf2R-bpwRInospxKxcRuPzsqWZK-kh-Gklp9BBGVa0LdVlNR5G_ZQVf6OW5BhQ65r88krC460EdVkJtW1nmFizDPgQyU2Tf5lkpsa171gEcJGnYyKSyLoRXJeV8a_mJsmOq7YYDaRwwBU3O-DgIY4LDqXsFsvXpCarZsh-5qOsk_7mii0ExSGdIgAjkbroqVoCsXHbskicFBGoum6tuixdbY_YpvVOlPWIc9mA0NIzfbfV3qT9UUjF2alwbOZuBFPLawA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/373364",
+      "kind": "photo",
+      "timestamp": "2026-11-26T21:54:56+00:00",
+      "created_utc": "2026-11-26T23:06:25.380406+00:00"
+    },
+    "Barca_Studio_News/373363": {
+      "post_id": "Barca_Studio_News/373363",
+      "channel": "Barca_Studio_News",
+      "caption": "🚨🚨👀 - غياب سورلوث عن لقاء برشلونة بسبب الإصابة بـ نسبة كبيرة ✅ .",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/373363",
+      "kind": "text",
+      "timestamp": "2026-11-26T21:54:04+00:00",
+      "created_utc": "2026-11-26T23:06:25.773927+00:00"
+    },
+    "Barca_Studio_News/373362": {
+      "post_id": "Barca_Studio_News/373362",
+      "channel": "Barca_Studio_News",
+      "caption": "❤️.",
+      "photos": [
+        "https://cdn4.telesco.pe/file/D6H7fSFf2qcLsQOLfEcKjV4C0UVjCZrftMq63BnZ4JXZNoV9JadWWZW4aBoqjNyKcxN-raTm6yG8dT3Q44QGS_MAjDGBqj5Ut-EpE3O_UY4YM7emMFOqwFti7xvO30DZyebgw4FAfkpA01QNXAMxktmlF0DFX_Iqh5JBoXTJJoGUCsLbD-BNU9bG_iSzK4TACje_l-9H4pYmYjUnZHSYBmTG80kZh3SUKiEn5Bw-WCU9E9qF4DkX97ttQTF6EoXEscirQoct4sMjCvrZXnv0cBp5FMiQBEPFszgqb-FC1hR3E4cSPJuy7lUlmPTllIkstDeT9zgrktOwy0QOe4C8vA.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/373362",
+      "kind": "photo",
+      "timestamp": "2026-11-26T20:38:40+00:00",
+      "created_utc": "2026-11-26T23:06:26.103874+00:00"
+    },
+    "Barca_Studio_News/373361": {
+      "post_id": "Barca_Studio_News/373361",
+      "channel": "Barca_Studio_News",
+      "caption": "- ظهرت لأول مرة مع الفريق الأول لبرشلونة عندما دخلت بديلاً لنيمار، هل جعل ذلك اللحظة أكثر خصوصية ⁉️\n🇪🇸 🎙️ #ادامـا_تـراوري ( برشلونة سابقاً ) :\n​💬 - نعم، كانت تجربة مذهلة كان من الرائع أن أشارك لأول مرة مع هؤلاء اللاعبين الكبار\n​💬 - لكن أكثر ما بقي معي لم يكن ما حدث داخل الملعب، بل الجانب الإنساني خارج الملعب خذ نيمار مثلاً\n​💬 - رغم أنه كان نجماً عالمياً، كان يتحدث معنا ويعاملنا كأننا واحد منه كان يشرح لنا كيفية التعامل مع الشهرة، وكيف تكون نجماً يخضع كل تصرف يقوم به للمراقبة\n​💬 - مشاركة غرفة الملابس مع نيمار وميسي وقادة برشلونة وأساطير النادي كانت تجربة مذهلة لكن أكثر ما أثر فيّ هو الجانب الإنساني لهؤلاء اللاعبين، وهذا ما احتفظت به من تلك الفترة\n💠💣💣💣💣💣💣💠",
+      "photos": [
+        "https://cdn4.telesco.pe/file/gxY4fJ2ruvpJHtd-W_8dGu_pB44BkqyeiN4h7sMsG2q5SLS40WSwUKOT8mSKEqWa0QiGN3Q-L6JTBneTfbpP_nawJpk177vG1aXEitYphiCSrJaMOGJbZMzh_vl-DU71vXYecH_bcnC_F4Lpp0c1baCzk65Fz61oIRYhUYyLEDtWchib55eQzhR95IILlzen7Xg502TiXQu_RuT-o_AJZtQKS-s-ffzchiwM7MWkgFlKsfIpIH-F9-h7r5vKHfK7X3bWnUL6TG3K1mw9OKZ7qxTYqVs18NXsbbHhcHzzqAY1Khe7ktXiRtpy4XbqfrO12RImSdrX7n38X9KTYFX9-Q.jpg"
+      ],
+      "post_url": "https://t.me/Barca_Studio_News/373361",
+      "kind": "photo",
+      "timestamp": "2026-11-26T19:44:54+00:00",
+      "created_utc": "2026-11-26T23:06:26.453514+00:00"
+    },
+    "Barca_Studio_News/373360": {
+      "post_id": "Barca_Studio_News/373360",
+      "channel": "Barca_Studio_News",
+      "caption": "- كيف يمكن إيقاف فريق برشلونة الذي يبدو شبه مستحيل الهزيمة ⁉️\n🇪🇸 🎙️ #ادامـا_تـراوري ( برشلونة سابقاً ) :\n​💬 - المدرب هو من سيملك الحل\n​💬 - سنحاول تنفيذ التعليمات والخطة التكتيكية التي يضعها\n​💬 - وبعد ذلك، سنبذل كل ما لدينا داخل الملعب من أجل الفوز\n​💬 - مركزه وأسلوبه في ديبورتيفو\n🔵 @Barca_Studio_News 🔴\n➖➖➖➖➖➖➖➖➖➖➖",
+      "photos": [],
+      "post_url": "https://t.me/Barca_Studio_News/373360",
+      "kind": "text",
+      "timestamp": "2026-11-26T19:42:40+00:00",
+      "created_utc": "2026-11-26T23:06:26.765727+00:00"
     }
   },
   "posted": {
